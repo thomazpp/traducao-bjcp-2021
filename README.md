@@ -20,7 +20,7 @@ Ao colaborar ativamente com o projeto você será reconhecida como colaboradora 
 Se você chegou até aqui, possivelmente está motivada e quer continuar, então o processo é relativamente simples:
 
 1. O controle de quem está traduzindo/revisando o que está sendo feito através [dessa planilha](https://docs.google.com/spreadsheets/d/1PE-vYBrZh699wnyf8pP0WYqhbPUbObogO1ccPHKFltc), você deve solicitar acesso para escolher o que você irá traduzir.
-2. Ao decidir qual estilo você irá traduzir, coloque seu nome e e-mail no formado `Nome Sobrenome <e-mail>` na coluna `Tradutor(a)`
+2. Ao decidir qual estilo você irá traduzir, coloque seu nome e e-mail no formado `Nome Sobrenome <e-mail>` na coluna `Tradutor(a)`. Mesmo que você faça a tradução de vários estilos, escolha um de cada vez para conseguirmos acompanhar o andamento das traduções.
 3. Mude a coluna `Status` para `Doing` e traduza o arquivo. O link para o arquivo a ser traduzido está na coluna `Link para o estilo em ingles`.
 4. Temos um [glossário](https://docs.google.com/spreadsheets/d/1wagBbrPSfvY2Lg19QLfTpjzQmO07XdVm/edit?usp=sharing&ouid=109578584262233448547&rtpof=true&sd=true), use-o
 5. Uma vez finalizada a tradução você pode enviar por e-mail o arquivo traduzido para este [e-mail](mailto:hboaventura@gmail.com) ou se você conhecer o fluxo do github, pode abrir um PR.
