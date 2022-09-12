@@ -22,7 +22,7 @@ Corpo de leve a muito leve. Carbonatação de média a alta. Suave, bem atenuada
 
 ## Comentários
 
-Anunciada primariamente como uma cerveja orientada para dietas com baixo teor de carboidratos, álcool e calorias. Pronuncia-se “LAIXT-bier.” Também ser conhecida como Diat Pils ou Helles, esse estilo está na classe de densidade schankbier. Outras variações de cervejas de classe Leicht (leve) podem ser feitas como Weissbier, Kölsch e Altbier; essas cervejas se enquadram melhor em 34B Mixed-Style Beer.
+Anunciada primariamente como uma cerveja orientada para dietas com baixo teor de carboidratos, álcool e calorias. Pronuncia-se “LAIXT-bier.” Também ser conhecida como Diat Pils ou Helles, esse estilo está na classe de densidade *schankbier*. Outras variações de cervejas de classe Leicht (leve) podem ser feitas como Weissbier, Kölsch e Altbier; essas cervejas se enquadram melhor em 34B Mixed-Style Beer.
 
 ## História
 
