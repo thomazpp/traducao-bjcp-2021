@@ -52,6 +52,6 @@ Autenrieder Schlossbräu Leicht, Greif Bräu Leicht, Hohenthanner Tannen Hell Le
 
 German Leichtbier (2015)
 
-## Atributos do Estilo
+## Atributos de Estilo
 
 bitter, bottom-fermented, central-europe, hoppy, lagered, pale-color, pale-lager-family, session-strength, traditional-style
