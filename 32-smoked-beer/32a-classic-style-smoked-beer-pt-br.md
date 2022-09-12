@@ -18,7 +18,7 @@ Sabor inicial de malte de baixo a médio como grãos-doce. Amargor de lúpulo m�
 
 ## Sensação na Boca
 
-Corpo de baixo a muito baixo. Carbonatação de média a alta. Suave, bem atenuada.
+Corpo de leve a muito leve. Carbonatação de média a alta. Suave, bem atenuada.
 
 ## Comentários
 
