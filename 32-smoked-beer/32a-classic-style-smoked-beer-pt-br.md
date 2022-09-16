@@ -1,57 +1,53 @@
-# 5A. German Leichtbier
+# 32A. Classic Style Smoked Beer
 
-## Impressão Geral
+## Overall Impression
 
-Uma lager alemã clara, altamente atenuada, de corpo baixo, com teor alcóolico e calórico mais baixo que as cervejas de potência padrão. Ainda que moderadamente amarga e com sabores de malte e lúpulo perceptíveis, é uma cerveja interessante de beber.
+A well-balanced fusion of the malt and hops of the base beer style with a pleasant and agreeable smoke character.
 
-## Aparência
+## Appearance
 
-De cor palha clara a amarelo profundo. Limpidez brilhante. Colarinho moderadamente branco com persistência de média a abaixo da média.
+Variable. The appearance should reflect the base beer style, although the color is often a bit darker than expected for the plain base style.
 
 ## Aroma
 
-Aroma de lúpulo de baixo a médio com caráter condimentado, de ervas ou floral. Aroma de malte de baixo a médio-baixo como grãos-doce ou levemente como crackers. Perfil de fermentação limpo.
+A pleasant balance between the expected aroma of the base beer and smoked malt. The smoke character ranges from low to assertive, and may show varietal wood smoke character (e.g., alder, oak, beechwood). The balance between the smoke and beer can vary – they do not need to be equal in intensity. However, the resulting mix should be appealing. Sharp, phenolic, harsh, rubbery, or burnt smoke-derived aromatics are inappropriate.
 
-## Sabor
+## Flavor
 
-Sabor inicial de malte de baixo a médio como grãos-doce. Amargor de lúpulo médio. Sabor de lúpulo de baixo a médio com qualidades condimentadas, de ervas ou floral. Caráter de fermentação limpo, com uma longa maturação a frio. Final seco com um retrogosto levemente maltado e lupulado.
+Similar to the aroma, with a balance between the base beer and low to assertive smoked malt. Varietal woods can produce different flavor profiles. The balance between smoke and beer can vary, but the resulting blend should be enjoyable. Smoke can add some additional dryness to the finish. Harsh, bitter, burnt, charred, rubbery, sulfury, medicinal, or phenolic smoke-derived flavors are inappropriate.
 
-## Sensação na Boca
+## Mouthfeel
 
-Corpo de leve a muito leve. Carbonatação de média a alta. Suave, bem atenuada.
+Varies with the base beer style. Significant astringent, phenolic, smoke-derived harshness is a fault.
 
-## Comentários
+## Comments
 
-Comercializada primariamente como uma cerveja com baixo teor de carboibratos, alcool e calorias, orientada para dietas. Pronuncia-se "LAICHT-bier". Também pode ser encontrada como Diat Pils ou Helles, esse estilo está na classe de densidade das Schankbier. Outras variações de cervejas de classe leve podem ser feitas, como Weissbier, Kölsch e Altbier; essas cervejas se enquadram melhor como o estilo 34B Mixed-Style Beer.
+Use this style for beers other than Bamberg-style Rauchbier (i.e., beechwood-smoked Märzen), which has its own style. Judges should evaluate these beers mostly on the overall balance, and how well the smoke character enhances the base beer.
 
-## História
+## History
 
-Traditional versions existed as drinks for physical laborers in factories or fields, but modern versions are more based on popular American products in the same class and targeted towards health or fitness conscious consumers. Increasingly supplanted in the current market by non-alcoholic beers and radlers.
+The process of using smoked malts has been adapted by craft brewers to many styles. German brewers have traditionally used smoked malts in Bock, Doppelbock, Weissbier, Munich Dunkel, Schwarzbier, Munich Helles, Pils, and other specialty styles.
 
-## Ingredientes
+## Characteristic Ingredients
 
-Malte pilsen continental. Levedura lager alemã. Lúpulos alemães tradicionais.
+Different materials used to smoke malt result in unique flavor and aroma characteristics. Beechwood, or other hardwood (e.g., oak, maple, mesquite, alder, pecan, apple, cherry, other fruitwoods) smoked malts may be used. These may be reminiscent of certain smoked foods (e.g., hickory with ribs, maple with bacon or sausage, and alder with salmon). Evergreen wood should never be used since it adds a medicinal, piney flavor to the malt. Noticeable peat-smoked malt is universally undesirable due to its sharp, piercing phenols and dirt-like earthiness. The remaining ingredients vary with the base style. If smoked malts are combined with other unusual ingredients (e.g., fruits, vegetables, spices, honey) in noticeable quantities, the resulting beer should be entered in the 32B Specialty Smoked Beer.
 
-## Comparação de Estilo
+## Entry Instructions
 
-Como uma German Pils ou Munich Helles menos alcoólica e um pouco menos agressiva. Mais amarga e saborosa que uma American Light Lager.
+The entrant must specify a Base Style. The entrant must specify the type of wood or smoke if a varietal smoke character is noticeable.
 
-## Estatísticas
+## Vital Statistics
 
-IBU: 15 - 28
-SRM: 1.5 - 4
-OG: 1.026 - 1.034
-FG: 1.006 - 1.010
-ABV: 2.4% - 3.6%
+Varies with the base beer style.
 
-## Exemplos Comerciais
+## Commercial Examples
 
-Autenrieder Schlossbräu Leicht, Greif Bräu Leicht, Hohenthanner Tannen Hell Leicht, Müllerbrau Heimer Leicht, Schönramer Surtaler Schankbier, Waldhaus Sommer Bier.
+Alaskan Smoked Porter, Schlenkerla Oak Smoke Doppelbock, Schlenkerla Rauchbier Weizen, Schlenkerla Rauchbier Ur-Bock, O’Fallon Smoked Porter, Spezial Rauchbier Lagerbier.
 
-## Revisões Anteriores
+## Past Revision
 
-German Leichtbier (2015)
+Classic Style Smoked Beer (2015)
 
-## Atributos de Estilo
+## Style Attributes
 
-bitter, bottom-fermented, central-europe, hoppy, lagered, pale-color, pale-lager-family, session-strength, traditional-style
+smoke, specialty-beer

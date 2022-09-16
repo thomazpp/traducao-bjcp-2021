@@ -1,57 +1,53 @@
-# 1A. American Light Lager
+# 32A. Classic Style Smoked Beer
 
 ## Overall Impression
 
-A highly carbonated, very light-bodied, nearly flavorless lager designed to be consumed very cold. Very refreshing and thirst-quenching.
+A well-balanced fusion of the malt and hops of the base beer style with a pleasant and agreeable smoke character.
 
 ## Appearance
 
-Very pale straw to pale yellow color. White, frothy head seldom persists. Very clear.
+Variable. The appearance should reflect the base beer style, although the color is often a bit darker than expected for the plain base style.
 
 ## Aroma
 
-Low malt aroma optional, but may be perceived as grainy, sweet, or corn-like, if present. Light spicy, floral, or herbal hop aroma optional. While a clean fermentation profile is desirable, a light amount of yeast character is not a fault.
+A pleasant balance between the expected aroma of the base beer and smoked malt. The smoke character ranges from low to assertive, and may show varietal wood smoke character (e.g., alder, oak, beechwood). The balance between the smoke and beer can vary – they do not need to be equal in intensity. However, the resulting mix should be appealing. Sharp, phenolic, harsh, rubbery, or burnt smoke-derived aromatics are inappropriate.
 
 ## Flavor
 
-Relatively neutral palate with a crisp, dry finish and a low to very low grainy or corn-like flavor that might be perceived as sweetness due to the low bitterness. Low floral, spicy, or herbal hop flavor optional, but is rarely strong enough to detect. Low to very low bitterness. Balance may vary from slightly malty to slightly bitter, but is usually close to even. High carbonation may accentuate the crispness of the dry finish. Clean fermentation profile.
+Similar to the aroma, with a balance between the base beer and low to assertive smoked malt. Varietal woods can produce different flavor profiles. The balance between smoke and beer can vary, but the resulting blend should be enjoyable. Smoke can add some additional dryness to the finish. Harsh, bitter, burnt, charred, rubbery, sulfury, medicinal, or phenolic smoke-derived flavors are inappropriate.
 
 ## Mouthfeel
 
-Very light, sometimes watery, body. Very highly carbonated with slight carbonic bite on the tongue.
+Varies with the base beer style. Significant astringent, phenolic, smoke-derived harshness is a fault.
 
 ## Comments
 
-Designed to appeal to as broad a range of the general public as possible. Strong flavors are a fault. With little malt or hop flavor, the yeast character often is what most differentiates brands.
+Use this style for beers other than Bamberg-style Rauchbier (i.e., beechwood-smoked Märzen), which has its own style. Judges should evaluate these beers mostly on the overall balance, and how well the smoke character enhances the base beer.
 
 ## History
 
-Coors briefly made a light lager in the early 1940s. Modern versions were first produced by Rheingold in 1967 to appeal to diet-conscious drinkers, but only became popular starting in 1973 after Miller Brewing acquired the recipe and marketed the beer heavily to sports fans with the “tastes great, less filling” campaign. Beers of this genre became the largest sellers in the United States in the 1990s.
+The process of using smoked malts has been adapted by craft brewers to many styles. German brewers have traditionally used smoked malts in Bock, Doppelbock, Weissbier, Munich Dunkel, Schwarzbier, Munich Helles, Pils, and other specialty styles.
 
 ## Characteristic Ingredients
 
-Two- or six-row barley with up to 40% rice or corn as adjuncts. Additional enzymes can further lighten the body and lower carbohydrates. Lager yeast. Negligible hops.
+Different materials used to smoke malt result in unique flavor and aroma characteristics. Beechwood, or other hardwood (e.g., oak, maple, mesquite, alder, pecan, apple, cherry, other fruitwoods) smoked malts may be used. These may be reminiscent of certain smoked foods (e.g., hickory with ribs, maple with bacon or sausage, and alder with salmon). Evergreen wood should never be used since it adds a medicinal, piney flavor to the malt. Noticeable peat-smoked malt is universally undesirable due to its sharp, piercing phenols and dirt-like earthiness. The remaining ingredients vary with the base style. If smoked malts are combined with other unusual ingredients (e.g., fruits, vegetables, spices, honey) in noticeable quantities, the resulting beer should be entered in the 32B Specialty Smoked Beer.
 
-## Style Comparison
+## Entry Instructions
 
-A lighter-bodied, lower-alcohol, lower calorie version of an American Lager. Less hop character and bitterness than a German Leichtbier.
+The entrant must specify a Base Style. The entrant must specify the type of wood or smoke if a varietal smoke character is noticeable.
 
 ## Vital Statistics
 
-IBU: 8 - 12
-SRM: 2 - 3
-OG: 1.028 - 1.040
-FG: 0.998 - 1.008
-ABV: 2.8% - 4.2%
+Varies with the base beer style.
 
 ## Commercial Examples
 
-Bud Light, Coors Light, Grain Belt Premium Light American Lager, Michelob Light, Miller Lite, Old Milwaukee Light.
+Alaskan Smoked Porter, Schlenkerla Oak Smoke Doppelbock, Schlenkerla Rauchbier Weizen, Schlenkerla Rauchbier Ur-Bock, O’Fallon Smoked Porter, Spezial Rauchbier Lagerbier.
 
 ## Past Revision
 
-American Light Lager (2015)
+Classic Style Smoked Beer (2015)
 
 ## Style Attributes
 
-balanced, bottom-fermented, lagered, north-america, pale-color, pale-lager-family, session-strength, traditional-style
+smoke, specialty-beer
