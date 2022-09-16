@@ -16,9 +16,9 @@ Aroma de malte baixo a moderado, podendo ter algum sabor frutado. A expressão d
 
 Geralmente uma cerveja maltada, embora possa ter uma ampla variedade de sabores à base de malte e levedura (por exemplo, malte, doce, caramelo, toffee, torrada, noz, chocolate, café, torrado, frutas, alcaçuz, ameixa, passas) sobre uma base de pão, biscoito ou tostado. Pode terminar doce a seca. Versões com maltes mais escuros podem ter um final seco e torrado. Amargor baixo a moderado, o suficiente para fornecer algum equilíbrio, mas não o suficiente para dominar o malte no equilíbrio. Ésteres frutados moderados opcionais. Sabor de lúpulo baixo opcional. Diacetil baixo opcional.
 
-## Sensação de Boca
+## Sensação na Boca
 
-Corpo leve a médio. Carbonatação geralmente baixa a média-baixa. As versões tostadas podem ter uma leve adstringência. Versões mais doces podem parecer ter uma sensação na boca bastante cheia para a gravidade. Não deve ser flat, aguada ou sem corpo.
+Corpo leve a médio. Carbonatação geralmente baixa a média-baixa. As versões tostadas podem ter uma leve adstringência. Versões mais doces podem parecer ter uma sensação na boca bastante cheia para a gravidade. Não deve ser sem carbonatação, aguada ou sem corpo.
 
 ## Comentários
 
