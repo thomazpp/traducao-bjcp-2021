@@ -22,7 +22,7 @@ Corpo médio-baixo a médio. Carbonatação baixa a moderada. Talvez seja modera
 
 ## Comentários
 
-Veja a introdução da categoria para comentários detalhados. Pode não parecer tão amarga quanto as especificações indicam devido à maior gravidade final e dulçor residual. Não interprete mal a leve secura torrada como defumado; fumaça não está presente nessas cervejas.
+Veja a introdução da categoria para comentários detalhados. Pode não parecer tão amarga quanto as especificações indicam devido à maior gravidade final e dulçor residual. Não interprete errado a leve secura torrada como defumado; fumaça não está presente nessas cervejas.
 
 ## História
 

@@ -14,7 +14,7 @@ Caráter leve de grãos, torrado, semelhante ao café, com um leve dulçor de ma
 
 ## Sabor
 
-Semelhante ao aroma, com um sabor suave de café torrado, chocolate ao leite ou café com creme, frutado baixo a moderadamente alto. A aveia pode adicionar um sabor de nozes tostadas, grãos ou terroso. Amargor médio. Final meio-doce a meio-seco, o que afeta a percepção de equilíbrio. Retrogosto maltado, tostado e de nozes. Sabor de lúpulo terroso ou floral médio-baixo opcional. Diacetil médio-baixo opcional, mas normalmente ausente.
+Semelhante ao aroma, com um sabor suave de café torrado, chocolate ao leite ou café com creme, frutado baixo a moderadamente alto. A aveia pode adicionar um sabor de nozes tostadas, grãos ou terroso. Amargor médio. Final meio doce a meio seco, o que afeta a percepção de equilíbrio. Retrogosto maltado, tostado e de nozes. Sabor de lúpulo terroso ou floral médio-baixo opcional. Diacetil médio-baixo opcional, mas normalmente ausente.
 
 ## Sensação na Boca
 

@@ -2,7 +2,7 @@
 
 ## Impressão geral
 
-Uma stout muito escura, doce, encorpada e levemente torrada que pode sugerir café com creme ou espresso adoçado.
+Uma stout muito escura, doce, encorpada e levemente torrada que pode sugerir café com creme ou expresso adoçado.
 
 ## Aparência
 

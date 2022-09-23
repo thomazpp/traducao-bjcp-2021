@@ -6,7 +6,7 @@ Uma British Ale maltada, caramelada e marrom sem os sabores torrados de uma Port
 
 ## Aparência
 
-Cor âmbar escuro a marrom-avermelhado escuro. Limpida. Colarinho baixo a moderado quase branco a castanho claro.
+Cor âmbar escuro a marrom-avermelhado escuro. Límpida. Colarinho baixo a moderado quase branco a castanho claro.
 
 ## Aroma
 
@@ -16,7 +16,7 @@ Aroma de malte leve e doce, com notas de toffee, nozes ou leve chocolate e uma q
 
 Dulçor do malte suave a moderado, com um caráter de caramelo leve a pesado e um final médio a seco. O malte também pode ter um caráter de noz, torrado, biscoito, toffee ou leve chocolate. Amargor médio a médio-baixo. O equilíbrio entre o malte e o lúpulo varia de uniforme a focado no malte. Baixo sabor de lúpulo floral ou terroso opcional. Ésteres frutados baixos a moderados opcionais.
 
-## Sensação de Boca
+## Sensação na Boca
 
 Corpo médio-leve a médio. Carbonatação média a média alta.
 
@@ -54,4 +54,4 @@ British Brown Ale (2015)
 
 ## Atributos de estilo
 
-cor âmbar, ilhas britânicas, família brown ale, malte, intensidade padrão, alta fermentação, estilo tradicional
+cor âmbar, ilhas britânicas, família brown-ale, malte, intensidade padrão, alta fermentação, estilo tradicional

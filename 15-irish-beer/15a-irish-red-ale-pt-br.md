@@ -2,7 +2,7 @@
 
 ## Impressão geral
 
-Uma cerveja fácil de beber, muitas vezes com sabores sutis. Ligeiramente maltada no equilíbrio, às vezes com um dulçor inicial de toffee ou caramelo, no palato leve grãos e biscito, no final um toque torrado seco. Algumas versões podem enfatizar mais o caramelo e o dulçor, enquanto outras favorecem no paladar grãos e torrado seco.
+Uma cerveja fácil de beber, muitas vezes com sabores sutis. Ligeiramente maltada no equilíbrio, às vezes com um dulçor inicial de toffee ou caramelo, no palato leve grãos e biscoito, no final um toque torrado seco. Algumas versões podem enfatizar mais o caramelo e o dulçor, enquanto outras favorecem no paladar grãos e torrado seco.
 
 ## Aparência
 

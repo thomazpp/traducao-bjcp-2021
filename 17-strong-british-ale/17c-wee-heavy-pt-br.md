@@ -6,15 +6,15 @@ Malte rico e doce, com profundidade de caramelo, toffee e sabores frutados. Corp
 
 ## Aparência
 
-Cor cobre claro a marrom escuro, muitas vezes com reflexos rubi profundos. Límpida. Geralmente tem um volumoso colarinho castanho, que pode não persistir. Lágrimas podem ser evidentes em versões mais fortes.
+Cor cobre claro a marrom escuro, muitas vezes com reflexos rubis profundos. Límpida. Geralmente tem um volumoso colarinho castanho, que pode não persistir. Lágrimas podem ser evidentes em versões mais fortes.
 
 ## Aroma
 
-Malte tostado forte, com alto aspecto de caramelo e toffee. Uma ampla gama de aromas de açúcar caramelizado e pão torrado como suporte, são possíveis (migalhas de pão tostadas, biscoitos champagne, biscoitos ingleses, bolachas, torone, caramelo, etc.). Às vezes, nota-se um leve toque de torra. Ésteres de frutas escuras ou secas e álcool de baixo a moderado. Lúpulos terrosos, florais, laranja-cítricos ou picantes muito baixos opcionais.
+Malte tostado forte, com alto aspecto de caramelo e toffee. Uma ampla gama de aromas de açúcar caramelizado e pão torrado como suporte, são possíveis (migalhas de pão tostadas, biscoitos champagne, biscoitos ingleses, bolachas, torrone, caramelo, etc.). Às vezes, nota-se um leve toque de torra. Ésteres de frutas escuras ou secas e álcool de baixo a moderado. Lúpulos terrosos, florais, laranja-cítricos ou picantes muito baixos opcionais.
 
 ## Sabor
 
-Malte rico e tostado, muitas vezes cheio e doce no paladar com sabores de caramelo e toffee, mas equilibrado pelo álcool e uma pitada de grãos torrados no final. O malte geralmente tem açúcar caramelizado e sabores tostados do mesmo tipo descrito no aroma. Álcool e ésteresbaixos a médios (ameixas, passas, frutos secos, etc.). Amargor baixo no equilíbrio, dando um final médio-seco a doce. Sabor de lúpulo médio-baixo opcional, com descritores semelhantes ao aroma.
+Malte rico e tostado, muitas vezes cheio e doce no paladar com sabores de caramelo e toffee, mas equilibrado pelo álcool e uma pitada de grãos torrados no final. O malte geralmente tem açúcar caramelizado e sabores tostados do mesmo tipo descrito no aroma. Álcool e ésteres baixos a médios (ameixas, passas, frutos secos, etc.). Amargor baixo no equilíbrio, dando um final médio-seco a doce. Sabor de lúpulo médio-baixo opcional, com descritores semelhantes ao aroma.
 
 ## Sensação na Boca
 
@@ -56,4 +56,4 @@ Wee Heavy (2015)
 
 cor âmbar, ilhas britânicas, forte, maltado, família de cerveja forte, alta fermentação, estilo tradicional
 
-* Moeda antiga da inglaterra
+* Moeda antiga da Inglaterra

@@ -6,7 +6,7 @@ Uma stout muito escura, rica, moderadamente forte, bastante seca, com sabores to
 
 ## Aparência
 
-Cor marrom muito profundo a preto. Límpidez geralmente obscurecida pela cor escura. Límpida, se não for opaca. Colarinho volumoso, castanho a marrom, com boa retenção.
+Cor marrom muito profundo a preto. Limpidez geralmente obscurecida pela cor escura. Límpida, se não for opaca. Colarinho volumoso, castanho a marrom, com boa retenção.
 
 ## Aroma
 

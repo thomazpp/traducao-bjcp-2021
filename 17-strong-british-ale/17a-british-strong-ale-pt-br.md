@@ -6,7 +6,7 @@ Uma cerveja de teor alcoólico respeitável, tradicionalmente engarrafada e guar
 
 ## Aparência
 
-Cor âmbar a marrom avermelhado escuro; muitas são bastante escuras. Geralmente límpida, embora as versões mais escuras possam ser quase opacas. Colarinho de moderado a baixo creme a castanho claro com retenção média.
+Cor âmbar a marrom avermelhado escuro; muitas são bastante escuras. Geralmente límpida, embora as versões mais escuras possam ser quase opacas. Colarinho de baixo a moderado, creme a castanho claro, com retenção média.
 
 ## Aroma
 
@@ -26,7 +26,7 @@ Uma categoria de entrada mais do que um estilo; a força e o caráter dos exempl
 
 ## História
 
-Uma coleção de estilos menores não relacionados, cada um com sua própria herança. Não use este agrupamento de categorias para inferir uma relação histórica entre exemplos – nenhuma esta prevista. Esta é uma categoria de julgamento de especialidade britânica moderna, onde o atributo "especial" é o nível de álcool.
+Uma coleção de estilos menores não relacionados, cada um com sua própria herança. Não use este agrupamento de categorias para inferir uma relação histórica entre exemplos – nenhuma está prevista. Esta é uma categoria de julgamento de especialidade britânica moderna, onde o atributo "especial" é o nível de álcool.
 
 ## Ingredientes Característicos
 
