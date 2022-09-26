@@ -22,11 +22,11 @@ Medium to medium-full body. More bitter versions may have a dry, resiny impressi
 
 ## Comments
 
-Most commercial American Browns are not as aggressive as the original homebrewed versions, and some modern craft-brewed examples. This style reflects the current commercial offerings typically marketed as American Brown Ales rather than the hoppier, stronger homebrew versions from the early days of homebrewing. ThMost commercial American Browns are not as aggressive as the original homebrewed versions, and some modern craft-brewed examples. This style reflects the current commercial offerings typically marketed as American Brown Ales rather than the hoppier, stronger homebrew versions from the early days of homebrewing. These IPA-strength brown ales should be entered as 21B Specialty IPA: Brown IPA.ese IPA-strength brown ales should be entered in the Specialty IPA as Brown IPAs.
+Most commercial American Browns are not as aggressive as the original homebrewed versions, and some modern craft-brewed examples. This style reflects the current commercial offerings typically marketed as American Brown Ales rather than the hoppier, stronger homebrew versions from the early days of homebrewing. These IPA-strength brown ales should be entered as 21B Specialty IPA: Brown IPA.
 
 ## History
 
-Most commercial American Browns are not as aggressive as the original homebrewed versions, and some modern craft-brewed examples. This style reflects the current commercial offerings typically marketed as American Brown Ales rather than the hoppier, stronger homebrew versions from the early days of homebrewing. These IPA-strength brown ales should be entered as 21B Specialty IPA: Brown IPA.
+An American style from the early modern craft beer era. Derived from English Brown Ales, but with more hops. Pete’s Wicked Ale (1986) defined the style, which was first judged at the Great American Beer Festival in 1992.
 
 ## Characteristic Ingredients
 
