@@ -1,3 +1,3 @@
 # 5. Pale Bitter European Beer
 
-This category describes German-origin beers that are pale and have an even to bitter balance with a mild to moderately strong hoppy character featuring traditional German hops. They are generally bottom-fermented or are lagered to provide a smooth profile, and are well-attenuated as are most German beers.
+Essa categoria descreve cervejas de origem alemã que são claras e são de equilibradas a amargas com um caráter lupulado de moderado a moderadamente forte com lúpulos tradicionais alemães. Elas são geralmente de baixa fermentação ou são maturadas a frio por um longo periodo de tempo e são bem atenuadas assim como a grande maioria das cervejas alemãs.
