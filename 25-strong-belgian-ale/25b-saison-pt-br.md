@@ -31,7 +31,7 @@ Uma cerveja de abastecimento oriunda da Valônia, região belga onde se fala o f
 
 ## Ingredientes Característicos
 
-Malte pale como base. Grãos de cereais, como trigo, aveia, espelta ou centeio. Pode conter adjuntos açucarados. Lúpulos Continental. Levedura belga para Saison com características de frutada-condimentadas. Especiarias e ervas são incomuns, mas são permitidas desde que não sejam dominantes.
+Malte pale como base. Grãos de cereais, como trigo, aveia, espelta ou centeio. Pode conter adjuntos açucarados. Lúpulos Continental. Levedura belga para Saison com características de frutado-condimentadas. Especiarias e ervas são incomuns, mas são permitidas desde que não sejam dominantes.
 
 ## Comparação de Estilos
 
@@ -44,7 +44,7 @@ O participante deve especificar a força alcoólica (table, standart ou super) e
 ## Estatísticas Vitais
 
 IBU: 20 - 35
-SRM: 5 – 14 (pale) 15 – 22 (dark)
+SRM: 5 – 14 (clara) 15 – 22 (escura)
 OG: 1.048 – 1.065 (standard)
 FG: 1.002 – 1.008 (standard)
 ABV: 3.5 – 5.0% (table) 5.0 – 7.0% (standard) 7.0 – 9.5% (super)
