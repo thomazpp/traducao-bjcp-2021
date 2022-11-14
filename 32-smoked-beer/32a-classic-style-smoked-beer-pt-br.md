@@ -1,53 +1,54 @@
 # 32A. Classic Style Smoked Beer
 
-## Overall Impression
+## Impressão Geral
 
-A well-balanced fusion of the malt and hops of the base beer style with a pleasant and agreeable smoke character.
+Uma fusão bem equilibrada de malte e lúpulos do estilo de cerveja base com um agradável caráter defumado.
 
-## Appearance
+## Aparência
 
-Variable. The appearance should reflect the base beer style, although the color is often a bit darker than expected for the plain base style.
+Varia. A aparência deve refletir o estilo de cerveja base embora a cor geralmente é um pouco mais escuta que o esperado para o estilo base sem o defumado.
 
 ## Aroma
 
-A pleasant balance between the expected aroma of the base beer and smoked malt. The smoke character ranges from low to assertive, and may show varietal wood smoke character (e.g., alder, oak, beechwood). The balance between the smoke and beer can vary – they do not need to be equal in intensity. However, the resulting mix should be appealing. Sharp, phenolic, harsh, rubbery, or burnt smoke-derived aromatics are inappropriate.
+Um agradável equilíbrio entre o aroma esperado na cerveja base e malte defumado. O caráter defumado varia de baixo a assertivo e pode ter o caráter derivado de vários tipos de madeira (ex. amieiro, carvalho, faia). O equilíbrio entre o defumado e a cerveja pode variar - eles não precisam estar igualmente intensos. Entretanto, a combinação resultante deve ser atrativa. Aromático acentuado, fenólico, áspero, como borracha ou queimado derivado de defumação é inapropriado.
 
-## Flavor
+## Sabor
 
-Similar to the aroma, with a balance between the base beer and low to assertive smoked malt. Varietal woods can produce different flavor profiles. The balance between smoke and beer can vary, but the resulting blend should be enjoyable. Smoke can add some additional dryness to the finish. Harsh, bitter, burnt, charred, rubbery, sulfury, medicinal, or phenolic smoke-derived flavors are inappropriate.
+Similar ao aroma com um equilíbrio entre a cerveja base e malte defumado de baixo a assertivo. Cada tipo de madeira produz diferentes perfis de sabores. O equilíbrio entre o defumado e a cerveja pode variar mas a combinação resultante deve ser agradável. O defumado pode adicionar alguma secura ao final. Sabor acentuado, amargo, queimado, carbonizado, como borracha, sulfuroso, medicinal ou fenólico derivado de defumação é inapropriado.
 
-## Mouthfeel
 
-Varies with the base beer style. Significant astringent, phenolic, smoke-derived harshness is a fault.
+## Sensação na Boca
 
-## Comments
+Varia de acordo com o estilo base da cerveja. Adstringência, fenólico ou aspereza derivada de defumação significante é uma falha.
+
+## Comentários
 
 Use this style for beers other than Bamberg-style Rauchbier (i.e., beechwood-smoked Märzen), which has its own style. Judges should evaluate these beers mostly on the overall balance, and how well the smoke character enhances the base beer.
 
-## History
+## História
 
-The process of using smoked malts has been adapted by craft brewers to many styles. German brewers have traditionally used smoked malts in Bock, Doppelbock, Weissbier, Munich Dunkel, Schwarzbier, Munich Helles, Pils, and other specialty styles.
+O processo de usar maltes defumados foi adaptado a muitos estilos pelos cervejeiros artesanais. Cervejeiros alemães usaram maltes defumados tradicionalmente em cervejas do tipo Bock, Doppelbock, Weissbier, Munich Dunkel, Schwarzbier, Munich Helles, Pils e outros estilos especiais.
 
-## Characteristic Ingredients
+## Ingredientes
 
-Different materials used to smoke malt result in unique flavor and aroma characteristics. Beechwood, or other hardwood (e.g., oak, maple, mesquite, alder, pecan, apple, cherry, other fruitwoods) smoked malts may be used. These may be reminiscent of certain smoked foods (e.g., hickory with ribs, maple with bacon or sausage, and alder with salmon). Evergreen wood should never be used since it adds a medicinal, piney flavor to the malt. Noticeable peat-smoked malt is universally undesirable due to its sharp, piercing phenols and dirt-like earthiness. The remaining ingredients vary with the base style. If smoked malts are combined with other unusual ingredients (e.g., fruits, vegetables, spices, honey) in noticeable quantities, the resulting beer should be entered in the 32B Specialty Smoked Beer.
+Os diferentes elementos usados para defumar malte resultam em características únicas de sabor e aroma. Maltes defumados por faia e outras madeiras de lei podem ser usados (ex. carvalho, bordo, mesquita, amieiro, pecã, macieira, cerejeira e outras madeiras de arvores frutíferas). Essas madeiras podem lembrar certos alimentos defumados (ex. nogueira com costelas, bordo com bacon ou linguiça e amieiro com salmão). Madeiras perenes nunca devem ser usadas já que adicionam sabor medicinal, resinoso ao malte. Caráter notável de malte defumado por turfa é universalmente indesejável devido ao seus fenóis punjentes com um terroso lembrando poeira. O outros ingredientes restantes variam de acordo com o estilo base. Se os maltes defumados forem combinados com outros ingredientes não habituais (ex. frutas, vegetais, condimentos, mel) em quantidades notáveis, a cerveja resultante deve ser inscrita no estilo 32B Specialty Smoked Beer
 
-## Entry Instructions
+## Instruções para inscrição
 
-The entrant must specify a Base Style. The entrant must specify the type of wood or smoke if a varietal smoke character is noticeable.
+O participante deve especificar um estilo base. O participante deve especificar o tipo de madeira ou defumação se um caráter defumado incomum for notável.
 
-## Vital Statistics
+## Estatísticas
 
-Varies with the base beer style.
+Varia de acordo com o estilo base da cerveja.
 
-## Commercial Examples
+## Exemplos Comerciais
 
 Alaskan Smoked Porter, Schlenkerla Oak Smoke Doppelbock, Schlenkerla Rauchbier Weizen, Schlenkerla Rauchbier Ur-Bock, O’Fallon Smoked Porter, Spezial Rauchbier Lagerbier.
 
-## Past Revision
+## Revisões Anteriores
 
 Classic Style Smoked Beer (2015)
 
-## Style Attributes
+## Atributos de Estilo
 
 smoke, specialty-beer
