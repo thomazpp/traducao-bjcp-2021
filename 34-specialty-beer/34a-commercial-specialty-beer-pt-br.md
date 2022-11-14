@@ -4,8 +4,6 @@
 
 Baseado na cerveja declarada.
 
-## Aroma / Appearance / Flavor / Mouthfeel
-
 ## Aroma / Aparência / Sabor Sensação na Boca
 
 Baseado na cerveja declarada.
