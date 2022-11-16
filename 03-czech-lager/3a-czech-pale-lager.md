@@ -14,7 +14,7 @@ Light to moderate bready-rich malt combined with light to moderate spicy or herb
 
 ## Flavor
 
-Medium-low to medium bready-rich malt flavor with a rounded, hoppy finish. Low to medium-high spicy or herbal hop flavor. Bitterness is prominent but never harsh. ful and refreshing. Low diacetyl or fruity esters are optional, but should never be overbearing.
+Medium-low to medium bready-rich malt flavor with a rounded, hoppy finish. Low to medium-high spicy or herbal hop flavor. Bitterness is prominent but never harsh. Flavorful and refreshing. Diacetyl or fruity esters are acceptable at low levels, but need not be present and should never be overbearing.
 
 ## Mouthfeel
 
