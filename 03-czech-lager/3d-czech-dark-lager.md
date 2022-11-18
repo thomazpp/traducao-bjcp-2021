@@ -46,7 +46,7 @@ ABV: 4.4% - 5.8%
 
 ## Commercial Examples
 
-Bernard černý ležák 12°,, Budvar tmavý ležák, Herold tmavé silné pivo 13°, Kozel Dark, Krušovice černé, Primátor dark lager, U Fleků Flekovský tmavý 13° ležák.
+Bernard černý ležák 12, Budvar tmavý ležák, Herold tmavé silné pivo 13°, Kozel Dark, Krušovice černé, Primátor dark lager, U Fleků Flekovský tmavý 13° ležák.
 
 ## Past Revision
 

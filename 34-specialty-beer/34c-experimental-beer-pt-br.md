@@ -4,7 +4,7 @@
 
 Varia mas deve ser uma experiência única.
 
-## Aroma / Aparência / Sabor Sensação na Boca
+## Aroma / Aparência / Sabor / Sensação na Boca
 
 Varia.
 

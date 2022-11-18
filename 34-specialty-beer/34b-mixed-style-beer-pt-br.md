@@ -4,7 +4,7 @@
 
 Baseada nos estilos base declarados, métodos e ingredientes. Assim como todos as cervejas especiais, o resultado da combinação dos estilos de cerveja precisa ser harmonioso e equilibrado, e ser agradável de beber.
 
-## Aroma / Aparência / Sabor Sensação na Boca
+## Aroma / Aparência / Sabor / Sensação na Boca
 
 Based on the declared base styles.
 

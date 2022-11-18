@@ -4,7 +4,7 @@
 
 Baseado na cerveja declarada.
 
-## Aroma / Aparência / Sabor Sensação na Boca
+## Aroma / Aparência / Sabor / Sensação na Boca
 
 Baseado na cerveja declarada.
 
