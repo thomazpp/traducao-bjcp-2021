@@ -2,7 +2,7 @@
 
 ## Impressão Geral
 
-Uma cerveja de trigo alemã clara, refrescante e levemente lupulada com alta carbonatação, final seco, sensação macia na boca e um perfil de fermentação distinto de levedura weizen com banana e cravo.
+Uma cerveja de trigo alemã clara, refrescante e levemente lupulada com alta carbonatação, final seco, sensação macia na boca e um característico perfil fermentação com banana e cravo de levedura weizen.
 
 ## Aparência
 
@@ -26,7 +26,7 @@ Também conhecida como hefeweizen ou weizenbier, particularmente fora da Baviera
 
 ## História
 
-While Bavaria has a wheat beer tradition dating back before the 1500s, brewing wheat beer used to be a monopoly reserved for Bavarian royalty. Modern Weissbier dates from 1872 when Schneider began production of its amber version. However, pale Weissbier only became popular since the 1960s (although the name historically could be used in Germany to describe beer made from air-dried malt, a different tradition). It is quite popular today, particularly in southern Germany.
+Enquanto que a Baviera tem tradição em cervejas de trigo, datando de antes do século XVI, brassar cerveja de trigo costumava zer um monopólio reservado para a realeza bávara. Weissbiers modernas começaram em 1872 quando a Schneider começou a produzir sua versão âmbar. Entretanto, Weissbier claras só se tornaram populares a partir de 1960 (embora que o nome historicamente poderia ser usado na Alemanha para descrever uma cerveja feita com malte seco usando ar, uma tradição deferente). É bem popular hoje em dia, particularmente no sul da Alemanha.
 
 ## Ingredientes
 
