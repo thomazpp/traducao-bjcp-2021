@@ -26,11 +26,11 @@ Muitas vezes conhecida como dunkelweizen, particularmente nos Estados Unidos. Ca
 
 ## História
 
-A Baviera tem uma tradição secular de produzir cervejas de trigo mas os direitos de produçào eram reservados para a realeza bávara até o final do século XVIII. A cerveja bávara de trigo a moda antiga frequentemente era escura, assim como a grande maioria das cervejas daquele tempo. Weissbiers claras começaram a se tornar populares em torno de 1960 mas a cerveja de trigo escura tradicional se manteve como uma bebida de velhos.
+A Baviera tem uma tradição secular de produzir cervejas de trigo mas os direitos de produção eram reservados para a realeza bávara até o final do século 18. A cerveja bávara de trigo a moda antiga frequentemente era escura, assim como a grande maioria das cervejas daquele tempo. Weissbiers claras começaram a se tornar populares em torno de 1960 mas a cerveja de trigo escura tradicional se manteve como uma bebida de velhos.
 
 ## Ingredientes
 
-Trigo malteado, pelo menos metade da lista de grãos. Malte Munich, vienna ou Pilsner. Malte de trigo escuro, caramelo de trigo ou de cor. Mostura por decocção é tradicional. Levedura weizen e temperaturas mais baixas de fermentação.
+Trigo malteado, pelo menos metade da lista de grãos. Malte Munich, Vienna ou Pilsner. Malte de trigo escuro, caramelo de trigo ou de cor. Mostura por decocção é tradicional. Levedura weizen e temperaturas mais baixas de fermentação.
 
 ## Comparação de Estilo
 

@@ -26,7 +26,7 @@ Também conhecida como hefeweizen ou weizenbier, particularmente fora da Baviera
 
 ## História
 
-Enquanto que a Baviera tem tradição em cervejas de trigo, datando de antes do século XVI, brassar cerveja de trigo costumava zer um monopólio reservado para a realeza bávara. Weissbiers modernas começaram em 1872 quando a Schneider começou a produzir sua versão âmbar. Entretanto, Weissbier claras só se tornaram populares a partir de 1960 (embora que o nome historicamente poderia ser usado na Alemanha para descrever uma cerveja feita com malte seco usando ar, uma tradição deferente). É bem popular hoje em dia, particularmente no sul da Alemanha.
+Enquanto que a Baviera tem tradição em cervejas de trigo, datando de antes do século 16, brassar cerveja de trigo costumava zer um monopólio reservado para a realeza bávara. Weissbiers modernas começaram em 1872 quando a Schneider começou a produzir sua versão âmbar. Entretanto, Weissbier claras só se tornaram populares a partir de 1960 (embora que o nome historicamente poderia ser usado na Alemanha para descrever uma cerveja feita com malte seco usando ar, uma tradição deferente). É bem popular hoje em dia, particularmente no sul da Alemanha.
 
 ## Ingredientes
 
