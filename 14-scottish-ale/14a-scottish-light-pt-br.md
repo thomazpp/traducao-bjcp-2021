@@ -22,7 +22,7 @@ Corpo médio-baixo a médio. Carbonatação baixa a moderada. Talvez seja modera
 
 ## Comentários
 
-Veja a introdução da categoria para comentários detalhados. Pode não parecer tão amarga quanto as especificações indicam devido à maior gravidade final e dulçor residual. Normalmente como chope, mas um tanto raro. Não interprete mal a leve secura torrada como defumado; fumaça não está presente nessas cervejas.
+Veja a introdução da categoria para comentários detalhados. Pode não parecer tão amarga quanto as especificações indicam devido à maior gravidade final e dulçor residual. Normalmente como chope, mas um tanto raro. Não interprete errado a leve secura torrada como defumado; fumaça não está presente nessas cervejas.
 
 ## História
 
@@ -34,7 +34,7 @@ Na sua forma mais simples, malte pale ale, mas também pode usar maltes com mais
 
 ## Comparação de estilos
 
-Veja a introdução da categoria. Semelhante a outras Scottish Ales, mas com menor teor alcoólico e cor mais escura. Semelhante em força ao nível baíxo da Dark Mild, mas com um perfil de sabor e equilíbrio diferentes.
+Veja a introdução da categoria. Semelhante a outras Scottish Ales, mas com menor teor alcoólico e cor mais escura. Semelhante em força ao nível baixo da Dark Mild, mas com um perfil de sabor e equilíbrio diferentes.
 
 ## Estatísticas vitais
 

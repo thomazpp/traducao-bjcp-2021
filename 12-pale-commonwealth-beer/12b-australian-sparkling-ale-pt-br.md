@@ -15,11 +15,11 @@ Aroma bastante suave e limpo com uma mistura equilibrada de ésteres, lúpulo, m
 
 ## Sabor
 
-Sabor arredondado de malte como grãos a pão, de médio a baixo, inicialmente suave a malte-doce, mas com um amargor médio a médio-alto que sobe no palato médio para equilibrar o malte. Sabores de caramelo normalmente ausentes. Altamente atenuada, dando um final seco e bem definido com um amargor persistente, embora o corpo dê uma impressão de cheio. Sabor de lúpulo médio a médio-alto, um pouco terroso e possivelmente herbal, resinoso, apimentado ou semelhante ao ferro, mas não floral, permanecendo no retrogosto. Ésteres médio-alto a médio-baixo, geralmente peras e maçãs. A banana é opcional, mas nunca deve dominar. Pode ser levemente mineral ou sulfuroso, especialmente se a levedura estiver presente. Não deve ser sem graça.
+Sabor arredondado de malte como grãos a pão, de baixo a médio, inicialmente suave a malte-doce, mas com um amargor médio a médio-alto que sobe no palato médio para equilibrar o malte. Sabores de caramelo normalmente ausentes. Altamente atenuada, dando um final seco e bem definido com um amargor persistente, embora o corpo dê uma impressão de cheio. Sabor de lúpulo médio a médio-alto, um pouco terroso e possivelmente herbal, resinoso, apimentado ou semelhante ao ferro, mas não floral, permanecendo no retrogosto. Ésteres médio-alto a médio-baixo, geralmente peras e maçãs. A banana é opcional, mas nunca deve dominar. Pode ser levemente mineral ou sulfuroso, especialmente se a levedura estiver presente. Não deve ser sem graça.
 
-## Sensação de Boca
+## Sensação na Boca
 
-Carbonatação alta a muito alta, dando bolhas que enchem a boca e uma espirituosa picada carbônica, crisp. Corpo médio a médio-cheio, tendendo para o lado mais alto se servido com levedura. Suave, mas gasoso. Versões mais fortes podem ter um leve calor alcoólico, mas as versões com menos álcool não. Muito bem atenuada; não deve ter nenhuma doçura residual.
+Carbonatação alta a muito alta, dando bolhas que enchem a boca e uma espirituosa picada carbônica, com final bem definido. Corpo médio a médio-cheio, tendendo para o lado mais alto se servido com levedura. Suave, mas gasoso. Versões mais fortes podem ter um leve calor alcoólico, mas as versões com menos álcool não. Muito bem atenuada; não deve ter nenhuma doçura residual.
 
 ## Comentários
 
@@ -27,7 +27,7 @@ A Coopers fabrica seu carro-chefe Sparkling Ale desde 1862, embora a formulaçã
 
 ## História
 
-Registros cervejeiros mostram que a maioria das cervejas australianas fabricadas no século 19 era chope XXX (suave) e porter. A Ale em garrafa foi originalmente desenvolvida para competir com as pale ales engarrafadas importadas de cervejarias britânicas, como Bass e Wm Younger’ Monk. No início do século 20, a pale ale engarrafada saiu de moda e as cervejas lager “mais leves” estavam em voga. Muitas Australian Sparkling e Pale Ales foram rotuladas como ales, mas na verdade eram lagers de baixa fermentação com perfil de malte muito semelhante às ales que substituíram. Coopers de Adelaide, Sul da Australia é a única cervejaria sobrevivente que produz o estilo Sparkling Ale.
+Registros cervejeiros mostram que a maioria das cervejas australianas fabricadas no século 19 era chope XXX (Mild) e porter. A Ale em garrafa foi originalmente desenvolvida para competir com as pale ales engarrafadas importadas de cervejarias britânicas, como Bass e Wm Younger’ Monk. No início do século 20, a pale ale engarrafada saiu de moda e as cervejas lager “mais leves” estavam em voga. Muitas Australian Sparkling e Pale Ales foram rotuladas como ales, mas na verdade eram lagers de baixa fermentação com perfil de malte muito semelhante às ales que substituíram. Coopers de Adelaide, Sul da Australia é a única cervejaria sobrevivente que produz o estilo Sparkling Ale.
 
 ## Ingredientes Característicos
 

@@ -1,0 +1,3 @@
+# 2. International Lager
+
+International lagers são cervejas lagers premium, industriais e do mercado de massa produzidas na maioria dos países do mundo. Sejam elas desenvolvidas a partir de estilos americanos ou europeus, todas elas tendem a ter um caráter bastante uniforme e são fortemente comercializadas. Derivada das lagers originais do tipo Pilsner, com variação de cor e sabores adicionais de malte, mas mantendo um amplo apelo. Em muitos países, os estilos são referidos pelos nomes locais do país. O uso do termo “international” não significa que a cerveja seja realmente rotulada como tal, entretanto trata-se de mais uma categorização de cervejas semelhantes produzidas em todo mundo.

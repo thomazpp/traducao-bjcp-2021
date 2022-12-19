@@ -14,7 +14,7 @@ Aroma moderado de café normalmente domina; pode ter notas secundárias leves de
 
 ## Sabor
 
-Sabor moderado de grãos torrados ou malte com um amargor médio a alto. O final pode ser seco e como café, a moderadamente equilibrado com um toque de caramelo ou dulçor maltado. Normalmente tem sabores semelhantes ao café, mas também pode ter um caráter de chocolate amargo ou meio-amargo no paladar, durando até o final. Os fatores de equilíbrio podem incluir alguma cremosidade, frutado médio-baixo ou sabor de lúpulo terroso médio. O nível de amargor é um pouco variável, assim como o caráter torrado e a secura do final; permitindo interpretação pelos cervejeiros.
+Sabor moderado de grãos torrados ou malte com um amargor médio a alto. O final pode ser seco e como café, a moderadamente equilibrado com um toque de caramelo ou dulçor maltado. Normalmente tem sabores semelhantes ao café, mas também pode ter um caráter de chocolate amargo ou meio amargo no paladar, durando até o final. Os fatores de equilíbrio podem incluir alguma cremosidade, frutado médio-baixo ou sabor de lúpulo terroso médio. O nível de amargor é um pouco variável, assim como o caráter torrado e a secura do final; permitindo interpretação pelos cervejeiros.
 
 ## Sensação na Boca
 
@@ -56,4 +56,4 @@ Irish Stout (2015)
 
 amargo, ilhas britânicas, cor escura, torrado, força padrão, família stout, alta fermentação, estilo tradicional
 
-*no original é usada a palavra "Stout" entre aspas, devido ao duplo sentido da palavra na lingua inglesa, que siginifica robusto e também é um estilo de cerveja.
+*no original é usada a palavra "Stout" entre aspas, devido ao duplo sentido da palavra na língua inglesa, que significa robusto e é um estilo de cerveja.

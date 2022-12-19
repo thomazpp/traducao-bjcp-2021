@@ -1,0 +1,3 @@
+# 1. Standard American Beer
+
+Esta categoria descrever cervejas americanas de todos os dias, que são do gosto do público de massa. Contendo ales e lagers, as cervejas desta categoria tipicamente não são complexas e possuem sabores suaves e fáceis de tomar. As ales normalmente têm características semelhantes às lagers, e são projetadas para capturars os bebedores de lagers de masssa como cervejas de transição. Cervejas de consumo de massa, de sabor mais internacional ou de origem internacional, são descritas na categoria Internacional Lager.

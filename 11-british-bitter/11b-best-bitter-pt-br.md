@@ -2,12 +2,11 @@
 
 ## Impressão geral
 
-Uma cerveja session saborosa, mas ainda refrescante. Alguns exemplos podem ser mais equilibrados para malte, mas isso não deve substituir a impressão geral de amargor. A 
-facilidade em beber é um componente crítico do estilo.
+Uma cerveja session saborosa, mas ainda refrescante. Alguns exemplos podem ser mais equilibrados para malte, mas isso não deve substituir a impressão geral de amargor. A facilidade em beber é um componente crítico do estilo.
 
 ## Aparência
 
-Cor âmbar pálido a cobre médio. Limpidez boa a brilhante. Colarinho branco a quase branco baixo a moderado. Pode ter muito pouco colarinho devido à baixa carbonatação.
+Cor âmbar claro a cobre médio. Limpidez boa a brilhante. Colarinho branco a quase branco baixo a moderado. Pode ter muito pouco colarinho devido à baixa carbonatação.
 
 ## Aroma
 
@@ -15,7 +14,7 @@ Aroma de malte baixo a moderado, muitas vezes (mas nem sempre) com uma qualidade
 
 ## Sabor
 
-Amargor médio a moderadamente alto. Ésteres frutados moderadamente baixos a moderadamente altos. Sabor de lúpulo moderado a baixo, tipicamente com caráter terroso, resinoso, frutado ou floral. Maltosidade baixa a média com final seco. O perfil de malte é tipicamente de pão, biscoito ou levemente tostado. Sabores de caramelo ou toffee de baixo a moderado são opcionais. O equilíbrio é muitas vezes decididamente amargo, embora o amargor não deva dominar completamente o sabor do malte, ésteres e lúpulo. Geralmente sem diacetil, embora níveis muito baixos sejam permitidos.
+Amargor médio a moderadamente alto. Ésteres frutados moderadamente baixos a moderadamente altos. Sabor de lúpulo baixo a moderado, tipicamente com caráter terroso, resinoso, frutado ou floral. Maltosidade baixa a média com final seco. O perfil de malte é tipicamente de pão, biscoito ou levemente tostado. Sabores de caramelo ou toffee de baixo a moderado são opcionais. O equilíbrio é muitas vezes decididamente amargo, embora o amargor não deva dominar completamente o sabor do malte, ésteres e lúpulo. Geralmente sem diacetil, embora níveis muito baixos sejam permitidos.
 
 ## Sensação na Boca
 
@@ -23,7 +22,7 @@ Corpo médio-leve a médio. Carbonatação baixa, embora exemplos engarrafados p
 
 ## Comentários
 
-Sabor de malte mais evidente do que em uma ordinary bitter; esta é uma session Ale mais forte.
+Sabor de malte mais evidente do que em uma ordinary bitter; esta é uma session ale mais forte.
 
 ## História
 

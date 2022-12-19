@@ -6,7 +6,7 @@ Uma cerveja inglesa marrom escura de força moderada com um caráter tostado e a
 
 ## Aparência
 
-De cor marrom a marrom escuro, muitas vezes com reflexos rubi. Boa limpidez, embora possa ser opaca. Colarinho moderado, quase branco a castanho claro, com boa a razoável retenção.
+De cor marrom a marrom escuro, muitas vezes com reflexos rubis. Boa limpidez, embora possa ser opaca. Colarinho moderado, quase branco a castanho claro, com boa a razoável retenção.
 
 ## Aroma
 
@@ -16,7 +16,7 @@ Aroma de malte como pão, biscoito e tostado de moderado a moderadamente baixo, 
 
 Sabor moderado de malte como pão, biscoito e tostado, com uma torra leve a moderada como chocolate, muitas vezes com um caráter significativo de caramelo, noz ou toffee, possivelmente com níveis mais baixos de sabores como café ou alcaçuz. Não deve ser queimado ou com um torrado áspero, embora pequenas quantidades possam contribuir para a complexidade de um chocolate amargo. Sabor de lúpulo terroso ou floral moderado opcional. Ésteres frutados de baixo a moderado. Amargor médio-baixo a médio varia o equilíbrio de levemente maltado a levemente amargo, com um final bastante seco a levemente adocicado. Diacetil moderadamente baixo opcional.
 
-## Sensação de Boca
+## Sensação na Boca
 
 Corpo médio-leve a médio. Carbonatação moderadamente baixa a moderadamente alta. Textura cremosa leve a moderada.
 

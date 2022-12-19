@@ -22,7 +22,7 @@ Corpo leve a médio. Carbonatação geralmente baixa a média-baixa. As versões
 
 ## Comentários
 
-A maioria são cervejas session de baixa gravidade, em torno de 3,2%, embora algumas versões possam ser feitas na faixa mais forte (4% ou mais) para exportação, festivais, ocasiões sazonais ou especiais. Geralmente servido em barril; versões engarrafadas com força de session geralmente não viajam bem. Uma ampla gama de interpretações são possíveis. Existem versões pálidas (âmbar médio a marrom claro), mas estas são ainda mais raras do que as moderadamente escuras; essas diretrizes descrevem apenas a versão escura moderna.
+A maioria são cervejas session de baixa gravidade, em torno de 3,2%, embora algumas versões possam ser feitas na faixa mais forte (4% ou mais) para exportação, festivais, ocasiões sazonais ou especiais. Geralmente servido em barril; versões engarrafadas com força de session geralmente não viajam bem. Uma ampla gama de interpretações é possível. Existem versões pálidas (âmbar médio a marrom claro), mas estas são ainda mais raras do que as moderadamente escuras; essas diretrizes descrevem apenas a versão escura moderna.
 
 ## História
 

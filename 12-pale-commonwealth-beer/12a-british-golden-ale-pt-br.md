@@ -10,11 +10,11 @@ Cor palha a dourada. limpidez boa a brilhante. Colarinho branco baixo a moderado
 
 ## Aroma
 
-O aroma de lúpulo é moderadamente baixo a moderadamente alto e pode usar qualquer variedade de lúpulos - lúpulos ingleses florais, herbais ou terrosos e lúpulos americanos cítricos são os mais comuns. Frequentemente, uma única variedade de lúpulo será apresentada. Baixo aroma de malte como pão, sem caramelo. Aroma frutado médio-baixo a baixo do lúpulo em vez de ésteres. Um baixo nível de diacetil é opcional.
+O aroma de lúpulo é moderadamente baixo a moderadamente alto e pode usar qualquer variedade de lúpulos - lúpulos ingleses florais, herbais ou terrosos e lúpulos americanos cítricos são os mais comuns. Frequentemente, uma única variedade de lúpulo será apresentada. Baixo aroma de malte como pão, sem caramelo. Aroma frutado baixo a médio-baixo do lúpulo em vez de ésteres. Um baixo nível de diacetil é opcional.
 
 ## Sabor
 
-Amargor médio a médio-alto. O sabor do lúpulo é moderado a moderadamente alto em qualquer variedade de lúpulo, embora os sabores cítricos sejam cada vez mais comuns. Caráter de malte médio-baixo a baixo, geralmente como pão e talvez um pouco de sabor de biscoito. Os sabores de caramelo tipicamente estão ausentes. O amargor e o sabor do lúpulo devem ser pronunciados. Ésteres moderadamente baixos a baixos. Final meio seco a seco. O amargor aumenta com o nível de álcool, mas é sempre equilibrado. Um baixo nível de diacetil é opcional.
+Amargor médio a médio-alto. O sabor do lúpulo é moderado a moderadamente alto em qualquer variedade de lúpulo, embora os sabores cítricos sejam cada vez mais comuns. Caráter de malte baixo a médio-baixo, geralmente como pão e talvez um pouco de sabor de biscoito. Os sabores de caramelo tipicamente estão ausentes. O amargor e o sabor do lúpulo devem ser pronunciados. Ésteres moderadamente baixos a baixos. Final meio seco a seco. O amargor aumenta com o nível de álcool, mas é sempre equilibrado. Um baixo nível de diacetil é opcional.
 
 ## Sensação na Boca
 
@@ -30,7 +30,7 @@ As Golden Ales modernas foram desenvolvidas na Inglaterra para ocupar o mercado 
 
 ## Ingredientes Característicos
 
-Malte pale ou pilsner de baixa cor atuando como uma tela em branco para o caráter do lúpulo. Pode usar adjuntos como açúcar, milho ou trigo. O lúpulo inglês é frequentemente usado, embora as variedades americanas cítricas estejam se tornando mais comuns. Levedura britânica de fermentação limpa.
+Malte pale ou pilsen de baixa cor atuando como uma tela em branco para o caráter do lúpulo. Pode usar adjuntos como açúcar, milho ou trigo. O lúpulo inglês é frequentemente usado, embora as variedades americanas cítricas estejam se tornando mais comuns. Levedura britânica de fermentação limpa.
 
 ## Comparação de estilos
 
@@ -46,7 +46,7 @@ ABV: 3,8% - 5%
 
 ## Exemplos Comerciais
 
-Adnams Explorer, Crouch Vale Brewers Gold, Golden Hill Exmoor Gold, Hop Back Summer Lightning, Oakham JHB, Spitfire Golden Ale..
+Adnams Explorer, Crouch Vale Brewers Gold, Golden Hill Exmoor Gold, Hop Back Summer Lightning, Oakham JHB, Spitfire Golden Ale.
 
 ## Revisão anterior
 

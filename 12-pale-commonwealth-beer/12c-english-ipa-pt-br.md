@@ -14,9 +14,9 @@ Um aroma de lúpulo moderado a moderadamente alto, tipicamente floral, picante-c
 
 ## Sabor
 
-Sabor de lúpulo médio a alto, com amargor de lúpulo moderado a assertivo. O sabor do lúpulo deve ser semelhante ao aroma (floral, picante-condimentado ou cítrico-laranja). O sabor do malte deve ser médio-baixo a médio, algo como pão, opcionalmente com aspectos de biscoito leve a médio-leve, torrada, toffee ou caramelo. Frutado médio-baixo a médio. O final é meio-seco a muito seco, e o amargor pode permanecer no retrogosto, mas não deve ser áspero. O equilíbrio é em direção ao lúpulo, mas o malte ainda deve ser perceptível no suporte. Se for usada água com alto teor de sulfato, geralmente está presente um final seco, distintamente mineral, algum sabor sulfuroso e um amargor persistente. Algum sabor de álcool limpo pode ser notado em versões mais fortes.
+Sabor de lúpulo médio a alto, com amargor de lúpulo moderado a assertivo. O sabor do lúpulo deve ser semelhante ao aroma (floral, picante-condimentado ou cítrico-laranja). O sabor do malte deve ser médio-baixo a médio, algo como pão, opcionalmente com aspectos de biscoito leve a médio-leve, torrada, toffee ou caramelo. Frutado médio-baixo a médio. O final é meio seco a muito seco, e o amargor pode permanecer no retrogosto, mas não deve ser áspero. O equilíbrio é em direção ao lúpulo, mas o malte ainda deve ser perceptível no suporte. Se for usada água com alto teor de sulfato, geralmente está presente um final seco, distintamente mineral, algum sabor sulfuroso e um amargor persistente. Algum sabor de álcool limpo pode ser notado em versões mais fortes.
 
-## Sensação de Boca
+## Sensação na Boca
 
 Suave, corpo médio-leve a médio sem adstringência derivada do lúpulo. A carbonatação média a média-alta pode dar uma sensação geral seca, apesar do suporte do malte. Um aquecimento baixo e suave do álcool pode ser sentido em versões mais fortes.
 

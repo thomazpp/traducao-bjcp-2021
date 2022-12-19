@@ -1,3 +1,3 @@
 # 32. Smoked Beer
 
-This category contains Specialty-Type Beers that have a smoke character.
+Essa categoria contém cervejas especiais que contém um caráter defumado.

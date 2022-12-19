@@ -6,7 +6,7 @@ Baixa gravidade, álcool e carbonatação fazem desta uma cerveja session fácil
 
 ## Aparência
 
-Cor âmbar pálido a cobre claro. Limpidez boa a brilhante. Colarinho branco ou quase branco baixo a moderado. Pode ter muito pouco colarinho devido à baixa carbonatação.
+Cor âmbar claro a cobre claro. Limpidez boa a brilhante. Colarinho branco ou quase branco baixo a moderado. Pode ter muito pouco colarinho devido à baixa carbonatação.
 
 ## Aroma
 
@@ -14,7 +14,7 @@ Aroma de malte baixo a moderado, muitas vezes (mas nem sempre) com uma leve qual
 
 ## Sabor
 
-Amargor médio a moderadamente alto. Ésteres frutados moderadamente baixos a moderadamente altos. Sabor de lúpulo moderado a baixo, tipicamente com caráter terroso, resinoso, frutado ou floral. Maltosidade baixa a média com final seco. O perfil de malte é tipicamente de pão, biscoito ou levemente tostado. Sabores de caramelo ou toffee de baixo a moderado são opcionais. O equilíbrio é muitas vezes decididamente amargo, embora o amargor não deva dominar completamente o sabor do malte, ésteres e lúpulo. Geralmente sem diacetil, embora níveis muito baixos sejam permitidos.
+Amargor médio a moderadamente alto. Ésteres frutados moderadamente baixos a moderadamente altos. Sabor de lúpulo baixo a moderado, tipicamente com caráter terroso, resinoso, frutado ou floral. Maltosidade baixa a média com final seco. O perfil de malte é tipicamente de pão, biscoito ou levemente tostado. Sabores de caramelo ou toffee de baixo a moderado são opcionais. O equilíbrio é muitas vezes decididamente amargo, embora o amargor não deva dominar completamente o sabor do malte, ésteres e lúpulo. Geralmente sem diacetil, embora níveis muito baixos sejam permitidos.
 
 ## Sensação na Boca
 

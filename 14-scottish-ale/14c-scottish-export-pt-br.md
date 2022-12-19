@@ -22,7 +22,7 @@ Corpo médio. Carbonatação média-baixa a média. Talvez seja moderadamente cr
 
 ## Comentários
 
-Veja a introdução da categoria para comentários detalhados. Pode não parecer tão amarga quanto as especificações indicam devido à maior gravidade final e dulçor residual. Não interprete mal a leve secura torrada como defumado; fumaça não está presente nessas cervejas. As versões americanizadas geralmente são maiores em força (semelhante ao tratamento americano das Irish Red Ales).
+Veja a introdução da categoria para comentários detalhados. Pode não parecer tão amarga quanto as especificações indicam devido à maior gravidade final e dulçor residual. Não interprete errado a leve secura torrada como defumado; fumaça não está presente nessas cervejas. As versões americanizadas geralmente são maiores em força (semelhante ao tratamento americano das Irish Red Ales).
 
 ## História
 
