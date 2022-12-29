@@ -6,17 +6,17 @@ Uma integração harmoniosa de frutas e cerveja, mas ainda sim reconhecível com
 
 ## Aparência
 
-Varia de acordo com o estilo base e ingredientes especiais. Cervejas de cor mais clara devem mostrar as cores distintas dos ingredientes, incluindo a espuma. A cor da fruta na cerveja é geralmente mais clara do que a cor da polpa da própria fruta e pode ter tons ligeiramente diferentes. Limpidez varia, ainda que turbidez seja geralmente não desejável. Alguns ingredientes podem impactar a retenção de espuma.
+Varia de acordo com o estilo base e ingredientes especiais. Cervejas de cor mais clara devem mostrar as cores distintas dos ingredientes, incluindo o colarinho. A cor da fruta na cerveja é geralmente mais clara do que a cor da polpa da própria fruta e pode ter tons ligeiramente diferentes. Limpidez varia, ainda que turbidez seja geralmente não desejável. Alguns ingredientes podem impactar a retenção de colarinho.
 
 ## Aroma
 
-Varia de acordo com o estilo base. O caráter de fruta deve ser notável no aroma; entretanto, algumas frutas (ex. framboesas, cerejas) têm aromas mais fortes e mais distintos do que outras (ex. mirtilos, morangos)  deve-se permitir uma faixa de caráter de fruta e intensidade de sútil a agressivo. Aroma de lúpulo pode ser mais baixo do que o esperado para o estilo base, para mostrar melhor o caráter da fruta. A fruta deve adicionar uma complexidade extra, mas não proeminente a ponto de desbalancear o produto final.
+Varia de acordo com o estilo base. O caráter de fruta deve ser notável no aroma; embora algumas frutas (ex. framboesas, cerejas) tenham aromas mais fortes e mais distintos do que outras (ex. mirtilos, morangos)  deve-se permitir uma faixa de caráter de fruta e intensidade de sútil a agressivo. Aroma de lúpulo pode ser mais baixo do que o esperado para o estilo base, para mostrar melhor o caráter da fruta. A fruta deve adicionar uma complexidade extra, mas não proeminente a ponto de desbalancear o produto final.
 
 ## Sabor
 
 Varia de acordo com o estilo base. Como no aroma, um distinto sabor de fruta deve ser notável, e pode variar de intensidade de sutil a agressiva, porém o caráter da fruta não deve ser tão artificial ou inapropriadamente dominante a ponto de sugerir um drinque de suco de frutas. Amargor, sabores de lúpulo e malte, teor alcoólico e subprodutos de fermentação, como ésteres, devem ser apropriados para o estilo base, porém harmoniosos e equilibrados com os distintos sabores de frutas presentes. A fruta geralmente adiciona sabor e não dulçor, já que os açúcares da fruta são, normalmente, totalmente fermentáveis, assim clareando o sabor e deixando o final mais seco. Entretanto, o dulçor residual não é necessariamente uma caraterística negativa, a não ser que tenha uma qualidade de não fermentado/cru. Algumas frutas podem adicionar azedume, amargor e taninos, que devem estar equilibrados com o perfil de sabor final.
 
-## Sensação na Boca
+## Sensação na boca
 
 Varia de acordo com o estilo base. A fruta muitas vezes diminui o corpo, e faz a cerveja parecer mais leve no palato. Algumas frutas menores e mais escuras podem adicionar uma profundidade tânica, mas essa adstringência não deve sobrepor o estilo base.
 
@@ -42,6 +42,5 @@ Fruit Beer (2015)
 
 ## Atributos do Estilo
 
-fruta, specialty-beer
-
+fruit, specialty-beer
 

@@ -6,11 +6,11 @@ Uma saborosa união entre frutas, especiarias e cerveja, mas ainda sim percebido
 
 ## Aparência
 
-Varia de acordo com o estilo base e ingredientes especiais. Cervejas de cor mais clara devem mostrar as cores distintas dos ingredientes, incluindo a espuma. A cor da fruta na cerveja é geralmente mais clara do que a cor da polpa da própria fruta e pode ter tons ligeiramente diferentes. Limpidez varia, ainda que turbidez seja geralmente não desejável. Alguns ingredientes podem impactar a retenção de espuma.
+Varia de acordo com o estilo base e ingredientes especiais. Cervejas de cor mais clara devem mostrar as cores distintas dos ingredientes, incluindo o colarinho. A cor da fruta na cerveja é geralmente mais clara do que a cor da polpa da própria fruta e pode ter tons ligeiramente diferentes. Limpidez varia, ainda que turbidez seja geralmente não desejável. Alguns ingredientes podem impactar a retenção de colarinho.
 
 ## Aroma
 
-Varia de acordo com o estilo base. O caráter de fruta e especiaria devem ser notáveis no aroma; entretanto, algumas frutas e especiarias (ex. framboesas, cerejas, canela, gengibre) têm aromas mais fortes e mais distintos do que outras (ex. mirtilos, morangos)  deve-se permitir uma faixa de caráter de fruta e especiaria em intensidade de sútil a agressivo. Aroma de lúpulo pode ser mais baixo do que o esperado para o estilo base, para mostrar melhor o caráter especial. Os ingredientes especiais devem adicionar uma complexidade extra, mas não proeminente a ponto de desbalancear o produto final.
+Varia de acordo com o estilo base. O caráter de fruta e especiaria devem ser notáveis no aroma; embora algumas frutas e especiarias (ex. framboesas, cerejas, canela, gengibre) tenham aromas mais fortes e mais distintos do que outras (ex. mirtilos, morangos)  deve-se permitir uma faixa de caráter de fruta e especiaria em intensidade de sútil a agressivo. Aroma de lúpulo pode ser mais baixo do que o esperado para o estilo base, para mostrar melhor o caráter especial. Os ingredientes especiais devem adicionar uma complexidade extra, mas não proeminente a ponto de desbalancear o produto final.
 
 ## Sabor
 
@@ -31,17 +31,17 @@ O participante deve especificar o tipo de fruta e o tipo de especiarias, ervas e
 
 ## Estatísticas
 
-G, FG, IBUs, SRM e ABV vão variar dependendo do estilo base, mas a fruta irá muitas vezes ser refletida na cor.
+OG, FG, IBUs, SRM e ABV vão variar dependendo do estilo base, mas a fruta irá muitas vezes impactar na coloração.
 
 ## Exemplos comerciais
 
 Cigar City Margarita Gose, Firestone Walker Chocolate Cherry Stout, Golden Road Spicy Mango Cart, Kona Island Colada Cream Ale, New Glarus Blueberry Cocoa Stout, Sun King Orange Vanilla Sunlight.
 
-## Revisões Anteriores
+## Revisões anteriores
 
 Fruit and Spice Beer (2015)
 
 ## Atributos do estilo
 
-fruta, specialty-beer, especiaria
+fruit, specialty-beer, spice
 
