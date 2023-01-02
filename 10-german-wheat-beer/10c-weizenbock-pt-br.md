@@ -1,46 +1,46 @@
 # 10C. Weizenbock
 
-## Overall Impression
+## Impressão Geral
 
-A strong and malty German wheat beer combining the best wheat and yeast flavors of a Weissbier with the rich maltiness, strength, and body of a Bock. The style range includes Bock and Doppelbock strength, with variations for pale and dark color.
+Uma cerveha de trigo alemã forte e maltada combinando os melhores sabores de trigo e levedura de uma weissbier com a riqueza maltada, potência e corpo de uma Bock. As variações do estilo vão da potência de uma Bock até uma Doppelbock, com variações de cor clara e escura.
 
-## Appearance
+## Aparência
 
-Very thick, moussy, long-lasting head. Can be hazy and have a shine from wheat and yeast, although this can settle out with age. Dark versions are dark amber to dark ruby-brown in color, with a light tan head. Pale versions are gold to amber in color, with a very white to off-white head.
+Colarinho muito espesso, como mousse, e duradouro. Pode ser turva e ter um brilho derivado do trigo e da levedura embora isso possa sedimentar com o tempo. Versões escuras vão de cor âmbar escuro a marrom-rubi escuro, com uma colarinho de cor bronzeado claro. Versões claras vão de cor dourado a âmbar, com um colarinho muito branco a quase branco
 
 ## Aroma
 
-Medium-high to high malty richness with a significant bready, grainy wheat character. Medium-low to medium-high weizen yeast character, typically banana and clove. Vanilla accents optional. No hops. Low to moderate alcohol, not hot or solventy. The malt, yeast, and alcohol are well balanced, complex, and inviting. Bubblegum (strawberry with banana), sourness, or smoke are faults. Dark versions have a deeper, highly toasted, bready malt richness with significant Maillard products, similar to a Dunkles Bock or dark Doppelbock. They can also have caramel and dark fruit esters, like plums, prunes, dark grapes, fruit leather, and raisins, particularly as they age. Pale versions have a grainy-sweet, bready, toasty malty richness, similar to a Helles Bock or pale Doppelbock.
+Maltado rico de médio-alto a alto com caráter significante de trigo como pão e grãos. Caráter de levedura weizen de médio-baixo a médio-alto, tipicamente banana e cravo. Toques de baunilha é opcional. Sem lúpulos. Álcool de baixo a moderado, não é quente nem como solvente. O malte, levedura e álcool são bem equilibrados, complexos e convidativos. Bubblegum (morango com banana), acidez ou defumado são falhas. Versões escuras tem um maltado rico de produtos de Maillard profundo, altamente tostado e como pão, similar a uma Dunkles Bock ou uma Doppelbock escura. Elas também podem ter caramelo e esteres lembrando frutas escuras como ameixa, ameixa seca, uvas escuras, casca de fruta e passas, particularmente conforme envelhecem. Versões claras tem um maltado rico doce como grãos, pão e tostado, similar a uma Helles Bock ou uma Doppelbock clara.
 
-## Flavor
+## Sabor
 
-Medium-high to high malty richness with significant bready, grainy wheat flavor. Low to moderate banana and spice (clove, vanilla) yeast character. No hop flavor. Low to medium-low bitterness can give a slightly sweet palate impression, but the beer typically finishes dry. Light alcohol can enhance this character. The interplay between the malt, yeast, and alcohol adds complexity and interest, which is often enhanced with age. Bubblegum, sourness, or smoke are faults. Dark versions have deeper, richly bready or toasty malt flavors with significant Maillard products, optionally with caramel or light chocolate but not roast. Can have some dark fruit esters like plums, prunes, dark grapes, fruit leather, or raisins, particularly as they age. Pale versions have a bready, toasty, grainy-sweet malt richness.
+Maltado rico de médio-alto a alto com sabor significante de trigo como pão e grãos. Caráter de levedura como banana e condimentado (cravo, baunilha) de baixo a moderado. Sem sabor de lúpulo. Amargor de baixo a médio-baixo pode dar uma impressão ligeiramente doce  mas a cerveja tipicamente tem um final seco. Álcool leve pode realçar esse caráter. A interação entre o malte, levedura e álcool adiciona complexidade e deixa a cerveja interessante o que muitas vezes é aprimorado com o tempo. Bubblegum, acidez ou defumado são falhas. Versões escuras tem sabores de malte mais profundos e ricos vindos da reação de Maillard como pão ou tostado, opcionalmente caramelo ou leve chocolate mas não torrado. Pode ter esteres lembrando frutas escuras como ameixa, ameixa seca, uvas escuras, casca de fruta ou passas, particularmente conforme envelhecem. Versões claras tem um maltado rico como pão, tostado e doce como grãos.
 
-## Mouthfeel
+## Sensação na Boca
 
-Medium-full to full body. Soft, smooth, fluffy or creamy texture. Mild alcohol warmth. Moderate to high carbonation.
+Corpo de médio-crio a cheio. Textura macia, suave, fofa ou cremosa. Leve aquecimento alcoólico. Carbonatação de moderada a alta.
 
-## Comments
+## Comentários
 
-A Weissbier brewed to bock or doppelbock strength, although Schneider also produces an Eisbock version. Pale and dark versions exist, but dark is most common. Lightly oxidized Maillard products can produce some rich, intense flavors and aromas that are often seen in aged imported commercial products; fresher versions will not have this character. Well-aged examples might also take on a slight sherry-like complexity. Pale versions, like their doppelbock cousins, have less rich malt complexity and often more hop-forward. However, versions that have significant late hops or are dry-hopped should be entered in 34B Mixed-Style Beer.
+Uma Weissbier brassada com a potência de uma bock ou uma doppelbock, ainda que a Schneider também produza uma versão Eisbock. Existem versões claras e escuras mas a versão escura é a mais comum. Produtos de Maillard levemente oxidados podem produzir alguns sabores e aromas ricos e intensos que muitas vezes são vistos em produtos comerciais importados envelhecidos. Versões mais frescas não terão esse caráter. Exemplares bem envelhecidos podem ter uma leve complexidade como xerez. Versões claras, assim como suas primas doppelbocks, vão ver menos complexidade rica de malte e muitas vezes ser mais inclinadas para o lúpulo. Entretando, versões que tem uma carga de lúpulos tardios significante ou levam dry-hop devem ser inscritas na categoria 34B Mixed-Style Beer.
 
-## History
+## História
 
-Dopplebock-strength Aventinus was created in 1907 at the Schneider Weisse Brauhaus in Munich. Pale versions are a much more recent invention.
+A Aventinus com potência de uma Doppelbock foi criada em 1907 na Schneider Weisse Brauhaus em Munique. Versões claras são uma invenção muito mais recente
 
-## Characteristic Ingredients
+## Ingredientes
 
-Malted wheat, at least half the grist. Munich, Vienna, or Pilsner malt. Color malts may be used sparingly. Decoction mash traditional. Weizen yeast, cool fermentation temperatures.
+Pelo menos metade da lista de grãos de trigo malteado. Malte Munich, Vienna ou Pilsner. Maltes para cor podem ser usados com moderação. Mostura por decocção é tradicional. Levedura Weizen e fermentação a temperatura fria.
 
-## Style Comparison
+## Comparação de Estilo
 
-Stronger and richer than a Weissbier or Dunkles Weissbier, but with similar yeast character. More directly comparable to the Doppelbock style, with the pale and dark variations. Can vary widely in strength, but most are in the Bock to Doppelbock range.
+Mais forte e mais rica que uma Weissbier ou uma Dunkles Weissbier, mas com o caráter de levedura similar. Mais diretamente comparável o estilo Doppelbock com variações claras e escuras. Pode variar muito em potência mas a maioria estão entre uma Bock e uma Doppelbock.
 
-## Entry Instructions
+## Instruções para inscrição
 
-The entrant will specify whether the entry is a pale (SRM 6-9) or a dark (SRM 10-25) version.
+O participante deve especificar se a amostra é uma versão clara (SRM entre 6-9) ou escura (SRM entre 10-25).
 
-## Vital Statistics
+## Estatísticas
 
 IBU: 15 - 30
 SRM: 6 - 25
@@ -48,14 +48,15 @@ OG: 1.064 - 1.090
 FG: 1.015 - 1.022
 ABV: 6.5% - 9%
 
-## Commercial Examples
+## Exemplos Comerciais
 
-Dark – Plank Bavarian Dunkler Weizenbock, Penn Weizenbock, Schalchner Weisser Bock, Schneider Weisse Aventinus; Pale –Ayinger Weizenbock, Distelhäuser Weizen Bock, Ladenburger Weizenbock Hell, Weihenstephaner Vitus
+Escura – Plank Bavarian Dunkler Weizenbock, Penn Weizenbock, Schalchner Weisser Bock, Schneider Weisse Aventinus;
+Clara – Ayinger Weizenbock, Distelhäuser Weizen Bock, Ladenburger Weizenbock Hell, Weihenstephaner Vitus
 
-## Past Revision
+## Revisões Anteriores
 
 Weizenbock (2015)
 
-## Style Attributes
+## Atributos de Estilo
 
 amber-color, central-europe, high-strength, malty, pale-color, top-fermented, traditional-style, wheat-beer-family
