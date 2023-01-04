@@ -1,8 +1,9 @@
 # 24C. Bière de Garde
+Cerveja de Guarda
 
 ## Impressão geral
 
-Uma família de cervejas artesanais francesas suaves, bastante fortes, maltadas e maturadas a frio; com uma variedade de sabores de malte apropriados para a cor dourada, âmbar ou marrom. Todas são maltadas, contudo, ainda são secas e com sabores limpos. Versões mais escuras têm mais caráter de malte, enquanto versões mais claras podem ter mais lúpulo, apesar de ainda serem cervejas focadas no malte.
+Uma família de cervejas artesanais francesas suaves, bastante fortes, maltadas e maturadas a frio (lagering); com uma variedade de sabores de malte apropriados para a cor dourada (blonde), âmbar (ambrée) ou marrom (brune). Todas são maltadas, contudo, são secas e com sabores limpos. Versões mais escuras têm mais caráter de malte, enquanto as versões mais claras podem ter mais lúpulo, embora ainda sejam cervejas focadas no malte.
 
 ## Aparência
 
@@ -10,11 +11,11 @@ Existem variações de dourado, âmbar e marrom, com variação de cor: de doura
 
 ## Aroma
 
-Proeminente riqueza de malte, muitas vezes com intensidade complexa, de leve a moderada, tostado e com notas de pão. Ésteres baixos a moderados. Lúpulos pouco condimentados, apimentados ou herbáceos são opcionais. Geralmente bastante limpa, embora as versões mais fortes possam ter uma leve nota de álcool picante à medida que aquece. As versões mais claras ainda são maltadas, mas carecem de aromas mais ricos e profundos e podem ter um pouco mais de lúpulo.
+Proeminente riqueza de malte, muitas vezes com intensidade complexa, de leve a moderada, tostado e com notas de pão. Ésteres de baixos a moderados. Lúpulos pouco condimentados, apimentados ou herbáceos são opcionais. Geralmente bastante limpa, embora as versões mais fortes possam ter uma leve nota de álcool picante à medida que aquece. As versões mais claras ainda são maltadas, mas carecem de aromas mais ricos e profundos e podem ter um pouco mais de lúpulo.
 
 ## Sabor
 
-Riqueza de malte média a alta, muitas vezes com caráter tostado, biscoito, toffee ou leve caramelo. Ésteres e sabores alcoólicos baixos a moderados. Amargor de lúpulo médio baixo, trazendo um equilíbrio maltado ao paladar e retrogosto. Final meio seco a seco, não pode ser doce, enjoativo ou pesado. Sabor de lúpulo picante, condimentado ou herbal opcional. Sabor, profundidade, riqueza, intensidade e complexidade do malte aumentam com a cor da cerveja. As versões mais escuras terão uma impressão inicial mais rica de malte do que as versões mais claras, mas não devem parecer torradas. Versões mais pálidas podem ter sabor de lúpulo um pouco maior.
+Riqueza maltada de média a alta, muitas vezes com caráter de tostado, de biscoito, toffee ou leve caramelo. Ésteres e sabores alcoólicos de baixos a moderados. Amargor de lúpulo médio baixo, trazendo um equilíbrio maltado ao paladar e retrogosto. Final de meio seco a seco, não pode ser doce, enjoativo ou pesado. Sabor de lúpulo picante, condimentado ou herbal são opcionais. Sabor, profundidade, riqueza, intensidade e complexidade do malte aumentam com a cor da cerveja. As versões mais escuras terão uma impressão inicial mais rica de malte do que as versões mais claras, mas não devem parecer torradas. Versões mais claras podem ter sabor de lúpulo ligeiramente maior.
 
 ## Sensação de Boca
 
@@ -22,11 +23,11 @@ Corpo médio a médio leve, geralmente com um caráter suave, sedoso e cremoso. 
 
 ## Comentários
 
-Adega, mofo, bolor ou caráter rústico frequentemente mencionados na literatura são sinais de amostras importadas em condições não favoráveis, não produtos frescos e autênticos. A idade e a oxidação também podem aumentar o sabor frutado e os sabores de caramelo, mas aumentam a aspereza. Embora caramelo e frutas possam fazer parte do estilo, não confunda o caráter de oxidação com a apropriada cerveja base.
+Adega, mofo, bolor ou caráter rústico frequentemente mencionados na literatura são sinais de amostras importadas em condições não favoráveis e não de produtos frescos e autênticos. A idade e a oxidação também podem aumentar o sabor frutado e os sabores de caramelo, mas aumentam a aspereza. Embora caramelo e frutas possam fazer parte do estilo, não se deve confundir esse caráter de oxidação com a cerveja base apropriada.
 
 ## História
 
-O nome significa, de um modo geral, cerveja para guardar. Uma tradicional cerveja artesanal de áreas rurais (farmhouse) ao redor de Lille, no norte da França. Historicamente produzida no início da primavera e mantida em adegas frias para consumo em dias mais quentes. Embora documentado como existindo em 1800, Jenlain é a versão prototípica da cerveja âmbar moderna engarrafada pela primeira vez na década de 1940.
+O nome significa, de um modo geral, cerveja para guardar. Uma tradicional cerveja artesanal de áreas rurais (farmhouse) ao redor de Lille, no norte da França. Historicamente, produzida no início da primavera e mantida em adegas frias para consumo em dias mais quentes. Embora documentado como existente em 1800, Jenlain é a versão prototípica da cerveja âmbar moderna engarrafada pela primeira vez na década de 1940.
 
 ## Ingredientes Característicos
 
@@ -38,7 +39,7 @@ Chamar esta cerveja de farmhouse convida a comparações com a Saison, que tem u
 
 ## Instruções de Entrada
 
-O participante deve especificar Bière de Garde blond, amber, ou brown. Se nenhuma cor for especificada, o juiz deve tentar julgar com base na observação inicial, esperando um sabor e equilíbrio de malte que correspondam à cor.
+O participante deve especificar Bière de Garde loira (blonde), âmbar (ambrée) ou marrom (brune). Se nenhuma cor for especificada, o juiz deve tentar julgar com base na observação inicial, esperando um sabor e equilíbrio de malte que correspondam à cor.
 
 ## Estatísticas vitais
 
