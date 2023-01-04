@@ -16,7 +16,7 @@ Notas de malte variam de médio-baixo ao baixo, lembrando doce e milho. Baixo DM
 
 Baixo a médio-baixo amargor de lúpulo. Baixo a médio-baixo dulçor de malte, variando de acordo com a gravidade original e atenuação. O perfil de malte é geralmente neutro, possivelmente granulado ou biscoito cracker. Geralmente bem atenuado e sabor balanceado, com lúpulos aparecendo somente para suportar o malte. Um baixo à moderado sabor de milho é normalmente encontrado, mas baixo DMS é opcional. O final pode variar do leve, seco e bem definido ao leve doce. Perfil de fermentação limço, mas baixo frutado é opcional. Aroma de lúpulo médio-baixo é opcional, podendo ser de qualquer variedade, porém, notas de flora, condimentado e herbal são mais comuns. Sutil.
 
-## Sensação de Boca
+## Sensação na Boca
 
 Geralmente leve e bem definida, embora o corpo pode ser médio. Sensação de boca leve com atenuação média a alta. Uma atenuação mais alta pode dar a percepção de "matadora de sede". Alta carbonatação.
 

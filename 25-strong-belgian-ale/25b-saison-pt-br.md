@@ -17,7 +17,7 @@ Uma mistura agradavelmente aromática de condimentado-frutado oriundos dos lúpu
 
 Um equilíbrio levedura frutada e condimentada, o amargor do lúpulo e o maltado oriundo dos grãos com moderado a alto amargor e um final muito seco. Os aspectos frutados e o condimentados são médio-baixo a médio-alto e o sabor do lúpulo é de baixo a médio, ambos com características semelhantes ao do aroma (são aplicados os mesmos descritores). Na boca, o malte é suave com perfil de grãos e varia de baixo a médio. A atenuação é muito alta, nunca com um final doce ou pesado. Retrogosto condimentado, amargo. Especiarias e ervas são opcionais, mas quando utilizados devem estar em harmonia com a levedura. Acidez é opcional (veja Comentários). Versões escuras terão mais caráter de malte, incluindo o sabores oriundos dos maltes escuros. Versões mais fortes terão mais intensidade de malte e leve nota alcoólica.
 
-## Sensação de Boca
+## Sensação na Boca
 
 Corpo de leve a médio-leve. Carbonatação são muito altas. Efervescente. Leve aquecimento alcoólico é opcional. Acidez é rara e opcional (veja comentários). Versões mais fortes podem ter até corpo médio algum aquecimento alcoólico. As versões de mesa não possuem aquecimento.
 

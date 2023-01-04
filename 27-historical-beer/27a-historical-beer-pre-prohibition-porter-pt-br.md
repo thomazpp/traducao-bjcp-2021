@@ -16,7 +16,7 @@ Aroma de malte como grãos, com baixos níveis de chocolate, caramelo, biscoito,
 
 Sabor moderado de malte que remete a grãos e pão, com baixos níveis de chocolate, malte queimado, açúcar queimado, caramelo, biscoito, alcaçuz, melaço ou tosta. Sabor de milho ou DMS aceitável em níveis baixos a moderados. Amargor médio-baixo a moderado. Baixo sabor de lúpulo floral, condimentado ou terroso opcional. O equilíbrio é tipicamente nivelado entre o malte e o lúpulo, com um final moderadamente seco. Perfil de fermentação limpo, entretanto, ésteres leves são permitidos.
 
-## Sensação de Boca
+## Sensação na Boca
 
 Corpo médio-baixo a médio. Carbonatação moderada. Cremosidade baixa a moderada. Pode ter uma leve adstringência de malte escuro.
 

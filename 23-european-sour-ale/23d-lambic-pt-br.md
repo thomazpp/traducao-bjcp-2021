@@ -16,7 +16,7 @@ As versões jovens podem ser bastante ácidas e frutadas, mas com o tempo podem 
 
 As versões jovens costumam ter uma forte acidez láctica com sabores frutados (mesmos descritores do aroma), enquanto as versões envelhecidas são mais equilibradas e complexas. Notas funky podem se desenvolver ao longo do tempo, os mesmos descritores de aroma. Malte de baixo teor como pão e grãos. Amargor geralmente abaixo do limiar sensorial; a acidez fornece o equilíbrio. Sem sabor de lúpulo. Final seco, aumentando com o tempo. Não deve apresentar defeitos entéricos, defumados semelhantes a charutos ou de queijo.
 
-## Sensação de Boca
+## Sensação na Boca
 
 Corpo baixo a médio-baixo; não deve ser aguada. Tem uma acidez média a alta, trazendo a capacidade de franzir o rosto sem ser acentuadamente adstringente. As versões tradicionais são virtualmente a completamente não carbonatadas, mas os exemplares engarrafados podem adquirir carbonatação moderada com o tempo.
 

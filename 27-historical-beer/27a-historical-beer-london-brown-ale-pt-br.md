@@ -2,7 +2,7 @@
 
 ## Impressão Geral
 
-Uma brown ale de baixo teor alcoólico, deliciosa, doce e maltada, com complexidade de malte como caramelo e toffee e um final de sabor doce. 
+Uma brown ale de baixo teor alcoólico, deliciosa, doce e maltada, com complexidade de malte como caramelo e toffee e um final de sabor doce.
 
 ## Aparência
 
@@ -16,7 +16,7 @@ Aroma moderado de dulçor de malte, muitas vezes com um rico caráter de caramel
 
 Profundo sabor doce de malte tipo caramelo ou toffee no paladar, durando até o final, frequentemente com notas de biscoito e café. Alguns ésteres de frutas escuras podem estar presentes; perfil de fermentação relativamente limpo para uma cerveja inglesa. Baixo amargor. Baixo sabor de lúpulo terroso ou floral opcional, mas raro. Sabor moderadamente baixo de malte torrado ou amargor de malte escuro opcional. Final moderadamente doce com retrogosto suave e maltado. Pode ter um sabor doce açucarado.
 
-## Sensação de Boca
+## Sensação na Boca
 
 Corpo médio, mas a doçura residual pode dar uma impressão mais encorpada. Carbonatação média-baixa a média. Bastante cremosa e de textura suave, particularmente pela sua gravidade.
 

@@ -16,7 +16,7 @@ Aroma de lúpulo moderado a forte, muitas vezes com um caráter de frutas de car
 
 Sabor de lúpulo médio a muito alto, mesmos descritores do aroma. Suporte do malte limpo, médio baixo a médio, com os mesmos descritores do aroma. As escolhas de malte e lúpulo não devem produzir conflitos de sabor. Amargor médio alto a muito alto, sem aspereza. Final seco a médio, com um retrogosto amargo, lupulado e maltado. Ésteres baixos opcionais. Sabor de álcool muito baixo opcional. O malte não deve ofuscar o sabor e o amargor do lúpulo no equilíbrio.
 
-## Sensação de Boca
+## Sensação na Boca
 
 Corpo médio leve a médio, com uma textura macia. Carbonatação média a média alta. Sem aspereza. Leve aquecimento opcional.
 

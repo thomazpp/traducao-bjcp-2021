@@ -15,10 +15,10 @@ Rico aroma de malte de intensidade moderada que pode ser como pão e dominantes 
 ## Sabor
 
 O sabor de malte complexo é dominante (médio a médio-alto), embora sua natureza possa variar de seco e dominantes produtos de Maillard a caramelo e quase doce. Alguns exemplares tem o caráter doce de malte a biscoito cracker. Baixo a moderado sabor condimentado de lúpulo. Amargor de lúpulo proeminente, mas limpo, que proporciona um final equilibrado. Ésteres sutis como ameixa e baga são opcionais. Baixo diacetil opcional. Sem sabores de malte torrado. O final pode variar de seco e lupulado a relativamente doce.
-  
-## Sensação de boca
 
-Corpo médio a médio-alto. Suave e arredondada, frequentemente com uma cremosidade delicada. Carbonatação baixa a moderada. 
+## Sensação na Boca
+
+Corpo médio a médio-alto. Suave e arredondada, frequentemente com uma cremosidade delicada. Carbonatação baixa a moderada.
 
 ## Comentários
 

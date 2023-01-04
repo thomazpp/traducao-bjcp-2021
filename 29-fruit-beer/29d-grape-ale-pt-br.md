@@ -10,13 +10,13 @@ A cor pode variar de dourado claro a rubi, mas aquelas que usam uvas vermelhas t
 
 ## Aroma
 
-As características aromáticas da variedade da uva são perceptíveis, mas não deve dominar. O carácter da uva deve fundir-se bem com o caráter do malte base subjacente. Embora o aroma do lúpulo seja geralmente contido, pode variar de médio-baixo a totalmente ausente. A fermentação é geralmente bastante limpa, mas pode ter especiarias delicadas e ésteres frutados. Banana, tutti-frutti e similares são considerados falhas. 
+As características aromáticas da variedade da uva são perceptíveis, mas não deve dominar. O carácter da uva deve fundir-se bem com o caráter do malte base subjacente. Embora o aroma do lúpulo seja geralmente contido, pode variar de médio-baixo a totalmente ausente. A fermentação é geralmente bastante limpa, mas pode ter especiarias delicadas e ésteres frutados. Banana, tutti-frutti e similares são considerados falhas.
 
 ## Sabor
 
 Assim como no aroma, o caráter da uva pode variar de intensidade sutil a média-alta e ser mais proeminente. Sabores de frutas (tropical, vermelhas, de caroço, etc.) adequado a variedade da uva utilizada. Uvas vermelhas mais escuras podem contribuir com sabores mais rústicos (por exemplo, terroso, tabaco, couro). O caráter de malte é de suporte, não deve ser forte e geralmente deve ser de variedade clara, levemente tostada. Níveis muito baixos de malte cristal claro são permitidos, mas o caráter torrado ou forte de chocolate é sempre inadequado. O amargor é geralmente baixo e os sabores de lúpulo podem ser baixos a inexistentes. Notas acidas suaves, devido à variedade e quantidade de uva utilizada, são comuns e podem ajudar a melhorar a digestibilidade, mas não devem se aproximar do limite do “azedo”. Carvalho complementar é opcional, mas um caráter funky de Brettanomyces não deve estar presente. Fermentação limpa.
 
-## Sensação de Boca
+## Sensação na Boca
 
 A carbonatação média-alta a alta melhora a percepção do aroma. O corpo é geralmente de baixo a médio e alguma acidez pode contribuir para aumentar a percepção de secura. O final é extremamente seco e bem definido. Exemplos fortes no teor alcoólico podem mostrar algum aquecimento.
 

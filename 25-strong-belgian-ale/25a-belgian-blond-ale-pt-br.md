@@ -17,7 +17,7 @@ Maltado de intensidade leve a moderada que remete a adocicado de grãos, levemen
 
 Semelhante ao aroma, sendo percebido primeiro um sabor maltado doce de grãos que pode ser de leve a moderado. Pode ser percebido levemente na boca um adocicado que remete a açúcar caramelizado ou doçura de mel. Amargor médio, com o malte levemente superior no equilíbrio. Perfil de levedura de baixo a moderado, com ésteres que remetem a limões e laranjas, bem como leve fenólico picante-condimentado. Pode ter um perfil perfumado leve. Sabor leve de lúpulo, que pode ser terroso ou picante, complementando a levedura. Final de médio-seco a seco, macio e suave, com álcool leve e a malte no retrogosto.
 
-## Sensação de Boca
+## Sensação na Boca
 
 Carbonatação de médio-alta a alta, que pode dar a sensação borbulhante que enche a boca. Corpo médio. Leve a moderado aquecimento alcoólico, mas suave. Pode ser cremosa.
 
@@ -31,7 +31,7 @@ O desenvolvimento do estilo é relativamente recente para atender ao apelo de be
 
 ## Ingredientes Característicos
 
-Malte pilsen belga, maltes aromáticos, açúcar e outros adjuntos, cepas de leveduras belgas tipo Abbey, lúpulos continentais. Especiarias não são tradicionalmente utilizados, mas quando presentes, devem possuir apenas um caráter de fundo. 
+Malte pilsen belga, maltes aromáticos, açúcar e outros adjuntos, cepas de leveduras belgas tipo Abbey, lúpulos continentais. Especiarias não são tradicionalmente utilizados, mas quando presentes, devem possuir apenas um caráter de fundo.
 
 ## Comparação de Estilos
 

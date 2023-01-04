@@ -16,7 +16,7 @@ Lúpulo moderado a moderadamente alto que remete a floral, picante ou herbal. Ba
 
 O sabor inicial de malte é rapidamente superado pelo sabor e amargor do lúpulo, levando a um final seco e bem definido. Sabores de malte e lúpulo similares ao aroma (mesmos descritores e intensidades). Amargor médio a alto, persistente no retrogosto junto com um toque de malte e lúpulo. Perfil de fermentação limpo. A mineralização da água pode acentuar e alongar o final seco. O lúpulo e o malte podem diminuir com o tempo, mas a cerveja deve ter sempre um amargor equilibrado.
 
-## Sensação de boca
+## Sensação na Boca
 
 Corpo médio-baixo. Carbonatação média a alta. Não deve ser sentida como pesada. Sem aspereza, mas pode apresentar uma nitidez mineral em alguns exemplares.
 
@@ -27,7 +27,7 @@ Exemplos modernos da Pils tendem a se tornar mais claros na cor, mais secos e n�
 ## História
 
 Adaptada da Pilsner Tcheca para se adequar às condições de produção cervejeira da Alemanha, particularmente água com maior teor de minerais e variedades de lúpulo nacionais. Fabricada pela primeira vez na Alemanha no início da década de 1870. Tornou-se mais popular após a Segunda Guerra Mundial, quando as escolas cervejeiras alemãs enfatizaram as técnicas modernas. Junto com sua “prima” Czech Pilsner, é a ancestral dos estilos de cerveja mais amplamente produzidos atualmente.
- 
+
 ## Ingredientes Característicos
 
 Malte Pilsner continental. Lúpulos tradicionais alemães. Levedura lager alemã limpo.

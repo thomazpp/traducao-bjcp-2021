@@ -16,7 +16,7 @@ Moderadamente ácida com caráter funky complexo, mas equilibrada, acentuada por
 
 Ácido e funky no paladar, com um caráter similar ao do aroma (mesmos descritores e intensidades se aplicam ao caráter funky e frutas). Malte de baixo teor como pão e grãos. Amargor baixo a nenhum; a acidez fornece a maior parte do equilíbrio. Sem sabor de lúpulo. Final seco e bem definido, com um retrogosto ácido e funky. Carvalho leve, baunilha e mel são aceitáveis. Não deve apresentar defeitos entéricos, defumados semelhantes a charutos ou de queijo. A cerveja não deve ser unidimensionalmente ácida; uma apresentação equilibrada e moderadamente ácida é clássica, com as notas frutadas e funky proporcionando complexidade. Pode ser envelhecida.
 
-## Sensação de Boca
+## Sensação na Boca
 
 Corpo baixo a médio-baixo; não deve ser aguada. Tem uma acidez de baixa a alta, trazendo a capacidade de franzir o rosto sem ser acentuadamente adstringente. Algumas versões têm um caráter de aquecimento muito leve. Altamente carbonatada.
 

@@ -14,11 +14,11 @@ Aroma fraco de malte. Médio-baixo arama de malte como caramelo ou torra é opci
 
 ## Sabor
 
-Baixo a médio dulçor de malte. Médio-baixo sabor de malte caramelo ou torrado é opcional, possivelmente com notas de café, melaço, açúcar mascavo ou cacau. Baixo sabor de lúpulo floral, herbal ou condimentado é opcional. Amargor baixo a médio. Pode apresentar um caráter frutado muito leve. Final moderadamente bem definido. O equilíbrio é tipicamente maltado. Sabores moderadamente fortes de malte torrado ou queimado são inapropriados. 
+Baixo a médio dulçor de malte. Médio-baixo sabor de malte caramelo ou torrado é opcional, possivelmente com notas de café, melaço, açúcar mascavo ou cacau. Baixo sabor de lúpulo floral, herbal ou condimentado é opcional. Amargor baixo a médio. Pode apresentar um caráter frutado muito leve. Final moderadamente bem definido. O equilíbrio é tipicamente maltado. Sabores moderadamente fortes de malte torrado ou queimado são inapropriados.
 
-## Sensação de boca
+## Sensação na Boca
 
-Corpo baixo a médio-baixo. Suave, com leve cremosidade. Carbonatação média a alta. 
+Corpo baixo a médio-baixo. Suave, com leve cremosidade. Carbonatação média a alta.
 
 ## Comentários
 

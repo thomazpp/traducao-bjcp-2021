@@ -16,7 +16,7 @@ Malte rico como pão de leve a moderado combinado com um buquê de lúpulo condi
 
 Sabor de malte rico como pão de médio-baixo a médio com um final lupulado e arredondado. Sabor de lúpulo condimentado ou de ervas de baixo a médio-alto. Amargor é proeminente mas nunca é áspero. Saborosa e refrescante. Diacetil ou esteres frutados são aceitáveis em níveis baixos mas não precisam estar presentes nem devem dominar.
 
-## Sensação de boca
+## Sensação na Boca
 
 Corpo médio-baixo e médio. Carbonatação moderada.
 

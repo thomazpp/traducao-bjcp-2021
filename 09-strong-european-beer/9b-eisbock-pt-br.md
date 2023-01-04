@@ -2,7 +2,7 @@
 
 ## Impressão Geral
 
-Uma lager alemã escura, forte, encorpada, rica e maltada, frequentemente com uma qualidade viscosa e sabores fortes. Mesmo que os sabores sejam concentrados, o álcool deve ser suave com leve aquecimento, sem provocar sensação de aquecimento excessivo. 
+Uma lager alemã escura, forte, encorpada, rica e maltada, frequentemente com uma qualidade viscosa e sabores fortes. Mesmo que os sabores sejam concentrados, o álcool deve ser suave com leve aquecimento, sem provocar sensação de aquecimento excessivo.
 
 ## Aparência
 
@@ -16,13 +16,13 @@ Dominado por um malte intenso e rico e pela presença marcante de álcool. O mal
 
 Malte rico e doce equilibrado por uma presença significativa de álcool. O malte pode ter produtos de Maillard, caráter tostado, um pouco de caramelo e, ocasionalmente, um leve sabor de chocolate. Pode ter significativos ésteres de frutas escuras derivados do malte. O amargor do lúpulo compensa o dulçor do malte o suficiente para evitar um caráter enjoativo. Sem sabor de lúpulo. O álcool ajuda a equilibrar a forte presença do malte. O final deve ser rico em malte com certa secura do álcool. Não deve possuir caráter de xarope, viscosidade ou dulçor enjoativo. Perfil de fermentação limpo
 
-## Sensação de Boca
+## Sensação na Boca
 
 Corpo cheio a muito cheio. Baixa carbonatação. Aquecimento alcoólico significativo sem ser acentuado. Muito macia e sedosa, sem aspereza de álcool, amargor, álcool superior ou outros sabores concentrados.
 
 ## Comentários
 
-Longa maturação a frio é necessária após o congelamento para suavizar o álcool e melhorar o equilíbrio entre o malte e o álcool. Pronuncia-se “ICE-bock.” 
+Longa maturação a frio é necessária após o congelamento para suavizar o álcool e melhorar o equilíbrio entre o malte e o álcool. Pronuncia-se “ICE-bock.”
 
 ## História
 

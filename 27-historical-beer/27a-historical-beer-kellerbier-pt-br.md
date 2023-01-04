@@ -16,7 +16,7 @@ Reflete o estilo base. Pode ter um caráter de pão e fermento adicionado pela l
 
 Reflete o estilo base. Pode ter um caráter de pão e fermento adicionado pela levedura. Versões claras podem ter um caráter de lúpulo mais robusto. As versões escuras podem ter um perfil de malte mais rico, mas nunca devem ter o caráter torrado. Pode ser um pouco mais amarga que o estilo base e um pouco mais pesada no final. Totalmente fermentada com um perfil de fermentação limpo; não deve apresentar defeitos que remetam a ovo, amanteigado, maçã ou similares.
 
-## Sensação de Boca
+## Sensação na Boca
 
 Reflete o estilo base. Pode ter um pouco mais de corpo e uma textura mais cremosa do que o estilo base. Carbonatação típica do estilo base, mas pode ser menor.
 

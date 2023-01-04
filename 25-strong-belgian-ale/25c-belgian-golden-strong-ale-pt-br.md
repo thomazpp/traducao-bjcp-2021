@@ -17,7 +17,7 @@ Um complexo buquê de ésteres frutados, lúpulos herbais e elevado álcool apim
 
 Perfil semelhante ao do aroma (são aplicados alguns descritores e intensidades) para ésteres, lúpulos, fenóis e álcool. Os ésteres como pêra, álcool apimentado, lúpulos herbais e sabores suaves de malte perduram na boca por longo tempo, durante o final seco e até retrogosto. O amargor é de médio a alto, acentuado pelo final seco e pela alta carbonatação, que permanece no retrogosto.
 
-## Sensação de Boca
+## Sensação na Boca
 
 Muito altamente carbonatada. Efervescente. Corpo de leve a médio, porém mais leve do que a gravidade pode sugerir. A carbonatação acentua a percepção de leveza. O aquecimento alcoólico é suave, mas perceptível, sem que seja quente ou que remeta a solvente.
 

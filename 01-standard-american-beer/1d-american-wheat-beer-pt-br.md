@@ -16,7 +16,7 @@ Baixo a moderado aroma de trigo, lembrando grão, pão e massa. Um baixo a moder
 
 Baixo a moderado forte sabor de trigo, lembrando grão, pão e massa, que pode persistir até o final. Pode ter dulçor moderado de malte ou pode finalizar bem seca e definida. Baixo a moderado amargor de lúpulo, que às vezes pode persistir até o final. Equilíbrada, mas pode ser levemente amarga. Sabor de lúpulo baixo a moderado com notas de cítrico, condimentado, floral e frutado. Ésteres em intensidade moderada são opcionais, sem banana, cravo e fenóis.
 
-## Sensação de Boca
+## Sensação na Boca
 
 Corpo médio-baixo ao médio. Carbonatação média-alta à alta. Leve cremosidade é opcional; cervejas de trigo às vezes possuem uma impressão leve e macia.
 

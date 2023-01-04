@@ -16,7 +16,7 @@ Aroma forte de malte e lúpulo dominam. O lúpulo é moderado a assertivo, mostr
 
 Sabores de malte e lúpulo semelhantes ao aroma (aplicam-se os mesmos descritores). Amargor moderadamente forte a agressivo, amenizado por um paladar rico e maltado. Sabor de lúpulo moderado a alto. Ésteres baixos a moderados. Álcool perceptível, mas não como solvente. Dulçor do malte moderadamente baixo a moderadamente alto, com um final um pouco maltado a seco, mas cheio. A idade geralmente seca a cerveja e suaviza os sabores. O equilíbrio é maltado, mas sempre é amarga.
 
-## Sensação de Boca
+## Sensação na Boca
 
 Encorpada e altamente viscosa, com uma textura aveludada e envolvente, diminuindo com a idade. Um aquecimento suave do álcool deve ser perceptível, mas não deve queimar. A carbonatação pode ser baixa a moderada, dependendo da idade e do acondicionamento.
 

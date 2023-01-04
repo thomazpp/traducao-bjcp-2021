@@ -16,7 +16,7 @@ Baixo a nenhum aroma de malte, caso presente, pode ser percebido como granulado,
 
 Relativamente neutra ao palato com um final fresco e seco. Sabor de granulado ou milho de baixo a médio-baixo, que pode ser percebido como doçura devido ao baixo amargor. Sabor de lúpulo de baixo a nenhum, podendo ter perfil de floral, picante ou herbal (embora seja raramente forte para ser detectado). Amargor de lúpulo de baixo a médio-baixo. Equilíbrio pode variar de ligeiramente maltado ao ligeiramente amargo, mas comumente equilibrada. A alta carbonatação pode realçar a sensação de frescor e o final seco. Caráter limpo de fermentação lager.
 
-## Sensação de Boca
+## Sensação na Boca
 
 Corpo baixo a médio-baixo. Carbonatação muito alta cria a sensação de gás carbônico na lingua.
 

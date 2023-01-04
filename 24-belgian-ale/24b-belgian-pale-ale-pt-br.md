@@ -17,7 +17,7 @@ Aroma moderado de malte de pão, que pode incluir notas tostadas, de biscoito ou
 
 Tem um sabor inicial macio, suave e moderadamente maltado com um perfil variável de tostado, de biscoito, de nozes, caramelo leve ou notas de mel. Frutado de moderado a moderadamente alto, com caráter de pêra, laranja, maçã ou limão. Caráter de lúpulo picante, herbal ou floral de médio baixo a baixo. Amargor médio alto a médio baixo, reforçado por fenólicos apimentados opcionais de baixo a muito baixo. Final de seco a equilibrado, com o lúpulo se tornando mais pronunciado no retrogosto daquelas com final mais seco. No geral bastante equilibrado, sem nenhum componente único de alta intensidade; inicialmente, o malte e o frutado são mais destacados, com um suporte do amargor e um caráter seco no final.
 
-## Sensação de Boca
+## Sensação na Boca
 
 Corpo médio a médio leve. Paladar suave. O nível de álcool é contido e qualquer caráter de aquecimento deve ser baixo, quando presente. Carbonatação média a média alta.
 

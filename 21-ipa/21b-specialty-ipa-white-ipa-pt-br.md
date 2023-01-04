@@ -16,7 +16,7 @@ Cor dourado claro a profundo. Tipicamente turva. Colarinho branco, denso e persi
 
 Ésteres moderados a altos, sabor de lúpulo médio baixo a médio alto e especiarias leves, todos com os mesmos descritores do aroma. Sabor de leve de malte, talvez um pouco de pão. Alto amargor. Final moderadamente seco e refrescante. Sabor de álcool, em segundo plano, opcional.
 
-## Sensação de Boca
+## Sensação na Boca
 
 Corpo médio leve. Carbonatação média a média alta. Adstringência leve de especiarias opcional. Leve aquecimento opcional.
 

@@ -16,7 +16,7 @@ Malte moderado como pão, geralmente com leves notas de mel ou baunilha. Aroma d
 
 Sabor agradável de malte de pão e grãos, muitas vezes com um caráter de mel ou baunilha. Moderado sabor frutado cítrico de casca de laranja. Sabores condimentados de ervas, que podem incluir coentro e outras especiarias, são comuns e devem ser sutis e equilibrados, não dominantes. Um sabor de lúpulo condimentado e terroso pode ser de baixo a nenhum e nunca ofusca as especiarias. O amargor do lúpulo é de baixo a médio baixo e suporta os sabores refrescantes de frutas e especiarias. Refrescantemente com um final seco e bem definido, sem retrogosto amargo ou áspero.
 
-## Sensação de Boca
+## Sensação na Boca
 
 Corpo médio leve a médio, muitas vezes apresentando maciez e leve cremosidade. Caráter efervescente vindo da alta carbonatação. Refrescância gerada pela carbonatação, secura e falta de amargor no final. Sem aspereza ou adstringência. Não deve ser excessivamente seca ou aguada, nem deve ser espessa e pesada.
 

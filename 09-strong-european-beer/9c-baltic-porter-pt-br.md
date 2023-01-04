@@ -16,7 +16,7 @@ Malte rico, muitas vezes contendo notas de caramelo, toffee, nozes, tostado prof
 
 Assim como no aroma, tem um rico maltado com uma mistura complexa e profunda de malte, ésteres de frutas secas e álcool. O malte pode ter uma complexidade de caramelo, toffee, nozes, melaço ou alcaçuz. Sabor torrado proeminente, porém suave, que não chega a ser queimado, semelhante à Schwarzbier. Leves toques de cassis e frutas secas escuras. Paladar suave e final cheio. O sabor do malte começa doce, mas os sabores de malte mais escuros dominam rapidamente e persistem durante o final seco, deixando um toque de café torrado ou alcaçuz e frutas secas no retrogosto. Amargor médio-baixo a médio, apenas para dar equilíbrio e não parecer enjoativo. Sabor de lúpulo levemente picante varia de nenhum a médio-baixo. Perfil de fermentação limpo.
 
-## Sensação de Boca
+## Sensação na Boca
 
 Geralmente bastante encorpada e suave, com calor alcoólico envelhecido que pode enganar. Carbonatação média a média-alta fazendo com que pareça com preenchimento de boca ainda mais envolvente. Não é pesada na língua devido ao nível de carbonatação.
 

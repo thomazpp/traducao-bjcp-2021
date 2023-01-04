@@ -16,7 +16,7 @@ A fruta especificada deve ser o aroma dominante, misturando-se bem com os aromas
 
 Combina o perfil de sabor de uma Gueuze (aplica-se a mesma descrição) com contribuições perceptíveis do sabor da fruta adicionada. As versões tradicionais são secas e ácidas, com sabor de frutas fermentadas. As versões modernas podem ter uma doçura variável, que pode compensar a acidez. Os sabores de frutas também desaparecem com o tempo e perdem sua vitalidade, portanto, podem ser de baixa a alta intensidade.
 
-## Sensação de Boca
+## Sensação na Boca
 
 Corpo baixo a médio-baixo; não deve ser aguada. Tem uma acidez de baixa a alta intensidade, trazendo a capacidade de franzir o rosto sem ser acentuadamente adstringente. Algumas versões têm um leve caráter de aquecimento. A carbonatação pode variar de efervescente a quase sem gás.
 

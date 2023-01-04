@@ -2,11 +2,11 @@
 
 ## Impressão Geral
 
-Uma lager Checa clara e refrescante com considerável caráter de malte e lúpulo e final prolongado. Os sabores de malte são complexos para uma cerveja do tipo Pilsner. O amargor é forte e limpo, mas sem aspereza, o que traz a impressão de um sabor arredondado e bem equilibrado, o que aumenta a facilidade em beber. 
+Uma lager Checa clara e refrescante com considerável caráter de malte e lúpulo e final prolongado. Os sabores de malte são complexos para uma cerveja do tipo Pilsner. O amargor é forte e limpo, mas sem aspereza, o que traz a impressão de um sabor arredondado e bem equilibrado, o que aumenta a facilidade em beber.
 
 ## Aparência
 
-Cor amarela médio a dourado intenso. Claridade brilhante a muito límpida. Espuma branca, cremosa e densa de longa duração. 
+Cor amarela médio a dourado intenso. Claridade brilhante a muito límpida. Espuma branca, cremosa e densa de longa duração.
 
 ## Aroma
 
@@ -16,7 +16,7 @@ Médio a médio-alto rico maltado como pão e médio-baixo a médio-alto bouquet
 
 Rico e complexo caráter de malte como pão, combinado com um amargor pronunciado, mas suave e arredondado e sabor de lúpulo floral e picante/condimentado. Os sabores do malte e do lúpulo vão de médio a médio-alto. O malte pode conter uma leve impressão de caramelo. O amargor é proeminente, mas nunca áspero. O final longo pode ser equilibrado em direção ao malte ou ao lúpulo, mas nunca é agressivamente inclinado em qualquer destas direções. Diacetil leve a moderadamente baixo e baixos ésteres derivados do lúpulo são aceitáveis, mas não precisam estar presentes.
 
-## Sensação de boca
+## Sensação na Boca
 
 Corpo médio. Carbonatação baixa a moderada.
 

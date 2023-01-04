@@ -17,7 +17,7 @@ Varia com o estilo base. Um aroma amadeirado de baixo a moderado geralmente est�
 
 Varia com o estilo base. A madeira geralmente contribui com um sabor amadeirado e, possivelmente, com um caráter distinto da variedade da madeira. A madeira nova pode adicionar uma impressão de madeira crua e recém-cortada. A madeira torrada ou carbonizada pode adicionar baunilha, caramelo, caramelo, pão torrado, nozes torradas, café, chocolate ou cacau, dependendo da variedade de madeira e do nível de torrada ou carvão. Os sabores derivados da madeira devem ser equilibrados, sustentados e perceptíveis, sem sem ser excessivo em relação ao estilo de cerveja base.
 
-## Sensação de Boca
+## Sensação na Boca
 
 Varia com o estilo base. Os taninos da madeira podem aumentar a percepção de corpo, além de potencializar a secura do final; alguma adstringência dos taninos da madeira é permitida. As características azedas ou ácidas devem ser baixas ou nulas e nunca perturbadoras.
 

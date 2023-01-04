@@ -10,13 +10,13 @@ Amarelo médio a dourado claro. Claridade brilhante. Possui uma delicada espuma 
 
 ## Aroma
 
-Baixo a muito baixo aroma de cereal maltado adocicado. Aroma sutil de frutas (maçã, pêra ou às vezes cereja) é opcional, mas bem-vindo. Baixo aroma de lúpulo floral, condimentado ou herbal é opcional. A intensidade dos aromas é bastante sutil, mas geralmente equilibrada, limpa, fresca e agradável. 
+Baixo a muito baixo aroma de cereal maltado adocicado. Aroma sutil de frutas (maçã, pêra ou às vezes cereja) é opcional, mas bem-vindo. Baixo aroma de lúpulo floral, condimentado ou herbal é opcional. A intensidade dos aromas é bastante sutil, mas geralmente equilibrada, limpa, fresca e agradável.
 
 ## Sabor
 
 Apresenta um delicado equilíbrio entre o sabor de malte, lúpulo, amargor e o caráter frutado, com final limpo e bem atenuado. De médio a médio-baixo caráter de malte como grãos pode apresentar notas muito leves de pão ou mel. O caráter de fruta pode ter um dulçor quase imperceptível. Amargor médio-baixo a médio. Baixo a moderadamente alto sabor de lúpulo floral, condimentado ou herbal; a maioria é de médio-baixo a médio. No início pode apresentar a impressão de um caráter de malte neutro a um leve dulçor de malte. Gosto suave e arredondado. O final é macio, seco e superficialmente bem definido, sem ser forte ou penetrante. Sem doçura residual perceptível. Embora o equilíbrio entre os componentes de sabor possa variar, nenhum deles é tão forte.
 
-## Sensação de boca
+## Sensação na Boca
 
 Corpo médio-baixo a médio; a maioria é médio-baixo. Carbonatação média a média-alta. Suave e macia, mas bem atenuada sem ser pesada. Sem aspereza.
 
@@ -26,7 +26,7 @@ Uma tradicional cerveja, de alta fermentação e maturada a frio, da cidade de C
 
 ## História
 
-Colônia tem uma tradição cervejeira desde a Idade Média, mas a cerveja agora conhecida como Kölsch foi desenvolvida no final dos anos 1800s como uma alternativa as lagers claras. Baixa fermentação foi na realidade proibido em Colônia. Kölsch é uma denominação protegida pela Kölsch Konvention (1986) e é restrita a cervejarias dentro e ao redor de Colônia. A Konvention simplesmente define a cerveja como uma “Vollbier” leve, altamente atenuada, com lúpulo acentuado, límpida e de alta fermentação.  
+Colônia tem uma tradição cervejeira desde a Idade Média, mas a cerveja agora conhecida como Kölsch foi desenvolvida no final dos anos 1800s como uma alternativa as lagers claras. Baixa fermentação foi na realidade proibido em Colônia. Kölsch é uma denominação protegida pela Kölsch Konvention (1986) e é restrita a cervejarias dentro e ao redor de Colônia. A Konvention simplesmente define a cerveja como uma “Vollbier” leve, altamente atenuada, com lúpulo acentuado, límpida e de alta fermentação.
 
 ## Ingredientes Característicos
 

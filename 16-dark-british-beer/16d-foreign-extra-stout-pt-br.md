@@ -16,7 +16,7 @@ Torra moderada a alta, como café, chocolate amargo ou grãos levemente queimado
 
 Torra moderada a alta, como café, chocolate amargo ou grãos levemente queimados, embora sem uma pegada forte. Ésteres de baixo a médio. Amargor médio a alto. Final moderadamente seco. Sabor moderado de lúpulo terroso, herbal ou floral opcional. Diacetil médio-baixo opcional.
 
-## Sensação de Boca
+## Sensação na Boca
 
 Corpo médio-cheio a cheio, muitas vezes com um caráter suave, às vezes cremoso. Pode ter um aquecimento alcoólico, mas não pode queimar. Carbonatação moderada a moderadamente alta.
 

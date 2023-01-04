@@ -6,7 +6,7 @@ Uma cerveja lager alemã forte, escura e maltada que enfatiza as qualidades rica
 
 ## Aparência
 
-Cor cobre claro a marrom, muitas vezes com atraentes reflexos granada. Boa claridade apesar da cor escura. Espuma de alta formação, cremosa, persistente e quase branca.		
+Cor cobre claro a marrom, muitas vezes com atraentes reflexos granada. Boa claridade apesar da cor escura. Espuma de alta formação, cremosa, persistente e quase branca.
 
 ## Aroma
 
@@ -14,16 +14,16 @@ Médio a médio-alto rico aroma de malte que remete a panificação, frequenteme
 
 ## Sabor
 
-Médio a médio-alto rico e complexo caráter maltado é dominado por produtos de Maillard ricos e tostados. Algumas notas de caramelo escuro podem estar presentes. O amargor do lúpulo é somente alto o suficiente para suportar os sabores do malte, permitindo que um pouco de doçura do malte permaneça até o final. Bem atenuada, não enjoativa. Perfil de fermentação limpo, entretanto, o malte pode fornecer um leve caráter de frutas escuras. Sem sabor de lúpulo. Sem caráter torrado, queimado ou de biscoito seco. 
+Médio a médio-alto rico e complexo caráter maltado é dominado por produtos de Maillard ricos e tostados. Algumas notas de caramelo escuro podem estar presentes. O amargor do lúpulo é somente alto o suficiente para suportar os sabores do malte, permitindo que um pouco de doçura do malte permaneça até o final. Bem atenuada, não enjoativa. Perfil de fermentação limpo, entretanto, o malte pode fornecer um leve caráter de frutas escuras. Sem sabor de lúpulo. Sem caráter torrado, queimado ou de biscoito seco.
 
-## Sensação de boca
+## Sensação na Boca
 
 Corpo médio a médio-alto. Carbonatação moderadamente baixa a moderada. Algum aquecimento alcoólico pode ser encontrado, mas nunca deve ser quente. Suave, sem aspereza ou adstringência.
 
 ## Comentários
 
 A mosturação por decocção desempenha um papel importante no desenvolvimento dos sabores, pois incrementam os sabores de malte que remetem a caramelo e reações de Maillard.
- 
+
 ## História
 
 Originada na cidade de Einbeck, no norte da Alemanha, que era um centro cervejeiro e exportador popular nos dias da Liga Hanseática (séculos XIV a XVII). Recriada em Munique a partir do século XVII. A palavra “Bock” é traduzida como “bode” em alemão, e é por isso que o animal é frequentemente usado em logotipos e anúncios.

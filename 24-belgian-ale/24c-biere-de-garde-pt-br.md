@@ -17,7 +17,7 @@ Proeminente riqueza de malte, muitas vezes com intensidade complexa, de leve a m
 
 Riqueza maltada de média a alta, muitas vezes com caráter de tostado, de biscoito, toffee ou leve caramelo. Ésteres e sabores alcoólicos de baixos a moderados. Amargor de lúpulo médio baixo, trazendo um equilíbrio maltado ao paladar e retrogosto. Final de meio seco a seco, não pode ser doce, enjoativo ou pesado. Sabor de lúpulo picante, condimentado ou herbal são opcionais. Sabor, profundidade, riqueza, intensidade e complexidade do malte aumentam com a cor da cerveja. As versões mais escuras terão uma impressão inicial mais rica de malte do que as versões mais claras, mas não devem parecer torradas. Versões mais claras podem ter sabor de lúpulo ligeiramente maior.
 
-## Sensação de Boca
+## Sensação na Boca
 
 Corpo médio a médio leve, geralmente com um caráter suave, sedoso e cremoso. Carbonatação moderada a alta. Aquecimento alcoólico moderado, mas nunca deve ser quente.
 

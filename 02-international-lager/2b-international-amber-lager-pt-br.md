@@ -6,7 +6,7 @@ Uma lager âmbar, maltada, suave e fácil de beber, com um saboroso caráter que
 
 ## Aparência
 
-Cor âmbar dourado a cobre avermelhado. Claridade brilhante. Espuma branca a quase branca que pode não perdurar. 
+Cor âmbar dourado a cobre avermelhado. Claridade brilhante. Espuma branca a quase branca que pode não perdurar.
 
 ## Aroma
 
@@ -16,7 +16,7 @@ Baixo a moderado aroma de malte como grãos, frequentemente com notas de caramel
 
 Baixo a moderado sabor de malte, frequentemente como caramelo ou pão tostado. Baixa a médio-baixa doçura como milho é opcional. Baixo a moderado amargor, dando a cerveja um equilíbrio maltado e bastante uniforme. Baixo a moderado lúpulo floral, herbal ou condimentado. Perfil de fermentação limpo. O final é moderadamente seco com retrogosto moderadamente maltado. A cerveja pode parecer levemente doce se o nível de amargor for baixo.
 
-## Sensação de boca
+## Sensação na Boca
 
 Corpo leve a médio. Carbonatação média a alta. Suave. Alguns exemplares podem ser ligeiramente cremosos.
 

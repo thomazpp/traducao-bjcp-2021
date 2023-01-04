@@ -17,7 +17,7 @@ Característica média-baixa a média-alta de levedura belga, demonstrando um ca
 
 No início, o sabor maltado é leve com caráter de biscoito de mel, pão ou biscoito tipo água e sal. Possui sabor de grãos suave e um final lupulado, amargo e seco,  bem definido. Na boca, moderado sabor de lúpulo com característica condimentada ou floral. Ésteres semelhantes aos encontrados no aroma. Fenólicos leves a moderados como os encontrados no aroma. Amargor médio a alto, acentuado pela secura. O caráter de levedura e o de lúpulo permanecem no retrogosto.
 
-## Sensação de boca
+## Sensação na Boca
 
 Corpo de baixo-médio a médio. Macia. Carbonatação de média-baixa a alta, pode causar um pouco de formigamento. Não deve ter aquecimento alcoólico.
 

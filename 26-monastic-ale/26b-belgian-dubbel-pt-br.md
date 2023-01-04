@@ -17,7 +17,7 @@ Rico aroma maltado que varia de moderado a moderadamente forte com notas de choc
 
 Perfil similar ao aroma (são aplicados mesmos descritores e intensidades) para malte, ésteres, fenólicos, álcool e lúpulos. Amargor de baixo-médio a médio, mas o malte sempre será proeminente no equilíbrio. Os ésteres e fenóis adicionam complexidade e interesse para o malte, ao passo que o álcool tipicamente não é percebido. Rico maltado, por vezes com sabor adocicado, com final moderadamente seco com sabor maltado acentuado no retrogosto pelos ésteres e fenóis provenientes da levedura.
 
-## Sensação de Boca
+## Sensação na Boca
 
 Macia, com corpo de médio a médio-cheio. Carbonatação médio-alta, que pode influenciar na percepção do corpo. Baixo aquecimento alcoólico é opcional, porém nunca deve ser quente ou remeter a solvente.
 

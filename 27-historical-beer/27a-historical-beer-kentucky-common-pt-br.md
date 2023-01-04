@@ -16,7 +16,7 @@ Malte baixo a médio como grãos, semelhante a milho ou dulçor de malte, com um
 
 Moderado dulçor de malte como grãos com notas de baixo a médio-baixo caramelo, toffee, pão ou biscoito. Geralmente com sabores leves no palato, típico de cerveja com adjuntos; baixo dulçor como grãos, semelhante a milho é comum. Médio a baixo sabor de lúpulo floral ou condimentado. Amargor médio a baixo, sem retrogosto áspero ou agressivo. Pode apresentar leve frutado. O equilíbrio no final é em direção ao malte, possivelmente com um leve sabor de sulfato mineral. O final é bastante seco. Sem acidez.
 
-## Sensação de Boca
+## Sensação na Boca
 
 Corpo médio a médio-baixo com sensação de boca relativamente macia. Altamente carbonatada. Pode ter uma textura cremosa.
 
