@@ -1,8 +1,9 @@
 # 23F. Fruit Lambic
+Lambic de Fruta
 
 ## Impressão Geral
 
-Uma cerveja de trigo belga, complexa, refrescante e agradavelmente ácida que combina um caráter complementar de frutas fermentadas com acidez e funky de uma Gueuze.
+Uma cerveja de trigo belga, complexa, refrescante e agradavelmente ácida que combina um caráter complementar de frutas fermentadas com acidez e *funky* de uma Gueuze.
 
 ## Aparência
 
@@ -43,7 +44,7 @@ O tipo de fruta utilizada deve ser especificado. O cervejeiro deve declarar um n
 ## Características Vitais
 
 IBU: 0 - 10
-SRM: 3 – 7 (varies w/ fruit)
+SRM: 3 – 7 (varia c/ a fruta)
 OG: 1.040 - 1.060
 FG: 1.000 - 1.010
 ABV: 5% - 7%
@@ -52,7 +53,7 @@ ABV: 5% - 7%
 
 3 Fonteinen Schaerbeekse Kriek, Cantillon Fou’ Foune, Cantillon Lou Pepe Framboise, Cantillon Vigneronne, Hanssens Oude Kriek, Oude Kriek Boon.
 
-## Última Revisão
+## Revisões Anteriores
 
 Fruit Lambic (2015)
 
