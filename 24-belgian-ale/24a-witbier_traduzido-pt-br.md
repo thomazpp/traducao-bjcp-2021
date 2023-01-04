@@ -18,7 +18,7 @@ Sabor agradável de malte de pão e grãos, muitas vezes com um caráter de mel 
 
 ## Sensação de Boca
 
-Corpo médio leve a médio, muitas vezes apresentando maciez e leve cremosidade. Caráter efervescente vindo da alta carbonatação. Refrescância gerada pela carbonatação, secura e falta de amargor no final. Sem aspereza ou adstringência. Não deve ser excessivamente seca e aguada, nem deve ser espessa e pesada.
+Corpo médio leve a médio, muitas vezes apresentando maciez e leve cremosidade. Caráter efervescente vindo da alta carbonatação. Refrescância gerada pela carbonatação, secura e falta de amargor no final. Sem aspereza ou adstringência. Não deve ser excessivamente seca ou aguada, nem deve ser espessa e pesada.
 
 ## Comentários
 
@@ -26,11 +26,11 @@ Versões históricas podem ter alguma acidez láctica, mas isso está ausente na
 
 ## História
 
-Uma de um grupo de cervejas brancas belgas medievais da área de Leuven, se extinguiu em 1957 e mais tarde foi revivida por Pierre Celis em 1966, no que se tornou a Hoegaarden. Depois que a Hoegaarden foi adquirida pela Interbrew, o estilo cresceu rapidamente e inspirou muitos produtos similares que são rastreáveis à recriação do estilo por Celis, não aqueles de séculos passados.
+Uma cerveja de um grupo de cervejas brancas belgas medievais da área de Leuven, que se extinguiu em 1957 e mais tarde foi revivida por Pierre Celis em 1966, que se tornou a Hoegaarden. Depois que a Hoegaarden foi adquirida pela Interbrew, o estilo cresceu rapidamente e inspirou muitos produtos similares que são rastreáveis à recriação do estilo por Celis, não aqueles de séculos passados.
 
 ## Ingredientes Característicos
 
-Trigo não maltado (30-60 %), o restante malte de cevada de baixa cor. Algumas versões usam até 5-10 % de aveia crua ou outros grãos de cereais não maltados. Tradicionalmente usa semente de coentro e casca seca de laranja Curaçao. Há rumores de que outras especiarias secretas são usadas em algumas versões, assim como as cascas de laranja doce. Levedura ale belga levemente frutada e picante.
+Trigo não maltado (30-60%), o restante de malte de cevada com baixa cor. Algumas versões usam até 5-10% de aveia crua ou outros grãos de cereais não maltados. Tradicionalmente usa sementes de coentro e casca seca de laranja Curaçao. Há rumores de que outras especiarias secretas são usadas em algumas versões, assim como as cascas de laranja doce. Levedura ale belga levemente frutada e picante.
 
 ## Comparação de estilos
 
