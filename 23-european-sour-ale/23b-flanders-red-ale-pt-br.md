@@ -1,28 +1,29 @@
 # 23B. Flanders Red Ale
+Ale Vermelha de Flandres
 
 ## Impressão Geral
 
-Uma ale do estilo Belga ácida e frutada,marrom-avermelhada envelhecida em carvalho com sabores de malte tostados servindo como suporte e complexidade de fruta. O final seco e tânico reforça a sugestão de um vinho tinto *vintage* (de uma safra de excepcional qualidade).
+Uma ale do estilo belga ácida e frutada, marrom-avermelhada envelhecida em carvalho com sabores de malte tostados servindo como suporte e complexidade de fruta. O final seco e tânico reforça a sugestão de um vinho tinto *vintage* (de uma safra de excepcional qualidade).
 
 ## Aparência
 
-Vermelho profundo, bordô a marrom-avermelhado na cor. Boa limpidez. Colarinho, na cor, de branco a castanho muito claro. Média a boa retenção de espuma.
+De cor vermelho profundo, bordô, a marrom-avermelhado. Boa limpidez. Colarinho, na cor, de branco a castanho muito claro. Média a boa retenção de espuma.
 
 ## Aroma
 
-Perfil ácido-frutado complexo com o malte fornecendo suporte. Frutuosidade é alta e remete a cerejas pretas, laranjas, ameixas, groselhas ou *fruit leather* (polpas de frutas que são espalhadas e secas em formato de tiras). Baixo a médio baixo chocolate, baunilha ou fenol condimentado podem estar presentes para complexidade. O aroma ácido pode variar de moderado a alto. Um caráter avinagrado dominante é inapropriado, embora níveis baixos a moderados de ácido acético sejam aceitáveis desde que equilibrados com o malte. Sem aroma de lúpulo.
+Perfil ácido-frutado complexo com o malte fornecendo suporte. Frutuosidade é alta e remete a cerejas pretas, laranjas, ameixas, groselhas ou *fruit leather* (polpas de frutas que são espalhadas e secas em formato de tiras). Baunilha, chocolate ou fenol condimentado de baixo a médio baixo podem estar presentes para complexidade. O aroma ácido pode variar de moderado a alto. Um caráter avinagrado dominante é inapropriado, embora de níveis baixos a moderados de ácido acético sejam aceitáveis desde que equilibrados com o malte. Sem aroma de lúpulo.
 
 ## Sabor
 
-Sabores maltados moderados a moderadamente altos em geral apresentam uma qualidade rica-tostada. Sabores intensos de frutas, sendo os descritores os mesmos do aroma. Acidez complexa de moderada a alta, acentuada pelos esteres; não deve ser uma simples acides lática. Um caráter avinagrado dominante é inapropriado, embora níveis baixos a moderados de ácido acético sejam aceitáveis desde que equilibrados com o malte. Geralmente com o aumento do caráter ácido o malte reduz gradualmente para um sabor mais de segundo plano (e vice-versa). Baixo a médio baixo chocolate, baunilha ou fenol condimentado.  Sem aroma de lúpulo. Amargor contido com o equilíbrio para o lado do malte. Ácidos e taninos podem realçar a percepção de amargor e prover equilíbrio e estrutura. Algumas versões são adoçadas ou combinadas para serem doce; permita uma ampla variedade nos níveis de dulçor, que podem suavizar a acidez picante e a percepção acética. 
+Sabores maltados de moderados a moderadamente altos em geral apresentam uma qualidade rica-tostada. Sabores intensos de frutas, sendo os descritores os mesmos do aroma. Acidez complexa de moderada a alta, acentuada pelos esteres; não deve ser uma simples acidez lática. Um caráter avinagrado dominante é inapropriado, embora de níveis baixos a moderados de ácido acético sejam aceitáveis desde que equilibrados com o malte. Geralmente com o aumento do caráter ácido o malte reduz gradualmente para um sabor mais de segundo plano (e vice-versa). Baunilha, chocolate ou fenol condimentado de baixo a médio baixo. Sem aroma de lúpulo. Amargor contido com o equilíbrio para o lado do malte. Ácidos e taninos podem realçar a percepção de amargor e prover equilíbrio e estrutura. Algumas versões são adoçadas ou combinadas para serem doce; permita uma ampla variedade nos níveis de dulçor, que podem suavizar a acidez picante e a percepção acética. 
 
-## Sensação na Boca
+## Sensação de Boca
 
 Corpo médio, frequentemente realçado por taninos. Carbonatação baixa a média baixa. Baixa a média adstringência, geralmente com uma acidez que causa um sutil formigamento na língua. No paladar é enganosamente leve e com final bem definido (*crisp*), embora um final meio adocicado não seja incomum.
 
 ## Comentários
 
-A observação "como-vinho" não deve ser levada muito literalmente; ela pode sugerir um vinho francês da Borgonha de alta acidez, mas claramente não é idêntica. Produzida por envelhecimento extenso (até dois anos) em imensos barris de madeira (*foeders*), combinando cervejas jovens e bem maturadas e adoçantes em quantidades variáveis na finalização do produto. Uma alta gama de produtos são possíveis dependendo da real combinação e se há utilização de adoçantes. Sabores acéticos podem ser notados, mas nem toda acidez nesta cerveja é derivada de ácido acético; vinagre supera em mais de seis vezes a acidez total deste estilo. Versões com adição de fruta devem ser inscritas como uma 29A Fruit Beer.
+A observação "como vinho" não deve ser levada muito literalmente; ela pode sugerir um vinho francês da Borgonha de alta acidez, mas claramente não é idêntica. Produzida por envelhecimento extenso (até dois anos) em imensos barris de madeira (*foeders*), combinando cervejas jovens e bem maturadas e adoçantes em quantidades variáveis na finalização do produto. Uma alta gama de produtos são possíveis dependendo da real combinação e se há utilização de adoçantes. Sabores acéticos podem ser notados, mas nem toda acidez nesta cerveja é derivada de ácido acético; vinagre supera em mais de seis vezes a acidez total deste estilo. Versões com adição de fruta devem ser inscritas como uma 29A Fruit Beer.
 
 ## História
 
