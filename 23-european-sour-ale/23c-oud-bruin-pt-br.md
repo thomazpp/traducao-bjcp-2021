@@ -2,7 +2,7 @@
 
 ## Impressão Geral
 
-Uma ale do estilo Belga maltada, maturada e de certo modo ácida, com um sabor de malte caramelo-chocolate e, frequentemente, álcool em teor considerável.
+Uma ale do estilo belga maltada, maturada e de certo modo ácida, com um sabor de malte caramelo-chocolate e, frequentemente, álcool em teor considerável.
 
 ## Aparência
 
@@ -10,11 +10,11 @@ Coloração marrom-avermelhado profundo. Boa limpidez. De média a boa retençã
 
 ## Aroma
 
-Ricamente maltada com esteres frutados e uma acidez maturada. Esteres de médio a médio-alto comumente remetendo a uvas passas, ameixas, figos, tâmaras, laranjas, cerejas pretas ou ameixas secas. Malte de médio-baixo a médio-alto com caráter caramelo, toffee, melado ou chocolate. Fenóis baixos com caráter condimentado-picante são opcionais. Um aroma ácido baixo é aceitável e pode aumentar modestamente com o tempo, mas não deve chegar a um nível fortemente acético, de caráter avinagrado. Aroma de lúpulo é ausente. Exemplares maturados podem apresentar um caráter de oxidação que levemente remeta a nozes e/ou xerez.
+Ricamente maltada com esteres frutados e uma acidez maturada. Ésteres de médio a médio-alto, comumente remetendo a uvas passas, ameixas, figos, tâmaras, laranjas, cerejas pretas ou ameixas secas. Malte de médio-baixo a médio-alto, com caráter caramelo, toffee, melado ou chocolate. Fenóis baixos, com caráter condimentado-picante são opcionais. Um aroma ácido baixo é aceitável e pode aumentar modestamente com o tempo, mas não deve chegar a um nível fortemente acético, de caráter avinagrado. Aroma de lúpulo é ausente. Exemplares maturados podem apresentar um caráter de oxidação que levemente remeta a nozes e/ou xerez.
 
 ## Sabor
 
-Maltada com complexidade frutada e, tipicamente, algum sabor de caramelo escuro ou açúcar queimado. Malte de médio-baixo a médio-alto, mesmos descritores do aroma. De média a média alta frutuosidade, mesmos descritores do aroma. Fenóis baixos com caráter condimentado-picante são opcionais. Uma leve acidez muitas vezes torna-se mais pronunciada em exemplares bem maturados, juntamente com algum caráter como xerez, produzindo um perfil e retrogosto "doce e azedo". A acidez não deve chegar a um nível fortemente acético, de caráter avinagrado. Sabor de lúpulo ausente. Amargor de lúpulo contido. Equilíbrio para o malte, mas com frutuosidade e acidez presentes. Combinação e adoçantes podem produzir uma variedade de finais e equilíbrios.
+Maltada com complexidade frutada e, tipicamente, algum sabor de caramelo escuro ou açúcar queimado. Malte de médio-baixo a médio-alto, com os mesmos descritores do aroma. De média a média alta frutuosidade, com mesmos descritores do aroma. Fenóis baixos, com caráter condimentado-picante, são opcionais. Uma leve acidez muitas vezes torna-se mais pronunciada em exemplares bem maturados, juntamente com algum caráter como xerez, produzindo um perfil e retrogosto "doce e azedo" (agridoce). A acidez não deve chegar a um nível fortemente acético, de caráter avinagrado. Sabor de lúpulo ausente. Amargor de lúpulo contido. Equilíbrio para o malte, mas com frutuosidade e acidez presentes. Combinações e fonte de açúcares podem produzir finais e equilíbrios variados.
 
 ## Sensação na Boca
 
@@ -22,7 +22,7 @@ Corpo de médio a médio-cheio. Carbonatação baixa a moderada. Sem adstringên
 
 ## Comentários
 
-Maturação longa e mistura de cervejas jovens e envelhecidas podem ocorrer, agregando suavidade e complexidade e equilibrando qualquer caráter de acidez áspera. Este estilo foi, tradicionalmente, pensado para guarda, portanto, exemplares com caráter de maturação moderada são considerados superiores aos exemplares mais jovens. Versões com frutas devem ser inscritos como uma 29A Fruit Beer.
+Maturação longa e mistura de cervejas jovens e envelhecidas podem ocorrer, agregando suavidade e complexidade e equilibrando qualquer caráter azedo e áspero. Este estilo foi, tradicionalmente, pensado para guarda, portanto, exemplares com caráter de maturação moderada são considerados superiores aos exemplares mais jovens. Versões com frutas devem ser inscritos como uma 29A Fruit Beer.
 
 ## História
 
@@ -34,7 +34,7 @@ Malte Pilsen, maltes escuros crystal, milho e pequenas quantidades de malte para
 
 ## Comparação de Estilo
 
-Um caráter mais intenso de malte, com mais caramelo, toffee, sabores de chocolate e coloração mais escura distinguem estas cervejas das Flanders Red Ale. A Oud Bruin é menos acética e mais maltada que uma Flanders Red, e os sabores frutados são mais orientados para o malte. Nos tempos modernos a Oud Bruin também tende a ser mais alcoólica do que tipicamente é observado nas Flanders Red Ales. Se difere da Lambic já que não são espontaneamente fermentadas e não contém trigo.
+Um caráter mais intenso de malte, com mais caramelo, toffee, sabores de chocolate e coloração mais escura distinguem estas cervejas das Flanders Red Ale. A Oud Bruin é menos acética e mais maltada que uma Flanders Red e os sabores frutados são mais orientados para o malte. Nos tempos modernos a Oud Bruin também tende a ser mais alcoólica do que tipicamente é observado nas Flanders Red Ales. Se difere da Lambic já que não são espontaneamente fermentadas e não contém trigo.
 
 ## Estatísticas Vitais
 
