@@ -1,42 +1,43 @@
 # 1D. American Wheat Beer
+Cerveja de Trigo Americana
 
 ## Impressões Gerais
 
-Uma cerveja de trigo pálida, refrescante, com notas de grão, massa e pão, com perfil de fermentação limpo, com lúpulo variando no aroma, sabor e amargor. O seu corpo mais baixo e a alta carbonatação contribuem com seu alto drinkability.
+Uma cerveja de trigo clara, refrescante, com notas de grão, massa e pão, com perfil de fermentação limpo, com lúpulo que varia no aroma, no sabor e no amargor. O seu corpo mais baixo e a alta carbonatação contribuem com uma facilidade de ser bebida (drinkability).
 
 ## Aparência
 
-Normalmente amarelo pálido ao dourado. Claridade pode variar do brilhante á turbidez pela levedura se aproximando a uma Weissbier. Espuma branca grande e de longa persistência.
+Normalmente de amarelo claro ao dourado. Limpidez pode variar do brilhante a turva, por causa da levedura, parecendo uma Weissbier. Espuma branca alta e de longa persistência.
 
 ## Aroma
 
-Baixo a moderado aroma de trigo, lembrando grão, pão e massa. Um baixo a moderado dulçor de malte é aceitável. Ésteres em íntensidade moderada são opcionais, normalmente com perfil neutro; banana é inapropriado. Aroma de lúpulo de baixo a moderado com notas de cítrico, condimental, floral e frutado. Tipicamente não leva Dry-Hopping. Não possui aromas de cravo.
+De baixo a moderado aroma de trigo, lembrando grão, pão e massa. Um dulçor de malte de baixo a moderado é aceitável. São opcionais ésteres de intensidade moderada, normalmente com perfil neutro; banana é inapropriado. Aroma de lúpulo de baixo a moderado com notas de cítrico, condimentado, floral e frutado. Tipicamente não leva Dry-Hopping. Não possui aroma de cravo.
 
 ## Sabor
 
-Baixo a moderado forte sabor de trigo, lembrando grão, pão e massa, que pode persistir até o final. Pode ter dulçor moderado de malte ou pode finalizar bem seca e definida. Baixo a moderado amargor de lúpulo, que às vezes pode persistir até o final. Equilíbrada, mas pode ser levemente amarga. Sabor de lúpulo baixo a moderado com notas de cítrico, condimentado, floral e frutado. Ésteres em intensidade moderada são opcionais, sem banana, cravo e fenóis.
+De baixo a moderado forte sabor de trigo, lembrando grão, pão e massa, que pode persistir até o final. Pode ter dulçor moderado de malte ou pode finalizar bem seca e definida. O lúpulo tem amargor de baixo a moderado, que às vezes pode persistir até o final. Equilíbrada, mas pode ser levemente amarga. Sabor de lúpulo de baixo a moderado com notas de cítrico, condimentado, floral e frutado. Ésteres em intensidade moderada são opcionais, sem banana, cravo e fenóis.
 
 ## Sensação na Boca
 
-Corpo médio-baixo ao médio. Carbonatação média-alta à alta. Leve cremosidade é opcional; cervejas de trigo às vezes possuem uma impressão leve e macia.
+Corpo de médio-baixo ao médio. Carbonatação de média-alta à alta. Leve cremosidade é opcional; cervejas de trigo às vezes possuem uma impressão leve e fofa.
 
 ## Comentários
 
-Pode variar de uma cerveja levemente doce fácil de beber a uma cerveja seca, altamente lupulada com forte sabor de trigo. American Rye beers devem ser categorizadas como 31A Alternativa Grain Beer.
+Pode variar de uma cerveja levemente doce, fácil de beber a uma cerveja seca, altamente lupulada com forte sabor de trigo. American Rye beers devem ser categorizadas como 31A Alternativa Grain Beer.
 
 ## História
 
-Uma adaptação da cerveja artesanal americana do estilo Weissbier utilizando levedura de neutra e mais lúpulo, inicialmente produzida pela Anchor em 1984 e depois largamente popularizada por Widmer.
+Uma adaptação da cerveja artesanal americana do estilo Weissbier utilizando levedura neutra e mais lúpulo, inicialmente produzida pela Anchor em 1984 e depois largamente popularizada por Widmer.
 
 ## Ingredientes Característicos
 
-Levedura americana ale neutra ou lager. Levedura alemã para Weissbier é inapropriada. Malte de trigo (frequentemente de 30-50%, mais baixo do que uma típica Weissbier). Lúpulos americanos, alemães ou New World.
+Levedura americana ale neutra ou lager. Levedura alemã de Weissbier é inapropriada. Malte de trigo (frequentemente de 30-50%, mais baixo do que uma típica Weissbier). Lúpulos americanos, alemães ou Novo Mundo.
 
 ## Comparação de Estilo
 
-Caráter de lúpulo maior e menor perfil de levedura do que uma Weissbier. Não pode ter banana e nem cravo da Weissbier. Geralmente tem a mesma intensidade e equilíbrio das Blonde Ales, mas com uma característica de trigo em primeiro lugar.
+Caráter de lúpulo maior e menor perfil de levedura do que uma Weissbier. Não pode ter banana e nem cravo, como na Weissbier. Geralmente tem a mesma intensidade e equilíbrio das Blonde Ales, mas com uma característica de trigo em primeiro lugar.
 
-## Estatística Vital
+## Estatísticas Vitais
 
 IBU: 15 - 30
 SRM: 3 - 6
