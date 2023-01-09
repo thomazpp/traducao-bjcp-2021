@@ -6,19 +6,19 @@ Uma cerveja americana maltada, amarga e forte, que se encaixa no espaço entre A
 
 ## Aparência
 
-Âmbar médio a cobre profundo ou marrom claro. Colarinho quase branco a castanho claro, de tamanho moderado baixo a médio; pode ter baixa retenção. Boa limpidez. Possibilidade de lágrimas.
+De âmbar médio a cobre profundo ou marrom claro. Colarinho de quase branco a castanho claro, com tamanho de moderado baixo a médio; pode ter baixa retenção. Boa limpidez. Possibilidade de lágrimas.
 
 ## Aroma
 
-Aroma de lúpulo médio a alto, tipicamente apresentando características modernas de lúpulo americano ou do novo mundo, como cítrico, floral, pinho, resinoso, condimento, frutas tropicais, frutas de caroço, frutas vermelhas ou melão. Malte moderado a forte, trazendo suporte ao perfil de lúpulo, caramelo médio a escuro é comum, possivelmente tostado ou como pão, além disso, notas levemente torradas ou chocolate, são permitidas em segundo plano. Perfil de fermentação neutro a moderadamente frutado. O álcool pode ser notado, mas não deve ser solvente.
+Aroma de lúpulo de médio a alto, tipicamente apresentando características modernas de lúpulo americano ou do novo mundo, como cítrico, floral, pinho, resinoso, condimento, frutas tropicais, frutas de caroço, frutas vermelhas ou melão. Malte de moderado a forte, trazendo suporte ao perfil de lúpulo, caramelo médio a escuro é comum, possivelmente tostado ou como pão, além disso, são permitidas em segundo plano notas levemente torradas ou chocolate. Perfil de fermentação de neutro a moderadamente frutado. O álcool pode ser notado, mas não deve ser similar a solvente.
 
 ## Sabor
 
-Malte médio a alto, com qualidades de caramelo, toffee ou frutas escuras. A complexidade do malte pode ter o suporte adicional de sabores tostados, como pão ou ricos. Chocolate leve ou torrado é permitido, mas não deve ser queimado ou acentuado. Amargor médio alto a alto. Sabor de lúpulo moderado a alto, mesmos descritores do aroma. Ésteres baixos a moderados. Pode ter um sabor de álcool perceptível, mas não deve ser acentuado. Dulçor de malte médio a alto no paladar, terminando um pouco seco a um pouco adocicado. Não deve ser xaroposa, doce ou enjoativa. Retrogosto amargo a amargo adocicado, com lúpulo, malte e álcool perceptíveis.
+Malte médio a alto, com qualidades de caramelo, toffee ou frutas escuras. A complexidade do malte pode ter o suporte adicional de sabores tostados, como pão ou ricos. Chocolate leve ou torrado é permitido, mas não deve ser queimado ou acentuado. Amargor de médio alto a alto. Sabor de lúpulo de moderado a alto, mesmos descritores do aroma. Ésteres de baixos a moderados. Pode ter um sabor de álcool perceptível, mas não deve ser acentuado. Dulçor de malte de médio a alto no paladar, terminando de um pouco seco a um pouco adocicado. Não deve ser xaroposa, doce ou enjoativa. Retrogosto de amargo a amargo adocicado, com lúpulo, malte e álcool perceptíveis.
 
 ## Sensação na Boca
 
-Corpo médio a cheio. Um aquecimento alcoólico pode estar presente, mas não deve ser excessivamente quente. Adstringência leve de lúpulo permitida. Carbonatação média baixa a média.
+Corpo de médio a cheio. Um aquecimento alcoólico pode estar presente, mas não deve ser excessivamente quente. Adstringência leve de lúpulo é permitida. Carbonatação de média baixa a média.
 
 ## Comentários
 
@@ -30,7 +30,7 @@ Enquanto as versões artesanais modernas foram desenvolvidas como versões de fo
 
 ## Ingredientes Característicos
 
-Base de malte pale. Maltes crystal, médio a escuro, são comuns. Lúpulo americano ou do novo mundo. Levedura neutra ou levemente frutada.
+Base de malte pale. Maltes crystal, de médio a escuro, são comuns. Lúpulo americano ou do novo mundo. Levedura neutra ou levemente frutada.
 
 ## Comparação de estilos
 
@@ -48,7 +48,7 @@ ABV: 6,3% - 10%
 
 Fat Head’s Bone Head, Great Lakes Nosferatu, Oskar Blues G’Knight, Port Brewing Shark Attack Double Red, Stone Arrogant Bastard.
 
-## Revisão anterior
+## Revisões Anteriores
 
 American Strong Ale (2015)
 
