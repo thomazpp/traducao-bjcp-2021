@@ -6,35 +6,35 @@ Uma versão frutada, condimentada e refrescante de uma American IPA, mas com uma
 
 ## Aparência
 
-Cor dourado claro a profundo. Tipicamente turva. Colarinho branco, denso e persistente, moderado a volumoso.
+Cor de dourado claro a dourado profundo. Tipicamente turva. Colarinho branco de moderado a alto, denso e persistente.
 
 ## Aroma
 
-Ésteres moderados, geralmente laranja, grapefruit, damasco ou, às vezes, banana. Condimentos leves opcionais, geralmente coentro, casca de laranja, pimenta ou cravo. Aroma de lúpulo médio baixo a médio, geralmente frutas de caroço, frutas cítricas ou tropicais. Ésteres e especiarias podem reduzir a percepção do aroma do lúpulo. Malte baixo, neutro, como grãos e pão. Leve aroma de álcool opcional.
+Ésteres moderados, geralmente que remetem a laranja, toranja, damasco ou, às vezes, banana. Condimentos leves são opcionais, habitualmente que remetem a coentro, casca de laranja, pimenta ou cravo. Aroma de lúpulo de médio baixo a médio, usualmente de frutas de caroço, de frutas cítricas ou tropicais. Ésteres e especiarias podem reduzir a percepção do aroma do lúpulo. Baixo teor de malte neutro, de grãos ou de pão. Leve aroma de álcool é opcional.
 
 ## Sabor
 
-Ésteres moderados a altos, sabor de lúpulo médio baixo a médio alto e especiarias leves, todos com os mesmos descritores do aroma. Sabor de leve de malte, talvez um pouco de pão. Alto amargor. Final moderadamente seco e refrescante. Sabor de álcool, em segundo plano, opcional.
+Ésteres de moderados a altos, sabor de lúpulo de médio baixo a médio alto e especiarias leves, todos com os mesmos descritores do aroma. Sabor de leve de malte, talvez um pouco de pão. Alto amargor. Final moderadamente seco e refrescante. Sabor de álcool, em segundo plano, é opcional.
 
 ## Sensação na Boca
 
-Corpo médio leve. Carbonatação média a média alta. Adstringência leve de especiarias opcional. Leve aquecimento opcional.
+Corpo médio leve. Carbonatação de média a média alta. Adstringência leve de especiarias é opcional. Leve aquecimento alcoólico é opcional.
 
 ## Comentários
 
-Uma interpretação pelos cervejeiros artesanais, de uma American IPA cruzada com uma Witbier. A impressão de especiarias pode vir da levedura belga, adições de especiarias ou ambos.
+Uma interpretação pelos cervejeiros artesanais de uma American IPA cruzada com uma Witbier. A impressão de especiarias pode vir da levedura belga, adições de especiarias ou de ambos.
 
 ## História
 
-Os cervejeiros artesanais americanos desenvolveram o estilo como uma cerveja sazonal para o final do inverno ou primavera, visando atrair os consumidores de Witbier e IPA.
+Os cervejeiros artesanais americanos desenvolveram o estilo como uma cerveja sazonal para o final do inverno ou primavera, visando atrair os consumidores de Witbier e de IPA.
 
 ## Ingredientes Característicos
 
-Maltes claros e de trigo, levedura Witbier belga, lúpulos cítricos do tipo americano. Coentro e casca de laranja opcional.
+Maltes claros e de trigo, levedura Witbier belga, lúpulos cítricos do tipo americano. Coentro e casca de laranja são opcionais.
 
 ## Comparação de estilos
 
-Amarga, lupulada e mais forte, similar a uma American IPA, mas frutada, picante e leve como uma Witbier. Normalmente, os lúpulos de adição tardia não são tão proeminentes quanto na American IPA.
+Amarga, lupulada e mais forte como uma American IPA, mas frutada, picante e leve como uma Witbier. Normalmente, os lúpulos de adição tardia não são tão proeminentes quanto em uma American IPA.
 
 ## Estatísticas vitais
 
@@ -48,7 +48,7 @@ ABV: 5,5% - 7%
 
 Lagunitas A Little Sumpin' Sumpin' Ale, New Belgium Accumulation.
 
-## Revisão anterior
+## Revisões Anteriores
 
 Specialty IPA: White IPA (2015)
 
