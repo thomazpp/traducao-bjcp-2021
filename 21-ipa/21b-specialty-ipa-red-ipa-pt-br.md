@@ -2,27 +2,27 @@
 
 ## Impressão geral
 
-Uma cerveja lupulada, amarga e moderadamente forte, como uma American IPA, mas com algum caráter de caramelo, toffee ou fruta similar a uma American Amber Ale. Mantendo o final seco e o corpo leve que torna as IPAs fáceis de beber; uma Red IPA é um pouco mais saborosa e maltada do que uma American IPA, sem ser doce ou pesada.
+Uma cerveja lupulada, amarga e moderadamente forte, como uma American IPA, mas com algum caráter de caramelo, de toffee ou de fruta similar a uma American Amber Ale. Mantendo o final seco e o corpo leve que torna as IPAs fáceis de beber; uma Red IPA é um pouco mais saborosa e maltada do que uma American IPA, sem ser doce ou pesada.
 
 ## Aparência
 
-Cor variando de âmbar avermelhado claro a cobre avermelhado escuro. Límpida. Leve turbidez opcional. Colarinho de tamanho médio, quase branco a creme, com boa persistência.
+Cor variando de âmbar avermelhado claro a cobre avermelhado escuro. Límpida. Leve turbidez é opcional. Colarinho de tamanho médio, de quase branco a creme, com boa persistência.
 
 ## Aroma
 
-Aroma de lúpulo moderado a forte, muitas vezes com um caráter de frutas de caroço, frutas tropicais, frutas cítricas, resinoso, pinho, frutas vermelhas ou melão. O aroma adocicado de malte, médio baixo a médio, combina bem com a seleção de lúpulos e geralmente apresenta caramelo médio a escuro, toffee, pão tostado ou caráter de frutas escuras. Perfil de fermentação limpo. Ésteres leves opcionais. Aroma leve de álcool opcional.
+Aroma de lúpulo de moderado a forte, muitas vezes com um caráter de frutas de caroço, de frutas tropicais, de frutas cítricas, resinoso, de pinho, de frutas vermelhas ou de melão. O aroma adocicado de malte, de médio baixo a médio, combina bem com a seleção de lúpulos e geralmente apresenta caramelo de médio a escuro, toffee, pão tostado ou caráter de frutas escuras. Perfil de fermentação limpo. Ésteres leves são opcionais. Aroma leve de álcool é opcional.
 
 ## Sabor
 
-Sabor de lúpulo médio a muito alto, mesmos descritores do aroma. Suporte do malte limpo, médio baixo a médio, com os mesmos descritores do aroma. As escolhas de malte e lúpulo não devem produzir conflitos de sabor. Amargor médio alto a muito alto, sem aspereza. Final seco a médio, com um retrogosto amargo, lupulado e maltado. Ésteres baixos opcionais. Sabor de álcool muito baixo opcional. O malte não deve ofuscar o sabor e o amargor do lúpulo no equilíbrio.
+Sabor de lúpulo de médio a muito alto, mesmos descritores do aroma. Suporte do malte limpo, de médio baixo a médio, com os mesmos descritores do aroma. As escolhas de malte e lúpulo não devem produzir conflitos de sabor. Amargor de médio alto a muito alto, sem aspereza. Final de seco a médio, com um retrogosto amargo, lupulado e maltado. Ésteres baixos são opcionais. Sabor de álcool muito baixo é opcional. O malte não deve ofuscar o sabor e o amargor do lúpulo no equilíbrio.
 
 ## Sensação na Boca
 
-Corpo médio leve a médio, com uma textura macia. Carbonatação média a média alta. Sem aspereza. Leve aquecimento opcional.
+Corpo de médio leve a médio, com uma textura macia. Carbonatação demmédia a média alta. Sem aspereza. Leve aquecimento alcoólico é opcional.
 
 ## Comentários
 
-Separada da American Amber Ale para melhor diferenciar exemplos mais fortes e altamente lupulados, de cervejas mais equilibradas e de força padrão.
+Classificada como diferente da American Amber Ale para melhor destacar exemplos mais fortes e altamente lupulados, de cervejas mais equilibradas e de força padrão.
 
 ## História
 
@@ -30,7 +30,7 @@ Um estilo moderno de cerveja artesanal americana, baseada na American IPA, mas c
 
 ## Ingredientes Característicos
 
-Semelhante a uma American IPA, mas com maltes crystal médios ou escuros, possivelmente alguns maltes com um leve aspecto tostado. Pode usar adjuntos de açúcar. Qualquer caráter de lúpulo americano ou do novo mundo é aceitável, mas os lúpulos e o perfil maltado não devem entrar em conflito.
+Semelhante a uma American IPA, mas com maltes crystal médios ou escuros, possivelmente alguns maltes com um leve aspecto tostado. Podem ser usados adjuntos que contribuam com açúcares. Qualquer caráter de lúpulo americano ou do novo mundo é aceitável, mas os lúpulos e o perfil maltado não devem entrar em conflito.
 
 ## Comparação de estilos
 
@@ -48,7 +48,7 @@ ABV: 5,5% - 7,5%
 
 Avery Hog Heaven, Cigar City Tocobaga Red IPA, Modern Times Blazing World, Tröegs Nugget Nectar.
 
-## Revisão anterior
+## Revisões anteriores
 
 Specialty IPA: Red IPA (2015)
 
