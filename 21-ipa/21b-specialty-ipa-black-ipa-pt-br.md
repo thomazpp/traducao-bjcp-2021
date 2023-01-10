@@ -2,39 +2,39 @@
 
 ## Impressão geral
 
-Uma cerveja com a secura, equilíbrio de lúpulo e características de sabor de uma American IPA, mas de cor mais escura. Maltes mais escuros adicionam um sabor suave e suporte, não um caráter fortemente torrado ou queimado.
+Uma cerveja com a secura, o equilíbrio de lúpulo e as características de sabor de uma American IPA, mas com a cor mais escura. Maltes mais escuros adicionam um sabor suave e um suporte, não um caráter fortemente torrado ou queimado.
 
 ## Aparência
 
-Cor marrom escuro a preto. Límpida, se não opaca. Turbidez leve é permitida, mas não deve ser opaca. Colarinho moderado, persistente, castanho claro a castanho. 
+Cor de marrom escuro a preta. Limpa, quando não for opaca. Enovado leve é permitido, mas não deve ser turvo. Colarinho moderado, persistente, de castanho claro a castanho. 
 
 ## Aroma
 
-Aroma de lúpulo moderado a alto, muitas vezes com um caráter de frutas de caroço, tropical, cítrico, resinoso, pinho, frutas vermelhas ou melão. Malte muito baixo a moderado, possivelmente com notas leves de chocolate, café ou tosta, bem como um dulçor de caramelo em segundo plano. Perfil de fermentação limpo, mas ésteres leves aceitáveis.
+Aroma de lúpulo de moderado a alto, muitas vezes com um caráter de frutas do caroço, tropical, cítrico, resinoso, de pinho, de frutas vermelhas ou de melão. Malte de muito baixo a moderado, possivelmente com notas leves de chocolate, café ou tosta, bem como um dulçor de caramelo em segundo plano. Perfil de fermentação limpo, mas ésteres leves são aceitáveis.
 
 ## Sabor
 
-Sabor de lúpulo médio baixo a alto, mesmos descritores do aroma. Sabor de malte baixo a médio, com notas contidas de chocolate ou café, mas não queimadas ou como cinzas. As notas torradas não devem colidir com o lúpulo. Caramelo claro ou toffee opcional. Amargor médio alto a muito alto. Final seco a ligeiramente seco, com um retrogosto amargo, mas não áspero. Muitas vezes com um leve sabor de torra que pode contribuir para a impressão seca. Ésteres baixos a moderados opcionais. Sabor opcional de álcool em segundo plano.
+Sabor de lúpulo de médio baixo a alto, com os mesmos descritores do aroma. Sabor de malte de baixo a médio, com notas contidas de chocolate ou café, mas não queimadas ou como de cinzas. As notas torradas não devem colidir com os lúpulos. Caramelo claro ou toffee é opcional. Amargor de médio alto a muito alto. Final de seco a ligeiramente seco, com um retrogosto amargo, mas não desagradável. Muitas vezes com um leve sabor de torra que pode contribuir para a impressão seca. Ésteres de baixos a moderados são opcionais. Sabor de álcool em segundo plano é opcional.
 
 ## Sensação na Boca
 
-Macia. Corpo médio leve a médio. Carbonatação média. Leve cremosidade opcional. Leve aquecimento opcional.
+Macia. Corpo de médio leve a médio. Carbonatação média. Leve cremosidade é opcional. Leve aquecimento alcoólico é opcional.
 
 ## Comentários
 
-A maioria dos exemplos são de força padrão. Exemplos mais fortes, se forem muito extremos, às vezes podem parecer porters fortes e lupuladas, o que prejudica sua facilidade de beber.
+A maioria dos exemplos são de força padrão. Exemplos mais fortes podem parecer porter lupulado se feito muito extremo, o que pode prejudicar sua facilidade de ser bebida.
 
 ## História
 
-Uma variante da American IPA produzida comercialmente pela primeira vez por Greg Noonan como Blackwatch IPA por volta de 1990. Popularizada no noroeste do Pacífico e no sul da Califórnia dos EUA, a partir do início de meados dos anos 2000, sendo popular até o início de 2010, quando desapareceu na obscuridade nos EUA.
+Uma variante da American IPA produzida comercialmente pela primeira vez por Greg Noonan como Blackwatch IPA, por volta de 1990. Popularizada a partir de meados dos anos 2000 no noroeste do Pacífico e no sul da Califórnia dos Estados Unidos, quando foi popular até o início de 2010 antes de cair na obscuridade no EUA.
 
 ## Ingredientes Característicos
 
-Maltes torrados sem cascas (debittered). Qualquer perfil de lúpulo americano ou do novo mundo é aceitável; novas variedades de lúpulo continuam a ser lançadas e não devem restringir este estilo às características de lúpulo listadas como exemplo.
+Maltes torrados sem casca (*debittered*). Qualquer perfil de lúpulo americano ou do novo mundo é aceitável; novas variedades de lúpulo continuam a ser lançadas e, por isso, não se deve restringir o estilo às características de lúpulo listadas como exemplos.
 
 ## Comparação de estilos
 
-Equilíbrio e impressão geral de uma American ou Double IPA, com torra contida, semelhante a encontrada em Schwarzbier. Não é tão rico e torrado como American Stout e Porter e com menos corpo, maior suavidade e facilidade de beber.
+Equilíbrio e impressão geral de uma American ou de uma Double IPA, com torra contida, semelhante a encontrada na Schwarzbier. Não é tão rico e torrado como American Stout e Porter e com menos corpo, maior suavidade e maior facilidade de beber.
 
 ## Estatísticas vitais
 
@@ -48,7 +48,7 @@ ABV: 5,5% - 9%
 
 21st Amendment Back in Black, Duck-Rabbit Hoppy Bunny ABA, Stone Sublimely Self-Righteous Black IPA.
 
-## Revisão anterior
+## Revisões anteriores
 
 Specialty IPA: Black IPA (2015)
 
