@@ -2,27 +2,27 @@
 
 ## Impressão Geral
 
-Uma lager alemã, clara, seca e amarga com aroma proeminente de lúpulo. Com final bem definido, limpo e refrescante, mostrando uma cor dourada brilhante com excelente retenção de espuma.
+Uma lager alemã, clara, seca e amarga com aroma proeminente de lúpulo. Com final bem definido, limpo e refrescante, exibindo uma cor dourada brilhante com excelente retenção de espuma.
 
 ## Aparência
 
-Amarelo palha a profundo, brilhante a muito límpida, com espuma branca, cremosa e de longa duração.
+De amarelo palha a amarelo profundo, de brilhante a muito límpida, com espuma branca, cremosa e de longa duração.
 
 ## Aroma
 
-Lúpulo moderado a moderadamente alto que remete a floral, picante ou herbal. Baixo a médio caráter de malte que remete a cereais, massa de pão e adocicado, frequentemente com leve mel e caráter de biscoito tostado. Perfil de fermentação limpo. O lúpulo deve estar à frente, mas não dominar totalmente o malte no equilíbrio.
+Lúpulo floral, picante ou herbáceo de moderado a moderadamente alto. Baixo a médio Caráter de malte de baixo a médio como cereais, massa de pão e adocicado, frequentemente com leve mel e caráter de bolacha água e sal tostada. Perfil de fermentação limpo. O lúpulo deve estar à frente, mas não dominar totalmente o malte no equilíbrio.
 
 ## Sabor
 
-O sabor inicial de malte é rapidamente superado pelo sabor e amargor do lúpulo, levando a um final seco e bem definido. Sabores de malte e lúpulo similares ao aroma (mesmos descritores e intensidades). Amargor médio a alto, persistente no retrogosto junto com um toque de malte e lúpulo. Perfil de fermentação limpo. A mineralização da água pode acentuar e alongar o final seco. O lúpulo e o malte podem diminuir com o tempo, mas a cerveja deve ter sempre um amargor equilibrado.
+O sabor inicial de malte é rapidamente superado pelo sabor e amargor do lúpulo, levando a um final seco e bem definido. Sabores de malte e lúpulo similares ao aroma (mesmos descritores e intensidades). Amargor de médio a alto, persistente no retrogosto junto com um toque de malte e lúpulo. Perfil de fermentação limpo. Água mineral pode acentuar e alongar o final seco. O lúpulo e o malte podem diminuir com o tempo, mas a cerveja deve ter sempre um amargor equilibrado.
 
 ## Sensação na Boca
 
-Corpo médio-baixo. Carbonatação média a alta. Não deve ser sentida como pesada. Sem aspereza, mas pode apresentar uma nitidez mineral em alguns exemplares.
+Corpo médio-baixo. Carbonatação de média a alta. Não deve ser sentida como pesada. Sem aspereza, mas pode apresentar uma nitidez mineral em alguns exemplares.
 
 ## Comentários
 
-Exemplos modernos da Pils tendem a se tornar mais claros na cor, mais secos e nítidos no final e mais amargos conforme se move do sul para o norte na Alemanha, frequentemente refletindo o aumento de sulfatos na água. As Pils encontradas na Baviera tendem a ser um pouco mais suaves no amargor, com mais sabor de malte e caráter de lúpulo tardio, mas ainda com lúpulo o suficiente e final bem definido para se diferenciar da Munich Helles. O uso do termo 'Pils' é mais comum na Alemanha do que o termo 'Pilsner' para diferenciar do estilo tcheco e (alguns dizem) para mostrar respeito.
+Exemplares modernos da Pils tendem a se tornar mais claros na cor, mais secos e nítidos no final e mais amargos conforme se move do sul para o norte na Alemanha, frequentemente refletindo o aumento de sulfatos na água. As Pils encontradas na Baviera tendem a ser um pouco mais suaves no amargor, com mais sabor de malte e caráter de lúpulo tardio, mas ainda com lúpulo o suficiente e final bem definido para se diferenciar da Munich Helles. O uso do termo 'Pils' é mais comum na Alemanha do que o termo 'Pilsner' para diferenciar do estilo tcheco e (algumas pessoas dizem) para mostrar respeito.
 
 ## História
 
@@ -34,7 +34,7 @@ Malte Pilsner continental. Lúpulos tradicionais alemães. Levedura lager alemã
 
 ## Comparação de estilos
 
-Mais leve em corpo e cor, mais seca, com final mais bem definido, mais atenuada, amargor mais persistente e carbonatação mais alta do que uma Czech Premium Pale Lager. Mais caráter de lúpulo, sabor de malte e amargor do que a International Pale Lager. Mais caráter de lúpulo e amargor com um final mais seco e mais bem definido do que uma Munich Helles; a Helles tem mais intensidade de malte, mas com o mesmo caráter da German Pils.
+Mais leve em corpo e cor, mais seca, com final mais bem definido, mais atenuada, amargor mais persistente e carbonatação mais alta do que uma Czech Premium Pale Lager. Mais caráter de lúpulo, sabor de malte e amargor do que a International Pale Lager. Mais caráter de lúpulo e amargor, com um final mais seco e mais bem definido do que uma Munich Helles; a Helles tem mais intensidade de malte, mas com o mesmo caráter da German Pils.
 
 ## Características Vitais
 
@@ -55,7 +55,3 @@ German Pils (2015)
 ## Style Attributes
 
 bitter, bottom-fermented, central-europe, hoppy, lagered, pale-color, pilsner-family, standard-strength, traditional-style
-
-
-
-
