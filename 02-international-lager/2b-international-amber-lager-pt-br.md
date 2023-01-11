@@ -2,35 +2,35 @@
 
 ## Impresssão Geral
 
-Uma lager âmbar, maltada, suave e fácil de beber, com um saboroso caráter que remete a caramelo ou tosta. Geralmente bem atenuada, frequentemente com um caráter de adjunto e amargor contido.
+Uma lager âmbar maltada, suave e fácil de beber, com um saboroso caráter que remete a caramelo ou tostado. Geralmente bem atenuada, frequentemente com um caráter de adjunto e amargor contido.
 
 ## Aparência
 
-Cor âmbar dourado a cobre avermelhado. Claridade brilhante. Espuma branca a quase branca que pode não perdurar.
+Cor de âmbar dourado a cobre avermelhado. Limpidez brilhante. Espuma de branca a quase branca, que pode não perdurar.
 
 ## Aroma
 
-Baixo a moderado aroma de malte como grãos, frequentemente com notas de caramelo ou tosta de intensidade muito baixa a moderada. Ocasionalmente nozes ou biscoito, mas nunca torrado. Aroma de lúpulo floral ou condimentado em níveis baixos e discretos. Perfil de fermentação limpo.
+Aroma de malte de baixo a moderado aroma como de grãos, frequentemente com notas de caramelo ou tostado de intensidade de muito baixa a moderada. Ocasionalmente nozes ou biscoito, mas nunca torrado. Aroma de lúpulo floral ou condimentado em níveis baixos e discretos. Perfil de fermentação limpo.
 
 ## Sabor
 
-Baixo a moderado sabor de malte, frequentemente como caramelo ou pão tostado. Baixa a médio-baixa doçura como milho é opcional. Baixo a moderado amargor, dando a cerveja um equilíbrio maltado e bastante uniforme. Baixo a moderado lúpulo floral, herbal ou condimentado. Perfil de fermentação limpo. O final é moderadamente seco com retrogosto moderadamente maltado. A cerveja pode parecer levemente doce se o nível de amargor for baixo.
+Sabor de malte de baixo a moderado, frequentemente como caramelo ou pão tostado. De baixo a médio-baixo adocicado como milho é opcional. De baixo a moderado amargor, dando a cerveja um equilíbrio maltado e bastante uniforme. Sabor de lúpulo de baixo a moderado, com características floral, herbal ou condimentado. Perfil de fermentação limpo. O final é seco moderado com retrogosto moderadamente maltado. A cerveja pode parecer levemente doce quando o nível de amargor for baixo.
 
 ## Sensação na Boca
 
-Corpo leve a médio. Carbonatação média a alta. Suave. Alguns exemplares podem ser ligeiramente cremosos.
+Corpo de leve a médio. Carbonatação de média a alta. Suave. Alguns exemplares podem ser ligeiramente cremosos.
 
 ## Comentários
 
-Um amplo espectro de cervejas âmbar de mercado de massa que se desenvolveram independentemente em vários países ou descrevendo cervejas âmbar bastante genéricas com mais relevância histórica, mas que eventualmente se transformaram em produtos indistinguíveis nos tempos modernos.
+Um amplo espectro de cervejas âmbar de mercado de massa que se desenvolveram independentemente em vários países ou descrevendo cervejas âmbar bastante genéricas com mais relevância histórica, mas que eventualmente se transformaram em um produto indistinguível nos tempos modernos.
 
 ## História
 
-Varia de acordo com o país, mas geralmente representa uma adaptação da International Pale Lager do mercado de massa, ou uma evolução de estilos indígenas em produtos mais genéricos.
+Varia de acordo com o país, mas geralmente representa uma adaptação da International Pale Lager do mercado de massa ou uma evolução de estilos indígenas em produtos mais genéricos.
 
 ## Ingredientes característicos
 
-Malte base de duas ou seis fileiras. Maltes de cor como Victory, âmbar ou torrado. Pode ser puro malte ou utilizar adjuntos. Permite o uso de açúcares ou corantes. Malte caramelo. Lúpulo europeu ou americano.
+Malte base de duas ou seis fileiras. Maltes de cor, como Victory, âmbar ou torrado. Pode ser puro malte ou utilizar adjuntos. Permite o uso de açúcares ou corantes. Malte caramelo. Lúpulo europeu ou americano.
 
 ## Comparação de estilos
 
@@ -48,7 +48,7 @@ ABV: 4.5% - 6%
 
 Abita Amber Lager, Brooklyn Lager, Capital Wisconsin Amber Lager, Dos Equis Amber, Grain Belt NordEast, Yuengling Lager.
 
-## Última revisão
+## Revisões Anteriores
 
 International Amber Lager (2015)
 
