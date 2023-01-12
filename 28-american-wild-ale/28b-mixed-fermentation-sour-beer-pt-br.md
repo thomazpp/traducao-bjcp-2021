@@ -1,53 +1,53 @@
-# 28B. Mixed-Fermentation Sour Beer
+## 28B. Mixed-Fermentation Sour Beer
 
-## Impressão Geral
+### Impressão Geral
 
 Uma versão ácida e funky de um estilo base de cerveja.
 
-## Aparência
+### Aparência
 Varia com o estilo base. Limpidez pode variar; turbidez baixa não necessariamente é uma falha. Retenção de espuma pode ser pobre.
 
-## Aroma
+### Aroma
 
 Varia com o estilo base. A contribuição de micróbios não-saccharomyces deve ser perceptível a forte e frequentemente contribui com uma nota selvagem, ácida e funky. Os melhores exemplares apresentam uma amplitude de aromáticos ao invés de uma característica única e dominante. O aroma deve ser convidativo, não agressivo e desagradável.
 
-## Sabor
+### Sabor
 
 Varia com o estilo base. Procure um equilíbrio agradável entre a cerveja base e o caráter da fermentação. Uma variedade de resultados é possível, desde acidez e funky bastante altos até uma cerveja sutil, agradável e harmoniosa. Os melhores exemplos são prazerosos de beber com os ésteres e fenóis complementando o malte ou lúpulo. O caráter selvagem pode ser proeminente, mas não precisa ser dominante em um estilo com um perfil intenso de malte ou lúpulo. A acidez deve ser firme, mas agradável, variando de limpa a complexa, mas não deve ser agressiva ou com caráter de vinagre; ácido acético proeminente, ou ofensivo é uma falha. O amargor tende a ser baixo, especialmente conforme a acidez aumenta.
 
-## Sensação na Boca
+### Sensação na Boca
 
 Varia com o estilo base. Geralmente tem um corpo baixo, quase sempre mais leve do que o esperado para o estilo base. Carbonatação usualmente moderada a alta, embora muitas vezes menor em exemplos de alto teor alcoólico.
 
-## Comentários
+### Comentários
 
 O estilo base é menos relevante neste estilo porque as leveduras e bactérias tendem a dominar o perfil. Amargor normalmente é contido, uma vez que acidez e amargor são sensações conflitantes no palato. Características inapropriadas incluem diacetil, solvente, textura viscosa e oxidação intensa.
 
-## História
+### História
 
 Interpretações modernas artesanais ou experimentações inspiradas em Belgian sour ales .
 
-## Ingredientes
+### Ingredientes
 
 Virtualmente qualquer estilo de cerveja. Frequentemente fermentada por uma combinação de lactobacillus, pediococcus, saccharomyces e brettanomyces. Pode também ser uma mistura de estilos. Madeiras ou envelhecimento em barricas é bastante comum, mas não obrigatório; caso presente não deve ser um sabor primário ou dominante.
 
-## Comparação de Estilos
+### Comparação de Estilos
 
 Uma versão ácida e funky de um estilo base de cerveja, mas não necessariamente é tão ácida ou funky quanto alguns exemplos europeus de cervejas ácidas.
 
-## Instruções para inscrição
+### Instruções para inscrição
 
 O participante do concurso deve especificar uma descrição da cerveja, identificando leveduras ou bactérias e um estilo base ou ingredientes e características alvo para a cerveja.
 
-## Estatísticas
+### Estatísticas
 
 Varia com o estilo base.
 
-## Commercial Examples
+### Commercial Examples
 
 Boulevard Love Child, Jester King Le Petit Prince, Jolly Pumpkin Oro de Calabaza, Lost Abbey Ghosts in the Forest, New Belgium Le Terroir, Russian River Temptation.
 
-## Atributos do Estilo
+### Atributos do Estilo
 
 estilo-artesanal, america-do-norte, ácida, specialty-beer, fermentação-selvagem
 
