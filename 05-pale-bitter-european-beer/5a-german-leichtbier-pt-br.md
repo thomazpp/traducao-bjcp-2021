@@ -2,11 +2,11 @@
 
 ## Impressão Geral
 
-Uma lager Alemã clara, altamente atenuada, com o corpo mais leve e menor teor alcoólico e de calorias que outras cervejas de potência padrão. Moderadamente amarga com sabores perceptíveis de malte e lúpulo, ainda sim, uma cerveja interessante de beber.
+Uma lager Alemã clara, altamente atenuada, de corpo mais leve e com menos teor alcoólico e calorias que outras cervejas de força padrão. Moderadamente amarga com sabores perceptíveis de malte e lúpulo e, ainda sim, é uma cerveja interessante de beber.
 
 ## Aparência
 
-Cor de palha claro a amarelo profundo. Limpidez brilhante. Colarinho branco moderado com persistência de média a abaixo da média.
+Cor de palha claro a amarelo profundo. Limpidez brilhante. Colarinho branco moderado com persistência de média a média baixa.
 
 ## Aroma
 
@@ -22,15 +22,15 @@ Corpo de leve a muito leve. Carbonatação de média a alta. Suave, bem atenuada
 
 ## Comentários
 
-Anunciada primariamente como uma cerveja orientada para dietas com baixo teor de carboidratos, álcool e calorias. Pronuncia-se “LAIXT-bier.” Também ser conhecida como Diat Pils ou Helles, esse estilo está na classe de densidade *schankbier*. Outras variações de cervejas de classe Leicht (leve) podem ser feitas como Weissbier, Kölsch e Altbier; essas cervejas se enquadram melhor em 34B Mixed-Style Beer.
+Anunciada primariamente como uma cerveja orientada para dietas com baixo teor de carboidratos, álcool e calorias. Pronuncia-se “LAIXT-bier.” Também ser conhecida como Diat Pils ou Helles, esse estilo está na classe de densidade *schankbier*. Outras variações de cervejas de classe *Leicht* (leve) podem ser feitas como Weissbier, Kölsch e Altbier; essas cervejas se enquadram melhor em 34B Mixed-Style Beer.
 
 ## História
 
-Existiram versões tradicionais, como bebidas para trabalhadores braçais em fábricas ou nos campos mas as versões modernas são baseadas em produtos populares Americanos da mesma classe e direcionados para consumidores preocupados com saúde ou bem estar. Cada vez mais sendo substituida no mercado atual por cervejas não-alcoólicas e radlers.
+Existiram versões tradicionais, como bebidas para trabalhadores braçais em fábricas ou nos campos, mas as versões modernas são baseadas em produtos populares americanos da mesma classe e direcionados para consumidores preocupados com saúde ou bem estar. Cada vez mais sendo substituída no mercado atual por cervejas não-alcoólicas e *radlers*.
 
 ## Ingredientes
 
-Malte Pils continental. Levedura lager Alemã. Lúpulos tradicionais Alemãos.
+Malte Pils continental. Levedura lager Alemã. Lúpulos tradicionais alemães.
 
 ## Comparação de Estilo
 
