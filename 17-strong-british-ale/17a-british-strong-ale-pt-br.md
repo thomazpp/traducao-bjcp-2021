@@ -28,7 +28,7 @@ Uma categoria de entrada mais do que um estilo; a força e o caráter dos exempl
 
 Uma coleção de estilos menores não relacionados, cada um com sua própria herança. Não use este agrupamento de categorias para inferir uma relação histórica entre exemplos – nenhuma está prevista. Esta é uma categoria de julgamento de especialidade britânica moderna, onde o atributo "especial" é o nível de álcool.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Os grãos variam, muitas vezes baseados em maltes pale com caramelo e maltes especiais. Alguns exemplos mais escuros sugerem um uso leve de maltes escuros (por exemplo, chocolate, malte black). Adjuntos açucarados e amiláceos (por exemplo, milho, cevada em flocos, trigo) são comuns. Os lúpulos de finalização são tradicionalmente ingleses.
 
@@ -36,7 +36,7 @@ Os grãos variam, muitas vezes baseados em maltes pale com caramelo e maltes esp
 
 Significativa sobreposição de gravidade com Old Ale, mas sem um caráter envelhecido. Uma ampla gama de interpretações é possível. Não deve ser tão rico ou forte quanto uma English Barley Wine. Mais potente do que uma Strong Bitter, British Brown Ale e English Porter fortes do dia-a-dia. Mais malte especial ou caráter de açúcar do que American Strong Ale.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 30 - 60
 SRM: 8 - 22

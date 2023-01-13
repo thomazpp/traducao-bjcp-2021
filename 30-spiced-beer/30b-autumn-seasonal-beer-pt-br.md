@@ -24,7 +24,7 @@ Corpo usualmente médio a cheio, e pode ser mastigável. Carbonatação moderada
 
 Utilizando o perfil sensorial de produtos que sugerem a temporada de colheita, como torta de abóbora, torta de maçã, ou inhame açucarado, equilibrados com, muitas vezes, uma cerveja base maltada de suporte. A descrição da cerveja é crítica para avaliação. Os juízes devem pensar mais no conceito declarado do que tentar detectar cada ingrediente individualmente; Equilíbrio, facilidade de beber e execução do tema são os fatores determinantes mais importantes.
 
-### Ingredientes característicos
+### Ingredientes
 
 Especiarias são requeridas, e muitas vezes àquelas que recordam o outono, épocas de colheita e Dia de Ação de Graças (ex., pimenta da Jamaica, noz-moscada, canela, cravos, gengibre), porém qualquer combinação é possível e a criatividade é encorajada. Adjuntos saborosos são comuns (ex., melaço, açúcar invertido, açúcar mascavo, mel, xarope de maple). Abóboras são muitas vezes utilizadas.
 

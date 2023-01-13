@@ -32,10 +32,10 @@ Tipos atualmente definidos: Belgian IPA, Black IPA, Brown IPA, Red IPA, Rye IPA,
 
 O participante deve especificar a força (session, standard, double); se nenhuma força for especificada, o *standard* será assumido. O participante deve precisar o tipo específico de Specialty IPA a partir da lista de estilos atualmente definidos e identificados nas diretrizes de estilos ou conforme definido como estilos provisórios no site do BJCP; OU o participante deve descrever o tipo de Specialty IPA e suas principais características em forma de comentário para que os juízes saibam o que esperar. Os participantes podem especificar as variedades de lúpulo usadas, se os participantes sentirem que os juízes podem não reconhecer as características de varietais de lúpulos mais recentes. Os participantes podem especificar uma combinação de tipos de IPA definidos (por exemplo, Black Rye IPA) sem fornecer descrições adicionais. Classificações de força: Session – ABV: 3,0 – 5,0% Standard – ABV: 5,0 – 7,5% Double – ABV: 7,5 – 10,0%
 
-### Estatísticas vitais
+### Estatísticas
 
 Variável por tipo, veja estilos individuais
 
-### Revisões Anteriores
+### Última Revisão
 
 Specialty IPA (2015)

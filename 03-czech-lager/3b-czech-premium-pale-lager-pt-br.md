@@ -28,7 +28,7 @@ Geralmente um grupo de pivo Plzeňského typu, ou cervejas do tipo Pilsner. Este
 
 Comumente associada à Pilsner Urquell, que foi fabricada pela primeira vez em 1842 após a construção de uma nova cervejeira por burgueses insatisfeitos com o padrão da cerveja produzida em Plzeň. O cervejeiro bávaro Josef Groll recebeu o crédito como o primeiro a fabricar esta cerveja, embora anteriormente possam ter existido cervejas claras na Bohemia. Tão importante quanto à levedura lager foi o uso de técnicas inglesas de maltagem.
 
-### Ingredientes característicos
+### Ingredientes
 
 Lúpulo checo tradicional. Malte checo. Levedura lager checa. Água com baixo teor de sulfato e carbonato que fornece um perfil de lúpulo distintamente macio e arredondado, apesar das altas taxas de lupulagem. O nível de amargor de alguns exemplares comerciais de maior dimensão caiu nos últimos anos, embora não tanto como em diversos exemplares alemães contemporâneos.
 

@@ -29,7 +29,7 @@ Alto teor alcoólico, mas não tem gosto forte de álcool. Os melhores exemplos 
 
 Popularizado pelo monastério de Westmalle, que o produziu em 1931 pela primeira vez.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Malte Pilsen, sendo usado muitas vezes adjuntos de açúcar claro. Lúpulos continentais. Cepas de leveduras que geram frutados e condimentados. Tradicionalmente, os condimentados não são adicionados, mas se adicionados, deve ter um caráter de segundo plano somente. Água bastante mole.
 
@@ -37,7 +37,7 @@ Malte Pilsen, sendo usado muitas vezes adjuntos de açúcar claro. Lúpulos cont
 
 Pode ser semelhante a uma Belgian Golden Strong Ale, mas um pouco mais escura e um pouco mais encorpada, com ênfase nos fenóis e menos em ésteres, e menos lúpulos com adição tardia. Não deve ser parecer com uma Barleywine versão loira.
 
-### Estatísticas Vitais
+### Estatísticas
 
 IBU: 20 - 40
 SRM: 4.5 - 7

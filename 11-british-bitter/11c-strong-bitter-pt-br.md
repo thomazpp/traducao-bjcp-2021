@@ -28,7 +28,7 @@ Na Inglaterra hoje, “ESB” é uma marca registrada da Fullers, e ninguém pen
 
 Veja os comentários na introdução da categoria. Strong bitters podem ser vistas como uma versão de maior gravidade das best bitters (embora não necessariamente “mais premium”, já que as best bitters são tradicionalmente o melhor produto das cervejeiras). As British pale ales são geralmente consideradas uma cerveja premium, pálida e amarga com teor alcoólico tipo exportação que se grosseiramente se aproxima das strong bitters, embora reformulada para o engarrafamento (incluindo maiores níveis de carbonatação). Enquanto a pale ale britânica moderna é considerada uma bitter engarrafada, historicamente os estilos eram diferentes.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Maltes pale ale, amber ou crystal, pode ser usado um toque de malte black para ajuste de cor. Pode usar adjuntos como açúcar, milho ou trigo. Lúpulos de finalização ingleses são os mais tradicionais, mas qualquer lúpulo é um jogo justo; se forem usados ​​lúpulos americanos, é necessário um leve toque. Levedura britânica característica. As versões Burton usam água com níveis de sulfato médio a alto, o que pode aumentar a percepção de secura e adicionar um aroma e sabor mineral ou sulfuroso.
 
@@ -36,7 +36,7 @@ Maltes pale ale, amber ou crystal, pode ser usado um toque de malte black para a
 
 Sabores de malte e lúpulo mais evidentes do que special ou best bitter, assim como mais álcool. Versões mais fortes podem se sobrepor um pouco com as British Strong Ales, embora as Strong Bitters tendam a ser mais claras e mais amargas. Mais sabor de malte (principalmente caramelo) e ésteres do que uma American Pale Ale, com caráter de lúpulo de finalização diferente.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 30 - 50
 SRM: 8 - 18

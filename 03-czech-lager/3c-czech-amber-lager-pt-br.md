@@ -28,7 +28,7 @@ O nome Checo deste estilo é polotmavé pivo, que se traduz como cerveja meio es
 
 Uma cerveja ao estilo Viena que continua a ser fabricada na República Checa. O ressurgimento e abertura de pequenas cervejarias na República Checa aumentou o número de exemplares deste estilo.
 
-### Ingredientes característicos
+### Ingredientes
 
 Malte pilsner e caramelo, mas o malte Vienna e Munich também podem ser utilizados. Água com baixo teor mineral. Lúpulo Checo tradicional. Levedura Checa lager.
 

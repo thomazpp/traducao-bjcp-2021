@@ -28,7 +28,7 @@ Cerveja bem lupulada e finalizada, com ênfase na apresentação do lúpulo. Ser
 
 As Golden Ales modernas foram desenvolvidas na Inglaterra para ocupar o mercado das lagers. Embora seja difícil identificar a primeira cerveja, a Hop Back's Summer Lightning, fabricada pela primeira vez em 1986, é considerado por muitos como a responsável pelo estilo.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Malte pale ou pilsen de baixa cor atuando como uma tela em branco para o caráter do lúpulo. Pode usar adjuntos como açúcar, milho ou trigo. O lúpulo inglês é frequentemente usado, embora as variedades americanas cítricas estejam se tornando mais comuns. Levedura britânica de fermentação limpa.
 
@@ -36,7 +36,7 @@ Malte pale ou pilsen de baixa cor atuando como uma tela em branco para o caráte
 
 Mais semelhante a uma American Pale Ale do que qualquer outra coisa, embora muitas vezes seja mais baixa em álcool e geralmente contenha ingredientes britânicos. Não tem caramelo e tem menos ésteres em comparação com British Bitters e Pale Ales. Seca como a Bitters, mas com menos caráter de malte para sustentar o lúpulo, dando um equilíbrio diferente. Frequentemente usa (e apresenta) lúpulos americanos, mais do que a maioria dos outros estilos britânicos modernos. Equilíbrio de lupulagem entre uma Blonde Ale e uma American Pale Ale.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 20 - 45
 SRM: 2 - 5

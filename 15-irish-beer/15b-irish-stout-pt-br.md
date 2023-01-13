@@ -28,7 +28,7 @@ Tradicionalmente um produto de barril. Exemplos modernos estão quase sempre ass
 
 O estilo evoluiu a partir da London Porters, mas refletindo um corpo mais cheio, mais cremoso, mais robusto* e forte. A Guinness começou a fabricar apenas porter em 1799, e um “tipo mais robusto de porter” por volta de 1810. A Irish Stout divergiu da London Single Stout (ou simplesmente Porter) no final de 1800, com ênfase em maltes mais escuros e cevada torrada. A Guinness começou a usar cevada em flocos após a Segunda Guerra Mundial, e a Guinness Draft foi lançada como marca em 1959. O dispositivo similar ao chope para latas e garrafas foi desenvolvido no final dos anos 1980 e 1990.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Maltes ou grãos torrados escuros, o suficiente para tornar a cerveja preta. Malte pale. Pode usar grãos não maltados para o corpo.
 
@@ -36,7 +36,7 @@ Maltes ou grãos torrados escuros, o suficiente para tornar a cerveja preta. Mal
 
 Força inferior à de uma Irish Extra Stout. Mais escuro na cor (preto) do que uma English Porter (marrom).
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 25 - 45
 SRM: 25 - 40

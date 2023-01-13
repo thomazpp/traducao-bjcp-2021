@@ -48,7 +48,7 @@ ABV: 4.8% - 6%
 
 Cervejaria Bamberg Rauchbier, Göller Rauchbier, Rittmayer Rauchbier, Spezial Rauchbier Märzen, Schlenkerla Rauchbier Märzen.
 
-### Revisões Anteriores
+### Última Revisão
 
 Rauchbier (2015)
 

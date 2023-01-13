@@ -28,7 +28,7 @@ Uma ampla variedade de lagers internacionais que é mais escura do que clara e n
 
 Versões mais escuras das International Pale Lagers, frequentemente criadas pelas mesmas grandes cervejarias industriais e destinadas a atrair um público amplo. Frequentemente uma adaptação com mais cor ou dulçor da lager industrial clara deste padrão ou uma versão mais acessível (e econômica) das lagers escuras mais tradicionais.
 
-### Ingredientes característicos
+### Ingredientes
 
 Cevada de duas ou seis fileiras, com milho, arroz ou açúcares como adjuntos. Uso leve de malte caramelo e malte torrado mais escuro. Versões comerciais podem utilizar corante.
 
@@ -48,7 +48,7 @@ ABV: 4.2% - 6%
 
 Baltika #4 Original, Dixie Blackened Voodoo, Heineken Dark Lager, Saint Pauli Girl Dark, San Miguel Dark, Shiner Bock.
 
-### Revisões Anteriores
+### Última Revisão
 
 International Dark Lager (2015)
 

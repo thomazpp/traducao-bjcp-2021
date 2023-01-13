@@ -28,7 +28,7 @@ Desenvolvida para cativar a mais ampla gama de pessoas possível. Sabores fortes
 
 A Coors produziu uma Light Lager por alguns anos na década de 1940. Versões modernas foram produzidas inicialmente por Rheingold em 1967 para atender os consumidores que faziam dieta, mas somente em 1973 se tornou popular, após a cervejaria Miller adquirir a receita e fazer grande propaganda de *marketing* entre os esportistas com o slogan "muito gosto, menos calorias". As cervejas deste estilo se tornaram as mais vendidas nos EUA na década de 1990.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Cevada de duas ou seis fileiras com até 40% de adjuntos (arroz ou milho). Enzimas adicionais podem ser utilizadas para reduzir o corpo e a quantidade de carboidratos. Levedura Lager. Pouco uso de lúpulos.
 
@@ -36,7 +36,7 @@ Cevada de duas ou seis fileiras com até 40% de adjuntos (arroz ou milho). Enzim
 
 Uma versão com menor corpo, menos álcool e menos calorias do que uma American Lager. Menos caráter de lúpulo e amargor do que na German Leitchbier.
 
-### Estatística Vital
+### Estatísticas
 
 IBU: 8 - 12
 SRM: 2 - 3
@@ -48,7 +48,7 @@ ABV: 2.8% - 4.2%
 
 Bud Light, Coors Light, Grain Belt Premium Light American Lager, Michelob Light, Miller Lite, Old Milwaukee Light.
 
-### Revisões Anteriores
+### Última Revisão
 
 American Light Lager (2015)
 

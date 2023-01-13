@@ -28,7 +28,7 @@ Classificada como diferente da American Amber Ale para melhor destacar exemplos 
 
 Um estilo moderno de cerveja artesanal americana, baseada na American IPA, mas com os sabores de malte de uma American Amber Ale. Veja American Amber Ale.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Semelhante a uma American IPA, mas com maltes crystal médios ou escuros, possivelmente alguns maltes com um leve aspecto tostado. Podem ser usados adjuntos que contribuam com açúcares. Qualquer caráter de lúpulo americano ou do novo mundo é aceitável, mas os lúpulos e o perfil maltado não devem entrar em conflito.
 
@@ -36,7 +36,7 @@ Semelhante a uma American IPA, mas com maltes crystal médios ou escuros, possiv
 
 Uma versão mais forte, lupulada e amarga da American Amber Ale. Não é tão maltada e doce quanto uma American Strong Ale. Mais seca, menos alcoólico e não tão maltada quanto uma American Barleywine. Menos chocolate e caramelo do que uma Brown IPA, mas com um equilíbrio semelhante.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 40 - 70
 SRM: 11 - 17

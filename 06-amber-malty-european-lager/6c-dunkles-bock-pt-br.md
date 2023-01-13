@@ -28,7 +28,7 @@ A mosturação por decocção desempenha um papel importante no desenvolvimento 
 
 Originada na cidade de Einbeck, no norte da Alemanha, que era um centro cervejeiro e exportador popular nos dias da Liga Hanseática (séculos XIV a XVII). Recriada em Munique a partir do século XVII. A palavra “Bock” é traduzida como “bode” em alemão e é por isso que o referido animal é frequentemente usado em logotipos e anúncios.
 
-### Ingredientes característicos
+### Ingredientes
 
 Maltes Munich e Vienna, raramente é usado um pouco de maltes torrados escuros para ajuste de cor, sem uso de quaisquer adjuntos não maltados. Variedades de lúpulo da Europa continental são usadas. Levedura lager alemã limpa.
 

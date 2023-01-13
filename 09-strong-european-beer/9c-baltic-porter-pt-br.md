@@ -28,7 +28,7 @@ A maioria das versões comerciais está na faixa de 7 a 8,5% ABV. Os melhores ex
 
 Desenvolvida de forma nativa (e independente) em vários países que faziam fronteira com o Mar Báltico após a interrupção da importação de porters e stouts ingleses, populares no início dos anos 1800. Historicamente de alta fermentação, muitas cervejarias adaptaram as receitas com levedura de baixa fermentação junto com o restante de sua produção. O nome Baltic Porter é recente (desde a década de 1990) e descreve a coleção moderna de cervejas com um perfil um tanto semelhante desses países e não versões históricas.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Geralmente levedura lager (fermentada a frio se utilizar levedura ale, como é necessário quando fabricada na Rússia). Malte escuro sem casca. Malte base Munich ou Vienna. Lúpulo continental. Pode conter malte cristal ou adjuntos. Malte brown ou âmbar são comuns em receitas históricas. Como uma coleção de cervejas regionais são esperadas diferentes formulações.
 

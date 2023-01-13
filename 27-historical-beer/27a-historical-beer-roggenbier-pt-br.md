@@ -48,7 +48,7 @@ ABV: 4.5% - 6%
 
 Thurn und Taxis Roggen.
 
-### Revisões Anteriores
+### Última Revisão
 
 Historical Beer: Roggenbier (2015)
 

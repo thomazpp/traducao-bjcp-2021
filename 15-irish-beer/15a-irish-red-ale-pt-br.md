@@ -28,7 +28,7 @@ O estilo é bastante amplo para permitir exemplos além dos tradicionais da Irla
 
 Enquanto a Irlanda tem uma longa herança de fabricação de cervejas ale, o estilo moderno Irish Red Ale é essencialmente uma adaptação ou interpretação do popular estilo English Bitter, com menos lupulagem e um toque de torra para adicionar cor e secura; embora alguns sugiram uma história mais longa. Redescoberto como um estilo de cerveja artesanal na Irlanda, hoje é uma parte essencial da linha da maioria cervejarias, junto com pale ale e stout.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Geralmente tem um pouco de cevada torrada ou malte black para dar cor avermelhada e final torrado seco. Malte base pale. Os maltes de caramelo eram historicamente importados e mais caros, então nem todos os cervejeiros os usavam.
 
@@ -36,7 +36,7 @@ Geralmente tem um pouco de cevada torrada ou malte black para dar cor avermelhad
 
 Uma cerveja irlandesa equivalente a uma Bitter inglesa menos amarga e lupulada, com um final seco devido à cevada torrada. Mais atenuada, com menos sabor de caramelo e corpo do que as Scottish Ales de força equivalente.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 18 - 28
 SRM: 9 - 14

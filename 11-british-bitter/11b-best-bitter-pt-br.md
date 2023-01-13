@@ -28,7 +28,7 @@ Sabor de malte mais evidente do que em uma ordinary bitter; esta é uma session 
 
 Veja os comentários na introdução da categoria.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Maltes pale ale, amber ou crystal. A maioria contém açúcar. Pode usar um toque de caramelo ou malte escuro para ajuste de cor. Pode usar milho ou trigo. Lúpulos de finalização ingleses são os mais tradicionais, mas qualquer lúpulo é um jogo justo; se forem usados ​​lúpulos americanos, é necessário um leve toque. Levedura britânica característica.
 
@@ -36,7 +36,7 @@ Maltes pale ale, amber ou crystal. A maioria contém açúcar. Pode usar um toqu
 
 Mais álcool do que uma ordinary bitter, e muitas vezes usando ingredientes de alta qualidade. Menos álcool do que uma strong bitter. Mais caráter e cor de caramelo ou malte base do que uma British Golden Ale. A ênfase está na adição de lúpulo de amargor, em oposição ao agressivo lúpulo de adição tardia visto nas American Ales.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 25 - 40
 SRM: 8 - 16

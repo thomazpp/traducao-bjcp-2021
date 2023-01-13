@@ -28,7 +28,7 @@ Exemplares modernos da Pils tendem a se tornar mais claros na cor, mais secos e 
 
 Adaptada da Pilsner Tcheca para se adequar às condições de produção cervejeira da Alemanha, particularmente água com maior teor de minerais e variedades de lúpulo nacionais. Fabricada pela primeira vez na Alemanha no início da década de 1870. Tornou-se mais popular após a Segunda Guerra Mundial, quando as escolas cervejeiras alemãs enfatizaram as técnicas modernas. Junto com sua “prima” Czech Pilsner, é a ancestral dos estilos de cerveja mais amplamente produzidos atualmente.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Malte Pilsner continental. Lúpulos tradicionais alemães. Levedura lager alemã limpo.
 

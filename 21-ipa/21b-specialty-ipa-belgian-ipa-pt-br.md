@@ -28,7 +28,7 @@ A escolha da cepa de levedura e das variedades de lúpulo é complexa, pois muit
 
 Um estilo relativamente moderno, datado de meados dos anos 2000. Cervejeiros caseiros e cervejarias artesanais, em suas receitas de American IPA, substituíram a levedura por uma belga. Normalmente, as cervejarias belgas adicionavam mais lúpulo às suas cervejas claras mais fortes.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Cepas de leveduras belgas usadas na fabricação de Belgian Tripels e Golden Strong Ales. Exemplos americanos tendem a usar lúpulos americanos ou do novo mundo, enquanto as versões belgas tendem a usar lúpulos europeus e apenas malte claro. Adjuntos de açúcar são comuns.
 
@@ -36,7 +36,7 @@ Cepas de leveduras belgas usadas na fabricação de Belgian Tripels e Golden Str
 
 Um cruzamento entre uma American IPA ou Double IPA com uma Belgian Golden Strong Ale ou uma Belgian Tripel. Este estilo pode ser condimentado, mais forte, mais seco e mais frutado do que uma American IPA.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 50 - 100
 SRM: 5 - 8
@@ -48,7 +48,7 @@ ABV: 6,2% - 9,5%
 
 Brewery Vivant Triomphe, Houblon Chouffe, Green Flash Le Freak, Urthel Hop It.
 
-### Revisões Anteriores
+### Última Revisão
 
 Specialty IPA: Belgian IPA (2015)
 

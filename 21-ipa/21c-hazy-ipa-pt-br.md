@@ -28,7 +28,7 @@ Também conhecido como New England IPA ou NEIPA. A ênfase nos lúpulos de adiç
 
 Um estilo moderno de cerveja artesanal originário na região de New England nos Estados Unidos, como uma variante da American IPA. Acredita-se que a Alchemist Heady Topper seja a inspiração original, quando o estilo cresceu em popularidade na década de 2010. O estilo continua a evoluir, incluindo a tendência de diminuir o amargor e usar o estilo como base para outras adições.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Conjunto de grãos similar a uma American IPA, mas com mais grãos em flocos e menos caramelo ou maltes especiais. Lúpulos americanos ou do novo mundo com características frutadas. Levedura de neutra a esterificada. Equilíbrio para água rica em cloreto. Uso elevado de *dry-hopping*, em parte durante a fermentação ativa, usando uma variedade de doses e temperaturas de lúpulo para enfatizar uma profundidade de aromas e sabores do lúpulo ao invés do amargor. A biotransformação dos óleos essenciais do lúpulo durante a fermentação aumenta a intensidade e a complexidade frutada.
 
@@ -36,7 +36,7 @@ Conjunto de grãos similar a uma American IPA, mas com mais grãos em flocos e m
 
 Tem uma sensação na boca mais cheia e macia, uma expressão de lúpulo mais frutada, um equilíbrio do amargor percebido mais contido e uma aparência mais opaca do que a American IPA. Muitas American IPAs modernas são frutadas e um tanto turvas; exemplares com final seco e nítido, no máximo corpo médio e alto amargor percebido, devem ser inseridos como 21A American IPA. Adições notáveis de frutas, lactose, baunilha, etc. para aumentar o caráter frutado e suave devem ser inseridas nas categorias de especialidades definida pelos aditivos (por exemplo, 29A Fruit Beer, 29C Specialty Fruit Beer, 30D Specialty Spice Beer).
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 25 - 60
 SRM: 3 - 7

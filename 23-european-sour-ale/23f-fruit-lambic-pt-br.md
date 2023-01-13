@@ -29,7 +29,7 @@ Produzida como Gueuze, com a fruta comumente adicionada no meio do envelheciment
 
 Mesma história básica da Gueuze, incluindo a tendência recente de adoçar, mas com frutas além do açúcar. A fruta era tradicionalmente adicionada pelo responsável por fazer a mistura ou pelo taberneiro para aumentar a variedade de cervejas disponíveis nos cafés locais.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Mesma base da Gueuze. Fruta adicionada aos barris durante a fermentação e a mistura. Frutas tradicionais incluem cerejas ácidas e framboesas; frutas modernas incluem pêssegos, damascos, uvas e outros. Pode usar adoçantes naturais ou artificiais.
 
@@ -53,7 +53,7 @@ ABV: 5% - 7%
 
 3 Fonteinen Schaerbeekse Kriek, Cantillon Fou’ Foune, Cantillon Lou Pepe Framboise, Cantillon Vigneronne, Hanssens Oude Kriek, Oude Kriek Boon.
 
-### Revisões Anteriores
+### Última Revisão
 
 Fruit Lambic (2015)
 

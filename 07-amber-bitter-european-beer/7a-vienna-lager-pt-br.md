@@ -48,7 +48,7 @@ ABV: 4.7% - 5.5%
 
 Chuckanut Vienna Lager, Devils Backbone Vienna Lager, Figueroa Mountain Red Lager, Heavy Seas Cutlass, Ottakringer Wiener Original, Schell’s Firebrick, Theresianer Vienna.
 
-### Revisões Anteriores
+### Última Revisão
 
 Vienna Lager (2015)
 

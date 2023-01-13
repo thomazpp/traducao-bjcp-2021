@@ -28,7 +28,7 @@ Também às vezes conhecida como Pennsylvania Porter ou East Coast Porter. Este 
 
 Produzida comercialmente na Filadélfia durante o período revolucionário como uma adaptação da cerveja inglesa. Evoluiu mais tarde, quando os imigrantes alemães aplicaram métodos de fabricação de cerveja lager durante a segunda metade dos anos 1800. A Lei Seca acabou com a maioria da produção de cerveja Porter nos Estados Unidos, exceto em alguns estados regionais do Nordeste e do Meio-Atlântico, onde ela era mais popular.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Malte de duas ou seis fileiras. Baixas porcentagens de maltes escuros, incluindo malte black, chocolate e brown (cevada torrada normalmente não é usada). Adjuntos são aceitáveis, incluindo milho, alcaçuz cervejeiro, melaço e porterine. Versões mais históricas terão até vinte por cento de adjuntos. Levedura lager ou ale. Lúpulos de amargor americanos históricos ou tradicionais, lúpulos americanos ou alemães para final de fervura.
 

@@ -28,7 +28,7 @@ A mistura de Lambics jovens e envelhecidas cria um produto mais complexo e muita
 
 Mesma história básica da Lambic, mas envolve mistura, que pode ser feita fora da cervejaria. Alguns dos melhores exemplares são produzidos por mestres em blendar, que fermentam, envelhecem, misturam e envasam o produto final. Alguns produtores modernos estão adoçando seus produtos após a fermentação para torná-los mais palatáveis para um público mais amplo. Estas diretrizes descrevem o produto tradicional.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Os mesmos da Lambic, exceto que Lambics de um, dois e três anos são misturadas e depois armazenadas.
 
@@ -48,7 +48,7 @@ ABV: 5% - 8%
 
 3 Fonteinen Oud Gueuze, Cantillon Classic Gueuze 100% Lambic, Girardin Gueuze 1882 (Black label), Hanssens Oude Gueuze, Lindemans Gueuze Cuvée René, Oude Gueuze Boon.
 
-### Revisões Anteriores
+### Última Revisão
 
 Gueuze (2015)
 

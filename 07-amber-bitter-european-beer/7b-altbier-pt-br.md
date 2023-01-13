@@ -48,7 +48,7 @@ ABV: 4.3% - 5.5%
 
 Bolten Alt, Diebels Alt, Füchschen Alt, Original Schlüssel Alt, Schlösser Alt, Schumacher Alt, Uerige Altbier.
 
-### Revisões Anteriores
+### Última Revisão
 
 Altbier (2015)
 

@@ -28,7 +28,7 @@ O membro de menor densidade da família British Bitter, normalmente conhecido pe
 
 Veja os comentários na introdução da categoria.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Maltes pale ale, amber ou crystal. Pode usar um toque de malte escuro para ajuste de cor. Pode usar adjuntos como açúcar, milho ou trigo. Lúpulos de finalização ingleses são os mais tradicionais, mas qualquer lúpulo é um jogo justo; se forem usados lúpulos americanos, é necessário um leve toque. Levedura britânica característica.
 
@@ -36,7 +36,7 @@ Maltes pale ale, amber ou crystal. Pode usar um toque de malte escuro para ajust
 
 Algumas variantes modernas são fabricadas exclusivamente com malte claro e são conhecidas como Golden Ales, Summer Ales ou Golden Bitters. A ênfase está na adição de lúpulo de amargor, em oposição ao agressivo lúpulo de adição tardia visto nas American Ales.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 25 - 35
 SRM: 8 - 14

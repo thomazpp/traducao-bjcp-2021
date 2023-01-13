@@ -29,7 +29,7 @@ Cerveja esperada pelos bebedores de cerveja não artesanal no Estados Unidos. Po
 
 Evolução da Pre-Prohibition Lager (ver Categoria 27) nos Estados Unidos após a Lei Seca e a Segunda Guerra Mundial. Cervejarias sobreviventes se consolidaram, expandiram a distribuição e promoveram intensamente um estilo de cerveja que satisfazia grande parte da população. Se tornou o estilo dominante por muitas décadas e, por isto, surgiram muitos rivais internacionais que desenvolveram produtos semelhantes para o mercado de massa utilizando campanhas publicitárias agressivas.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Cevada de duas ou seis fileiras com até 40% de adjuntos (arroz ou milho). Levedura Lager. Pouco uso de lúpulos.
 
@@ -37,7 +37,7 @@ Cevada de duas ou seis fileiras com até 40% de adjuntos (arroz ou milho). Leved
 
 Uma versão mais forte, com mais sabor e corpo do que uma American Light Lager. Menos amargor e sabor do que uma International Pale Lager. Com muito menos sabor, lúpulo e amargor do que as tradicionais Pilsners européias.
 
-### Estatística Vital
+### Estatísticas
 
 IBU: 8 - 18
 SRM: 2 - 3.5
@@ -49,7 +49,7 @@ ABV: 4.2% - 5.3%
 
 Budweiser, Coors Original, Grain Belt Premium Lager, Miller High Life, Old Style, Pabst Blue Ribbon, Special Export.
 
-### Revisões Anteriores
+### Última Revisão
 
 American Lager (2015)
 

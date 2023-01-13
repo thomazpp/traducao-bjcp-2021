@@ -28,7 +28,7 @@ Esta descrição de estilo descreve a versão moderna da English Porter, nem tod
 
 Originário de Londres no início de 1700, a Porter evoluiu como uma versão mais lupulada e envelhecida (de guarda) da Brown Beer popular na época. Evoluiu muitas vezes com base em vários desenvolvimentos tecnológicos e de ingredientes (como a invenção do malte black em 1817 e a fabricação industrial de cerveja em larga escala), bem como as preferências do consumidor, guerras e política tributária. Tornou-se um estilo altamente popular e amplamente exportado no início de 1800, antes de declinar na década de 1870, quando mudou para uma cerveja não envelhecida e de menor gravidade. Como as gravidades continuaram a diminuir em todas as cervejas do Reino Unido na primeira metade da década de 1900, estilos deixaram de ser feitos (incluindo o porter, que desapareceu na década 1950). A era da cerveja artesanal levou à sua reintrodução em 1978. Diz-se que o nome foi derivado de sua popularidade com a classe trabalhadora de Londres realizando várias tarefas diárias de transporte de carga. Progenitora várias interpretações regionais ao longo do tempo e precursora de todas as stouts (que originalmente eram chamadas de “stout porters”). Não há conexão histórica ou relação entre Mild e Porter.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Os grãos variam, mas algum que produz uma cor escura está sempre envolvido. Chocolate ou outros maltes torrados, malte caramelo, açúcares cervejeiros e similares são comuns. Porters de Londres costumam usar malte brow como sabor característico.
 
@@ -36,7 +36,7 @@ Os grãos variam, mas algum que produz uma cor escura está sempre envolvido. Ch
 
 Difere da American Porter porque geralmente tem sabores mais suaves, mais doces e mais caramelados, densidades mais baixas e geralmente menos álcool; A American Porter também costuma ter mais caráter de lúpulo.Com mais peso e torra do que uma British Brown Ale. Maior em gravidade do que um Dark Mild.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 18 - 35
 SRM: 20 - 30

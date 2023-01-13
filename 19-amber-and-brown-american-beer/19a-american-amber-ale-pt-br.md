@@ -28,7 +28,7 @@ Pode se sobrepor na cor com as American Pale Ales mais escuras, mas com um sabor
 
 Um estilo moderno de cerveja artesanal americana desenvolvido como uma variação das American Pale Ales. A Mendocino Red Tail Ale foi produzida pela primeira vez em 1983 e era conhecida regionalmente como Red Ale. Ela serviu como progenitora das Double Reds (American Strong Ale), Red IPAs e outras cervejas lupuladas e caramelizadas.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Malte Pale Ale neutro. Maltes crystal médio a escuro. Lúpulos americanos ou do novo mundo, muitas vezes com sabores cítricos, são comuns, mas outros também podem ser usados. Levedura neutra a que produz leve esterificação.
 
@@ -36,7 +36,7 @@ Malte Pale Ale neutro. Maltes crystal médio a escuro. Lúpulos americanos ou do
 
 Mais escura, mais caramelada, mais encorpada e geralmente menos amarga no equilíbrio do que as American Pale Ales. Menos álcool, amargor e caráter de lúpulo do que as Red IPAs. Menos força, malte e caráter de lúpulo do que American Strong Ales. Menos chocolate e caramelo escuro do que uma American Brown Ale.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 25 - 40
 SRM: 10 - 17

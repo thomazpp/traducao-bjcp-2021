@@ -28,7 +28,7 @@ A gravidade é baixa na Grã-Bretanha (às vezes mais baixas do que a parte infe
 
 Um estilo inglês de stout desenvolvido no início de 1900. Historicamente conhecidas como stouts “Milk” ou “Cream”, legalmente essa designação não é mais permitida na Inglaterra, mas pode ser aceitável em outros lugares. O nome “Milk” é derivado do uso do açúcar do leite, lactose, como adoçante. Originalmente comercializado como um tônico para pessoas com deficiências e lactantes.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Base de malte pale com maltes ou grãos escuros. Pode usar adjuntos de grãos ou açúcar. A lactose é frequentemente adicionada para fornecer doçura residual adicional.
 
@@ -36,7 +36,7 @@ Base de malte pale com maltes ou grãos escuros. Pode usar adjuntos de grãos ou
 
 Muito mais doce e menos amargo do que outras stouts, exceto o mais forte Tropical Stout. O caráter torrado é suave, não queimado como outras stouts. Pode ser semelhante em equilíbrio à Oatmeal Stout, embora com mais dulçor.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 20 - 40
 SRM: 30 - 40

@@ -29,7 +29,7 @@ Encorpada e altamente viscosa, com uma textura aveludada e envolvente, diminuind
 
 Tradicionalmente, a cerveja mais forte oferecida por uma cervejaria, muitas vezes associada à temporada de inverno e datada por safra. Tal como acontece com muitos estilos de cervejas artesanais americanas, uma adaptação de um estilo inglês, usando ingredientes e equilíbrio americanos. Uma das primeiras versões de cerveja artesanal americana foi a Anchor Old Foghorn, fabricada pela primeira vez em 1975. Sierra Nevada Bigfoot, fabricada pela primeira vez em 1983, estabeleceu o padrão orientado para o lúpulo, o padrão mais observado atualmente. A história diz que quando a Sierra Nevada enviou a Bigfoot pela primeira vez para análise de laboratório, o laboratório ligou e disse: “sua Barleywine está muito amarga” – ao que Sierra Nevada respondeu: “obrigado”.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Malte pale com alguns maltes especiais. Maltes escuros usados com grande moderação. Muitas variedades de lúpulo podem ser usadas, mas normalmente inclui lúpulo americano. Levedura ale americana ou inglesa.
 
@@ -37,7 +37,7 @@ Malte pale com alguns maltes especiais. Maltes escuros usados com grande modera�
 
 Maior ênfase no amargor, sabor e aroma do lúpulo do que o English Barley Wine, muitas vezes apresentando variedades de lúpulos americanos. Normalmente mais clara do que as English Barley Wines mais escuras e sem seus sabores de malte mais intensos, mas mais escura do que as English Barley Wines douradas. Diferencia-se de uma Double IPA, pois os lúpulos não são extremos, é mais orientada para o malte e o corpo é mais cheio e muitas vezes mais rico. A American Barleywine normalmente tem mais dulçor residual do que Double IPA, o que afeta a facilidade em beber (degustar x beber).
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 50 - 100
 SRM: 9 - 18

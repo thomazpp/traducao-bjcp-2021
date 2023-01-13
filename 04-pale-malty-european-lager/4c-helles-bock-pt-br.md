@@ -48,7 +48,7 @@ ABV: 6.3% - 7.4%
 
 Altenmünster Maibock, Ayinger Maibock, Chuckanut Maibock, Einbecker Mai-Urbock, Hacker-Pschorr Hubertus Bock, Hofbräu Maibock, Mahr’s Heller Bock.
 
-### Revisões Anteriores
+### Última Revisão
 
 Helles Bock (2015)
 

@@ -24,7 +24,7 @@ OG, FG, IBUs, SRM e ABV vão variar dependendo da cerveja declarada.
 
 Orval, La Chouffe.
 
-### Revisões Anteriores
+### Última Revisão
 
 Clone Beer (2015)
 

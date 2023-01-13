@@ -28,7 +28,7 @@ Um amplo espectro de cervejas âmbar de mercado de massa que se desenvolveram in
 
 Varia de acordo com o país, mas geralmente representa uma adaptação da International Pale Lager do mercado de massa ou uma evolução de estilos indígenas em produtos mais genéricos.
 
-### Ingredientes característicos
+### Ingredientes
 
 Malte base de duas ou seis fileiras. Maltes de cor, como Victory, âmbar ou torrado. Pode ser puro malte ou utilizar adjuntos. Permite o uso de açúcares ou corantes. Malte caramelo. Lúpulo europeu ou americano.
 
@@ -48,7 +48,7 @@ ABV: 4.5% - 6%
 
 Abita Amber Lager, Brooklyn Lager, Capital Wisconsin Amber Lager, Dos Equis Amber, Grain Belt NordEast, Yuengling Lager.
 
-### Revisões Anteriores
+### Última Revisão
 
 International Amber Lager (2015)
 

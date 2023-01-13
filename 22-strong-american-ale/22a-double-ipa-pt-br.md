@@ -28,7 +28,7 @@ Raramente chamada de Imperial IPA. Muitas versões modernas têm várias adiçõ
 
 Uma inovação de cerveja artesanal americana desenvolvida pela primeira vez em meados da década de 1990 como uma versão mais intensa da American IPA. Tornou-se mais dominante e popular ao longo dos anos 2000 e inspirou a criatividade adicional das IPAs. Russian River Pliny the Elder, fabricada pela primeira vez em 2000, ajudou a popularizar o estilo.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Malte base neutro. É comum o uso de adjuntos de açúcar. Maltes crystal são raros. Lúpulo americano ou do novo mundo. Levedura neutra ou levemente frutada. Sem carvalho.
 
@@ -36,7 +36,7 @@ Malte base neutro. É comum o uso de adjuntos de açúcar. Maltes crystal são r
 
 Maior teor alcoólico, amargor e lúpulo do que as IPAs inglesas e americanas. Menos rica em malte, menos corpo, mais seca e com um maior equilíbrio para o lúpulo do que uma American Barleywine.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 60 - 100
 SRM: 6 - 14
@@ -48,7 +48,7 @@ ABV: 7,5% - 10%
 
 Columbus Brewing Bohdi, Fat Heads Hop Juju, Port Brewing Hop 15, Russian River Pliny the Elder, Stone Ruination Double IPA 2.0, Wicked Weed Freak of Nature.
 
-### Revisões Anteriores
+### Última Revisão
 
 Double IPA (2015)
 

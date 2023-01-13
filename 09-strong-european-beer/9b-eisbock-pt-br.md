@@ -28,7 +28,7 @@ Longa maturação a frio é necessária após o congelamento para suavizar o ál
 
 Originária de Kulmbach, na Francônia, no final dos anos 1800, embora as origens exatas não sejam conhecidas. As fábulas a descrevem como proveniente do congelamento acidental da cerveja em uma cervejaria.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Os mesmos utilizados na Doppelbock. Produzida pelo congelamento de uma cerveja tipo Doppelbock e a remoção do gelo (“destilação por congelamento”), concentrando assim os sabores e o álcool, bem como quaisquer defeitos presentes. As Eisbocks comerciais são geralmente concentradas entre 7% e 33% por volume.
 

@@ -28,7 +28,7 @@ Doppelbock significa Bock dupla. A maioria das versões são escuras e podem apr
 
 Uma especialidade da Bavária originária de Munique. Produzida em primeiro lugar pelos monges de São Francisco de Paul no séc. XVIII. Versões históricas eram menos atenuadas que as interpretações modernas, e, portanto, mais doces e com menos álcool. Era chamada de pão líquido pelos monges e costumava-se consumi-la durante a quaresma. Cervejarias adotaram os nomes das cervejas terminando em –ator depois que uma corte do século XIX julgou que ninguém além da Paulaner poderia utilizar o nome Salvator. Cor tradicionalmente castanho escuro; versões mais claras são um desenvolvimento mais recente.
 
-### Ingredientes característicos
+### Ingredientes
 
 Maltes Pilsen, Vienna e Munich. Ocasionalmente malte escuro para ajuste de cor. Lúpulos tradicionais alemães. Levedura lager alemã limpa. Decocção é tradicional.
 
@@ -40,7 +40,7 @@ Uma versão mais forte, rica e com mais corpo do que a Dunkles Bock ou Helles Bo
 
 O participante deve especificar se a amostra é clara ou escura.
 
-### Estatísticas Vitais
+### Estatísticas
 
 IBU: 16 - 26
 SRM: 6 - 25

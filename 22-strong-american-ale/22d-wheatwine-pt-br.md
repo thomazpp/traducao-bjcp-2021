@@ -29,7 +29,7 @@ Grande parte da cor surge de uma longa fervura. Alguns exemplos comerciais podem
 
 Um estilo de cerveja artesanal americana que foi fabricada pela primeira vez na Rubicon Brewing Company em 1988. Geralmente de lançamento sazonal no inverno ou datada por safra (*vintage*) ou de lançamento único.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Normalmente fabricada com uma combinação de malte americano de duas fileiras e trigo americano. O estilo geralmente usa 50% ou mais de malte de trigo. Uso restrito de maltes escuros. Qualquer variedade de lúpulo pode ser usada. Pode ser envelhecida em carvalho.
 
@@ -37,7 +37,7 @@ Normalmente fabricada com uma combinação de malte americano de duas fileiras e
 
 Mais do que simplesmente uma Barleywine à base de trigo, muitas versões têm notas frutadas e lupuladas muito expressivas, enquanto outras desenvolvem complexidade através do envelhecimento em carvalho. Menos ênfase no lúpulo do que na American Barleywine. Tem raízes na American Wheat Beer ao invés de qualquer estilo de trigo alemão, então não deve ter nenhum caráter de levedura Weizen.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 30 - 60
 SRM: 6 - 14
@@ -49,7 +49,7 @@ ABV: 8% - 12%
 
 The Bruery White Oak, Castelain Winter Ale, Perennial Heart of Gold, Two Brothers Bare Tree.
 
-### Revisões Anteriores
+### Última Revisão
 
 Wheatwine (2015)
 

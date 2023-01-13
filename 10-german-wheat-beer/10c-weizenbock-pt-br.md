@@ -53,7 +53,7 @@ ABV: 6.5% - 9%
 Escura – Plank Bavarian Dunkler Weizenbock, Penn Weizenbock, Schalchner Weisser Bock, Schneider Weisse Aventinus;
 Clara – Ayinger Weizenbock, Distelhäuser Weizen Bock, Ladenburger Weizenbock Hell, Weihenstephaner Vitus
 
-### Revisões Anteriores
+### Última Revisão
 
 Weizenbock (2015)
 

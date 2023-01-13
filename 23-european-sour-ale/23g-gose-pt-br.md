@@ -28,7 +28,7 @@ Versões históricas podem ter sido mais ácidas do que os exemplares modernos d
 
 Pequeno estilo associado com Leipzig mas originado na Idade Média na cidade de Goslar sob o rio Gose. Documentada como tendo aparecido em Leipzig por volta de 1740. Leipzig foi descrita como tendo 80 casas de Gose em 1900. A produção teve um declínio significante depois da Segunda Guerra Mundial e cessou completamente em 1966. A produção moderna foi revivida nos anos 80 na Alemanha, mas a cerveja não era amplamente acessível. Ficou popular fora da Alemanha recentemente como um renascimento do estilo e é frequentemente utilizada como um estilo base pra cervejas ácidas frutas e outras cervejas do tipo Specialty.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Malte de trigo e Pilsen, uso restrito de sal e sementes de coentro, Lacto. As sementes de coentro devem ter uma nota viva, fresca, cítrica (limão ou laranja-azeda) e não vegetal, como salsão ou tipo presunto. O sal deve ter um caráter de sal marinho ou sal fresco, não uma nota metálica ou de iodo.
 
@@ -36,7 +36,7 @@ Malte de trigo e Pilsen, uso restrito de sal e sementes de coentro, Lacto. As se
 
 A acidez percebida não é tão intensa com uma Berliner Weisse ou Gueuze. Uso contido de sal, sementes de coentro e Lacto - não deve ter um gosto notadamente salgado. O aroma de sementes de coentro pode ser similar a uma Witbier. Turbidez similar a uma Weissbier.
 
-### Estatísticas Vitais
+### Estatísticas
 
 IBU: 5 - 12
 SRM: 3 - 4
@@ -48,7 +48,7 @@ ABV: 4.2% - 4.8%
 
 Anderson Valley Gose, Bayerisch Bahnhof Leipziger Gose, Original Ritterguts Gose, Westbrook Gose.
 
-### Revisões Anteriores
+### Última Revisão
 
 Historical Beer: Gose (2015)
 

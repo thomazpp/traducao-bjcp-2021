@@ -29,7 +29,7 @@ A maioria dos exemplos comerciais estão na faixa de 6,5 a 7% de ABV. Muitas vez
 
 O desenvolvimento do estilo é relativamente recente para atender ao apelo de bebedores de Pilsen européias, tornando-se mais popular em decorrência de sua forte comercialização, bem como a sua ampla distribuição. Apesar das alegações de que o estilo tenha surgido em 1200, ele somente foi criado após II Guerra Mundial e foi popularizado pela Leffe.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Malte pilsen belga, maltes aromáticos, açúcar e outros adjuntos, cepas de leveduras belgas tipo Abbey, lúpulos continentais. Especiarias não são tradicionalmente utilizados, mas quando presentes, devem possuir apenas um caráter de fundo.
 
@@ -37,7 +37,7 @@ Malte pilsen belga, maltes aromáticos, açúcar e outros adjuntos, cepas de lev
 
 Semelhante a força alcoólica e o equilíbrio de Belgian Dubbel, como de coloração dourada e sem os sabores de maltes escuros. Semelhante ao perfil de uma Belgian Strong Golden Ale ou de Belgian Tripel, embora um pouco mais maltada, não tão amarga e mais baixo em relação ao álcool.
 
-### Estatísticas Vitais
+### Estatísticas
 
 IBU: 15 - 30
 SRM: 4 - 6

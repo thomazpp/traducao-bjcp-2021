@@ -28,7 +28,7 @@ Uma interpretação pelos cervejeiros artesanais de uma American IPA cruzada com
 
 Os cervejeiros artesanais americanos desenvolveram o estilo como uma cerveja sazonal para o final do inverno ou primavera, visando atrair os consumidores de Witbier e de IPA.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Maltes claros e de trigo, levedura Witbier belga, lúpulos cítricos do tipo americano. Coentro e casca de laranja são opcionais.
 
@@ -36,7 +36,7 @@ Maltes claros e de trigo, levedura Witbier belga, lúpulos cítricos do tipo ame
 
 Amarga, lupulada e mais forte como uma American IPA, mas frutada, picante e leve como uma Witbier. Normalmente, os lúpulos de adição tardia não são tão proeminentes quanto em uma American IPA.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 40 - 70
 SRM: 5 - 6
@@ -48,7 +48,7 @@ ABV: 5,5% - 7%
 
 Lagunitas A Little Sumpin' Sumpin' Ale, New Belgium Accumulation.
 
-### Revisões Anteriores
+### Última Revisão
 
 Specialty IPA: White IPA (2015)
 

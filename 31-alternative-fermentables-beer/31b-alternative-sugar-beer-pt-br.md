@@ -36,7 +36,7 @@ OG, FG, IBUs, SRM e ABV vão variar de acordo com a cerveja base.
 
 Bell’s Hopslam, Lagunitas Brown Shugga’, Cervejaria Colorado Appia, Fifth Hammer Break of Jawn, Groundswell Piloncillo, Long Trail Harvest, New Glarus Cabin Fever.
 
-### Revisões Anteriores
+### Última Revisão
 
 Alternative Sugar Beer (2015)
 

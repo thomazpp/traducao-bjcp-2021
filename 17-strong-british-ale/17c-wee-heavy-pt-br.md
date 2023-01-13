@@ -28,7 +28,7 @@ Uma ampla gama em relação a força é permitida; nem todas as versões são mu
 
 Descendente das Edinburgh Ales, uma cerveja maltada mais forte fabricada em uma ampla gama em relação a força, semelhante à Burton Ale (embora com metade da taxa de lúpulo). As versões modernas têm duas variantes principais, uma cerveja mais modesta com 5% de ABV e a mais conhecida cerveja com 8-9% de ABV. À medida que as gravidades diminuíram ao longo do tempo, algumas das variações deixaram de ser produzidas.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Malte escocês pale ale, uma ampla gama de outros ingredientes é possível, incluindo adjuntos. Alguns podem usar malte crystal ou grãos mais escuros para dar cor. Sem malte defumado em fumaça de turfa.
 
@@ -36,7 +36,7 @@ Malte escocês pale ale, uma ampla gama de outros ingredientes é possível, inc
 
 Um pouco semelhante a uma English Barley Wine, mas muitas vezes mais escuro e mais caramelado.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 17 - 35
 SRM: 14 - 25

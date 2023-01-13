@@ -28,7 +28,7 @@ As versões oxidadas podem desenvolver notas de caramelo ou mel, que não devem 
 
 Um estilo, de cerveja artesanal, americano produzido como uma alternativa de produção mais rápida às lagers americanas padrão. Acredita-se que foi produzido pela primeira vez em 1987 na Catamount. Muitas vezes posicionada como uma cerveja de entrada das cervejarias.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Geralmente puro malte, mas pode incluir malte de trigo ou adjuntos de açúcar. Qualquer variedade de lúpulo pode ser usada. Levedura americana limpa, inglesa levemente frutada ou do tipo Kölsch. Também pode ser feito com levedura lager, ou condicionado a frio.
 
@@ -36,7 +36,7 @@ Geralmente puro malte, mas pode incluir malte de trigo ou adjuntos de açúcar. 
 
 Normalmente tem mais sabor do que American Lager e Cream Ale. Menos amargor que uma American Pale Ale. Talvez semelhante a alguns exemplos mais maltados de Kölsch.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 15 - 28
 SRM: 3 - 6

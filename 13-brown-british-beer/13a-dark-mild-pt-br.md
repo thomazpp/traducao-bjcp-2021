@@ -28,7 +28,7 @@ A maioria são cervejas session de baixa gravidade, em torno de 3,2%, embora alg
 
 Historicamente, 'mild' era simplesmente uma cerveja não envelhecida e poderia ser usada como um adjetivo para distinguir entre cervejas envelhecidas ou mais lupuladas. As milds modernas têm suas raízes nas cervejas tipo X mais fracas dos anos 1800, que começaram a ficar mais escuras na década de 1880, mas somente após a Primeira Guerra Mundial elas se tornaram marrom-escuras. No uso atual, o termo implica uma cerveja de baixa intensidade com menos amargor de lúpulo do que as bitters. As diretrizes descrevem a versão britânica moderna. O termo 'mild' está atualmente um pouco em desuso entre os consumidores, e muitas cervejarias não o usam mais. Cada vez mais raro. Não há conexão histórica ou relação entre Mild e Porter.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Maltes base Pale britânicos (geralmente com bastante dextrina), maltes crystal, maltes escuros ou adjuntos de açúcar escuro, também podem incluir adjuntos como milho em flocos e podem ser coloridas com caramelo cervejeiro. Levedura ale britânica característica. Qualquer tipo de lúpulo, já que seu caráter é silenciado e raramente é perceptível.
 
@@ -36,7 +36,7 @@ Maltes base Pale britânicos (geralmente com bastante dextrina), maltes crystal,
 
 Algumas versões podem parecer Porters inglesas modernas de baixa gravidade. Muito menos doce que a London Brown Ale.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 10 - 25
 SRM: 14 - 25

@@ -37,7 +37,7 @@ Levedura belga que produz subprodutos condimentados e frutados. Uma complexa var
 
 Como uma grande Belgian Dubbel, com um corpo mais cheio e maior riqueza maltada. Não é como Belgian Tripel mais amarga ou mais lupulada, mas com força alcoólica semelhante.
 
-### Estatísticas Vitais
+### Estatísticas
 
 IBU: 20 - 35
 SRM: 12 - 22

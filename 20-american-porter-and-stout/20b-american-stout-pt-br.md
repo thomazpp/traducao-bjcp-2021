@@ -28,7 +28,7 @@ As cervejarias expressam individualidade variando o perfil do malte torrado, o d
 
 Uma cerveja artesanal moderna e um estilo caseiro, que aplicaram um regime de lúpulo americano mais agressivo a uma cerveja forte tradicional, English Stout ou Irish Stout. As versões caseiras já foram conhecidas como West Coast Stout, uma nomenclatura comum para uma cerveja mais altamente lupulada.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Maltes base, leveduras e lúpulos comuns americanos. Uso variado de maltes escuros e torrados, bem como maltes tipo caramelo. Adjuntos ou aditivos podem estar presentes em pequenas quantidades para adicionar complexidade.
 
@@ -36,7 +36,7 @@ Maltes base, leveduras e lúpulos comuns americanos. Uso variado de maltes escur
 
 Como uma Irish Extra Stout lupulada, amarga e fortemente torrada. Muito mais torra e corpo que uma Black IPA. Versões maiores e mais fortes pertencem ao estilo Imperial Stout. Mais forte e assertiva, particularmente nas adições de maltes escuros ou grãos e caráter de lúpulo, do que uma American Porter.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 35 - 75
 SRM: 30 - 40

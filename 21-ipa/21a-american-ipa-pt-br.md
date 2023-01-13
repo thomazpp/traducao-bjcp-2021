@@ -28,7 +28,7 @@ A base para muitas variações modernas, incluindo a mais forte Double IPA, bem 
 
 Acredita-se que a primeira adaptação de cerveja artesanal americana moderna deste estilo tradicional inglês é a Anchor Liberty Ale, fabricada pela primeira vez em 1975. Usando lúpulo Cascade em flor; o estilo evoluiu além dessa cerveja original, que, agora, por comparação, tem um gosto mais parecido com uma American Pale Ale. As IPAs americanas de épocas anteriores não eram desconhecidas (principalmente a bem-conceituada Ballantine's IPA, uma cerveja envelhecida em carvalho, usando uma antiga receita inglesa). Este estilo é baseado nos exemplos modernos de cervejas artesanais.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Malte base Pale Ale. Levedura americana ou inglesa com perfil limpo ou levemente frutado. Geralmente é puro malte, mas adições de açúcar são aceitáveis. Uso restrito de maltes crystal. Frequentemente se usa lúpulo americano ou do novo mundo, mas qualquer variedade é aceitável; novas variedades de lúpulo continuam sendo lançadas e podem ser utilizadas mesmo que não possuam os perfis sensoriais listados como exemplos.
 
@@ -36,7 +36,7 @@ Malte base Pale Ale. Levedura americana ou inglesa com perfil limpo ou levemente
 
 Mais forte e mais lupulada que a American Pale Ale. Comparada com a English IPA, tem menos caramelo, pão e tostado; muitas vezes mais lúpulo americano ou do novo mundo; menos ésteres derivados de levedura; menos corpo e muitas vezes um equilíbrio mais lupulado; sendo ligeiramente mais forte do que a maioria dos exemplos. Menos álcool do que uma Double IPA, mas com o equilíbrio semelhante.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 40 - 70
 SRM: 6 - 14
@@ -48,7 +48,7 @@ ABV: 5,5% - 7,5%
 
 Bell’s Two-Hearted Ale, Cigar City Jai Alai, Fat Heads Head Hunter IPA, Firestone Walker Union Jack, Maine Lunch, Russian River Blind Pig IPA.
 
-### Revisões Anteriores
+### Última Revisão
 
 American IPA (2015)
 

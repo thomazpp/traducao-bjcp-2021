@@ -28,7 +28,7 @@ Ao julgar, permita diferenças de equilíbrio e interpretação. As versões ame
 
 Uma variante de stouts usando aveia no conjunto de grãos, nutritiva ou para enfermos surgiu por volta de 1900, semelhante, mas independente do desenvolvimento da sweet stout usando lactose. A versão original escocesa usava uma quantidade significativa de malte de aveia. Mais tarde, passou por uma fase sombria em que alguns cervejeiros ingleses jogavam um punhado de aveia em suas stouts feitas por part-gyled para produzir legalmente uma Oatmeal Stout 'saudável' para fins de marketing. Mais popular na Inglaterra entre as Guerras Mundiais, foi revivido na era da cerveja artesanal para exportação, o que ajudou a levar à sua adoção como um estilo popular de cerveja artesanal americana moderna que usa uma quantidade notável (não simbólica) de aveia.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Maltes pale, caramelo e torrados escuros (geralmente chocolate) e grãos. Aveia ou aveia maltada (5-20% ou mais). Lúpulo principalmente para amargor. Pode usar açúcares cervejeiros ou xaropes. Levedura de cerveja inglesa.
 
@@ -36,7 +36,7 @@ Maltes pale, caramelo e torrados escuros (geralmente chocolate) e grãos. Aveia 
 
 A maioria é como uma mistura entre uma Irish Extra Stout e uma Sweet Stout com adição de aveia. Existem muitas variações, com as versões mais doces mais parecidas com uma Sweet Stout com aveia em vez de lactose, e as versões mais secas mais como uma Irish Extra Stout com mais nozes e saborosa. Ambos tendem a enfatizar o corpo e a sensação na boca.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 25 - 40
 SRM: 22 - 40

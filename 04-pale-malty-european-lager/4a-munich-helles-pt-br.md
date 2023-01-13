@@ -48,7 +48,7 @@ ABV: 4.7% - 5.4%
 
 Augustiner Lagerbier Hell, Hacker-Pschorr Münchner Gold, Löwenbraü Original, Paulaner Münchner Lager, Schönramer Hell, Spaten Münchner Hell, Weihenstephaner Original Helles.
 
-### Revisões Anteriores
+### Última Revisão
 
 Munich Helles (2015)
 

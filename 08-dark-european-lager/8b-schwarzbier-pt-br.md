@@ -48,7 +48,7 @@ ABV: 4.4% - 5.4%
 
 Chuckanut Schwarz Lager, Devils Backbone Schwartz Bier, Köstritzer Schwarzbier, Kulmbacher Mönchshof Schwarzbier, Mönchshof Schwarzbier, Nuezeller Original Badebier, pFriem Schwarzbier.
 
-### Revisões Anteriores
+### Última Revisão
 
 Schwarzbier (2015)
 

@@ -48,7 +48,7 @@ ABV: 5% - 6%
 
 Chuckanut Export Dortmunder Lager, DAB Dortmunder Export, Dortmunder Kronen, Landshuter Edel Hell, Müllerbräu Export Gold, Schönramer Gold.
 
-### Revisões Anteriores
+### Última Revisão
 
 German Helles Exportbier (2015)
 

@@ -48,7 +48,7 @@ ABV: 3.5% - 4.7%
 
 Live Oak Lichtenhainer, Wöllnitzer Weissbier.
 
-### Revisões Anteriores
+### Última Revisão
 
 Historical Beer: Lichtenhainer (2015)
 

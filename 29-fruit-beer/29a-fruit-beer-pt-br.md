@@ -36,7 +36,7 @@ OG, FG, IBUs, SRM e ABV vão variar dependendo do estilo base, mas a fruta irá 
 
 21st Amendment Hell or High Watermelon, Anderson Valley Blood Orange Gose, Avery Lilikoi Kepolo, Ballast Point Grapefruit Sculpin, Bells Cherry Stout, Founders Rübæus.
 
-### Revisões Anteriores
+### Última Revisão
 
 Fruit Beer (2015)
 

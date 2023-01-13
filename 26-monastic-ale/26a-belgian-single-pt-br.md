@@ -29,7 +29,7 @@ Raramente é fabricada, quando é, geralmente não é rotulada e nem vendida for
 
 Embora as cervejarias de monastérios tenham a tradição de produzir cerveja com menor teor alcoólico como alimento diário de um monge (a Westmalle começou a produzir a sua em 1922), a cerveja clara e amarga que o estilo descreve é uma invenção relativamente moderna que reflete os gostos atuais. A Westvleteren produziu a deles pela primeira vez em 1999, mas substituiu produtos mais antigos de baixa densidade.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Malte Pilsen. Levedura belga. Lúpulos continentais.
 
@@ -37,7 +37,7 @@ Malte Pilsen. Levedura belga. Lúpulos continentais.
 
 Como uma interpretação de alta fermentação belga da German Pils - clara, lupulada e bem atenuada, mas com um caráter forte da levedura belga. Tem menos dulçor, alta atenuação, menos caráter maltado e é mais centrada no lúpulo do que o estilo Belgian Pale Ale. Mais parecida com a uma versão altamente lupulada e mais leve do estilo Belgian Tripel (com o amargor e a secura) do que uma versão leve de uma Belgian Blond Ale.
 
-### Estatísticas Vitais
+### Estatísticas
 
 IBU: 25 - 45
 SRM: 3 - 5

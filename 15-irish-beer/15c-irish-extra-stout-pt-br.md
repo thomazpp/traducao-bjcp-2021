@@ -28,7 +28,7 @@ Tradicionalmente, um produto engarrafado mais forte, com uma gama de interpreta�
 
 Mesmas raízes que a Irish Stout, mas como um produto mais forte. Guinness Extra Stout (Extra Superior Porter, mais tarde Double Stout) foi fabricada pela primeira vez em 1821, e era principalmente um produto engarrafado.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Semelhante a Irish Stout. Adicionalmente, pode ter maltes crystal escuros ou açúcares escuros.
 
@@ -36,7 +36,7 @@ Semelhante a Irish Stout. Adicionalmente, pode ter maltes crystal escuros ou aç
 
 No meio do caminho, entre uma Irish Stout e uma Foreign Extra Stout em força e intensidade de sabor, embora com equilíbrio semelhante. Mais corpo, riqueza e muitas vezes complexidade de malte do que uma Irish Stout. Preto na cor, não marrom como uma English Porter.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 35 - 50
 SRM: 30 - 40

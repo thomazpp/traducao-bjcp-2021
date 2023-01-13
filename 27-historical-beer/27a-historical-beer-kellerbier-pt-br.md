@@ -28,7 +28,7 @@ Mais do que um estilo de cerveja, um estilo tradicional de servir, mas essas cer
 
 Originalmente se referia à cerveja lager maturada nas caves ou adegas sob a cervejaria e depois servida a partir delas. Adaptada pela primeira vez à âmbar lager da Francônia, depois aos estilos locais de Munique. Mais recentemente, usada internacionalmente para criar variantes especiais da Pils. Por tradição, um estilo de servir para uma peculiaridade popular de verão na Baviera, mas agora amplamente adaptada como um termo de marketing para lagers não filtradas.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Igual aos estilos básicos. Tradicionalmente carbonatada naturalmente. O dry-hopping não é um método tradicional de fabricação de cerveja alemã, mas alguns exemplos claros modernos usam essa técnica - que é permitida nesse estilo desde que seja equilibrada. Tradicionalmente maturada a frio e não filtrada, essas cervejas nunca foram feitas para serem embaladas para venda externa.
 

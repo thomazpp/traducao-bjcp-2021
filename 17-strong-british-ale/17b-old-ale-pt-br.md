@@ -28,7 +28,7 @@ Força e caráter variam muito. A qualidade definidora predominante para este es
 
 Historicamente, uma cerveja envelhecida usada como cerveja de estoque para mistura ou apreciada com força total (envelhecida ou de estoque refere-se a cervejas que foram envelhecidas ou armazenadas por um período significativo). Hoje, existem pelo menos dois tipos definidos na Grã-Bretanha, cervejas de barril fracas e não envelhecidas, que são semelhantes as Milds de cerca de 4,5% e as envelhecidas mais fortes, que geralmente têm 6-8% ou mais.
 
-### Ingredientes Característicos
+### Ingredientes
 
 A composição varia, embora geralmente semelhante a British Strong Ales. O caráter de idade é o maior direcionador do perfil de estilo final, que é mais tratamento do que de fabricação.
 
@@ -36,7 +36,7 @@ A composição varia, embora geralmente semelhante a British Strong Ales. O car�
 
 Aproximadamente sobrepondo os estilos British Strong Ale e a extremidade inferior de English Barley Wine, mas sempre com uma qualidade envelhecida. A distinção entre uma Old Ale e um Barley Wine é um tanto arbitrária acima de 7% ABV, e geralmente significa ter uma qualidade envelhecida mais significativa.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 30 - 60
 SRM: 10 - 22

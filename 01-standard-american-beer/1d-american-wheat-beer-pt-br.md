@@ -29,7 +29,7 @@ Pode variar de uma cerveja levemente doce, fácil de beber a uma cerveja seca, a
 
 Uma adaptação da cerveja artesanal americana do estilo Weissbier utilizando levedura neutra e mais lúpulo, inicialmente produzida pela Anchor em 1984 e depois largamente popularizada por Widmer.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Levedura americana ale neutra ou lager. Levedura alemã de Weissbier é inapropriada. Malte de trigo (frequentemente de 30-50%, mais baixo do que uma típica Weissbier). Lúpulos americanos, alemães ou Novo Mundo.
 
@@ -37,7 +37,7 @@ Levedura americana ale neutra ou lager. Levedura alemã de Weissbier é inapropr
 
 Caráter de lúpulo maior e menor perfil de levedura do que uma Weissbier. Não pode ter banana e nem cravo, como na Weissbier. Geralmente tem a mesma intensidade e equilíbrio das Blonde Ales, mas com uma característica de trigo em primeiro lugar.
 
-### Estatísticas Vitais
+### Estatísticas
 
 IBU: 15 - 30
 SRM: 3 - 6
@@ -49,7 +49,7 @@ ABV: 4% - 5.5%
 
 Bell’s Oberon, Boulevard Unfiltered Wheat Beer, GoodLife Sweet As! Pacific Ale, Goose Island 312 Urban Wheat Ale, Widmer Hefeweizen.
 
-### Revisões Anteriores
+### Última Revisão
 
 American Wheat Beer (2015)
 

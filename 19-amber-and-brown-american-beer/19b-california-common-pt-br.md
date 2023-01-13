@@ -28,7 +28,7 @@ Este estilo é estreitamente definido em torno do exemplo protótipo Anchor Stea
 
 Original da costa oeste americana, fabricada originalmente como Steam Beer durante a era da corrida do ouro. Grandes fermentadores abertos rasos (coolships) foram usados ​para compensar a falta de refrigeração e aproveitar as temperaturas frias na área da Baía de São Francisco. As versões modernas são baseadas na Anchor Brewing, que relançou o estilo na década de 1970.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Malte Pale Ale, lúpulos não cítricos (geralmente Northern Brewer), pequenas quantidades de malte tostado ou malte crystal. Levedura lager; no entanto, algumas cepas (geralmente com a menção de “California” no nome) funcionam melhor do que outras nas temperaturas de fermentação mais quentes normalmente usadas (13 a 16 °C). Observe que algumas cepas de leveduras alemãs produzem caráter sulfuroso inadequado.
 
@@ -36,7 +36,7 @@ Malte Pale Ale, lúpulos não cítricos (geralmente Northern Brewer), pequenas q
 
 Superficialmente semelhante a uma American Amber Ale, mas com opções específicas de malte e lúpulo – o sabor e o aroma do lúpulo são tradicionais (não modernos) do lúpulo americano, os sabores do malte são mais tostados, o lúpulo é sempre assertivo e uma levedura lager fermentada em temperatura mais quente é usada. Menos atenuada, menos carbonatada e menos frutada que a Australian Sparkling ale.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 30 - 45
 SRM: 9 - 14

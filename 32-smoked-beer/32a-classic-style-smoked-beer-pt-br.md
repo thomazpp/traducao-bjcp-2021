@@ -45,7 +45,7 @@ Varia de acordo com o estilo base da cerveja.
 
 Alaskan Smoked Porter, Schlenkerla Oak Smoke Doppelbock, Schlenkerla Rauchbier Weizen, Schlenkerla Rauchbier Ur-Bock, O’Fallon Smoked Porter, Spezial Rauchbier Lagerbier.
 
-### Revisões Anteriores
+### Última Revisão
 
 Classic Style Smoked Beer (2015)
 

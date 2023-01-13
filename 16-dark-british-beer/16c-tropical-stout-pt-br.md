@@ -28,7 +28,7 @@ Surpreendentemente refrescante em um clima quente. Os níveis de doçura podem v
 
 Uma adaptação local de Foreign Extra Stouts fabricadas com ingredientes e métodos regionais no Caribe e em outros mercados tropicais. Amargor menor do que as stouts tipo exportação, pois essas cervejas não precisam ser enviadas para o exterior e atendem às preferências do paladar local.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Semelhante a uma Sweet Stout, mas com maior gravidade. Malte pale, maltes torrados escuros e grãos. Lúpulo principalmente para amargor. Pode usar adjuntos e açúcar para aumentar a gravidade. Normalmente feito com levedura lager fermentada a quente.
 
@@ -36,7 +36,7 @@ Semelhante a uma Sweet Stout, mas com maior gravidade. Malte pale, maltes torrad
 
 Tem gosto de uma Sweet Stout escalonada com maior frutado. Semelhante a algumas Imperial Stouts sem o alto amargor, torra forte ou queimado, e lúpulos tardios e com menor teor alcoólico. Muito mais doce e menos lupulada do que American Stouts. Muito mais doce e menos amarga do que as Foreign Extra Stouts de gravidade semelhante.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 30 - 50
 SRM: 30 - 40

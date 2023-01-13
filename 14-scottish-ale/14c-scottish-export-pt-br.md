@@ -28,7 +28,7 @@ Veja a introdução da categoria para comentários detalhados. Pode não parecer
 
 Veja a introdução da categoria. Os nomes cervejas Shilling eram usados ​​para cervejas suaves (não envelhecidas) antes da Primeira Guerra Mundial, mas os estilos tomaram forma moderna somente após a Segunda Guerra Mundial.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Na sua forma mais simples, malte pale ale e malte com mais cor, mas também pode usar açúcares, milho, trigo, malte crystal, corantes e uma variedade de outros grãos. Levedura limpa. Água leve. Sem malte defumado com fumaça de turfa.
 
@@ -36,7 +36,7 @@ Na sua forma mais simples, malte pale ale e malte com mais cor, mas também pode
 
 Veja a introdução da categoria. Mais forte do que outras Scottish Ales, mas com um perfil de sabor semelhante. Semelhante em força a Best Bitter e Strong Bitter, mas com um perfil de sabor e equilíbrio diferentes.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 15 - 30
 SRM: 12 - 20

@@ -28,7 +28,7 @@ A maioria das American Browns comerciais não são tão agressivas quanto as ver
 
 Um estilo americano do início da era moderna da cerveja artesanal. Derivada das English Brown Ales, mas com mais lúpulo. Pete's Wicked Ale (1986) definiu o estilo, que foi julgado pela primeira vez no Great American Beer Festival em 1992.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Malte pale, crystal e escuros (tipicamente chocolate). Lúpulos americanos são típicos, mas lúpulos continentais ou do novo mundo também podem ser usados.
 
@@ -36,7 +36,7 @@ Malte pale, crystal e escuros (tipicamente chocolate). Lúpulos americanos são 
 
 Mais sabores de chocolate e caramelo do que American Pale ou Amber Ales, normalmente com menos amargor proeminente no equilíbrio. Menos amarga, álcool e caráter de lúpulo do que Brown IPAs. Mais amargas e geralmente mais lupuladas que as English Brown Ales, com uma presença de malte mais rica, geralmente mais alto teor alcoólico e caráter de lúpulo americano ou do novo mundo.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 20 - 30
 SRM: 18 - 35

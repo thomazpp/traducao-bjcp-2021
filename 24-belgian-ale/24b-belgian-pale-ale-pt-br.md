@@ -29,7 +29,7 @@ Mais comumente encontrado nas províncias flamengas de Antuérpia, Brabante, Hai
 
 Surgida após uma competição em 1904 para criar uma cerveja especial regional para competir com cervejas britânicas importadas e lagers continentais. De Koninck da Antuérpia é o exemplo moderno mais conhecido, fazendo a cerveja desde 1913.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Conjunto de grãos variável com caráter de maltes pale, caramelo. Sem adjuntos. Lúpulos ingleses ou continentais. Levedura frutada com baixo teor de fenóis.
 
@@ -37,7 +37,7 @@ Conjunto de grãos variável com caráter de maltes pale, caramelo. Sem adjuntos
 
 Bastante semelhante às pale ales da Inglaterra (11C Strong Bitter), tipicamente com um caráter de levedura ligeiramente diferente e um perfil de malte mais variado. Menos caráter de levedura do que muitas outras cervejas belgas, no entanto.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 20 - 30
 MRE: 8 - 14

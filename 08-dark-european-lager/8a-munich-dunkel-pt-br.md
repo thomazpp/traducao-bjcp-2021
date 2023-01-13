@@ -48,7 +48,7 @@ ABV: 4.5% - 5.6%
 
 Ayinger Altbairisch Dunkel, Ettaler Kloster-Dunkel, Eittinger Urtyp Dunkel, Hacker-Pschorr Münchner Dunkel, Hofbräuhaus Dunkel, Weltenburger Kloster Barock-Dunkel.
 
-### Revisões Anteriores
+### Última Revisão
 
 Munich Dunkel (2015)
 

@@ -36,7 +36,7 @@ OG, FG, IBUs, SRM e ABV vão variar de acordo com a cerveja base.
 
 Blue/Point Rastafarye Ale, Green’s Indian Pale Ale, Lakefront New Grist, New Planet Pale Ale, Rogue Morimoto Soba Ale, Voodoo Swimming Jeans.
 
-### Revisões Anteriores
+### Última Revisão
 
 Alternative Grain Beer (2015)
 

@@ -28,7 +28,7 @@ O teor alcoólico pode ser tão baixo quanto 4,5% ou tão alto quanto 12,5%, mas
 
 Inicialmente fabricada em Birrificio Montegioco e Birrificio Barley em 2006-2007. Tornou-se mais popular depois de ser publicada nas Diretrizes de 2015 como Italian Grape Ale (IGA) e inspirou muitas variações locais em outros países.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Malte Pilsen ou Pale, contido uso de malte cristal ou de trigo. O mosto de uva (variedades tintas ou brancas, tipicamente mosto fresco) geralmente é de 15 a 20% do total do grist, mas pode exceder 40%. O mosto é fermentado com a cerveja e não uma mistura de vinho e cerveja. Leveduras frutadas e picantes são as mais comuns, mas podem ser utilizadas variedades neutras. O lúpulo deve ser selecionado para complementar o perfil geral. Esta cerveja não é sujeita a dry-hop. O carvalho é permitido, mas não obrigatório e não deve ser predominante ou em níveis mais fortes do que os encontrados no vinho.
 

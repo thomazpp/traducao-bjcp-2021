@@ -28,7 +28,7 @@ Tende a possuir menos adjuntos que as American Lagers. Podem ser puro malte, mas
 
 Nos Estados Unidos, desenvolveu-se como a versão premium da American lager padrão, com história semelhante. Fora dos Estados unidos, desenvolveu-se como uma imitação das lagers de estilo americano ou como uma versão mais acessível (e frequentemente mais seca e menos amarga) de uma cerveja do tipo Pilsner. Geralmente fortemente comercializada e exportada por grandes cervejarias industriais e multinacionais.
 
-### Ingredientes característicos
+### Ingredientes
 
 Cevada de duas ou seis fileiras. Pode se usar arroz, milho ou açúcar como adjuntos, mas geralmente são puro malte.
 
@@ -52,7 +52,7 @@ ABV: 4.5% - 6%
 
 Asahi Super Dry, Birra Moretti, Corona Extra, Devils Backbone Gold Leaf Lager, Full Sail Session Premium Lager, Heineken, Red Stripe, Singha.
 
-### Revisões Anteriores
+### Última Revisão
 
 International Pale Lager (2015)
 

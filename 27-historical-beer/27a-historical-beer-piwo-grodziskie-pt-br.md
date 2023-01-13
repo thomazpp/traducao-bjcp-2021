@@ -49,7 +49,7 @@ ABV: 2.5% - 3.3%
 
 Live Oak Grodziskie.
 
-### Revisões Anteriores
+### Última Revisão
 
 Historical Beer: Piwo Grodziskie (2015)
 

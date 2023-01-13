@@ -40,7 +40,7 @@ Varia de acordo com o estilo base da cerveja.
 
 Fat Head’s Up in Smoke, Ommegang Bourbon Barrel Vanilla Smoked Porter.
 
-### Revisões Anteriores
+### Última Revisão
 
 Specialty Smoked Beer (2015)
 

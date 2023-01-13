@@ -29,7 +29,7 @@ A Coopers fabrica seu carro-chefe Sparkling Ale desde 1862, embora a formulaçã
 
 Registros cervejeiros mostram que a maioria das cervejas australianas fabricadas no século 19 era chope XXX (Mild) e porter. A Ale em garrafa foi originalmente desenvolvida para competir com as pale ales engarrafadas importadas de cervejarias britânicas, como Bass e Wm Younger’ Monk. No início do século 20, a pale ale engarrafada saiu de moda e as cervejas lager “mais leves” estavam em voga. Muitas Australian Sparkling e Pale Ales foram rotuladas como ales, mas na verdade eram lagers de baixa fermentação com perfil de malte muito semelhante às ales que substituíram. Coopers de Adelaide, Sul da Australia é a única cervejaria sobrevivente que produz o estilo Sparkling Ale.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Malte pale australiano de 2 fileiras, levemente torrado, variedades pilsen podem ser usadas. Pequenas quantidades de malte crystal apenas para ajuste de cor. Os exemplos modernos não usam adjuntos, açúcar de cana apenas para priming. Exemplos históricos usavam 45% de malte de 2 fileiras e 30% de malte mais proteico (6 fileiras), usariam cerca de 25% de açúcar para diluir o teor de nitrogênio. Lúpulos australianos tradicionalmente usados, Cluster e Goldings até serem substituídos em meados da década de 1960 pelo Pride of Ringwood. Levedura do tipo Burton altamente atenuante (cepa australiana típica). Perfil de água variável, tipicamente com baixo teor de carbonato e sulfato moderado.
 
@@ -37,7 +37,7 @@ Malte pale australiano de 2 fileiras, levemente torrado, variedades pilsen podem
 
 Superficialmente semelhante às English Pale Ales, embora muito mais carbonatadas, com menos caramelo, menos lúpulos tardios e apresentando a assinatura da levedura e variedade de lúpulo. Mais amargor do que os IBUs podem sugerir devido à alta atenuação, baixa gravidade final e lúpulo um tanto áspero.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 20 - 35
 SRM: 4 - 7

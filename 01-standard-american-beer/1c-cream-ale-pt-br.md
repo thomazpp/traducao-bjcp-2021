@@ -29,7 +29,7 @@ Muitos exemplares comerciais possuem OG variando de 1.050-1.053 e o amargor rara
 
 Uma ale de alta carbonatação e uso presente da segunda metade dos anos 1800, que sobreviveu a Lei Seca. Uma ale produzida para competir com as lagers produzidas no Canadá e nos estados do Noroeste, Meio-Atlântico e Meio-Oeste dos EUA.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Malte americano de seis fileiras ou uma combinação de malte seis fileiras com malte de duas fileiras. Até 20% de milho na mostura e até 20% de açúcar na fervura. Qualquer variedade de lúpulo, frequentemente rústico americano ou continental. Levedura ale neutra ou um mix de ale e lager.
 
@@ -37,7 +37,7 @@ Malte americano de seis fileiras ou uma combinação de malte seis fileiras com 
 
 Semelhante ao estilo Standard American Lager, mas com maior caráter. Corpo mais baixo, macio e mais carbonatada do que uma Blonde Ale. Assemelha-se de forma sutil a uma Kölsch.
 
-### Estatística Vital
+### Estatísticas
 
 IBU: 8 - 20
 SRM: 2 - 5
@@ -49,7 +49,7 @@ ABV: 4.2% - 5.6%
 
 Genesee Cream Ale, Liebotschaner Cream Ale, Little Kings Cream Ale, Kiwanda Pre-Prohibition Cream Ale, Sleeman Cream Ale, Sun King Sunlight Cream Ale.
 
-### Revisões Anteriores
+### Última Revisão
 
 Cream Ale (2015)
 

@@ -28,7 +28,7 @@ Relatos modernos do estilo geralmente mencionam acidez láctica ou uso da técni
 
 Um estilo original americano, Kentucky Common, foi quase exclusivamente produzido e vendido ao redor de Louisville, Kentucky, de algum tempo após a Guerra Civil até a Lei Seca. Era barato e produzido rapidamente, colocado em barris enquanto fermentava ativamente e bem fechado para permitir a carbonatação na adega do salão. Antes da morte do estilo, ele representava cerca de 75% das vendas em torno de Louisville. Alguns especularam que era uma variante escura da Cream Ale, criada por cervejeiros imigrantes germânicos que adicionaram grãos mais escuros para ajudar a acidificar a água local rica em carbonatos.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Malte de cevada de seis fileiras. Grãos de milho. Malte caramelo e black. Lúpulo americano rústico de amargor. Lúpulos continental importados para acabamento. Água com alto teor de carbonato. Levedura ale.
 

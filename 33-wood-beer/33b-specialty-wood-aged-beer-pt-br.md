@@ -30,7 +30,7 @@ O sucesso neste estilo depende do quanto o caráter amadeirado e alcoólico supo
 
 Igual a 33A Wood-Aged Beer.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Varia com o estilo base. Envelhecido em tonéis ou barris de madeira anteriormente utilizados para armazenar álcool (por exemplo, uísque, bourbon, rum, gin, tequila, porto, xerez, vinho Madeira, vinho). Estilos de base mais encorpados e de maior gravidade geralmente são usados, pois podem resistir melhor aos sabores adicionais, embora novas experiências sejam incentivadas.
 
@@ -38,7 +38,7 @@ Varia com o estilo base. Envelhecido em tonéis ou barris de madeira anteriormen
 
 O participante deve especificar o caráter alcoólico adicionado, com informações sobre o barril se relevante para o perfil de sabor final. Se uma madeira ou ingrediente incomum foi usado, o participante deve fornecer uma breve descrição dos aspectos sensoriais que os ingredientes adicionam à cerveja. O participante deve especificar uma descrição da cerveja, identificando um Estilo Base ou os ingredientes, especificações ou caráter alvo da cerveja. Uma descrição geral da natureza especial da cerveja pode abranger todos os itens necessários.
 
-### Estatísticas Vitais
+### Estatísticas
 
 IBU: varia com o estilo base
 SRM: varia com o estilo de base, muitas vezes mais escuro do que o estilo de base inalterado

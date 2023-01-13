@@ -24,7 +24,7 @@ OG, FG, IBUs, SRM e ABV vão variar dependendo da cerveja declarada.
 
 None
 
-### Revisões Anteriores
+### Última Revisão
 
 Experimental Beer (2015)
 

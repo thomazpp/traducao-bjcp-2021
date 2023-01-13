@@ -28,7 +28,7 @@ Uma cerveja artesanal americana moderna, que é uma variação da American IPA. 
 
 Uma variação moderna, da era artesanal, da American IPA, popular entre os cervejeiros caseiros.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Semelhante a uma American IPA, mas com uma generosa parte de malte de centeio. Qualquer lúpulo americano ou do Novo Mundo é aceitável, mas o lúpulo e o malte não devem entrar em conflito. Sem alcaravia (*kummel*). Sem carvalho (madeira em geral).
 
@@ -36,7 +36,7 @@ Semelhante a uma American IPA, mas com uma generosa parte de malte de centeio. Q
 
 Mais seca, ligeiramente mais picante e ligeiramente mais cremosa do que uma American IPA, com um amargor persistente e picante no final. Não possui o caráter intenso de malte de centeio ou levedura de Weizen como em uma Roggenbier.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 50 - 75
 SRM: 6 - 14

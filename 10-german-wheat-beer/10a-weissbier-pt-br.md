@@ -52,7 +52,7 @@ ABV: 4.3% - 5.6%
 
 Ayinger Bräu Weisse, Distelhäuser Hell Weizen, Hacker-Pschorr Hefeweißbier, Hofbräuhaus Münchner Weisse, Schneider Weisse Original Weissbier, Weihenstephaner Hefeweissbier.
 
-### Revisões Anteriores
+### Última Revisão
 
 Weissbier (2015)
 

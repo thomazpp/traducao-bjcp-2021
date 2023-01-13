@@ -28,7 +28,7 @@ Utilizando o perfil sensorial de produtos que sugerem a temporada de fim de ano,
 
 A temporada de festas de inverno é uma época tradicional em que antigos amigos se encontram onde cervejas um pouco mais alcoólicas e ricas são servidas. Muitos cervejeiros oferecem produtos sazonais que podem ser mais escuros, fortes, condimentados ou por outro lado com mais caráter do que as cervejas feitas durante o ano. Versões condimentadas são uma tradição americana ou belga, uma vez que cervejeiros alemães ou ingleses não utilizam especiarias nas suas cervejas. Muitos cervejeiros artesanais americanos foram inspirados pela Anchor Our Special Ale, produzida pela primeira vez em 1975.
 
-### Ingredientes característicos
+### Ingredientes
 
 Especiarias são requeridas, e muitas vezes aquelas que recordam a temporada de Natal (ex, pimenta da Jamaica, noz-moscada, canela, cravo, gengibre), porém qualquer combinação é possível e a criatividade é encorajada. Cascas de frutas (ex., laranja, limão) podem ser utilizadas, assim como adições sutis de outras frutas (muitas vezes frutas secas ou escuras). Adjuntos saborosos são comuns (ex., melaço, açúcar invertido, açúcar mascavo, mel, xarope de maple). Normalmente Ales, embora Lagers fortes escuras existam.
 

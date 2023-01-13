@@ -49,7 +49,7 @@ ABV: 5.8% - 6.3%
 
 Augustiner Oktoberfest, Hacker-Pschorr Superior Festbier, Löwenbräu Oktoberfestbier, Hofbräu Oktoberfestbier, Löwenbräu Oktoberfestbier, Paulaner Oktoberfest Bier, Weihenstephaner Festbier.
 
-### Revisões Anteriores
+### Última Revisão
 
 Festbier (2015)
 

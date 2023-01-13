@@ -30,7 +30,7 @@ A maioria dos exemplos comerciais estão na faixa de 6,5 a 7,0% de ABV. Por caus
 Enquanto as cervejas fortes e escuras eram produzidas há tempos, a Dubbel moderna possui traços de uma cerveja forte ou de uma double marrom produzida pela Westmalle em 1922, quando a cervejaria foi restabelecida após a I Guerra Mundial. Outros exemplos datam de período posterior à II Guerra Mundial.
 
 
-### Ingredientes Característicos
+### Ingredientes
 
 Levedura belga com característica condimentada e esterificada. Impressão de uma complexa variedade de grãos, embora muitas versões são bem simples, onde é usado calda de açúcar caramelizado ou açúcares não refinados e a levedura responsável por grande parte da complexidade. Lúpulos continentais. Especiarias não são típicas, mas se presentes, devem ser sutis.
 
@@ -38,7 +38,7 @@ Levedura belga com característica condimentada e esterificada. Impressão de um
 
 Talvez semelhante a uma Dunkles Bock, mas com caráter de levedura e açúcar belgas. Similar em força e equilíbrio de uma Belgian Blond Ale, mas com um perfil mais rico de malte e éster. Menos forte e intensa do que uma Belgian Dark Strong Ale.
 
-### Estatísticas Vitais
+### Estatísticas
 
 IBU: 15 - 25
 SRM: 10 - 17

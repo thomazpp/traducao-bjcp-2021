@@ -28,7 +28,7 @@ Corpo cheio a muito encorpado e mastigável, com uma textura aveludada e delicio
 
 Um estilo com uma herança longa, embora não necessariamente contínua. Traça as raízes das porters inglesas mais fortes, fabricadas para exportação em 1700, que dizem ter sido populares com a Corte Imperial Russa. Depois que as guerras napoleônicas interromperam o comércio, essas cervejas foram cada vez mais vendidas na Inglaterra. Mas o estilo acabou se extinguindo, até ser popularmente adotado na Inglaterra, na era moderna da cerveja artesanal, como um renascimento da cerveja que era exportada e nos Estados Unidos como uma adaptação, ampliando o estilo com características americanas.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Malte pale, com significativa quantidade de maltes ou grãos torrados. Adjuntos em flocos são comuns. Leveduras ale e lúpulos, americanos ou ingleses, são típicos. Envelhece muito bem. Cada vez mais usada como cerveja base para muitos estilos especiais.
 
@@ -36,7 +36,7 @@ Malte pale, com significativa quantidade de maltes ou grãos torrados. Adjuntos 
 
 Mais escuro e mais torrado do que Barleywines, mas com álcool semelhante. Mais complexo, com uma gama mais ampla de sabores possíveis, do que as stouts de menor gravidade.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 50 - 90
 SRM: 30 - 40

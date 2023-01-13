@@ -28,7 +28,7 @@ As versões americanas modernas geralmente são apenas IPAs de menor gravidade. 
 
 Uma adaptação moderna, do mercado americano de cerveja artesanal, da English pale ale, refletindo ingredientes regionais. A Sierra Nevada Pale Ale foi produzida pela primeira vez em 1980 e ajudou a popularizar o estilo. Antes da explosão de popularidade das IPAs, esse estilo era o mais conhecido e popular das cervejas artesanais americanas.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Malte pale ale neutro. Lúpulo americano ou do novo mundo. Levedura ale americana neutra ou levemente frutada ou levedura inglesa. Pequenas quantidades de vários maltes especiais.
 
@@ -36,7 +36,7 @@ Malte pale ale neutro. Lúpulo americano ou do novo mundo. Levedura ale american
 
 Normalmente de cor mais clara, mais limpo no perfil de fermentação e com menos sabores de caramelo do que as equivalentes ingleses. Pode haver alguma sobreposição de cores entre a American Pale Ale e a American Amber Ale. A American Pale Ale geralmente será mais limpa, terá um perfil de malte menos caramelizado, menos corpo e muitas vezes mais lúpulos de finalização. Menos amargor no equilíbrio e teor alcoólico que uma American IPA. Mais maltada, mais equilibrada e fácil de beber, e menos intensamente focada no lúpulo e amarga do que as American IPAs com força session (também conhecidas como Session IPAs). Mais amarga e lupulada que uma Blonde Ale.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 30 - 50
 SRM: 5 - 10

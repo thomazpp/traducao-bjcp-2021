@@ -48,7 +48,7 @@ ABV: 2.4% - 3.6%
 
 Autenrieder Schlossbräu Leicht, Greif Bräu Leicht, Hohenthanner Tannen Hell Leicht, Müllerbrau Heimer Leicht, Schönramer Surtaler Schankbier, Waldhaus Sommer Bier.
 
-### Revisões Anteriores
+### Última Revisão
 
 German Leichtbier (2015)
 

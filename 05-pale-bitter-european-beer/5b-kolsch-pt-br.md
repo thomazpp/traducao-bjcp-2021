@@ -28,7 +28,7 @@ Uma cerveja tradicional, de alta fermentação e maturada a frio, da cidade de C
 
 Colônia tem uma tradição cervejeira desde a Idade Média, mas a cerveja agora conhecida como Kölsch foi desenvolvida no final dos anos 1800s como uma alternativa as lagers claras. A baixa fermentação foi na realidade proibida em Colônia. Kölsch é uma denominação protegida pela Kölsch Konvention (1986) e é restrita a cervejarias dentro e ao redor de Colônia. A Konvention simplesmente define a cerveja como uma “Vollbier” leve, altamente atenuada, com lúpulo acentuado, límpida e de alta fermentação.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Lúpulos tradicionais alemães. Malte alemão Pils, Pale ou Vienna. Levedura ale alemã limpa e atenuante. Ocasional uso de malte de trigo em pequenas quantidades. A prática comercial atual é fermentar em torno de 15ºC, acondicionar a frio próximo ao congelamento por até um mês e servir fresca.
 

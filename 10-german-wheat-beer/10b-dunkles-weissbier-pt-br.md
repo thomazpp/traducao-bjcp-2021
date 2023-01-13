@@ -48,7 +48,7 @@ ABV: 4.3% - 5.6%
 
 Ayinger Ur-Weisse, Franziskaner Hefe-Weisse Dunkel, Ettaler Benediktiner Weißbier Dunkel, Hirsch Dunkel Weisse, Tucher Dunkles Hefe Weizen, Weihenstephaner Hefeweissbier Dunkel.
 
-### Revisões Anteriores
+### Última Revisão
 
 Dunkles Weissbier (2015)
 

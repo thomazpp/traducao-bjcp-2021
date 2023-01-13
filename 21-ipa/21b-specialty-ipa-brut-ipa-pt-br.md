@@ -28,7 +28,7 @@ Corpo de leve a muito leve, com carbonatação vigorosa (de alta a muito alta), 
 
 Um estilo moderno de cerveja artesanal originado em 2017 na Social Kitchen & Brewery em San Francisco (que agora está fechada), como uma reação da costa oeste à crescente tendência das hazy e juicy IPAs da costa leste, bem como as chamadas milkshake IPAs espessas e doces. O estilo ainda está evoluindo e mudando (e talvez morrendo, já que a cerveja estava bastante na moda em 2018-2019 nos EUA). A maioria das versões parece estar se transformando em IPAs de baixa caloria.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Maltes base pilsen ou muito claros com até 40% de adjuntos. Sem malte crystal ou lactose. Enzimas, como a amiloglucosidase. Lúpulos altamente aromáticos americanos ou do Novo Mundo, com bastante quantidade de óleos, usados com diferentes técnicas de adições tardias ou pós-fervura, para enfatizar o aroma e o sabor do lúpulo e minimizar o amargor. Levedura neutra.
 
@@ -36,7 +36,7 @@ Maltes base pilsen ou muito claros com até 40% de adjuntos. Sem malte crystal o
 
 Menos sabor de malte, amargor e cor do que uma American IPA, muito mais seca e mais carbonatada. Dry-hopping similar ao de uma American IPA. Aroma e sabor semelhantes a uma Hazy IPA, mas sem o dulçor e com muito menos turbidez. Muito clara, altamente carbonatada e seca como uma Belgian Golden Strong Ale, mas não tão forte e sem o caráter de levedura belga.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 20 - 30
 SRM: 2 - 4

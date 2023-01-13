@@ -28,7 +28,7 @@ Corpo médio a médio cheio. Carbonatação moderadamente baixa a moderadamente 
 
 Uma versão mais forte e agressiva das Porters ou English Porters anteriores a pré-proibição, fabricadas pela primeira vez na era moderna da cerveja artesanal (introduzida em 1974). Este estilo descreve a versão artesanal moderna; veja Historical Beer: Pre-Prohibition Porter para a versão mais antiga dos EUA.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Malte base pale, frequentemente malte crystal. Maltes escuros, geralmente malte black ou malte chocolate. Lúpulos americanos normalmente usados para amargor, mas lúpulos de finalização dos EUA ou do Reino Unido podem ser usados. A levedura Ale pode ser versões americanas limpas ou variedades inglesas características.
 
@@ -36,7 +36,7 @@ Malte base pale, frequentemente malte crystal. Maltes escuros, geralmente malte 
 
 Mais amarga e muitas vezes mais forte, com qualidades de malte mais escuro e secura do que as English Porters ou Pre-Prohibition Porters. Menos forte e assertiva do que American Stouts.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 25 - 50
 SRM: 22 - 40

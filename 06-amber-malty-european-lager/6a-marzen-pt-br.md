@@ -48,7 +48,7 @@ ABV: 5.6% - 6.3%
 
 Hacker-Pschorr Oktoberfest Märzen, Hofmark Märzen, Paulaner Oktoberfest, Saalfelder Ur-Saalfelder, Weltenburg Kloster Anno 1050.
 
-### Revisões Anteriores
+### Última Revisão
 
 Märzen (2015)
 

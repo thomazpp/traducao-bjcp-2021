@@ -28,7 +28,7 @@ A mais rica e forte das cervejas inglesas modernas. Seu caráter pode mudar sign
 
 Uma descendente moderna das Burton Ales mais fortes. Bass No. 1 foi chamado pela primeira vez de barley wine em 1872. Tradicionalmente uma cerveja mais escura até Tennant (agora Whitbread) produzir pela primeira vez Gold Label, uma versão dourada em 1951. O estilo original que inspirou variações derivadas na Bélgica, Estados Unidos, e em outros lugares do mundo.
 
-### Ingredientes Característicos
+### Ingredientes
 
 maltes pale ale britânicos e crystal. Uso limitado de maltes escuros. Muitas vezes usa açúcares cervejeiros. lúpulo inglês. levedura britânica.
 
@@ -36,7 +36,7 @@ maltes pale ale britânicos e crystal. Uso limitado de maltes escuros. Muitas ve
 
 Menos lupulada e amarga, mais maltada e frutada que uma American Barleywine. Pode sobrepor uma Old Ale na extremidade inferior do intervalo, mas sem maiores sinais de idade. Não tão caramelo e muitas vezes não tão doce quanto uma Wee Heavy.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 35 - 70
 SRM: 8 - 22

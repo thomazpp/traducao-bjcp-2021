@@ -28,7 +28,7 @@ Qualquer aspecto de Bretta é contido e tipicamente expressado na forma de notas
 
 Uma especialidade regional de Berlim. Em 1809 era referida como "a Champagne do Norte" pelas tropas de Napoleão devido à sua qualidade vibrante e elegante. Em dado momento era defumada e costumava haver uma versão de intensidade *Märzen* (14°P). Cada vez mais rara na Alemanha, mas agora produzida em diversos outros países.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Malte Pilsen. Usualmente malte de trigo, geralmente metade dos grãos, no mínimo. Uma co-fermentação simbiótica com levedura de alta fermentação e LAB (bactéria de ácido lático, da sigla em inglês) fornece a acidez acentuada, que pode ser melhorada pela mistura (durante a fermentação) de cervejas com tempos de envelhecimento distintos e pela maturação a frio. Decocção na mostura com *mash hopping* (adição de lúpulos durante a mosturação) é tradicional. Cientistas alemães da brassagem acreditam que Bretta é essencial para obter o perfil de sabor frutado-floral correto.
 
@@ -36,7 +36,7 @@ Malte Pilsen. Usualmente malte de trigo, geralmente metade dos grãos, no mínim
 
 Comparada à Lambic, possui uma acidez lática limpa com Bretta entre contida a abaixo do limiar sensorial. Também possui teor alcoólico mais baixo. Comparada à Straight Sour Beer e à Catharina Sour, apresenta densidade menor e pode conter Bretta.
 
-### Estatísticas Vitais
+### Estatísticas
 
 IBU: 3 - 8
 SRM: 2 - 3
@@ -48,7 +48,7 @@ ABV: 2.8% - 3.8%
 
 Bayerischer Bahnhof Berliner Style Weisse, Berliner Berg Berliner Weisse, Brauerei Meierei Weiße, Lemke Berlin Budike Weisse, Schell's Brewing Company Schelltheiss, Urban Chestnut Ku’damm.
 
-### Revisões Anteriores
+### Última Revisão
 
 Berliner Weisse (2015)
 

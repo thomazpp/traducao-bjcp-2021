@@ -28,7 +28,7 @@ Uma categoria ampla com  possibilidade de interpretações diferentes, variando 
 
 Brown ale tem uma longa história na Grã-Bretanha, embora diferentes produtos tenham usado esse nome em vários momentos. A Brown Ale moderna é uma criação do século 20; não é o mesmo que produtos históricos com o mesmo nome. Uma ampla gama de gravidades foi produzida, mas as brown ales modernas são geralmente uma interpretação mais forte (pelos padrões atuais do Reino Unido). Este estilo é baseado nas modernas British brown ales mais fortes, não em versões históricas ou da mais doce London Brown Ale descrita na categoria Historical Beer. Predominantemente, mas não exclusivamente, um produto engarrafado atualmente.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Malte base Britânico mild ale ou pale ale com maltes caramelo. Também pode ter pequenas quantidades de maltes mais escuros (por exemplo, chocolate) para dar cor e o caráter de noz. As variedades de lúpulo inglês são as mais autênticas.
 
@@ -36,7 +36,7 @@ Malte base Britânico mild ale ou pale ale com maltes caramelo. Também pode ter
 
 Mais equilíbrio de malte do que British Bitters, com mais sabores de malte vindos de grãos mais escuros. Mais forte que uma Dark Mild. Menos torrado do que uma English Porter. Mais forte e muito menos doce que a London Brown Ale.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 20 - 30
 SRM: 12 - 22

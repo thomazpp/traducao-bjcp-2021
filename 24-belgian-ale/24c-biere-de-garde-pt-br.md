@@ -29,7 +29,7 @@ Adega, mofo, bolor ou caráter rústico frequentemente mencionados na literatura
 
 O nome significa, de um modo geral, cerveja para guardar. Uma tradicional cerveja artesanal de áreas rurais (farmhouse) ao redor de Lille, no norte da França. Historicamente, produzida no início da primavera e mantida em adegas frias para consumo em dias mais quentes. Embora documentado como existente em 1800, Jenlain é a versão prototípica da cerveja âmbar moderna engarrafada pela primeira vez na década de 1940.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Os maltes base variam de acordo com a cor da cerveja, mas geralmente incluem os tipos pale, Vienna e Munich. Maltes do tipo crystal de cores variadas. Adjuntos de açúcar podem ser usados. Leveduras lager ou ale fermentadas em temperaturas baixas, seguidas de longo condicionamento a frio. Lúpulo continental.
 
@@ -41,7 +41,7 @@ Chamar esta cerveja de farmhouse convida a comparações com a Saison, que tem u
 
 O participante deve especificar Bière de Garde loira (blonde), âmbar (ambrée) ou marrom (brune). Se nenhuma cor for especificada, o juiz deve tentar julgar com base na observação inicial, esperando um sabor e equilíbrio de malte que correspondam à cor.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 18 - 28
 MRE: 6 - 19

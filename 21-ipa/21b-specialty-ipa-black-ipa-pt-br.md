@@ -28,7 +28,7 @@ A maioria dos exemplos são de força padrão. Exemplos mais fortes podem parece
 
 Uma variante da American IPA produzida comercialmente pela primeira vez por Greg Noonan como Blackwatch IPA, por volta de 1990. Popularizada a partir de meados dos anos 2000 no noroeste do Pacífico e no sul da Califórnia dos Estados Unidos, quando foi popular até o início de 2010 antes de cair na obscuridade no EUA.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Maltes torrados sem casca (*debittered*). Qualquer perfil de lúpulo americano ou do novo mundo é aceitável; novas variedades de lúpulo continuam a ser lançadas e, por isso, não se deve restringir o estilo às características de lúpulo listadas como exemplos.
 
@@ -36,7 +36,7 @@ Maltes torrados sem casca (*debittered*). Qualquer perfil de lúpulo americano o
 
 Equilíbrio e impressão geral de uma American ou de uma Double IPA, com torra contida, semelhante a encontrada na Schwarzbier. Não é tão rico e torrado como American Stout e Porter e com menos corpo, maior suavidade e maior facilidade de beber.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 50 - 90
 SRM: 25 - 40

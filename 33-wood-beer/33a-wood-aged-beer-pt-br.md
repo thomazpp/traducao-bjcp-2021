@@ -29,7 +29,7 @@ Grande parte do caráter depende do tipo de madeira usada e de como ela compleme
 
 Um método de produção tradicional que raramente é usado pelas principais cervejarias e geralmente apenas com produtos especiais. Mais popular entre as cervejarias artesanais modernas que procuram produtos novos e diferenciados. Os barris e tonéis de carvalho são tradicionais, embora outras madeiras estejam se tornando mais populares.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Varia com o estilo base. Envelhecido em barris ou tonéis de madeira ou, ainda, usando aditivos à base de madeira (por exemplo, lascas, aduelas - cada uma das tábuas encurvadas do corpo de tonéis ou barris -, espirais, cubos). Estilos de base mais encorpados e de maior gravidade geralmente são usados, pois podem resistir melhor aos sabores adicionais, embora a novas experiências sejam incentivadas.
 
@@ -37,7 +37,7 @@ Varia com o estilo base. Envelhecido em barris ou tonéis de madeira ou, ainda, 
 
 O participante deverá especificar o tipo de madeira utilizada e o nível de tosta ou carbonização (se utilizado). Se for utilizada uma variedade de madeira incomum, o participante deverá fornecer uma breve descrição dos aspectos sensoriais que a madeira agrega à cerveja. O participante deve especificar uma descrição da cerveja, identificando um Estilo Base ou os ingredientes, especificações ou caráter alvo da cerveja. Uma descrição geral da natureza especial da cerveja pode abranger todos os itens necessários.
 
-### Estatísticas Vitais
+### Estatísticas
 
 IBU: varia com o estilo base
 SRM: varia com o estilo base, muitas vezes mais escuro do que o estilo base inalterado

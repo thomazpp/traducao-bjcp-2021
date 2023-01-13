@@ -28,7 +28,7 @@ Diferenciada do estilo American Brown Ale para melhor diferenciar os exemplos ma
 
 Veja American Brown Ale.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Semelhante a uma American IPA, mas com maltes crystal médio ou escuro, maltes tipo chocolate, levemente torrados, ou outros maltes de cor intermediária. Pode usar adjuntos de açúcar, incluindo açúcar mascavo. Qualquer caráter de lúpulo americano ou do Novo Mundo é aceitável, mas os lúpulos e o perfil maltado não devem entrar em conflito.
 
@@ -36,7 +36,7 @@ Semelhante a uma American IPA, mas com maltes crystal médio ou escuro, maltes t
 
 Uma versão mais forte e amarga de uma American Brown Ale, com o equilíbrio seco de uma American IPA. Tem menos sabor torrado que a Black IPA, mas com mais sabores de chocolate que uma Red IPA.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 40 - 70
 SRM: 18 - 35

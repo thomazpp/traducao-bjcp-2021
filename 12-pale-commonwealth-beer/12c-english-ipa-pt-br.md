@@ -28,7 +28,7 @@ Os atributos da IPA que foram importantes para sua chegada em boas condições n
 
 Originalmente uma stock ale clara de Londres que foi enviada pela primeira vez para a Índia no final dos anos 1700. George Hodgson da Bow Brewery não criou o estilo, mas foi o primeiro cervejeiro conhecido a dominar o mercado. Após uma disputa comercial, a Companhia das Índias Orientais fez Samuel Allsopp recriar (e reformular) a cerveja em 1823 usando a água rica em sulfato de Burton. O nome India Pale Ale não foi usado até por volta de 1830. A força e a popularidade diminuíram com o tempo, e o estilo praticamente desapareceu na segunda metade do século XX. Enquanto a IPA mais forte do tipo Burton permaneceu, o nome também foi aplicado a produtos lupulados, de baixa gravidade, muitas vezes engarrafados (uma tendência que continua em alguns exemplos britânicos modernos). O estilo passou por uma redescoberta da cerveja artesanal na década de 1980, e é o que está descrito nestas diretrizes. Exemplos modernos são inspirados em versões clássicas, mas não se deve presumir que tenham uma linhagem ininterrupta com exatamente o mesmo perfil. White Shield é provavelmente o exemplo com a linhagem mais longa, remontando às fortes Burton IPAs antigas, fabricadas pela primeira vez em 1829.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Malte pale ale. Lúpulos ingleses, particularmente como lúpulos de finalização. Levedura ale britânica de alta atenuação. Açúcar refinado pode ser usado em algumas versões. Água com caráter de sulfato opcional do tipo Burton.
 
@@ -36,7 +36,7 @@ Malte pale ale. Lúpulos ingleses, particularmente como lúpulos de finalizaçã
 
 Geralmente terá mais lúpulos tardios e menos frutado e caramelo do que as British Pale Ales e Bitters. Tem menos intensidade de lúpulo e um sabor de malte mais pronunciado do que as típicas American IPAs.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 40 - 60
 SRM: 6 - 14

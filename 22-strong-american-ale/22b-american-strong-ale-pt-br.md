@@ -28,7 +28,7 @@ Um estilo bastante amplo que descreve cervejas rotuladas de várias maneiras, in
 
 Enquanto as versões artesanais modernas foram desenvolvidas como versões de força “imperial” das American Amber ou Red Ales, o estilo tem muito em comum com as históricas cervejas americanas envelhecidas (Stock Ales). Cervejas fortes e maltadas eram altamente lupuladas para servir como suprimento antes da Lei Seca. Não há um legado contínuo de produzir cervejas de guarda dessa maneira, mas a semelhança é considerável (embora sem o caráter de idade).
 
-### Ingredientes Característicos
+### Ingredientes
 
 Base de malte pale. Maltes crystal, de médio a escuro, são comuns. Lúpulo americano ou do novo mundo. Levedura neutra ou levemente frutada.
 
@@ -36,7 +36,7 @@ Base de malte pale. Maltes crystal, de médio a escuro, são comuns. Lúpulo ame
 
 Geralmente não tão forte e tão rica quanto um American Barleywine. Mais maltada do que uma American ou Double IPA. Mais intensidade de lúpulo americano do que uma British Strong Ale. Mais maltado e encorpada que uma Red IPA.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 50 - 100
 SRM: 7 - 18
@@ -48,7 +48,7 @@ ABV: 6,3% - 10%
 
 Fat Head’s Bone Head, Great Lakes Nosferatu, Oskar Blues G’Knight, Port Brewing Shark Attack Double Red, Stone Arrogant Bastard.
 
-### Revisões Anteriores
+### Última Revisão
 
 American Strong Ale (2015)
 

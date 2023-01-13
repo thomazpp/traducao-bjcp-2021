@@ -24,7 +24,7 @@ OG, FG, IBUs, SRM e ABV vão variar dependendo da cerveja declarada.
 
 Birrificio Italiano Tipopils, Firestone Walker Pivo Pils, Jack’s Abby Hoponius Union, Ommegang Helles Superior.
 
-### Revisões Anteriores
+### Última Revisão
 
 Mixed-Style Beer (2015)
 

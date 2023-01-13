@@ -29,7 +29,7 @@ Os nomes para diversos exemplares comerciais do estilo incluem referências ao d
 
 Desenvolvida pela cervejaria Moortgat depois da I Guerra Mundial como uma resposta à crescente popularidade das cervejas Pilsen. Originariamente uma cerveja mais escura, assumiu a sua forma moderna na década de 1970
 
-### Ingredientes Característicos
+### Ingredientes
 
 Malte Pilsen e substancial adjuntos açucarados. Lúpulos Continental. Levedura belga frutada. Água bastante mole. Não é tradicional adicionar especiarias.
 
@@ -37,7 +37,7 @@ Malte Pilsen e substancial adjuntos açucarados. Lúpulos Continental. Levedura 
 
 Muitas vezes confundida com a Belgian Tripel, mas geralmente é mais clara, corpo mais leve, com final mais bem definido e seca. Tende a se usar levedura que favorece o desenvolvimento de ésteres (particularmente de maçã, pera e marmelo) ao invés de condimentos no equilíbrio e tem mais caráter de lúpulo tardio.
 
-### Estatísticas Vitais
+### Estatísticas
 
 IBU: 22 - 35
 SRM: 3 - 6

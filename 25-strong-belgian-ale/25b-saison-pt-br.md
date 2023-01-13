@@ -29,7 +29,7 @@ Este estilo geralmente descreve a versão clara e de força 'standart' (padrão)
 
 Uma cerveja de abastecimento oriunda da Valônia, região belga onde se fala o francês. Originariamente era um produto de baixo teor alcoólico para não debilitar os trabalhadores do campo e das fazendas, mas também existiam os produtos com força de taverna. A mais conhecida Saison moderna, Saison Dupont, foi produzida pela primeira vez na década de 1920. A 'super' Saison (Blonde) da Dupont foi produzida pela primeira vez em 1954 e a versão Brune em meados da década de 1980. A cervejaria Fantôme começou a produzir suas Saison "sazonais" em 1988. Apesar do estilo manter uma imagem rústica, elas agora são produzidas principalmente em grandes cervejarias.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Malte pale como base. Grãos de cereais, como trigo, aveia, espelta ou centeio. Pode conter adjuntos açucarados. Lúpulos Continental. Levedura belga para Saison com características de frutado-condimentadas. Especiarias e ervas são incomuns, mas são permitidas desde que não sejam dominantes.
 
@@ -41,7 +41,7 @@ As versões claras e com força alcoólica 'standart' são como o estilo Belgian
 
 O participante deve especificar a força alcoólica (table, standart ou super) e a cor (clara ou escura). O participante pode identificar o caráter de grãos usados.
 
-### Estatísticas Vitais
+### Estatísticas
 
 IBU: 20 - 35
 SRM: 5 – 14 (clara) 15 – 22 (escura)

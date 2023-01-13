@@ -28,7 +28,7 @@ O uso do centeio não significa que deve ter sabor como cominho (um sabor comum 
 
 Um estilo tradicional nativo da Finlândia; uma tradição farmhouse de ao menos 500 anos, geralmente feito durante ocasiões festivas como casamentos de verão e consumidas dentro de uma ou duas semanas desde a brassagem.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Cevada maltada. Centeio é comum. Lúpulo baixo, se tiver. Galhos de zimbro (com ou sem bagas) são utilizados para filtração (tradicionalmente troncos ocos de madeira). Utilização de fermento finlandês para produção de pão numa fermentação quente e rápida (levedura alemã de Weizen é uma substituição razoável). Longo regime de mosturação. O mosto não é fervido.
 

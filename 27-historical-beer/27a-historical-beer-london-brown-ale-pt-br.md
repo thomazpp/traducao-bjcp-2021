@@ -28,7 +28,7 @@ Cada vez mais rara, a Mann's tem mais de 90% de participação de mercado na Gr�
 
 Desenvolvida pela Mann's como um produto engarrafado em 1902. Elencada na época como "a cerveja mais doce de Londres". As versões anteriores à Primeira Guerra Mundial tinham cerca de 5% ABV, mas com o mesmo equilíbrio geral. Diminuiu em popularidade na segunda metade do século 20 e agora está quase extinta.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Malte pale ale inglês como base com uma grande proporção de malte caramelo mais escuros e frequentemente algum malte black e de trigo (este é o grão tradicional de Mann – outras podem contar com açúcares escuros para cor e sabor). Água com teor de carbonato de intensidade moderada a alta. Lúpulo inglês. Adoçada pós-fermentação com lactose, adoçantes artificiais ou sacarose, se pasteurizada.
 

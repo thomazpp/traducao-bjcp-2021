@@ -28,7 +28,7 @@ Maturação longa e mistura de cervejas jovens e envelhecidas podem ocorrer, agr
 
 Uma cerveja nativa da Flandres Oriental, representada pelos produtos da cervejaria Liefman, com raízes remetendo aos anos 1600. Os cervejeiros belgas consideram a Flanders Red e a Oud Bruin da mesma família de estilos, mas a primeira diferenciação foi feita quando Michael Jackson inicialmente definiu os estilos de cerveja, dado que os perfis de sabor são claramente diferentes. Muitos exemplares modernos são influenciados pela popularidade da Liefmans Goudenband. Sem correlação com a lager holandesa escura e doce de mesmo nome.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Malte Pilsen, maltes escuros crystal, milho e pequenas quantidades de malte para cor. Lúpulos continentais de baixo alfa ácido. Sacch e Lacto. Maturada. Água rica em carbonatos e magnésio típica da região de origem.
 
@@ -36,7 +36,7 @@ Malte Pilsen, maltes escuros crystal, milho e pequenas quantidades de malte para
 
 Um caráter mais intenso de malte, com mais caramelo, toffee, sabores de chocolate e coloração mais escura distinguem estas cervejas das Flanders Red Ale. A Oud Bruin é menos acética e mais maltada que uma Flanders Red e os sabores frutados são mais orientados para o malte. Nos tempos modernos a Oud Bruin também tende a ser mais alcoólica do que tipicamente é observado nas Flanders Red Ales. Se difere da Lambic já que não são espontaneamente fermentadas e não contém trigo.
 
-### Estatísticas Vitais
+### Estatísticas
 
 IBU: 20 - 25
 SRM: 17 - 22

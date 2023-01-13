@@ -28,7 +28,7 @@ Uma cerveja de lote único, sem mistura, refletindo o caráter da casa da cervej
 
 As cervejas "selvagens" fermentadas espontaneamente da área de Bruxelas e arredores (também conhecidas como Vale do Senne e Pajottenland) derivam de uma tradição cervejeira de fazenda com vários séculos de idade.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Malte Pilsner, trigo não maltado. Lúpulo envelhecido (mais de 3 anos) usado mais como conservante do que para amargor. Fermentada espontaneamente com leveduras e bactérias naturais, em barris de carvalho neutro e bem usados.
 
@@ -48,7 +48,7 @@ ABV: 5% - 6.5%
 
 Cantillon Grand Cru Bruocsella. In the Brussels area, many specialty cafés have draught lambic from Boon, De Cam, Cantillon, Drie Fonteinen, Lindemans, Timmermans, Girardin and others.
 
-### Revisões Anteriores
+### Última Revisão
 
 Lambic (2015)
 

@@ -28,7 +28,7 @@ Também conhecida como Foreign Stout, Export Stout e Foreign Export Stout. Vers�
 
 Stouts mais fortes fabricadas para o mercado de exportação hoje, mas com uma história que remonta aos séculos 18 e 19, quando eram versões mais lupuladas de stouts de exportação mais fortes. Cerveja originalmente maturada em barricas de madeira*, a Guinness parou essa prática na década de 1950. A Guinness Foreign Extra Stout (originalmente, West India Porter, mais tarde Foreign Extra Double Stout) foi fabricada pela primeira vez em 1801 de acordo com a Guinness com “lúpulo extra para dar um sabor distinto e uma vida útil mais longa em climas quentes”.
 
-### Ingredientes Característicos
+### Ingredientes
 
 Malte pale, maltes torrados escuros e grãos, historicamente também poderiam ter usado maltes brow e âmbar. Lúpulo principalmente para amargor, variedades tipicamente inglesas. Pode usar adjuntos e açúcar para aumentar a gravidade.
 
@@ -36,7 +36,7 @@ Malte pale, maltes torrados escuros e grãos, historicamente também poderiam te
 
 Semelhante em equilíbrio a uma Irish Extra Stout, mas com mais álcool. Não tão forte ou intensa quanto uma Imperial Stout. Sem o forte amargor e os lúpulos de adição tardia das American Stout. Gravidade semelhante à Tropical Stout, mas com final mais seco e mais amargo.
 
-### Estatísticas vitais
+### Estatísticas
 
 IBU: 50 - 70
 SRM: 30 - 40
