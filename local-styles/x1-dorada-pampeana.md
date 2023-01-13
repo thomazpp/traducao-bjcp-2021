@@ -8,7 +8,9 @@
 
 **Appearance:** Light yellow to deep gold color. Clear to brilliant. Low to medium head with good retention.
 
-**Flavor:** Initial soft malty sweetness. Caramel flavors typically are absent. Mild to moderate hop flavor (usually Cascade), but should not be aggressive. Low to moderate hop bitterness, the balance is normally towards the malt. Half-dry to something sweet finish. No diacetyl. Mouthfeel: Medium-light to medium body. Medium to high carbonation. Smooth without harsh bitterness or astringency.
+**Flavor:** Initial soft malty sweetness. Caramel flavors typically are absent. Mild to moderate hop flavor (usually Cascade), but should not be aggressive. Low to moderate hop bitterness, the balance is normally towards the malt. Half-dry to something sweet finish. No diacetyl.
+
+**Mouthfeel:** Medium-light to medium body. Medium to high carbonation. Smooth without harsh bitterness or astringency.
 
 **Comments:** It is difficult to achieve the balance.
 
