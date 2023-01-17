@@ -10,7 +10,7 @@ Boa limpidez, com um colarinho volumoso, cremoso e persistente. Versões escuras
 
 ### Aroma
 
-, assim como aroma moderado de álcool. Sem aroma de lúpulo. Versões escuras têm aroma significante de reações de Maillard, malte altamente tostado e possivelmente um leve aroma tipo chocolate que jamais deve parecer torrado ou queimado. Frutas escuras em intensidade média-baixa, como ameixas, uvas escuras e casca de frutas são permitidas. Versões claras têm uma presença maltada rica e forte, frequentemente tostada, com possivelmente uma nota leve de lúpulo de caráter floral, picante ou de ervas.
+Maltado muito forte, possivelmente leve nota de caramelo, assim como aroma moderado de álcool. Sem aroma de lúpulo. Versões escuras têm aroma significante de reações de Maillard, malte altamente tostado e possivelmente um leve aroma tipo chocolate que jamais deve parecer torrado ou queimado. Frutas escuras em intensidade média-baixa, como ameixas, uvas escuras e casca de frutas são permitidas. Versões claras têm uma presença maltada rica e forte, frequentemente tostada, com possivelmente uma nota leve de lúpulo de caráter floral, picante ou herbal.
 
 ### Sabor
 
