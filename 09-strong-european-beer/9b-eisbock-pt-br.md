@@ -6,7 +6,7 @@ Uma lager alemã escura, forte, encorpada, rica e maltada, frequentemente com um
 
 ### Aparência
 
-Coloração cobre profundo a marrom escuro, muitas vezes com atraentes reflexos rubi. Boa claridade. A retenção da espuma pode ser moderada a baixa. Espuma de cor quase branca a marfim profundo. Lágrimas pronunciadas nas laterais do copo são frequentemente evidentes.
+Coloração de cobre profundo a marrom escuro, muitas vezes com atraentes reflexos rubi. Boa limpidez. A retenção da espuma pode ser de moderada a baixa. Colarinho de cor quase branca a marfim profundo. Lágrimas pronunciadas nas laterais do copo são frequentemente evidentes.
 
 ### Aroma
 
@@ -14,11 +14,11 @@ Dominado por um malte intenso e rico e pela presença marcante de álcool. O mal
 
 ### Sabor
 
-Malte rico e doce equilibrado por uma presença significativa de álcool. O malte pode ter produtos de Maillard, caráter tostado, um pouco de caramelo e, ocasionalmente, um leve sabor de chocolate. Pode ter significativos ésteres de frutas escuras derivados do malte. O amargor do lúpulo compensa o dulçor do malte o suficiente para evitar um caráter enjoativo. Sem sabor de lúpulo. O álcool ajuda a equilibrar a forte presença do malte. O final deve ser rico em malte com certa secura do álcool. Não deve possuir caráter de xarope, viscosidade ou dulçor enjoativo. Perfil de fermentação limpo
+Malte rico e doce equilibrado por uma presença significativa de álcool. O malte pode ter produtos de Maillard, qualidades tostadas, um pouco de caramelo e, ocasionalmente, um leve sabor de chocolate. Pode ter uma quantidade considerável de esteres de frutas escuras derivados do malte. O amargor do lúpulo compensa o dulçor do malte o suficiente para evitar um caráter enjoativo. Sem sabor de lúpulo. O álcool ajuda a equilibrar a forte presença do malte. O final deve ser rico em malte com certa secura do álcool. Não deve possuir caráter de xarope, viscosidade ou dulçor enjoativo. Perfil de fermentação limpo.
 
 ### Sensação na Boca
 
-Corpo cheio a muito cheio. Baixa carbonatação. Aquecimento alcoólico significativo sem ser acentuado. Muito macia e sedosa, sem aspereza de álcool, amargor, álcool superior ou outros sabores concentrados.
+Corpo de cheio a muito cheio. Baixa carbonatação. Aquecimento alcoólico significativo sem ser acentuado. Muito macia e sedosa, sem aspereza de álcool, amargor, álcool superior ou outros sabores concentrados.
 
 ### Comentários
 
@@ -26,7 +26,7 @@ Longa maturação a frio é necessária após o congelamento para suavizar o ál
 
 ### História
 
-Originária de Kulmbach, na Francônia, no final dos anos 1800, embora as origens exatas não sejam conhecidas. As fábulas a descrevem como proveniente do congelamento acidental da cerveja em uma cervejaria.
+Originária de Kulmbach, na Francônia, no final dos anos 1800, embora a origem exata não seja conhecida. As fábulas a descrevem como proveniente do congelamento acidental da cerveja em uma cervejaria.
 
 ### Ingredientes
 
