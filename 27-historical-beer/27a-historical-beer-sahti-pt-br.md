@@ -2,23 +2,23 @@
 
 ### Impressão Geral
 
-Uma cerveja finlandesa farmhouse tradicional forte, pesada e doce, usualmente com centeio e zimbro, e um caráter de levedura de banana e cravo.
+Uma cerveja finlandesa farmhouse tradicional forte, pesada e doce, geralmente com centeio e zimbro, e um caráter de levedura de banana e cravo.
 
 ### Aparência
 
-Cor amarelo a marrom escuro; a maioria é âmbar médio a âmbar escuro. Geralmente um pouco nebulosa e turva. Colarinho pequeno, devido a baixa carbonatação.
+Cor de amarelo a marrom escuro; a maioria é de âmbar médio a âmbar escuro. Geralmente um pouco nebulosa e turva. Colarinho pequeno, devido a baixa carbonatação.
 
 ### Aroma
 
-Impressão de mosto de malte, doce. Maltado de grãos, caramelo e centeio no fundo. Leve aroma de álcool. Alto éster de banana com moderado e moderadamente alto fenóis como cravo. Pode ter um leve a moderado caráter amadeirado de zimbro. Sem azedume. Sem lúpulo.
+Impressão de mosto de malte, doce. Maltado como grãos, caramelo e centeio em segundo plano. Leve aroma de álcool. Éster alto como banana com fenóis  de moderado a moderadamente alto como cravo. Pode ter um de leve a moderado caráter amadeirado de zimbro. Não é azeda. Sem lúpulo.
 
 ### Sabor
 
-Bastante doce e muitas vezes com sabor de malte cru como mosto, como cereais com algum caramelo e toffee. Baixo amargor. Sem sabor de lúpulo. Caráter baixo amadeirado ou como pinho aceitável. Éster moderado a alto de banana e frutado, moderado cravo e condimentado. Final bastante doce. Fresca, não é azeda.
+Bastante doce e muitas vezes com sabor de malte cru como mosto, como cereais com algum caramelo e toffee. Amargor baixo. Sem sabor de lúpulo. Caráter baixo amadeirado ou como pinho é aceitável. Éster de moderado a alto como banana e frutado, cravo e condimentado moderado. Final bastante doce. Fresca, não é azeda.
 
 ### Sensação na Boca
 
-Espessa, viscosa e pesada com proteínas (sem fervura significa sem hot break). Quase sem carbonatação a moderadamente alta, similar a Cask Ales inglesas. Aquecimento pelo teor alcoólico e sem envelhecimento, porém muitas vezes mascarado pelo dulçor.
+Espessa, viscosa e pesada com proteínas (sem fervura significa sem hot break). De quase sem carbonatação a moderadamente alta, similar a Cask Ales inglesas. Aquecimento pelo teor alcoólico e sem envelhecimento, porém muitas vezes mascarado pelo dulçor.
 
 ### Comentários
 
@@ -26,7 +26,7 @@ O uso do centeio não significa que deve ter sabor como cominho (um sabor comum 
 
 ### História
 
-Um estilo tradicional nativo da Finlândia; uma tradição farmhouse de ao menos 500 anos, geralmente feito durante ocasiões festivas como casamentos de verão e consumidas dentro de uma ou duas semanas desde a brassagem.
+Um estilo tradicional nativo da Finlândia; uma tradição *farmhouse* de pelo menos 500 anos, geralmente feito durante ocasiões festivas como casamentos de verão e consumidas dentro de uma ou duas semanas após a brassagem.
 
 ### Ingredientes
 
