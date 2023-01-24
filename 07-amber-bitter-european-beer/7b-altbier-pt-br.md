@@ -6,7 +6,7 @@ Uma cerveja amarga, de cor moderada, bem atenuada e com uma riqueza de malte equ
 
 ### Aparência
 
-A cor varia de âmbar a cobre profundo, parando um pouco antes do marrom; laranja bronzeado é a mais comum. Limpidez brilhante. Colarinho espesso quase branca, cremoso e duradouro.
+A cor varia de âmbar a cobre profundo, parando um pouco antes do marrom; laranja bronzeado é a mais comum. Limpidez brilhante. Colarinho espesso, quase branco, cremoso e duradouro.
 
 ### Aroma
 
