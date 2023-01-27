@@ -6,7 +6,7 @@ Uma cerveja maltada de baixo teor alcoólico com leve caramelo, tostado, toffee 
 
 ### Aparência
 
-Cobre claro a marrom. límpida. Colarinho cremoso, quase branco, baixo a moderado.
+Cobre claro a marrom. Límpida. Colarinho cremoso, quase branco, baixo a moderado.
 
 ### Aroma
 
@@ -14,7 +14,7 @@ Malte médio-baixo a médio com notas de caramelo e toffee, e qualidades levemen
 
 ### Sabor
 
-Malte médio como tostado-pão, com nuances de caramelo e toffee, terminando com uma secura levemente torrada. Uma ampla gama de sabores de açúcar caramelizado e pão torrado é possível, usando descritores semelhantes ao aroma. Malte  perfil de fermentação limpos. Ésteres e sabor de lúpulo leves são permitidos (descritores semelhantes ao aroma). Amargor suficiente para não ser enjoativo, mas com equilíbrio e retrogosto de malte.
+Malte médio como pão tostado, com nuances de caramelo e toffee, terminando com uma secura levemente torrada. Uma ampla gama de sabores de açúcar caramelizado e pão tostado é possível, usando descritores semelhantes ao aroma. Malte e perfil de fermentação limpos. Ésteres e sabor de lúpulo leves são permitidos (descritores semelhantes ao aroma). Amargor suficiente para não ser enjoativo, mas com equilíbrio e retrogosto de malte.
 
 ### Sensação na Boca
 
@@ -22,15 +22,15 @@ Corpo médio-baixo a médio. Carbonatação baixa a moderada. Talvez seja modera
 
 ### Comentários
 
-Veja a introdução da categoria para comentários detalhados. Pode não parecer tão amarga quanto as especificações indicam devido à maior gravidade final e dulçor residual. Não interprete errado a leve secura torrada como defumado; fumaça não está presente nessas cervejas.
+Veja a introdução da categoria para comentários detalhados. Pode não parecer tão amarga quanto as especificações indicam devido à maior gravidade final e dulçor residual. Não interprete errado a leve secura torrada como defumado; o defumado não está presente nessas cervejas.
 
 ### História
 
-Veja a introdução da categoria. Os nomes cervejas Shilling eram usados ​​para cervejas suaves (não envelhecidas) antes da Primeira Guerra Mundial, mas os estilos tomaram forma moderna somente após a Segunda Guerra Mundial.
+Veja a introdução da categoria. Os nomes cervejas Shilling eram usados para cervejas suaves (não envelhecidas) antes da Primeira Guerra Mundial, mas os estilos tomaram forma moderna somente após a Segunda Guerra Mundial.
 
 ### Ingredientes
 
-Na sua forma mais simples, malte pale ale e malte com mais cor, mas também pode usar açúcares, milho, trigo, malte crystal, corantes e uma variedade de outros grãos. Levedura limpa. Água leve. Sem malte defumado com fumaça de turfa.
+Na sua forma mais simples, malte pale ale e malte com mais cor, mas também pode usar açúcares, milho, trigo, malte crystal, corantes e uma variedade de outros grãos. Levedura limpa. Água leve. Sem malte defumado com turfa.
 
 ### Comparação de estilos
 
@@ -38,11 +38,7 @@ Veja a introdução da categoria. Semelhante a outras Scottish Ales em perfil de
 
 ### Estatísticas
 
-IBU: 10 - 20
-SRM: 12 - 20
-GO: 1,035 - 1,040
-FG: 1,010 - 1,015
-ABV: 3,3% - 3,9%
+IBU: 10 - 20 SRM: 12 - 20 GO: 1,035 - 1,040 FG: 1,010 - 1,015 ABV: 3,3% - 3,9%
 
 ### Exemplos Comerciais
 
@@ -54,4 +50,4 @@ Scottish Heavy (2015)
 
 ### Atributos de estilo
 
-família âmbar-ale, cor âmbar, ilhas britânicas, malte, intensidade session, alta fermentação, estilo tradicional
+amber-ale-family, amber-color, british-isles, malty, session-strength, top-fermented, traditional-style
