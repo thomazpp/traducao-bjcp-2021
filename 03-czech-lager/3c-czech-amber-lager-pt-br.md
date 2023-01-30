@@ -1,12 +1,12 @@
 ## 3C. Czech Amber Lager
 
-### Impressão geral
+### Impressão Geral
 
-Uma lager Checa âmbar, maltada, com um caráter de lúpulo que pode variar de baixo a muito significante. Os sabores de malte também podem variar, levando a diferentes interpretações e equilíbrios, variando de mais seco, panificação e leve biscoito a mais doce e algo semelhante a caramelo.
+Uma lager tcheca âmbar, maltada, com um caráter de lúpulo que pode variar de baixo a bastante significante. Os sabores de malte também podem variar, levando a diferentes interpretações e equilíbrios, variando de mais secos, como pão e leve biscoito a mais doces e algo como caramelo.
 
 ### Aparência
 
-Cor âmbar profundo a cobre. Claridade limpa a brilhante. Espuma de alta formação, quase branca e persistente.
+Cor âmbar profundo a cobre. Claridade limpa a brilhante. Colarinho de alta formação, quase branco e persistente.
 
 ### Aroma
 
@@ -22,20 +22,21 @@ Corpo médio a médio-alto. Suave e arredondada, frequentemente com uma cremosid
 
 ### Comentários
 
-O nome Checo deste estilo é polotmavé pivo, que se traduz como cerveja meio escura. Este estilo é a combinação dos estilos Checos polotmavý ležák (11–12.9 °P) e polotmavé speciální pivo (13–14.9 °P). Algumas versões podem ser uma mistura de cervejas claras e escuras.
+O nome tcheco deste estilo é polotmavé pivo, que se traduz como cerveja meio escura. Este estilo é a combinação dos estilos tchecos polotmavý ležák (11–12.9 °P) e polotmavé speciální pivo (13–14.9 °P). Algumas versões podem ser uma mistura de cervejas claras e escuras.
 
 ### História
 
-Uma cerveja ao estilo Viena que continua a ser fabricada na República Checa. O ressurgimento e abertura de pequenas cervejarias na República Checa aumentou o número de exemplares deste estilo.
+Uma cerveja ao estilo Vienna Lager que continua a ser fabricada na República Tcheca. O ressurgimento e abertura de pequenas cervejarias na República Tcheca aumentou o número de exemplares deste estilo.
 
 ### Ingredientes
 
-Malte pilsner e caramelo, mas o malte Vienna e Munich também podem ser utilizados. Água com baixo teor mineral. Lúpulo Checo tradicional. Levedura Checa lager.
+Malte pilsner e caramelo, mas o malte Vienna e Munich também podem ser utilizados. Água com baixo teor mineral. Lúpulo tcheco tradicional. Levedura lager tcheca.
 
-### Comparação de estilos
-Este estilo pode ser semelhante a uma Viena Lager, mas com mais forte caráter de adição tardia de lúpulo Checo, ou se aproxima a uma Britsh Bitter, mas com um caráter significativamente mais rico e intenso de caramelo. As versões das grandes cervejarias são geralmente semelhantes à Czech Premium Pale Lager com sabores leves de malte mais escuro e menos lúpulo, enquanto as cervejarias menores frequentemente criam versões com um considerável caráter de lúpulo, complexidade de malte ou dulçor residual.
+### Comparação de estilo
 
-### Características vitais
+Este estilo pode ser semelhante a uma Vienna Lager, mas com mais forte caráter de adição tardia de lúpulo tcheco, ou se aproxima a uma Britsh Bitter, mas com um caráter significativamente mais rico e intenso de caramelo. As versões das grandes cervejarias são geralmente semelhantes à Czech Premium Pale Lager com sabores leves de malte mais escuro e menos lúpulo, enquanto as cervejarias menores frequentemente criam versões com um considerável caráter de lúpulo, complexidade de malte ou dulçor residual.
+
+### Estatísticas
 
 IBU: 20 - 35
 SRM: 10 - 16
@@ -51,7 +52,6 @@ Bernard Jantarový ležák, Gambrinus Polotmavá 12°, Kozel Semi-Dark, Lobkowic
 
 Czech Amber Lager (2015)
 
-### Atributos do estilo
+### Atributos de estilo
 
 amber-color, amber-lager-family, balanced, bottom-fermented, central-europe, lagered, standard-strength, traditional-style
-
