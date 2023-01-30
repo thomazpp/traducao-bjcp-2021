@@ -6,15 +6,15 @@ Uma cerveja fácil de beber, muitas vezes com sabores sutis. Ligeiramente maltad
 
 ### Aparência
 
-Cor âmbar médio a cobre avermelhado médio. límpida. Colarinho de baixo quase branco a bronzeado, persistência média.
+Cor âmbar médio a cobre avermelhado médio. Límpida. Colarinho baixo, quase branco a bronzeado, persistência média.
 
 ### Aroma
 
-Aroma de malte baixo a moderado, pode ter um perfil de grãos neutros, um leve caramelo, torrado ou toffee. Caráter amanteigado muito leve opcional. Aroma baixo de lúpulo terroso ou floral opcional. Bastante limpa.
+Aroma de malte baixo a moderado, pode ter um perfil de grãos neutros ou um leve caramelo, tostado ou toffee. Caráter amanteigado muito leve opcional. Aroma baixo de lúpulo terroso ou floral opcional. Bastante limpa.
 
 ### Sabor
 
-Moderado a muito pouco sabor e dulçor de malte caramelo, raramente com um leve tostado amanteigado ou toffee. O paladar é frequentemente bastante neutro e como grãos, ou pode assumir uma nota levemente tostada ou de biscoito, terminando com um leve sabor de grãos torrados, o que confere uma secura característica ao final. Um leve sabor de lúpulo terroso ou floral é opcional. Amargor médio a médio-baixo. Final meio seco a seco. Limpa e suave. Ésteres baixos opcionais. O equilíbrio tende a ser ligeiramente para o malte, embora o uso leve de grãos torrados possa aumentar vagamente a percepção de amargor.
+Moderado a muito pouco sabor e dulçor de malte caramelo, raramente com um leve tostado amanteigado ou toffee. O paladar é frequentemente bastante neutro e como grãos, ou pode assumir uma nota levemente tostada ou de biscoito, terminando com um leve sabor de grãos torrados, o que confere uma secura característica ao final. Um leve sabor de lúpulo terroso ou floral é opcional. Amargor médio a médio-baixo. Final meio seco a seco. Limpa e suave. Ésteres baixos opcionais. O equilíbrio tende a ser ligeiramente para o malte, embora o uso leve de grãos torrados possa aumentar ligeiramente a percepção de amargor.
 
 ### Sensação na Boca
 
@@ -22,7 +22,7 @@ Corpo médio-leve a médio, embora exemplos contendo baixos níveis de diacetil 
 
 ### Comentários
 
-O estilo é bastante amplo para permitir exemplos além dos tradicionais da Irlanda. Os exemplos irlandeses tendem a ser menos alcoólicos, com mais grãos e mais secos no final, enquanto as versões não irlandesas geralmente são mais altas em álcool, mais doces, talvez mais carameladas e esterificadas, e geralmente são ofertas sazonalmente.
+O estilo é bastante amplo para permitir exemplos além dos tradicionais da Irlanda. Os exemplos irlandeses tendem a ser menos alcoólicos, com mais grãos e mais secos no final, enquanto as versões não irlandesas geralmente são mais fortes em álcool, mais doces, talvez com mais caráter de caramelo e esterificadas, e geralmente são ofertas sazonais.
 
 ### História
 
@@ -34,13 +34,13 @@ Geralmente tem um pouco de cevada torrada ou malte black para dar cor avermelhad
 
 ### Comparação de estilos
 
-Uma cerveja irlandesa equivalente a uma Bitter inglesa menos amarga e lupulada, com um final seco devido à cevada torrada. Mais atenuada, com menos sabor de caramelo e corpo do que as Scottish Ales de força equivalente.
+Uma cerveja irlandesa equivalente a uma Bitter inglesa menos amarga e menos lupulada, com um final seco devido à cevada torrada. Mais atenuada, com menos sabor de caramelo e corpo do que as Scottish Ales de força equivalente.
 
 ### Estatísticas
 
 IBU: 18 - 28
 SRM: 9 - 14
-GO: 1,036 - 1,046
+OG: 1,036 - 1,046
 FG: 1,010 - 1,014
 ABV: 3,8% - 5%
 
@@ -54,4 +54,4 @@ Irish Red Ale (2015)
 
 ### Atributos de estilo
 
-família âmbar-ale, cor âmbar, equilibrado, ilhas britânicas, intensidade padrão, alta fermentação, estilo tradicional
+amber-ale-family, amber-color, balanced, british-isles, standard-strength, top-fermented, traditional-style

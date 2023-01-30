@@ -1,3 +1,3 @@
 # 15. Irish Beer
 
-As cervejas tradicionais da Irlanda contidas nesta categoria são cervejas âmbar a escuras, de alta fermentação, de intensidade moderada a levemente forte, e muitas vezes são amplamente incompreendidas devido a diferenças nas versões de exportação ou cervejas, com foco excessivo em atributos específicos, produzidas por grandes cervejarias conhecidas. Cada um dos estilos neste agrupamento tem um alcance mais amplo do que comumente se acredita.
+As cervejas tradicionais da Irlanda contidas nesta categoria são cervejas âmbar a escuras, de alta fermentação, de intensidade moderada a levemente forte, e muitas vezes são amplamente incompreendidas devido a diferenças nas versões de exportação ou foco excessivo nos atributos específicos da cerveja produzida por grandes cervejarias conhecidas. Cada um dos estilos neste agrupamento tem um alcance mais amplo do que comumente se acredita.
