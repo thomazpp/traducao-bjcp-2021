@@ -40,7 +40,7 @@ Significativa sobreposição de gravidade com Old Ale, mas sem um caráter envel
 
 IBU: 30 - 60
 SRM: 8 - 22
-GO: 1,055 - 1,080
+OG: 1,055 - 1,080
 FG: 1,015 - 1,022
 ABV: 5,5% - 8%
 

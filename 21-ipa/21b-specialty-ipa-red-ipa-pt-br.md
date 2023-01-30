@@ -40,7 +40,7 @@ Uma versão mais forte, lupulada e amarga da American Amber Ale. Não é tão ma
 
 IBU: 40 - 70
 SRM: 11 - 17
-GO: 1,056 - 1,070
+OG: 1,056 - 1,070
 FG: 1,008 - 1,016
 ABV: 5,5% - 7,5%
 

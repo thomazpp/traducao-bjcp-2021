@@ -40,7 +40,7 @@ Superficialmente semelhante às English Pale Ales, embora muito mais carbonatada
 
 IBU: 20 - 35
 SRM: 4 - 7
-GO: 1,038 - 1,050
+OG: 1,038 - 1,050
 FG: 1,004 - 1,006
 ABV: 4,5% - 6%
 

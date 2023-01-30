@@ -40,7 +40,7 @@ Mais sabores de chocolate e caramelo do que American Pale ou Amber Ales, normalm
 
 IBU: 20 - 30
 SRM: 18 - 35
-GO: 1,045 - 1,060
+OG: 1,045 - 1,060
 FG: 1,010 - 1,016
 ABV: 4,3% - 6,2%
 

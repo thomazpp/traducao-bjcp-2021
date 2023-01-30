@@ -45,7 +45,7 @@ O participante deve especificar Bière de Garde loira (blonde), âmbar (ambrée)
 
 IBU: 18 - 28
 MRE: 6 - 19
-GO: 1.060 - 1.080
+OG: 1.060 - 1.080
 FG: 1,008 - 1,016
 ABV: 6% - 8,5%
 

@@ -40,7 +40,7 @@ Normalmente de cor mais clara, mais limpo no perfil de fermentação e com menos
 
 IBU: 30 - 50
 SRM: 5 - 10
-GO: 1,045 - 1,060
+OG: 1,045 - 1,060
 FG: 1,010 - 1,015
 ABV: 4,5% - 6,2%
 

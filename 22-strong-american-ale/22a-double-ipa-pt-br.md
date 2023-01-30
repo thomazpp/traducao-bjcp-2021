@@ -40,7 +40,7 @@ Maior teor alcoólico, amargor e lúpulo do que as IPAs inglesas e americanas. M
 
 IBU: 60 - 100
 SRM: 6 - 14
-GO: 1,065 - 1,085
+OG: 1,065 - 1,085
 FG: 1,008 - 1,018
 ABV: 7,5% - 10%
 

@@ -40,7 +40,7 @@ Geralmente terá mais lúpulos tardios e menos frutado e caramelo do que as Brit
 
 IBU: 40 - 60
 SRM: 6 - 14
-GO: 1,050 - 1,070
+OG: 1,050 - 1,070
 FG: 1,010 - 1,015
 ABV: 5% - 7,5%
 

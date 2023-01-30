@@ -40,7 +40,7 @@ Difere da American Porter porque geralmente tem sabores mais suaves, mais doces 
 
 IBU: 18 - 35
 SRM: 20 - 30
-GO: 1,040 - 1,052
+OG: 1,040 - 1,052
 FG: 1,008 - 1,014
 ABV: 4% - 5,4%
 

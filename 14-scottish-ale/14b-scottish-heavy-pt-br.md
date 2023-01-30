@@ -38,7 +38,11 @@ Veja a introdução da categoria. Semelhante a outras Scottish Ales em perfil de
 
 ### Estatísticas
 
-IBU: 10 - 20 SRM: 12 - 20 GO: 1,035 - 1,040 FG: 1,010 - 1,015 ABV: 3,3% - 3,9%
+IBU: 10 - 20
+SRM: 12 - 20
+OG: 1,035 - 1,040
+FG: 1,010 - 1,015
+ABV: 3,3% - 3,9%
 
 ### Exemplos Comerciais
 

@@ -38,7 +38,11 @@ Combina o caráter de levedura e de trigo de uma Weissbier com a riqueza maltada
 
 ### Estatísticas
 
-IBU: 10 - 18 SRM: 14 - 23 OG: 1.044 - 1.057 FG: 1.008 - 1.014 ABV: 4.3% - 5.6%
+IBU: 10 - 18
+SRM: 14 - 23
+OG: 1.044 - 1.057
+FG: 1.008 - 1.014
+ABV: 4.3% - 5.6%
 
 ### Exemplos Comerciais
 

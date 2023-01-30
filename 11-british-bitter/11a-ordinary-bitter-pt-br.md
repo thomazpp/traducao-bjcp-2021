@@ -40,7 +40,7 @@ Algumas variantes modernas são fabricadas exclusivamente com malte claro e são
 
 IBU: 25 - 35
 SRM: 8 - 14
-GO: 1,030 - 1,039
+OG: 1,030 - 1,039
 FG: 1,007 - 1,011
 ABV: 3,2% - 3,8%
 

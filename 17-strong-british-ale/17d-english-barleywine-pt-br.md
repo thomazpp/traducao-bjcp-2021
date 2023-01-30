@@ -40,7 +40,7 @@ Menos lupulada e amarga, mais maltada e frutada que uma American Barleywine. Pod
 
 IBU: 35 - 70
 SRM: 8 - 22
-GO: 1,080 - 1,120
+OG: 1,080 - 1,120
 FG: 1,018 - 1,030
 ABV: 8% - 12%
 

@@ -40,7 +40,7 @@ Um pouco semelhante a uma English Barley Wine, mas muitas vezes mais escuro e ma
 
 IBU: 17 - 35
 SRM: 14 - 25
-GO: 1,070 - 1,130
+OG: 1,070 - 1,130
 FG: 1,018 - 1,040
 ABV: 6,5% - 10%
 

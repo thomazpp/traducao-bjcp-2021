@@ -40,7 +40,7 @@ Uma versão mais forte e amarga de uma American Brown Ale, com o equilíbrio sec
 
 IBU: 40 - 70
 SRM: 18 - 35
-GO: 1,056 - 1,070
+OG: 1,056 - 1,070
 FG: 1,008 - 1,016
 ABV: 5,5% - 7,5%
 

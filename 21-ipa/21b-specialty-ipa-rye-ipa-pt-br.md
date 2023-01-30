@@ -40,7 +40,7 @@ Mais seca, ligeiramente mais picante e ligeiramente mais cremosa do que uma Amer
 
 IBU: 50 - 75
 SRM: 6 - 14
-GO: 1,056 - 1,075
+OG: 1,056 - 1,075
 FG: 1,008 - 1,014
 ABV: 5,5% - 8%
 

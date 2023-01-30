@@ -40,7 +40,7 @@ Muito mais doce e menos amargo do que outras stouts, exceto o mais forte Tropica
 
 IBU: 20 - 40
 SRM: 30 - 40
-GO: 1,044 - 1,060
+OG: 1,044 - 1,060
 FG: 1,012 - 1,024
 ABV: 4% - 6%
 

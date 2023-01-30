@@ -40,7 +40,7 @@ Algumas versões podem parecer Porters inglesas modernas de baixa gravidade. Mui
 
 IBU: 10 - 25
 SRM: 14 - 25
-GO: 1,030 - 1,038
+OG: 1,030 - 1,038
 FG: 1,008 - 1,013
 ABV: 3% - 3,8%
 

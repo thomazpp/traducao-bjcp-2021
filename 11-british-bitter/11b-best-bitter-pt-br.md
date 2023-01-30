@@ -40,7 +40,7 @@ Mais álcool do que uma ordinary bitter, e muitas vezes usando ingredientes de q
 
 IBU: 25 - 40
 SRM: 8 - 16
-GO: 1,040 - 1,048
+OG: 1,040 - 1,048
 FG: 1,008 - 1,012
 ABV: 3,8% - 4,6%
 

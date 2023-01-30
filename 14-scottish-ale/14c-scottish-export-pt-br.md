@@ -38,7 +38,11 @@ Veja a introdução da categoria. Mais forte do que outras Scottish Ales, mas co
 
 ### Estatísticas
 
-IBU: 15 - 30 SRM: 12 - 20 GO: 1,040 - 1,060 FG: 1,010 - 1,016 ABV: 3,9% - 6%
+IBU: 15 - 30
+SRM: 12 - 20
+OG: 1,040 - 1,060
+FG: 1,010 - 1,016
+ABV: 3,9% - 6%
 
 ### Exemplos Comerciais
 

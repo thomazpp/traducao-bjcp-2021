@@ -40,7 +40,7 @@ Mais amarga e muitas vezes mais forte, com qualidades de malte mais escuro e sec
 
 IBU: 25 - 50
 SRM: 22 - 40
-GO: 1,050 - 1,070
+OG: 1,050 - 1,070
 FG: 1,012 - 1,018
 ABV: 4,8% - 6,5%
 

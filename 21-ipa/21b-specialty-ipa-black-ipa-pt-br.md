@@ -40,7 +40,7 @@ Equilíbrio e impressão geral de uma American ou de uma Double IPA, com torra c
 
 IBU: 50 - 90
 SRM: 25 - 40
-GO: 1,050 - 1,085
+OG: 1,050 - 1,085
 FG: 1,010 - 1,018
 ABV: 5,5% - 9%
 

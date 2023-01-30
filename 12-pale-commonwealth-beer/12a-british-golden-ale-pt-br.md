@@ -40,7 +40,7 @@ Mais semelhante a uma American Pale Ale do que qualquer outra, embora muitas vez
 
 IBU: 20 - 45
 SRM: 2 - 5
-GO: 1,038 - 1,053
+OG: 1,038 - 1,053
 FG: 1,006 - 1,012
 ABV: 3,8% - 5%
 

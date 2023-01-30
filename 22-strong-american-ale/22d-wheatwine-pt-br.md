@@ -41,7 +41,7 @@ Mais do que simplesmente uma Barleywine à base de trigo, muitas versões têm n
 
 IBU: 30 - 60
 SRM: 6 - 14
-GO: 1,080 - 1,120
+OG: 1,080 - 1,120
 FG: 1,016 - 1,030
 ABV: 8% - 12%
 

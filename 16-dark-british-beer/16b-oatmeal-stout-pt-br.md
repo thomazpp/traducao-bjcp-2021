@@ -40,7 +40,7 @@ A maioria é como uma mistura entre uma Irish Extra Stout e uma Sweet Stout com 
 
 IBU: 25 - 40
 SRM: 22 - 40
-GO: 1,045 - 1,065
+OG: 1,045 - 1,065
 FG: 1,010 - 1,018
 ABV: 4,2% - 5,9%
 

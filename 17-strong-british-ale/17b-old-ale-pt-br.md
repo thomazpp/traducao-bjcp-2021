@@ -40,7 +40,7 @@ Aproximadamente sobrepondo os estilos British Strong Ale e a extremidade inferio
 
 IBU: 30 - 60
 SRM: 10 - 22
-GO: 1,055 - 1,088
+OG: 1,055 - 1,088
 FG: 1,015 - 1,022
 ABV: 5,5% - 9%
 

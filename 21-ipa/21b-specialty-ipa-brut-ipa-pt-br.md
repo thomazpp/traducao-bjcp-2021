@@ -40,7 +40,7 @@ Menos sabor de malte, amargor e cor do que uma American IPA, muito mais seca e m
 
 IBU: 20 - 30
 SRM: 2 - 4
-GO: 1,046 - 1,057
+OG: 1,046 - 1,057
 FG: 0,990 - 1,004
 ABV: 6% - 7,5%
 

@@ -40,7 +40,7 @@ Amarga, lupulada e mais forte como uma American IPA, mas frutada, picante e leve
 
 IBU: 40 - 70
 SRM: 5 - 6
-GO: 1,056 - 1,065
+OG: 1,056 - 1,065
 FG: 1,010 - 1,016
 ABV: 5,5% - 7%
 

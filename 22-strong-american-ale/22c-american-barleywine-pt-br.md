@@ -41,7 +41,7 @@ Maior ênfase no amargor, sabor e aroma do lúpulo do que o English Barley Wine,
 
 IBU: 50 - 100
 SRM: 9 - 18
-GO: 1,080 - 1,120
+OG: 1,080 - 1,120
 FG: 1,016 - 1,030
 ABV: 8% - 12%
 

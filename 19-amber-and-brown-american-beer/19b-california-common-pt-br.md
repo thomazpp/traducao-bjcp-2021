@@ -40,7 +40,7 @@ Superficialmente semelhante a uma American Amber Ale, mas com opções específi
 
 IBU: 30 - 45
 SRM: 9 - 14
-GO: 1,048 - 1,054
+OG: 1,048 - 1,054
 FG: 1,011 - 1,014
 ABV: 4,5% - 5,5%
 

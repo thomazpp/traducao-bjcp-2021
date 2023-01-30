@@ -40,7 +40,7 @@ Tem uma sensação na boca mais cheia e macia, uma expressão de lúpulo mais fr
 
 IBU: 25 - 60
 SRM: 3 - 7
-GO: 1,060 - 1,085
+OG: 1,060 - 1,085
 FG: 1,010 - 1,015
 ABV: 6% - 9%
 

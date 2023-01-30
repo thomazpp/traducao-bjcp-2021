@@ -40,7 +40,7 @@ Mais escuro e mais torrado do que Barleywines, mas com álcool semelhante. Mais 
 
 IBU: 50 - 90
 SRM: 30 - 40
-GO: 1,075 - 1,115
+OG: 1,075 - 1,115
 FG: 1,018 - 1,030
 ABV: 8% - 12%
 

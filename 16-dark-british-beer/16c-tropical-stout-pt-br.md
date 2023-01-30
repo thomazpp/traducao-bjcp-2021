@@ -40,7 +40,7 @@ Tem gosto de uma Sweet Stout escalonada com maior frutado. Semelhante a algumas 
 
 IBU: 30 - 50
 SRM: 30 - 40
-GO: 1,056 - 1,075
+OG: 1,056 - 1,075
 FG: 1,010 - 1,018
 ABV: 5,5% - 8%
 

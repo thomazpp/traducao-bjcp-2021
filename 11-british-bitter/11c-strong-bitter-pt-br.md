@@ -40,7 +40,7 @@ Sabores de malte e lúpulo mais evidentes do que special ou best bitter, assim c
 
 IBU: 30 - 50
 SRM: 8 - 18
-GO: 1,048 - 1,060
+OG: 1,048 - 1,060
 FG: 1,010 - 1,016
 ABV: 4,6% - 6,2%
 

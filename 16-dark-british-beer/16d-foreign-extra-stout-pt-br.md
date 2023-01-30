@@ -40,7 +40,7 @@ Semelhante em equilíbrio a uma Irish Extra Stout, mas com mais álcool. Não t�
 
 IBU: 50 - 70
 SRM: 30 - 40
-GO: 1,056 - 1,075
+OG: 1,056 - 1,075
 FG: 1,010 - 1,018
 ABV: 6,3% - 8%
 

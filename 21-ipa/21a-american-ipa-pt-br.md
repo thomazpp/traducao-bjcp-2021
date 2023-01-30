@@ -40,7 +40,7 @@ Mais forte e mais lupulada que a American Pale Ale. Comparada com a English IPA,
 
 IBU: 40 - 70
 SRM: 6 - 14
-GO: 1,056 - 1,070
+OG: 1,056 - 1,070
 FG: 1,008 - 1,014
 ABV: 5,5% - 7,5%
 

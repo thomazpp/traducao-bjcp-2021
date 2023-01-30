@@ -40,7 +40,7 @@ Mais equilíbrio de malte do que British Bitters, com mais sabores de malte vind
 
 IBU: 20 - 30
 SRM: 12 - 22
-GO: 1,040 - 1,052
+OG: 1,040 - 1,052
 FG: 1,008 - 1,013
 ABV: 4,2% - 5,9%
 

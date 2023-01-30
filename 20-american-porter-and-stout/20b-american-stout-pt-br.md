@@ -40,7 +40,7 @@ Como uma Irish Extra Stout lupulada, amarga e fortemente torrada. Muito mais tor
 
 IBU: 35 - 75
 SRM: 30 - 40
-GO: 1,050 - 1,075
+OG: 1,050 - 1,075
 FG: 1,010 - 1,022
 ABV: 5% - 7%
 

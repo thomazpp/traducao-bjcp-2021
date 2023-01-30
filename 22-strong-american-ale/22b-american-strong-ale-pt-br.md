@@ -40,7 +40,7 @@ Geralmente não tão forte e tão rica quanto um American Barleywine. Mais malta
 
 IBU: 50 - 100
 SRM: 7 - 18
-GO: 1,062 - 1,090
+OG: 1,062 - 1,090
 FG: 1,014 - 1,024
 ABV: 6,3% - 10%
 

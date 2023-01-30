@@ -40,7 +40,7 @@ Normalmente tem mais sabor do que American Lager e Cream Ale. Menos amargor que 
 
 IBU: 15 - 28
 SRM: 3 - 6
-GO: 1,038 - 1,054
+OG: 1,038 - 1,054
 FG: 1,008 - 1,013
 ABV: 3,8% - 5,5%
 

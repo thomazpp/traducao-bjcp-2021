@@ -41,7 +41,7 @@ Bastante semelhante às pale ales da Inglaterra (11C Strong Bitter), tipicamente
 
 IBU: 20 - 30
 MRE: 8 - 14
-GO: 1,048 - 1,054
+OG: 1,048 - 1,054
 FG: 1,010 - 1,014
 ABV: 4,8% - 5,5%
 

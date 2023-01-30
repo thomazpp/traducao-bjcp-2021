@@ -40,7 +40,7 @@ Baixo nível de amargor com equilíbrio semelhante ao de uma Weissbier, mas com 
 
 IBU: 8 - 20
 MRE: 2 - 4
-GO: 1,044 - 1,052
+OG: 1,044 - 1,052
 FG: 1,008 - 1,012
 ABV: 4,5% - 5,5%
 
