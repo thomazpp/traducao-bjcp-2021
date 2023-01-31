@@ -2,35 +2,35 @@
 
 ### Impressão geral
 
-Uma British Ale maltada, caramelada e marrom sem os sabores torrados de uma Porter. Equilibrada e saborosa, mas geralmente um pouco mais forte do que a maioria das cervejas medianas do Reino Unido.
+Uma ale britânica maltada, caramelada e marrom sem os sabores torrados de uma Porter. Equilibrada e saborosa, mas geralmente um pouco mais forte do que a maioria das cervejas medianas do Reino Unido.
 
 ### Aparência
 
-Cor âmbar escuro a marrom-avermelhado escuro. Límpida. Colarinho baixo a moderado quase branco a castanho claro.
+Cor de âmbar escuro a marrom escuro avermelhado. Límpida. Colarinho de baixo a moderado, com cor de quase branco a castanho claro.
 
 ### Aroma
 
-Aroma de malte leve e doce, com notas de toffee, nozes ou leve chocolate e uma qualidade de caramelo leve a pesado. Um leve, mas atraente aroma de lúpulo floral ou terroso também pode ser notado. Um leve aroma frutado pode ser evidente, mas não deve dominar.
+Aroma de malte de leve e doce, com notas de *toffee*, de nozes ou leve chocolate e uma qualidade de caramelo de leve a pesado. Um leve, mas atraente aroma de lúpulo floral ou terroso também pode ser notado. Um leve aroma frutado pode ser evidente, mas não deve dominar.
 
 ### Sabor
 
-Dulçor do malte suave a moderado, com um caráter de caramelo leve a pesado e um final médio a seco. O malte também pode ter um caráter de noz, torrado, biscoito, toffee ou leve chocolate. Amargor médio a médio-baixo. O equilíbrio entre o malte e o lúpulo varia de uniforme a focado no malte. Baixo sabor de lúpulo floral ou terroso opcional. Ésteres frutados baixos a moderados opcionais.
+Dulçor do malte de suave a moderado, com um caráter de caramelo de leve a pesado e um final de médio a seco. O malte também pode ter um caráter de nozes, torrado, biscoito, *toffee* ou leve chocolate. Amargor de médio a médio baixo. O equilíbrio entre o malte e o lúpulo varia de uniforme a focado no malte. Baixo sabor de lúpulo floral ou terroso é opcional. Ésteres frutados de baixos a moderados são opcionais.
 
 ### Sensação na Boca
 
-Corpo médio-leve a médio. Carbonatação média a média alta.
+Corpo de médio leve a médio. Carbonatação de média a média alta.
 
 ### Comentários
 
-Uma categoria ampla com  possibilidade de interpretações diferentes, variando de cores mais claras, lupuladas a mais profundas, escuras e focadas em caramelo; no entanto, nenhuma das versões tem sabores fortemente torrados. Uma Double Brown Ale mais forte era mais popular no passado, mas é muito difícil de encontrar agora. Enquanto as London Brown Ales são comercializadas usando o nome Brown Ale, nós as listamos como um estilo de julgamento diferente devido à diferença significativa de equilíbrio (especialmente dulçor) e teor alcoólico; isso, no entanto, não significa que eles não estão na mesma família.
+Uma categoria ampla com possibilidade de interpretações diferentes, variando de cores mais claras, lupuladas, as mais profundas, escuras e focadas em caramelo; no entanto, nenhuma das versões têm sabores fortemente torrados. Uma Double Brown Ale mais forte era mais popular no passado, mas é muito difícil de encontrar agora. Enquanto as London Brown Ales são comercializadas usando o nome Brown Ale, nós as listamos como um estilo de julgamento diferente devido à diferença significativa de equilíbrio (especialmente o dulçor) e teor alcoólico; isso, no entanto, não significa que elas não estão na mesma família.
 
 ### História
 
-Brown ale tem uma longa história na Grã-Bretanha, embora diferentes produtos tenham usado esse nome em vários momentos. A Brown Ale moderna é uma criação do século 20; não é o mesmo que produtos históricos com o mesmo nome. Uma ampla gama de gravidades foi produzida, mas as brown ales modernas são geralmente uma interpretação mais forte (pelos padrões atuais do Reino Unido). Este estilo é baseado nas modernas British brown ales mais fortes, não em versões históricas ou da mais doce London Brown Ale descrita na categoria Historical Beer. Predominantemente, mas não exclusivamente, um produto engarrafado atualmente.
+Brown ale tem uma longa história na Grã-Bretanha, embora diferentes produtos tenham usado esse nome em vários momentos. A Brown Ale moderna é uma criação do século 20; não é o mesmo que produtos históricos com o mesmo nome. Uma ampla gama de densidades foi produzida, mas as brown ales modernas são geralmente uma interpretação mais forte (pelos padrões atuais do Reino Unido). Este estilo é baseado nas modernas British brown ales mais fortes, não em versões históricas ou da mais doce London Brown Ale descrita na categoria Historical Beer. Atualmente, predominantemente, mas não exclusivamente, um produto engarrafado.
 
 ### Ingredientes
 
-Malte base Britânico mild ale ou pale ale com maltes caramelo. Também pode ter pequenas quantidades de maltes mais escuros (por exemplo, chocolate) para dar cor e o caráter de noz. As variedades de lúpulo inglês são as mais autênticas.
+Malte base britânico mild ale ou pale ale com maltes caramelo. Também pode ter pequenas quantidades de maltes mais escuros (por exemplo, chocolate) para dar cor e o caráter de nozes. As variedades de lúpulo inglês são as mais autênticas.
 
 ### Comparação de estilos
 
