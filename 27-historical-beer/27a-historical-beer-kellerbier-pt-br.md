@@ -2,7 +2,7 @@
 
 ### Impressão Geral
 
-Uma lager alemã não filtrada, não pasteurizada e totalmente atenuada, tradicionalmente servida dos tanques de maturação. Pode ser um pouco mais rica, robusta e rústica do que o estilo base. Uma cerveja fresca sem defeitos de fermentação associados a cerveja jovem e verde (inacabada).
+Uma lager alemã não filtrada, não pasteurizada e totalmente atenuada, tradicionalmente servida dos tanques de maturação. Pode ser um pouco mais rica, robusta e rústica do que os estilos base. Uma cerveja fresca sem defeitos de fermentação associados à cerveja jovem e verde (inacabada).
 
 ### Aparência
 
@@ -22,15 +22,15 @@ Reflete o estilo base. Pode ter um pouco mais de corpo e uma textura mais cremos
 
 ### Comentários
 
-Mais do que um estilo de cerveja, um estilo tradicional de servir, mas essas cervejas têm diferenças sensoriais das cervejas básicas. Devem ser julgadas como cervejas especiais; considere o range de kellerbiers baseado da Helles a Märzen e a Dunkel como um espectro contínuo, portanto, permita que o cervejeiro escolha a mais próxima sem ser muito exigente quanto à adesão estrita ao estilo base. O nome significa literalmente cerveja de adega e é de manuseio suave e natural de uma lagerbier alemã de sabor fresco para serviço sazonal no local. Como as British Bitters é melhor apreciada localmente, pois os exemplares engarrafados podem não ter o frescor característico.
+Mais do que um estilo de cerveja, um estilo tradicional de servir, mas essas cervejas têm diferenças sensoriais das cervejas básicas. Devem ser julgadas como cervejas especiais; considere a variedade de *kellerbiers* baseado da Helles a Märzen e a Dunkel como um espectro contínuo, portanto, permita que o cervejeiro escolha a mais próxima, sem ser muito exigente quanto à adesão estrita ao estilo base. O nome significa literalmente cerveja de adega e é de manuseio suave e natural de uma *lagerbier* alemã de sabor fresco para serviço sazonal no local. Como as British Bitters é melhor apreciada localmente, pois os exemplares engarrafados podem não ter o frescor característico.
 
 ### História
 
-Originalmente se referia à cerveja lager maturada nas caves ou adegas sob a cervejaria e depois servida a partir delas. Adaptada pela primeira vez à âmbar lager da Francônia, depois aos estilos locais de Munique. Mais recentemente, usada internacionalmente para criar variantes especiais da Pils. Por tradição, um estilo de servir para uma peculiaridade popular de verão na Baviera, mas agora amplamente adaptada como um termo de marketing para lagers não filtradas.
+Originalmente se referia à cerveja lager maturada nas cavernas ou adegas sob a cervejaria e depois servida a partir delas. Adaptada pela primeira vez à âmbar lager da Francônia, depois aos estilos locais de Munique. Mais recentemente, usada internacionalmente para criar variantes especiais da Pils. Por tradição, um estilo de servir para uma peculiaridade popular de verão na Baviera, mas agora amplamente adaptada como um termo de propaganda para lagers não filtradas.
 
 ### Ingredientes
 
-Igual aos estilos básicos. Tradicionalmente carbonatada naturalmente. O dry-hopping não é um método tradicional de fabricação de cerveja alemã, mas alguns exemplos claros modernos usam essa técnica - que é permitida nesse estilo desde que seja equilibrada. Tradicionalmente maturada a frio e não filtrada, essas cervejas nunca foram feitas para serem embaladas para venda externa.
+Igual aos estilos básicos. Tradicionalmente carbonatada naturalmente. O *dry-hopping* não é um método tradicional de fabricação de cerveja alemã, mas alguns exemplos claros modernos usam essa técnica - que é permitida nesse estilo, desde que seja equilibrada. Tradicionalmente maturada a frio e não filtrada, essas cervejas nunca foram feitas para serem embaladas para venda externa.
 
 ### Comparação de Estilos
 
