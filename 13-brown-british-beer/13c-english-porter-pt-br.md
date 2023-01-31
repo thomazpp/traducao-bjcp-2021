@@ -2,39 +2,39 @@
 
 ### Impressão geral
 
-Uma cerveja inglesa marrom escura de força moderada com um caráter tostado e amargo contido. Pode ter uma variedade de sabores torrados, geralmente sem qualidades de queimado, e muitas vezes tem um perfil maltado de chocolate e caramelo.
+Uma cerveja inglesa marrom escura, de força moderada, com um caráter amargo e torrado contido. Pode ter uma variedade de sabores torrados, geralmente sem qualidades de queimado e muitas vezes tem um perfil maltado de chocolate e caramelo.
 
 ### Aparência
 
-De cor marrom a marrom escuro, muitas vezes com reflexos rubis. Boa limpidez, embora possa ser opaca. Colarinho moderado, quase branco a castanho claro, com boa a razoável retenção.
+Cor de marrom a marrom escuro, muitas vezes com reflexos rubis. Boa limpidez, embora possa ser opaca. Colarinho moderado, de quase branco a castanho claro, com retenção de boa a razoável.
 
 ### Aroma
 
-Aroma de malte como pão, biscoito e tostado de moderado a moderadamente baixo, com leve torrado, muitas vezes como chocolate. Complexidade adicional de malte pode estar presente como caramelo, nozes e dulçor de toffee. Pode ter um nível moderado de lúpulo floral ou terroso. Ésteres frutados moderados opcionais, mas desejáveis. Diacetil baixo opcional.
+Aroma de moderado a moderadamente baixo de malte como de pão, biscoito e tostado, com leve torrado, muitas vezes como chocolate. Complexidade adicional de malte pode estar presente como caramelo, de nozes e dulçor de *toffee*. Pode ter um nível moderado de lúpulo floral ou terroso. Ésteres frutados moderados  são opcionais, mas desejáveis. Diacetil baixo é opcional.
 
 ### Sabor
 
-Sabor moderado de malte como pão, biscoito e tostado, com uma torra leve a moderada como chocolate, muitas vezes com um caráter significativo de caramelo, noz ou toffee, possivelmente com níveis mais baixos de sabores como café ou alcaçuz. Não deve ser queimado ou com um torrado áspero, embora pequenas quantidades possam contribuir para a complexidade de um chocolate amargo. Sabor de lúpulo terroso ou floral moderado opcional. Ésteres frutados de baixo a moderado. Amargor médio-baixo a médio varia o equilíbrio de levemente maltado a levemente amargo, com um final bastante seco a levemente adocicado. Diacetil moderadamente baixo opcional.
+Sabor de moderado de malte como de pão, biscoito e tostado, com uma torra, de leve a moderada, como chocolate, muitas vezes com um caráter significativo de caramelo, de nozes ou *toffee*, possivelmente com níveis mais baixos de sabores como café ou alcaçuz. Não deve ser queimado ou com um torrado áspero, embora pequenas quantidades possam contribuir para a complexidade de um chocolate amargo. Sabor de lúpulo terroso ou floral moderado é opcional. Ésteres frutados de baixo a moderado. Amargor de médio baixo a médio com variação no equilíbrio de levemente maltado a levemente amargo, com um final bastante seco a levemente adocicado. Diacetil moderadamente baixo é opcional.
 
 ### Sensação na Boca
 
-Corpo médio-leve a médio. Carbonatação moderadamente baixa a moderadamente alta. Textura cremosa leve a moderada.
+Corpo de médio leve a médio. Carbonatação de moderadamente baixa a moderadamente alta. Textura cremosa de leve a moderada.
 
 ### Comentários
 
-Esta descrição de estilo descreve a versão moderna da English Porter, nem todas as variações possíveis ao longo do tempo em todas as regiões onde existiu. As recriações históricas devem ser inscritas na categoria 27 Historical Beer, com uma descrição apropriada descrevendo o perfil da cerveja. Os exemplos artesanais modernos no Reino Unido são mais fortes e mais lupulados.
+Esta descrição de estilo descreve a versão moderna da English Porter, e não a todas as variações possíveis ao longo do tempo em todas as regiões onde existiu. As recriações históricas devem ser inscritas na categoria 27 Historical Beer, com uma descrição apropriada, indicando o perfil da cerveja. Os exemplos artesanais modernos no Reino Unido são mais fortes e mais lupulados.
 
 ### História
 
-Originário de Londres no início de 1700, a Porter evoluiu como uma versão mais lupulada e envelhecida (de guarda) da Brown Beer popular na época. Evoluiu muitas vezes com base em vários desenvolvimentos tecnológicos e de ingredientes (como a invenção do malte black em 1817 e a fabricação industrial de cerveja em larga escala), bem como as preferências do consumidor, guerras e política tributária. Tornou-se um estilo altamente popular e amplamente exportado no início de 1800, antes de declinar na década de 1870, quando mudou para uma cerveja não envelhecida e de menor gravidade. Como as gravidades continuaram a diminuir em todas as cervejas do Reino Unido na primeira metade da década de 1900, estilos deixaram de ser feitos (incluindo o porter, que desapareceu na década 1950). A era da cerveja artesanal levou à sua reintrodução em 1978. Diz-se que o nome foi derivado de sua popularidade com a classe trabalhadora de Londres realizando várias tarefas diárias de transporte de carga. Progenitora várias interpretações regionais ao longo do tempo e precursora de todas as stouts (que originalmente eram chamadas de “stout porters”). Não há conexão histórica ou relação entre Mild e Porter.
+Originário de Londres no início de 1700, a Porter evoluiu como uma versão mais lupulada e envelhecida (de guarda) da Brown Beer popular na época. Evoluiu muitas vezes com base em vários desenvolvimentos tecnológicos e de ingredientes (como a invenção do malte Black em 1817 e a fabricação industrial de cerveja em larga escala), bem como as preferências do consumidor, guerras e política tributária. Tornou-se um estilo altamente popular e amplamente exportado no início de 1800, antes de declinar na década de 1870, quando mudou para uma cerveja não envelhecida e de menor densidade. Como as densidades continuaram a diminuir em todas as cervejas do Reino Unido na primeira metade da década de 1900, estilos deixaram de ser feitos (incluindo a *porter*, que desapareceu na década 1950). A era da cerveja artesanal levou à sua reintrodução em 1978. Diz-se que o nome foi derivado de sua popularidade com a classe trabalhadora de Londres realizando várias tarefas diárias de transporte de carga. Progenitora várias interpretações regionais ao longo do tempo e precursora de todas as *stouts* (que originalmente eram chamadas de *stout porters*). Não há conexão histórica ou relação entre Mild e Porter.
 
 ### Ingredientes
 
-Os grãos variam, mas algum que produz uma cor escura está sempre envolvido. Chocolate ou outros maltes torrados, malte caramelo, açúcares cervejeiros e similares são comuns. Porters de Londres costumam usar malte brow como sabor característico.
+Os grãos variam, mas sempre está envolvido algum que produza uma cor escura. Chocolate ou outros maltes torrados, malte caramelo, açúcares cervejeiros e similares são comuns. Porters de Londres costumam usar malte Brown como sabor característico.
 
 ### Comparação de estilos
 
-Difere da American Porter porque geralmente tem sabores mais suaves, mais doces e mais caramelados, densidades mais baixas e geralmente menos álcool; A American Porter também costuma ter mais caráter de lúpulo.Com mais peso e torra do que uma British Brown Ale. Maior em gravidade do que um Dark Mild.
+Difere da American Porter porque geralmente tem sabores mais suaves, mais doces e mais caramelados, densidades mais baixas e geralmente menos álcool; a American Porter também costuma ter mais caráter de lúpulo. Com mais peso e torra do que uma British Brown Ale. Maior em densidade do que um Dark Mild.
 
 ### Estatísticas
 
