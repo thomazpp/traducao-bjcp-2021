@@ -6,19 +6,19 @@ Uma cerveja artesanal americana âmbar, lupulada e de força moderada, com um sa
 
 ### Aparência
 
-De cor âmbar profundo a marrom acobreado, às vezes com um tom avermelhado. Colarinho quase-branco moderadamente volumoso, com boa retenção. Geralmente bastante límpida.
+Cor de âmbar profundo a marrom acobreado, às vezes com um tom avermelhado. Colarinho quase branco e moderadamente volumoso, com boa retenção. Geralmente bastante límpida.
 
 ### Aroma
 
-Aroma de lúpulo baixo a moderado, refletindo variedades de lúpulos americanos ou do novo mundo (cítrico, floral, pinho, resina, condimentado, frutas tropicais, frutas de caroço, frutas vermelhas ou melão). Um caráter cítrico de lúpulo é comum, mas não obrigatório. Malte moderadamente baixo a moderadamente alto, geralmente com um caráter moderado de caramelo, que pode dar suporte, equilibrar ou às vezes mascarar a apresentação do lúpulo. Os ésteres variam de nenhum a moderados.
+Aroma de lúpulo de baixo a moderado, refletindo variedades de lúpulos americanos ou do Novo Mundo (cítrico, floral, de pinho, resinoso, condimentado, de frutas tropicais, de frutas de caroço, de frutas vermelhas ou de melão). Um caráter cítrico de lúpulo é comum, mas não é obrigatório. Malte de moderadamente baixo a moderadamente alto, geralmente com um caráter moderado de caramelo, que pode dar suporte, equilibrar ou às vezes mascarar a apresentação do lúpulo. Os ésteres variam de nenhum a moderados.
 
 ### Sabor
 
-Sabor de lúpulo moderado a alto com características semelhantes ao aroma. Os sabores de malte são moderados a fortes e geralmente mostram um dulçor maltado inicial seguido de um sabor moderado de caramelo e, às vezes, sabores de malte tostado ou biscoito em menores quantidades. Sabores de maltes escuros ou torrados ausentes. Amargor moderado a moderadamente alto. O equilíbrio pode variar de um pouco maltado a um pouco amargo. Ésteres frutados podem ser moderados a nenhum. O dulçor do caramelo, o sabor do lúpulo e o amargor podem permanecer um pouco no final, com intensidade média a alta, embora ainda seja seco.
+Sabor de lúpulo de moderado a alto com características semelhantes ao aroma. Os sabores de malte são de moderados a fortes e geralmente mostram um dulçor maltado inicial seguido de um sabor moderado de caramelo e, às vezes, sabores de malte tostado ou biscoito em quantidades menores. Sabores de maltes escuros ou torrados ausentes. Amargor de moderado a moderadamente alto. O equilíbrio pode variar de um pouco maltado a um pouco amargo. Ésteres frutados podem ser de moderados a nenhum. O dulçor do caramelo, o sabor do lúpulo e o amargor podem permanecer um pouco no final, com intensidade de média a alta, embora ainda seja seco.
 
 ### Sensação na Boca
 
-Corpo médio a médio cheio. Carbonatação média a alta. Acabamento geral macio sem adstringência. Versões mais fortes podem ter um leve aquecimento alcoólico.
+Corpo de médio a médio cheio. Carbonatação de média a alta. Acabamento geral macio e sem adstringência. Versões mais fortes podem ter um leve aquecimento alcoólico.
 
 ### Comentários
 
@@ -30,11 +30,11 @@ Um estilo moderno de cerveja artesanal americana desenvolvido como uma variaçã
 
 ### Ingredientes
 
-Malte Pale Ale neutro. Maltes crystal médio a escuro. Lúpulos americanos ou do novo mundo, muitas vezes com sabores cítricos, são comuns, mas outros também podem ser usados. Levedura neutra a que produz leve esterificação.
+Malte Pale Ale neutro. Maltes crystal médio a escuro. Lúpulos americanos ou do Novo Mundo são comuns, muitas vezes com sabores cítricos, mas outros também podem ser usados. Levedura de neutra a que produz leve esterificação.
 
 ### Comparação de estilos
 
-Mais escura, mais caramelada, mais encorpada e geralmente menos amarga no equilíbrio do que as American Pale Ales. Menos álcool, amargor e caráter de lúpulo do que as Red IPAs. Menos força, malte e caráter de lúpulo do que American Strong Ales. Menos chocolate e caramelo escuro do que uma American Brown Ale.
+Mais escura, mais caramelizada, mais encorpada e geralmente menos amarga no equilíbrio do que as American Pale Ales. Menos álcool, amargor e caráter de lúpulo do que as Red IPAs. Menos força, malte e caráter de lúpulo do que American Strong Ales. Menos chocolate e caramelo escuro do que uma American Brown Ale.
 
 ### Estatísticas
 
@@ -54,4 +54,4 @@ American Amber Ale (2015)
 
 ### Atributos de estilo
 
-família âmbar-ale, cor âmbar, equilibrado, estilo artesanal, lupulado, norte-americano, força padrão, alta fermentação
+amber-ale-family, amber-color, balanced, craft-style, hoppy, north-america, standard-strength, top-fermented
