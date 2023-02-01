@@ -2,15 +2,15 @@
 
 ### Impressão Geral
 
-Uma cerveja azeda, clara e refrescante com um azedume lático limpo. Suave sabor de malte claro de apoio para o azedume como limão e com moderados ésteres frutados
+Uma cerveja azeda, clara e refrescante com um azedume lático limpo. Suave sabor de malte claro de apoio para o azedume, como limão, e com moderados ésteres frutados
 
 ### Aparência
 
-Cor muito clara. Limpidez varia de muito límpida até um pouco turva. Colarinho branco, denso e largo, com baixa retenção. Efervescente.
+Cor muito clara. Limpidez varia de muito límpida até um pouco turva. Colarinho branco, denso e alto, com baixa retenção. Efervescente.
 
 ### Aroma
 
-Um caráter de acidez acentuada é dominante (moderadamente alto a alto). Pode ter um caráter frutado moderado (muitas vezes pêssego, damasco, limão ou maçã ácida). Sem aroma de lúpulo. Maltado claro de apoio, normalmente abiscoitado. Fermentação limpa
+Um caráter de acidez acentuada é dominante (de moderadamente alto a alto). Pode ter um caráter frutado moderado (muitas vezes pêssego, damasco, limão ou maçã ácida). Sem aroma de lúpulo. Maltado claro de apoio, normalmente abiscoitado. Fermentação limpa
 
 ### Sabor
 
@@ -22,11 +22,11 @@ Corpo leve. Carbonatação moderada a alta. Nunca quente, embora exemplos de gra
 
 ### Comentários
 
-Uma versão mais forte de cervejas como Berliner Weisse com uma combinação de grãos menos restrita, e sem Brett. Esse estilo de cerveja é tipicamente utilizado como base para cervejas modernas que são altamente saborizadas com frutas, especiarias, açúcares, etc.  essas devem ser inscritas em 28C Wild Specialty Beer.
+Uma versão mais forte de cervejas como Berliner Weisse com uma combinação de grãos menos restrita, e sem Brett. Esse estilo de cerveja é tipicamente utilizado como base para cervejas modernas que são altamente saborizadas com frutas, especiarias, açúcares, etc., essas devem ser inscritas em 28C Wild Specialty Beer.
 
 ### História
 
-O cientista cervejeiro alemão, Otto Francke, desenvolveu o que se tornou conhecido como processo de acidificação Francke, que possibilitou o tradicional processo de fermentação mista da Berliner Weisse se tornar mais rápido e consistente; também é conhecido como kettle sour  ou acidificação na panela. Muitas cervejas azedas modernas utilizam esse método para produção rápida, e é uma alternativa para os complexos processos de produção em barris.
+O cientista cervejeiro alemão, Otto Francke, desenvolveu o que se tornou conhecido como processo de acidificação Francke, que possibilitou o tradicional processo de fermentação mista da Berliner Weisse se tornar mais rápido e consistente; também é conhecido como *kettle sour* ou acidificação na panela. Muitas cervejas azedas modernas utilizam esse método para produção rápida e é uma alternativa para os complexos processos de produção em barris.
 
 ### Ingredientes
 
@@ -34,7 +34,7 @@ A maior parte, ou toda combinação de grãos, é de maltes Pale, Pilsen ou malt
 
 ### Comparação de estilos
 
-Exemplos de densidade mais baixa podem parecer muito com uma Berliner Weisse sem Brett. Comparados a Lambic, geralmente não são tão ácidos e com um azedume de fermentação lática limpo, com funk restrito abaixo do limiar de percepção. Maior teor alcoólico do que ambas.
+Exemplos de densidade mais baixa podem parecer muito com uma Berliner Weisse sem Brett. Comparados a Lambic, geralmente não são tão ácidos e com um azedume de fermentação lática limpo, com *funk* restrito abaixo do limiar de percepção. Maior teor alcoólico do que ambas.
 
 ### Estatísticas
 
