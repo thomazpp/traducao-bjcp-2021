@@ -1,5 +1,4 @@
 ## 26C. Belgian Tripel
-Tripel Belga
 
 ### Impressão Geral
 
@@ -15,11 +14,11 @@ Complexo buquê de moderado a significativo condimentado, de ésteres frutados m
 
 ### Sabor
 
-Perfil similar ao do aroma (se aplicam os mesmos descritores) para malte, ésteres, fenóis, álcool e lúpulos. Ésteres são de baixo a moderado, fenóis de baixo a moderado, lúpulos de baixo a moderado; álcool é baixo, tudo combinado e em harmonia. O amargor é de médio a alto, acentuado por um final seco. No retrogosto, o amargor é moderado com um caráter substancial condimentado-frutado oriundo da levedura. Não deve ser doce.
+Perfil similar ao do aroma (se aplicam os mesmos descritores) para malte, ésteres, fenóis, álcool e lúpulos. Ésteres são de baixo a moderado, fenóis de baixo a moderado, lúpulos de baixo a moderado; álcool é baixo, tudo combinado e em harmonia. O amargor é de médio a alto, acentuado por um final seco. No retrogosto, o amargor é moderado com um caráter substancial condimentado e frutado oriundo da levedura. Não deve ser doce.
 
 ### Sabor de Boca
 
-O corpo é de médio-baixo a médio, porém mais leve do que a densidade possa sugerir. Altamente carbonatada. O teor alcoólico é enganoso e pode ter uma pequena, mas não clara sensação de aquecimento.  Efervescente. Não deve ser pesada.
+O corpo é de médio baixo a médio, porém mais leve do que a densidade possa sugerir. Altamente carbonatada. O teor alcoólico é enganoso e pode ter uma pequena, mas não clara sensação de aquecimento. Efervescente. Não deve ser pesada.
 
 ### Comentários
 
@@ -55,4 +54,4 @@ Belgian Tripel (2015)
 
 ### Atributos do Estilo
 
-Amargo, força-alta, cor-clara, alta-fermentação, estilo-tradicional, europa-ocidental
+bitter, high-strength, pale-color, top-fermented, traditional-style, western-europe
