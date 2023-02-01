@@ -6,7 +6,7 @@ Uma American Wild Ale com frutas, ervas, especiarias ou outros ingredientes espe
 
 ### Aparência
 
-Varia com o estilo base, geralmente apresentando cor, tonalidade ou matiz de um ingrediente especial (principalmente no caso de uso de frutas) tanto na cerveja quanto na espuma. Limpidez variável; leve turbidez não é uma falha. Retenção de espuma normalmente é baixa.
+Varia com o estilo base, geralmente apresentando cor, tonalidade ou nuance de um ingrediente especial (principalmente no caso de uso de frutas) tanto na cerveja quanto na espuma. Limpidez variável; leve turbidez não é uma falha. Retenção de espuma normalmente é baixa.
 
 ### Aroma
 
@@ -14,7 +14,7 @@ Varia com o estilo base. O ingrediente especial deve ser evidente assim como as 
 
 ### Sabor
 
-Varia com o estilo base. O ingrediente especial deve ser evidente assim como as características de uma fermentação selvagem. Se frutas foram fermentadas, o dulçor geralmente não aparece, restando apenas os ésteres frutados. Frutas e outros ingredientes especiais podem adicionar acidez; caso positivo a acidez pode ser proeminente, mas não deve ser intensa demais. Tanto a acidez quanto taninos provenientes de frutas e outros ingredientes especiais podem aumentar a percepção de secura portanto cuidados devem ser observados com o equilíbrio da cerveja. A acidez deve realçar a percepção de sabores de frutas e não a prejudicar. Notas de madeira, caso presentes, agregam sabor, mas devem ser equilibradas.
+Varia com o estilo base. O ingrediente especial deve ser evidente assim como as características de uma fermentação selvagem. Se frutas foram fermentadas, o dulçor geralmente não aparece, restando apenas os ésteres frutados. Frutas e outros ingredientes especiais podem adicionar acidez; caso positivo a acidez pode ser proeminente, mas não deve ser intensa demais. Tanto a acidez quanto taninos provenientes de frutas e outros ingredientes especiais podem aumentar a percepção de secura portanto cuidados devem ser observados com o equilíbrio da cerveja. A acidez deve realçar a percepção de sabores de frutas, mas não prejudicar. Notas de madeira, caso presentes, agregam sabor, mas devem ser equilibradas.
 
 ### Sensação na Boca
 
@@ -30,16 +30,15 @@ Interpretações modernas artesanais ou experimentações inspiradas em Belgian 
 
 ### Ingredientes
 
-Virtualmente qualquer estilo de cerveja. Qualquer combinação de Saccharomyces, Brettanomyces, Lactobacillus, Pediococcus ou outro microrganismo similar. Pode ser ainda uma mistura de estilos. Enquanto cerejas, framboesas e pêssegos são mais comuns, outras frutas também podem ser utilizadas. Vegetais com características de frutas (como pimentas, ruibarbo, abóbora) também podem ser utilizados. Envelhecimento em madeira ou em barricas é bastante comum, mas não obrigatório. É permitido o uso de madeiras com características únicas ou não usuais ou madeiras com contato prévio com outros tipos de álcool.
+Virtualmente qualquer estilo de cerveja. Qualquer combinação de Sacch, Brett, Lacto, Pedio ou outro microrganismo similar. Pode ser ainda uma mistura de estilos. Enquanto cerejas, framboesas e pêssegos são mais comuns, outras frutas também podem ser utilizadas. Vegetais com características de frutas (como pimentas, ruibarbo, abóbora) também podem ser utilizados. Envelhecimento em madeira ou em barricas é bastante comum, mas não obrigatório. É permitido o uso de madeiras com características únicas ou não usuais ou madeiras com contato prévio com outros tipos de álcool.
 
 ### Comparação de Estilos
 
-Como uma cerveja com frutas, ervas, condimentos ou madeira, mas ácida ou funky.
+Como uma cerveja com frutas, ervas, condimentos ou madeira, mas ácida ou *funky*.
 
 ### Instruções para inscrição
 
 O participante do concurso deve especificar quaisquer ingredientes especiais utilizados (por exemplo, frutas, especiarias, ervas ou madeiras). O participante deve fornecer uma descrição da amostra, identificando leveduras ou bactérias utilizadas e estilo base ou ingredientes, ou caráter alvo da cerveja. Uma descrição geral da característica especial da cerveja pode cobrir todos os itens exigidos.
-
 
 ### Estatísticas
 
@@ -51,4 +50,4 @@ Cascade Bourbonic Plague, Jester King Atrial Rubicite, New Belgium Dominga Mimos
 
 ### Atributos do Estilo
 
-estilo-artesanal, frutas, america-do-norte, ácida, specialty-beer, fermentação-selvagem
+craft-style, fruit, north-america, sour, specialty-beer, wild-fermentation
