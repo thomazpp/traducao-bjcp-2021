@@ -2,19 +2,19 @@
 
 ### Impressão geral
 
-Baseada nos estilos base declarados, métodos e ingredientes. Assim como todos as cervejas especiais, o resultado da combinação dos estilos de cerveja precisa ser harmonioso e equilibrado, e ser agradável de beber.
+Baseada nos estilos base declarados, métodos e ingredientes. Assim como todos as Cervejas Tipo Especializadas, o resultado da combinação dos estilos de cerveja precisa ser harmonioso e equilibrado e ser agradável de beber.
 
 ### Aroma / Aparência / Sabor / Sensação na Boca
 
-Based on the declared base styles.
+Baseado nos estilos base declarados.
 
 ### Comentários
 
-Veja o preambulo para o propósito.
+Veja o preâmbulo para o propósito.
 
 ### Instruções para inscrição
 
-O participante deve especificar o estilo ou estilos base sendo usados e qualquer ingredientes especiais, processos ou variações envolvidos. O participante deve fornecer uma descrição adicional do perfil sensorial da cerveja ou as estatísticas da cerveja final.
+O participante deve especificar o Estilo ou Estilos Base que estão sendo usados e quaisquer ingredientes, processos ou variações especiais envolvidos. O participante deve fornecer uma descrição adicional do perfil sensorial da cerveja ou as estatísticas da cerveja final.
 
 ### Estatísticas
 
