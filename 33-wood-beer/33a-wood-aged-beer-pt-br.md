@@ -1,5 +1,4 @@
 ## 33A. Wood-Aged Beer
-Cerveja Envelhecida/Maturada em Madeira
 
 ### Impressão Geral
 
@@ -11,11 +10,11 @@ Varia com o estilo base. Frequentemente mais escura do que o estilo de cerveja b
 
 ### Aroma
 
-Varia com o estilo base. Um aroma amadeirado de baixo a moderado geralmente está presente; algumas variedades podem ter um caráter mais forte ou distinto. A madeira fresca pode ocasionalmente transmitir cheiro de madeira crua e recém-cortada, embora esse caráter nunca deva ser muito forte. Se a madeira estiver tostada ou chamuscada, pode haver de baixo a moderado caráter de baunilha, caramelo, toffee, pão torrado ou cacau.
+Varia com o estilo base. Um aroma amadeirado de baixo a moderado geralmente está presente; algumas variedades podem ter um caráter mais forte ou distinto. A madeira fresca pode ocasionalmente transmitir cheiro de madeira crua e recém-cortada, embora esse caráter nunca deva ser muito forte. Se a madeira estiver tostada ou chamuscada, pode haver de baixo a moderado caráter de baunilha, caramelo, *toffee*, pão torrado ou cacau.
 
 ### Sabor
 
-Varia com o estilo base. A madeira geralmente contribui com um sabor amadeirado e, possivelmente, com um caráter distinto da variedade da madeira. A madeira nova pode adicionar uma impressão de madeira crua e recém-cortada. A madeira torrada ou carbonizada pode adicionar baunilha, caramelo, caramelo, pão torrado, nozes torradas, café, chocolate ou cacau, dependendo da variedade de madeira e do nível de torrada ou carvão. Os sabores derivados da madeira devem ser equilibrados, sustentados e perceptíveis, sem sem ser excessivo em relação ao estilo de cerveja base.
+Varia com o estilo base. A madeira geralmente contribui com um sabor amadeirado e, possivelmente, com um caráter distinto da variedade da madeira. A madeira nova pode adicionar uma impressão de madeira crua e recém cortada. A madeira torrada ou carbonizada pode adicionar baunilha, caramelo, caramelo, pão torrado, nozes torradas, café, chocolate ou cacau, dependendo da variedade de madeira e do nível de torrada ou carvão. Os sabores derivados da madeira devem ser equilibrados, sustentados e perceptíveis, sem sem ser excessivo em relação ao estilo de cerveja base.
 
 ### Sensação na Boca
 
@@ -55,4 +54,4 @@ Wood-Aged Beer (2015)
 
 ### Atributos do Estilo
 
-specialty-beer, madeira
+specialty-beer, wood
