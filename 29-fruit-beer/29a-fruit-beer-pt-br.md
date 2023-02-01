@@ -2,7 +2,7 @@
 
 ### Impressão Geral
 
-Uma integração harmoniosa de frutas e cerveja, mas ainda sim reconhecível como cerveja. O caráter de frutas deve estar tanto evidente quanto em equilíbrio com a cerveja, mas não tanto que sugira um produto artificial.
+Uma integração harmoniosa de frutas e cerveja, mas ainda assim reconhecível como cerveja. O caráter de frutas deve estar tanto evidente quanto em equilíbrio com a cerveja, mas não tanto que sugira um produto artificial.
 
 ### Aparência
 
