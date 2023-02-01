@@ -1,25 +1,24 @@
 ## 26B. Belgian Dubbel
-Dubbel Belga
 
 ### Impressão Geral
 
-Uma cerveja complexa belga de cor cobre avermelhada, moderadamente forte, maltada, com ricos sabores maltados, ésteres que remetem a frutas secas ou escuras e uma nota alcoólica misturada a um perfil maltado que termina bem seco.
+Uma cerveja complexa belga de cor cobre avermelhada, moderadamente forte, maltada, com ricos sabores maltados, ésteres que remetem a frutas secas ou escuras e uma nota alcoólica misturada a um perfil maltado com final bem seco.
 
 ### Aparência
 
-De cor âmbar escuro a cobre com um reflexo avermelhado atraente. Geralmente límpida. Colarinho cremoso com longa duração, de cor quase branco (off white), espesso e denso.
+Cor de âmbar escuro a cobre, com um reflexo avermelhado atraente. Geralmente límpida. Colarinho cremoso com longa duração, de cor quase branco, espesso e denso.
 
 ### Aroma
 
-Rico aroma maltado que varia de moderado a moderadamente forte com notas de chocolate, açúcar caramelizado ou tostado. Nunca torrado ou queimado. Ésteres frutados moderados, muitas vezes remetendo a frutas secas ou escuras, especialmente passas e ameixas, por vezes de maçã, pêra, marmelo e banana. Fenólico de baixo a moderado, com caráter apimentado, condimentado. Tipicamente os lúpulos são ausentes, mas quando presentes, têm caráter baixo de condimento, de ervas ou de flores. No balanço o malte é mais forte, com ésteres e condimentados adicionando complexidade. Baixo e suave perfume alcoólico é opcional.
+Rico aroma maltado que varia de moderado a moderadamente forte com notas de chocolate, açúcar caramelizado ou tostado. Nunca torrado ou queimado. Ésteres frutados moderados, muitas vezes remetendo a frutas secas ou escuras, especialmente passas e ameixas, por vezes de maçã, pera, marmelo e banana. Fenólico de baixo a moderado, com caráter apimentado, condimentado. Tipicamente os lúpulos são ausentes, mas quando presentes, têm baixo caráter codimentado, herbal ou floral. No balanço, o malte é mais forte, com ésteres e condimentados adicionando complexidade. Baixo e suave perfume alcoólico é opcional.
 
 ### Sabor
 
-Perfil similar ao aroma (são aplicados mesmos descritores e intensidades) para malte, ésteres, fenólicos, álcool e lúpulos. Amargor de baixo-médio a médio, mas o malte sempre será proeminente no equilíbrio. Os ésteres e fenóis adicionam complexidade e interesse para o malte, ao passo que o álcool tipicamente não é percebido. Rico maltado, por vezes com sabor adocicado, com final moderadamente seco com sabor maltado acentuado no retrogosto pelos ésteres e fenóis provenientes da levedura.
+Perfil similar ao aroma (são aplicados os mesmos descritores e intensidades) para malte, ésteres, fenólicos, álcool e lúpulos. Amargor de baixo médio a médio, mas o malte sempre será proeminente no equilíbrio. Os ésteres e fenóis adicionam complexidade e interesse para o malte, ao passo que o álcool tipicamente não é percebido. Rico maltado, por vezes com sabor adocicado, com final de moderadamente seco com sabor maltado acentuado no retrogosto pelos ésteres e fenóis provenientes da levedura.
 
 ### Sensação na Boca
 
-Macia, com corpo de médio a médio-cheio. Carbonatação médio-alta, que pode influenciar na percepção do corpo. Baixo aquecimento alcoólico é opcional, porém nunca deve ser quente ou remeter a solvente.
+Macia, com corpo de médio a médio alto. Carbonatação médio alta, que pode influenciar na percepção do corpo. Baixo aquecimento alcoólico é opcional, porém nunca deve ser quente ou remeter a solvente.
 
 ### Comentários
 
@@ -56,4 +55,4 @@ Belgian Dubbel (2015)
 
 ### Atributos do Estilo
 
-cor-âmbar, força-alta, maltada, alta-fermentação, estilo-tradicional, europa-ocidental
+amber-color, high-strength, malty, top-fermented, traditional-style, western-europe
