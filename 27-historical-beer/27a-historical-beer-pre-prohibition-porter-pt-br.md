@@ -2,23 +2,23 @@
 
 ### Impressão Geral
 
-Uma adaptação americana histórica da Porter inglesa por imigrantes alemães usando ingredientes americanos, inclusive adjuntos.
+Uma adaptação americana histórica da English Porter por imigrantes alemães usando ingredientes americanos, incluindo adjuntos.
 
 ### Aparência
 
-Marrom médio a escuro, embora alguns exemplares possam ser quase pretos, com reflexos rubi ou de cor mogno. Relativamente clara. Espuma de cor bronzeada de baixa a média formação, persistente.
+Cor de marrom médio a escuro, embora alguns exemplares possam ser quase pretos, com reflexos rubi ou de cor mogno. Relativamente clara. Espuma de cor castanha, de baixa a média formação, persistente.
 
 ### Aroma
 
-Aroma de malte como grãos, com baixos níveis de chocolate, caramelo, biscoito, açúcar queimado, alcaçuz ou malte levemente queimado. Baixo aroma de lúpulo. Nível baixo a moderadamente baixo de milho ou DMS é aceitável. Ésteres muito baixos a nenhum. Diacetil baixo a nenhum. Perfil de fermentação lager limpo aceitável.
+Aroma de malte como grãos, com baixos níveis de chocolate, caramelo, biscoito, açúcar queimado, alcaçuz ou malte levemente queimado. Baixo aroma de lúpulo. Nível de baixo a moderadamente baixo de milho ou DMS é aceitável. Ésteres de muito baixos a nenhum. Diacetil de baixo a nenhum. Perfil de fermentação lager limpo é aceitável.
 
 ### Sabor
 
-Sabor moderado de malte que remete a grãos e pão, com baixos níveis de chocolate, malte queimado, açúcar queimado, caramelo, biscoito, alcaçuz, melaço ou tosta. Sabor de milho ou DMS aceitável em níveis baixos a moderados. Amargor médio-baixo a moderado. Baixo sabor de lúpulo floral, condimentado ou terroso opcional. O equilíbrio é tipicamente nivelado entre o malte e o lúpulo, com um final moderadamente seco. Perfil de fermentação limpo, entretanto, ésteres leves são permitidos.
+Sabor moderado de malte que remete a de grãos e de pão, com baixos níveis de chocolate, malte queimado, açúcar queimado, caramelo, biscoito, alcaçuz, melaço ou tosta. Sabor de milho ou DMS é aceitável em níveis baixos a moderados. Amargor de médio baixo a moderado. Baixo sabor de lúpulo floral, condimentado ou terroso é opcional. O equilíbrio é tipicamente nivelado entre o malte e o lúpulo, com um final moderadamente seco. Perfil de fermentação limpo, entretanto, ésteres leves são permitidos.
 
 ### Sensação na Boca
 
-Corpo médio-baixo a médio. Carbonatação moderada. Cremosidade baixa a moderada. Pode ter uma leve adstringência de malte escuro.
+Corpo de médio baixo a médio. Carbonatação moderada. Cremosidade de baixa a moderada. Pode ter uma leve adstringência de malte escuro.
 
 ### Comentários
 
@@ -55,4 +55,3 @@ Historical Beer: Pre-Prohibition Porter (2015)
 ### Style Attributes
 
 any-fermentation, dark-color, historical-style, malty, north-america, porter-family, standard-strength
-
