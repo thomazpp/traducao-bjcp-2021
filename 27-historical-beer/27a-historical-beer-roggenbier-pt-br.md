@@ -2,23 +2,23 @@
 
 ### Impressão Geral
 
-Uma Dunkles Weissbier feita com centeio ao invés de trigo mas com um corpo mais alto e menos lúpulos de finalização. O centeio dá um sabor de pão e apimentado, um corpo mais cremoso e um final mais seco e como grãos que combina com o característico banana e cravo da levedura weizen.
+Uma Dunkles Weissbier feita com centeio ao invés de trigo, mas com um corpo mais alto e menos lúpulos de finalização. O centeio dá um sabor de pão e apimentado, um corpo mais cremoso e um final mais seco e como de grãos, que combina com o característico banana e cravo da levedura Weizen.
 
 ### Aparência
 
-Cor de cobre-alaranjado claro a um cobre-amarronzado/avermelhado escuro. Colarinho grande e cremoso de cor quase branca até bronzeado, bastante denso e persistente e muitas vezes espesso e firme.
+Cor de cobre alaranjado claro a um cobre amarronzado ou avermelhado escuro. Colarinho alto e cremoso de cor quase branca até bronzeado, bastante denso e persistente e, muitas vezes, espesso e firme.
 
 ### Aroma
 
-Aroma condimentado de centeio de baixo a moderado (como pimenta preta) mesclado com aromáticos de levedura weizen (condimentado como cravo e ésteres frutados, banana ou cítrico) de baixo a moderado. Lúpulo condimentado, floral ou de ervas de intensidade baixa é aceitável.
+Aroma condimentado de centeio de baixo a moderado (como pimenta preta) mesclado com aromáticos de levedura Weizen (condimentado como cravo e ésteres frutados, banana ou cítrico) de baixo a moderado. Lúpulo condimentado, floral ou de ervas de intensidade baixa é aceitável.
 
 ### Sabor
 
-Sabor de grãos e centeio como condimentado/apimentado de moderadamente baixo a moderadamente alto, muitas vezes tendo um sabor terroso lembrando pão de centeio ou bomberníquel. Amargor de médio a médio-baixo permite um dulçor inicial de malte (as vezes com um pouco de caramelo) que pode ser saboreado antes do caráter de levedura e apimentado de centeio tomar conta. Caráter de banana e cravo de levedura weizen de baixo a moderado, embora o equilíbrio possa variar. Final médio-seco, granulado com um retrogosto levemente amargo (do centeio). Lúpulo condimentado, de ervas ou floral de baixo a moderado é aceitável e pode persistir no retrogosto.
+Sabor de grãos e centeio como condimentado ou apimentado de moderadamente baixo a moderadamente alto, muitas vezes tendo um sabor terroso lembrando pão de centeio ou centeio integral. Amargor de médio a médio baixo permite um dulçor inicial de malte (às vezes com um pouco de caramelo) que pode ser saboreado antes do caráter de levedura e apimentado de centeio assumam o controle. Caráter de banana e cravo de levedura Weizen de baixo a moderado, embora o equilíbrio possa variar. Final meio seco, de grãos com um retrogosto levemente amargo (do centeio). Lúpulo condimentado, de ervas ou floral de baixo a moderado é aceitável e pode persistir no retrogosto.
 
 ### Sensação na Boca
 
-Corpo de médio a médio-cheio. Carbontação alta. Cremosidade moderada.
+Corpo de médio a médio alto. Carbontação alta. Cremosidade moderada.
 
 ### Comentários
 
@@ -26,7 +26,7 @@ Centeio é um grão sem casca e dificulta a mostura, muitas vezes resultando em 
 
 ### História
 
-Uma cerveja de centeio alemã especial brassada em Regensburg, na Baviera em 1988 na cervejaria Schierlinger. Depois da eventual compra pela Paulaner a cerveja hoje é posicionada no mercado como uma marca regional e por isso é difícil de ser encontrada.
+Uma cerveja de centeio alemã especial fabricada em Regensburg, na Baviera, em 1988, na cervejaria Schierlinger. Depois da eventual compra pela Paulaner a cerveja hoje é posicionada no mercado como uma marca regional e por isso é difícil de ser encontrada.
 
 ### Ingredientes
 
