@@ -10,16 +10,15 @@ Varia de acordo com o estilo base e ingredientes especiais. Cervejas de cor mais
 
 ### Aroma
 
-Varia de acordo com o estilo base. O caráter de fruta e especiaria devem ser notáveis no aroma; embora algumas frutas e especiarias (ex. framboesas, cerejas, canela, gengibre) tenham aromas mais fortes e mais distintos do que outras (ex. mirtilos, morangos)  deve-se permitir uma faixa de caráter de fruta e especiaria em intensidade de sútil a agressivo. Aroma de lúpulo pode ser mais baixo do que o esperado para o estilo base, para mostrar melhor o caráter especial. Os ingredientes especiais devem adicionar uma complexidade extra, mas não proeminente a ponto de desbalancear o produto final.
+Varia de acordo com o estilo base. O caráter de fruta e especiaria devem ser notáveis no aroma; embora algumas frutas e especiarias (por exemplo, framboesas, cerejas, canela, gengibre) tenham aromas mais fortes e mais distintos do que outras (por exemplo, mirtilos, morangos) deve-se permitir uma faixa de caráter de fruta e especiaria em intensidade de sutil a agressivo. Aroma de lúpulo pode ser mais baixo do que o esperado para o estilo base, para mostrar melhor o caráter especial. Os ingredientes especiais devem adicionar uma complexidade extra, mas não proeminente a ponto de desbalancear o produto final.
 
 ### Sabor
 
-Varia de acordo com o estilo base. Como no aroma, um distinto sabor de fruta e especiaria devem ser notáveis, e pode variar de intensidade de sutil a agressiva, porém o caráter da fruta não deve ser tão artificial ou inapropriadamente dominante a ponto de sugerir um drinque de suco de frutas com especiarias. Amargor e sabor de lúpulo, sabor de malte, teor alcoólico e subprodutos de fermentação, como ésteres, devem ser apropriados para o estilo base, porém harmoniosos e equilibrados com os distintos sabores de frutas e especiarias presentes. A fruta geralmente adiciona sabor e não dulçor, já que os açúcares da fruta são, normalmente, totalmente fermentáveis, assim clareando o sabor e secando o final da cerveja. Entretanto, dulçor residual não é necessariamente uma caraterística negativa, a não ser que tenha uma qualidade de não fermentado/cru. Alguns ingredientes podem adicionar azedume, amargor e taninos, que devem estar equilibrados com o perfil de sabor final.
-
+Varia de acordo com o estilo base. Como no aroma, um distinto sabor de fruta e especiaria devem ser notáveis, e pode variar de intensidade de sutil a agressiva, porém o caráter da fruta não deve ser tão artificial ou inapropriadamente dominante a ponto de sugerir uma 'bebida de suco de frutas' com especiarias. Amargor e sabor de lúpulo, sabor de malte, teor alcoólico e subprodutos de fermentação, como ésteres, devem ser apropriados para o estilo base, porém harmoniosos e equilibrados com os distintos sabores de frutas e especiarias presentes. A fruta geralmente adiciona sabor e não dulçor, já que os açúcares da fruta são, normalmente, totalmente fermentáveis, assim clareando o sabor e secando o final da cerveja. Entretanto, dulçor residual não é necessariamente uma caraterística negativa, a não ser que tenha uma qualidade crua e não fermentada. Alguns ingredientes podem adicionar azedume, amargor e taninos, que devem estar equilibrados com o perfil de sabor final.
 
 ### Sensação na Boca
 
-Varia de acordo com o estilo base. A fruta muitas vezes diminui o corpo, e faz a cerveja parecer mais leve no palato. Algumas frutas menores e mais escuras podem adicionar uma profundidade tânica, mas essa adstringência não deve sobrepor o estilo base. Alguns SHVs (especiarias, ervas e vegetais) podem adicionar um pouco de adstringência, ainda que um caráter de especiaria crua não seja desejável.
+Varia de acordo com o estilo base. A fruta muitas vezes diminui o corpo, e faz a cerveja parecer mais leve no palato. Algumas frutas menores e mais escuras podem adicionar uma profundidade tânica, mas essa adstringência não deve sobrepor o estilo base. Alguns SHVs (sigla em inglês para especiarias, ervas e vegetais) podem adicionar um pouco de adstringência, ainda que um caráter de especiaria 'crua' não seja desejável.
 
 ### Comentários
 
@@ -27,7 +26,7 @@ A descrição da cerveja é crítica para avaliação. Os juízes devem pensar m
 
 ### Instruções para inscrição
 
-O participante deve especificar o tipo de fruta e o tipo de especiarias, ervas e vegetais utilizados. Ingredientes individuais de especiarias, ervas e vegetais não precisam ser especificados caso sejam utilizadas numa combinação conhecida de especiarias (ex. torta de maçã com especiarias).O participante deve especificar uma descrição da cerveja, identificando ou o estilo base ou os ingredientes, estatísticas ou caráter alvo da cerveja. Uma descrição geral da natureza especial da cerveja pode cobrir todos os itens requeridos..
+O participante deve especificar o tipo de fruta e o tipo de especiarias, ervas e vegetais utilizados. Ingredientes individuais de especiarias, ervas e vegetais não precisam ser especificados caso sejam utilizadas numa combinação conhecida de especiarias (por exemplo, torta de maçã com especiarias). O participante deve especificar uma descrição da cerveja, identificando ou o estilo base ou os ingredientes, estatísticas ou caráter alvo da cerveja. Uma descrição geral da natureza especial da cerveja pode cobrir todos os itens requeridos.
 
 ### Estatísticas
 
@@ -37,11 +36,10 @@ OG, FG, IBUs, SRM e ABV vão variar dependendo do estilo base, mas a fruta irá 
 
 Cigar City Margarita Gose, Firestone Walker Chocolate Cherry Stout, Golden Road Spicy Mango Cart, Kona Island Colada Cream Ale, New Glarus Blueberry Cocoa Stout, Sun King Orange Vanilla Sunlight.
 
-### Revisões anteriores
+### Revisão Anterior
 
 Fruit and Spice Beer (2015)
 
 ### Atributos do estilo
 
 fruit, specialty-beer, spice
-
