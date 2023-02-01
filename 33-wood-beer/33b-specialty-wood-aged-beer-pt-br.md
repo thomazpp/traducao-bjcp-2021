@@ -1,6 +1,4 @@
 ## 33B. Specialty Wood-Aged Beer
-Cerveja Envelhecida em Madeira Especializada
-
 
 ### Impressão Geral
 
@@ -12,7 +10,7 @@ Varia com o estilo base. Frequentemente mais escura do que o estilo de cerveja b
 
 ### Aroma
 
-Varia com o estilo base. Um aroma amadeirado de baixo a moderado geralmente está presente; algumas variedades de madeira podem ter um caráter mais forte ou distinto. Se a madeira estiver tostada ou chamuscada, pode haver de baixo a moderado caráter de baunilha, caramelo, toffee, pão torrado ou cacau. Os aromas associados ao álcool (por exemplo, bebidas destiladas, vinho) previamente armazenados na madeira devem ser perceptíveis, mas equilibrados.
+Varia com o estilo base. Um aroma amadeirado de baixo a moderado geralmente está presente; algumas variedades de madeira podem ter um caráter mais forte ou distinto. Se a madeira estiver tostada ou chamuscada, pode haver de baixo a moderado caráter de baunilha, caramelo, *toffee*, pão torrado ou cacau. Os aromas associados ao álcool (por exemplo, bebidas destiladas, vinho) previamente armazenados na madeira devem ser perceptíveis, mas equilibrados.
 
 ### Sabor
 
@@ -24,7 +22,7 @@ Varia com o estilo base. Os taninos da madeira podem aumentar a percepção de c
 
 ### Comentários
 
-O sucesso neste estilo depende do quanto o caráter amadeirado e alcoólico suporta e melhora a cerveja base, bem como se estão bem integrados com o perfil geral de sabor. O caráter de envelhecido é permitido, mas oxidação excessiva ou acidez é uma falha. Cervejas wild especiais envelhecidas em madeira devem ser inseridas na 28C Wild Specialty Beer.
+O sucesso neste estilo depende do quanto o caráter amadeirado e alcoólico suporta e melhora a cerveja base, bem como se estão bem integrados com o perfil geral de sabor. O caráter de envelhecido é permitido, mas oxidação excessiva ou acidez é uma falha. Cervejas *wild* especiais envelhecidas em madeira devem ser inseridas na 28C Wild Specialty Beer.
 
 ### História
 
@@ -56,4 +54,4 @@ Specialty Wood-Aged Beer (2015)
 
 ### Atributos do Estilo
 
-specialty-beer, madeira
+specialty-beer, wood
