@@ -2,35 +2,35 @@
 
 ### Impressão geral
 
-Uma cerveja escura maltada, amarga e muitas vezes um pouco lupulada, com um caráter equilibrado, torrado e frequentemente chocolate.
+Uma cerveja escura maltada, amarga e muitas vezes um pouco lupulada, com um caráter equilibrado, torrado e frequentemente achocolatado.
 
 ### Aparência
 
-Marrom médio a marrom muito escuro, muitas vezes com reflexos rubis ou granada. Pode se aproximar da cor preta. Límpida, se não opaca. Colarinho volumoso, de cor castanha, com retenção de espuma moderadamente boa.
+Cor de marrom médio a marrom muito escuro, muitas vezes com reflexos rubis ou granada (vermelho escuro). Pode se aproximar da cor preta. Límpida, se não opaca. Colarinho volumoso, com cor castanho, com retenção moderadamente boa.
 
 ### Aroma
 
-Aroma torrado de médio leve a médio forte, muitas vezes com um caráter de chocolate, café leve ou levemente queimado, às vezes com um dulçor de caramelo ou toffee em segundo plano, ou uma riqueza maltada. O caráter resinoso, terroso ou floral do lúpulo pode variar de baixo a alto. Ésteres frutados moderados opcionais. Não deve parecer forte, acre ou ácida. O equilíbrio entre malte e lúpulo pode variar, mas deve sempre ter um aroma de malte torrado.
+Aroma torrado de médio leve a médio forte, muitas vezes com um caráter de chocolate, café leve ou levemente queimado, às vezes com um dulçor de caramelo ou *toffee* em segundo plano, ou uma riqueza maltada. O caráter de lúpulo de baixo a alto pode variar entre resinoso, terroso ou floral. Ésteres frutados moderados são opcionais. Não deve parecer forte, acre ou ácida. O equilíbrio entre malte e lúpulo pode variar, mas deve sempre ter um aroma de malte torrado.
 
 ### Sabor
 
-Sabor torrado moderadamente forte, muitas vezes com um caráter de chocolate e levemente queimado, às vezes com um caramelo doce ou riqueza de malte como suporte. Amargor médio a alto e final seco a meio doce. Maltes escuros podem acentuar essa impressão, mas não devem adicionar um sabor acre, queimado ou áspero. Sabor de lúpulo de baixo a alto resinoso, terroso ou floral, que não deve colidir com o malte escuro. As versões com dry-hop podem ter um lúpulo fresco ou sabor resinoso. Ésteres frutados moderados opcionais. Não deve ter uma acidez picante.
+Sabor torrado moderadamente forte, muitas vezes com um caráter de chocolate e levemente queimado, às vezes com um caramelo doce ou riqueza de malte como suporte. Amargor de médio a alto e final seco a meio doce. Maltes escuros podem acentuar essa impressão, mas não devem adicionar um sabor acre, queimado ou áspero. Sabor de lúpulo de baixo a alto de perfil resinoso, terroso ou floral, que não deve colidir com o malte escuro. As versões com *dry-hopping* podem ter um lúpulo fresco ou sabor resinoso. Ésteres frutados moderados são opcionais. Não deve ter uma acidez picante.
 
 ### Sensação na Boca
 
-Corpo médio a médio cheio. Carbonatação moderadamente baixa a moderadamente alta. Versões mais fortes podem ter um leve aquecimento alcoólico. Pode ter uma leve adstringência do malte escuro, mas esse caráter não deve ser forte.
+Corpo de médio a médio alto. Carbonatação de moderadamente baixa a moderadamente alta. Versões mais fortes podem ter um leve aquecimento alcoólico. Pode ter uma leve adstringência do malte escuro, mas esse caráter não deve ser forte.
 
 ### Comentários
 
-Às vezes chamada de Robust Porter, tornando-se cada vez mais difícil de encontrar. Um estilo bastante amplo aberto à interpretação pelo cervejeiro. A intensidade e o sabor do malte escuro podem variar significativamente. Pode ou não ter um forte caráter de lúpulo ou subprodutos significativos da fermentação; assim pode parecer ter um caráter “Americano” ou “Britânico”.
+Ocasionalmente chamada de Robust Porter, tornando-se cada vez mais difícil de encontrar. Um estilo bastante amplo e aberto à interpretação pelo cervejeiro. A intensidade e o sabor do malte escuro podem variar significativamente. Pode ou não ter um forte caráter de lúpulo ou subprodutos significativos da fermentação; assim pode parecer ter um caráter “americano” ou “britânico”.
 
 ### História
 
-Uma versão mais forte e agressiva das Porters ou English Porters anteriores a pré-proibição, fabricadas pela primeira vez na era moderna da cerveja artesanal (introduzida em 1974). Este estilo descreve a versão artesanal moderna; veja Historical Beer: Pre-Prohibition Porter para a versão mais antiga dos EUA.
+Uma versão mais forte e agressiva do que as anteriores Pre-Prohibition Porters ou English Porters, fabricadas pela primeira vez na era da cerveja artesanal moderna (introduzida em 1974). Este estilo descreve a versão artesanal moderna; veja Historical Beer: Pre-Prohibition Porter para a versão mais antiga dos EUA.
 
 ### Ingredientes
 
-Malte base pale, frequentemente malte crystal. Maltes escuros, geralmente malte black ou malte chocolate. Lúpulos americanos normalmente usados para amargor, mas lúpulos de finalização dos EUA ou do Reino Unido podem ser usados. A levedura Ale pode ser versões americanas limpas ou variedades inglesas características.
+Malte base pale, frequentemente malte crystal. Maltes escuros, geralmente malte black ou malte chocolate. Lúpulos americanos normalmente usados para amargor, mas lúpulos de finalização dos EUA ou do Reino Unido podem ser usados. A levedura Ale pode ser versões americanas limpas ou variedades inglesas com personalidade.
 
 ### Comparação de estilos
 
@@ -54,4 +54,4 @@ American Porter (2015)
 
 ### Atributos de estilo
 
-amargo, estilo artesanal, cor escura, lupulado, norte-americano, família porter, torrado, intensidade padrão, alta fermentação
+bitter, craft-style, dark-color, hoppy, north-america, porter-family, roasty, standard-strength, top-fermented

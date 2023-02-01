@@ -6,31 +6,31 @@ Uma cerveja tostada e caramelada, bastante amarga, de força padrão, com um fru
 
 ### Aparência
 
-Cor âmbar médio a cobre claro. Geralmente límpida. Colarinho moderado, quase branco, com boa retenção.
+Cor de âmbar médio a cobre claro. Geralmente límpida. Colarinho moderado, quase branco, com boa retenção.
 
 ### Aroma
 
-Lúpulos herbáceos, resinosos, florais ou mentolados de moderado a alto. Leve frutado aceitável. Malte caramelo ou tostado, baixo a moderado, traz suporte ao lúpulo.
+Lúpulos herbáceos, resinosos, florais ou mentolados de moderado a alto. Leve frutado aceitável. Malte caramelo ou tostado, de baixo a moderado, traz suporte ao lúpulo.
 
 ### Sabor
 
-Moderadamente maltada com um amargor de lúpulo pronunciado. O caráter de malte geralmente tem sabores tostados (não torrados) e caramelo. Sabor de lúpulo baixo a moderadamente alto, geralmente mostrando qualidades rústicas e tradicionais de lúpulos americanos (geralmente herbal, resinoso, floral, mentolado). Final bastante seco e bem definido, com um amargor persistente de lúpulo e um sabor firme de malte como grãos. Ésteres frutados leves são aceitáveis, caso contrário é limpa.
+Moderadamente maltada com um amargor de lúpulo pronunciado. O caráter de malte geralmente tem sabores tostados (não torrados) e caramelo. Sabor de lúpulo de baixo a moderadamente alto, geralmente mostrando qualidades rústicas e tradicionais de lúpulos americanos (geralmente herbal, resinoso, floral, mentolado). Final bastante seco e bem definido, com um amargor persistente de lúpulo e um sabor firme de malte como de grãos. Ésteres frutados leves são aceitáveis, caso contrário deve ser limpa.
 
 ### Sensação na Boca
 
-Corpo médio. Carbonatação média a média alta.
+Corpo médio. Carbonatação de média a média alta.
 
 ### Comentários
 
-Este estilo é estreitamente definido em torno do exemplo protótipo Anchor Steam, embora permitindo outros ingredientes típicos da época. O lúpulo Northern Brewer não é um requisito estrito para o estilo; lúpulos modernos do tipo americano e do novo mundo (especialmente os cítricos) são inadequados.
+Este estilo é estreitamente definido em torno do exemplo protótipo Anchor Steam, embora permitindo outros ingredientes típicos da época. O lúpulo Northern Brewer não é um requisito estrito para o estilo; lúpulos modernos do tipo americano e do Novo Mundo (especialmente os cítricos) são inadequados.
 
 ### História
 
-Original da costa oeste americana, fabricada originalmente como Steam Beer durante a era da corrida do ouro. Grandes fermentadores abertos rasos (coolships) foram usados ​para compensar a falta de refrigeração e aproveitar as temperaturas frias na área da Baía de São Francisco. As versões modernas são baseadas na Anchor Brewing, que relançou o estilo na década de 1970.
+Original da Costa Oeste americana, fabricada originalmente como Steam Beer durante a era da corrida do ouro. Grandes fermentadores abertos rasos (*coolships*) foram usados para compensar a falta de refrigeração e aproveitar as temperaturas frias na área da Baía de São Francisco. As versões modernas são baseadas na Anchor Brewing, que relançou o estilo na década de 1970.
 
 ### Ingredientes
 
-Malte Pale Ale, lúpulos não cítricos (geralmente Northern Brewer), pequenas quantidades de malte tostado ou malte crystal. Levedura lager; no entanto, algumas cepas (geralmente com a menção de “California” no nome) funcionam melhor do que outras nas temperaturas de fermentação mais quentes normalmente usadas (13 a 16 °C). Observe que algumas cepas de leveduras alemãs produzem caráter sulfuroso inadequado.
+Malte Pale Ale, lúpulos não cítricos (geralmente Northern Brewer), pequenas quantidades de malte tostado ou malte crystal. Levedura lager; no entanto, algumas cepas (geralmente com a menção de “Califórnia” no nome) funcionam melhor do que outras nas temperaturas de fermentação mais quentes normalmente usadas (13 a 16°C). Observe que algumas cepas de leveduras alemãs produzem caráter sulfuroso inadequado.
 
 ### Comparação de estilos
 
@@ -54,4 +54,4 @@ Califórnia Common (2015)
 
 ### Atributos de estilo
 
-cor âmbar, família âmbar-lager, amargo, baixa fermentação, lupulado, norte-americano, força padrão, estilo tradicional
+amber-color, amber-lager-family, bitter, bottom-fermented, hoppy, north-america, standard-strength, traditional-style

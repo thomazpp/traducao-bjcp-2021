@@ -1,25 +1,24 @@
 ## 25C. Belgian Golden Strong Ale
-Ale Forte Dourada Belga
 
 ### Impressão Geral
 
-Uma cerveja forte belga, muito clara, altamente atenuada, que é mais frutado e lupulado do que condimentado. Complexa e delicada, o final é seco, corpo leve e a alta carbonatação acentua o caráter do lúpulo e da levedura. Carbonatação espumante e efervescente, formando um colarinho firme branco.
+Uma cerveja forte belga, muito clara, altamente atenuada, que é mais frutado e lupulado do que condimentado. Complexa e delicada, o final é seco, corpo de leve e a alta carbonatação acentua o caráter do lúpulo e da levedura. Carbonatação espumante e efervescente, formando um colarinho firme branco.
 
 ### Aparência
 
-Cor de amarelo claro a dourado. Boa limpidez. Efervescente. Colarinho branco, maciça, de longa duração, firme, resultando no característico 'rendado belga' (Belgian Lace) na borda do copo na medida em que desaparece.
+Cor de amarelo claro a dourado. Boa limpidez. Efervescente. Colarinho branco, maciça, de longa duração, firme, resultando no característico 'rendado belga' (*Belgian lace*) na borda do copo na medida em que desaparece.
 
 ### Aroma
 
-Um complexo buquê de ésteres frutados, lúpulos herbais e elevado álcool apimentado sobre uma base de malte quase neutra. Os ésteres são de moderados a altos, muitas vezes remetendo a maçã, pera e marmelo, especialmente pera. Lúpulos baixos a moderados de perfil herbal, floral ou condimentado. Álcool e fenóis são de baixos a moderados e muitas vezes têm uma qualidade perfumada ou apimentada. A percepção do álcool deve ser suave, mas não pode ser quente ou que remeta a solvente. O malte deve ser quase neutro, possivelmente com leve adocicado de grãos.
+Um complexo buquê de ésteres frutados, lúpulos herbais e elevado álcool apimentado sobre uma base de malte quase neutra. Os ésteres são de moderados a altos, muitas vezes remetendo a maçã, pera e marmelo, especialmente pera. Lúpulos de baixos a moderados de perfil herbal, floral ou condimentado. Álcool e fenóis são de baixos a moderados e, muitas vezes, têm uma qualidade perfumada ou apimentada. A percepção do álcool deve ser suave, mas não pode ser quente ou que remeta a solvente. O malte deve ser quase neutro, possivelmente com leve adocicado de grãos.
 
 ### Sabor
 
-Perfil semelhante ao do aroma (são aplicados alguns descritores e intensidades) para ésteres, lúpulos, fenóis e álcool. Os ésteres como pêra, álcool apimentado, lúpulos herbais e sabores suaves de malte perduram na boca por longo tempo, durante o final seco e até retrogosto. O amargor é de médio a alto, acentuado pelo final seco e pela alta carbonatação, que permanece no retrogosto.
+Perfil semelhante ao do aroma (são aplicados alguns descritores e intensidades) para ésteres, lúpulos, fenóis e álcool. Os ésteres como pera, álcool apimentado, lúpulos herbais e sabores suaves de malte perduram na boca por longo tempo, durante o final seco e até retrogosto. O amargor é de médio a alto, acentuado pelo final seco e pela alta carbonatação, que permanece no retrogosto.
 
 ### Sensação na Boca
 
-Muito altamente carbonatada. Efervescente. Corpo de leve a médio, porém mais leve do que a gravidade pode sugerir. A carbonatação acentua a percepção de leveza. O aquecimento alcoólico é suave, mas perceptível, sem que seja quente ou que remeta a solvente.
+Muito altamente carbonatada. Efervescente. Corpo de leve a médio, porém mais leve do que a densidade pode sugerir. A carbonatação acentua a percepção de leveza. O aquecimento alcoólico é suave, mas perceptível, sem que seja quente ou que remeta a solvente.
 
 ### Comentários
 
@@ -35,7 +34,7 @@ Malte Pilsen e substancial adjuntos açucarados. Lúpulos Continental. Levedura 
 
 ### Comparação de Estilos
 
-Muitas vezes confundida com a Belgian Tripel, mas geralmente é mais clara, corpo mais leve, com final mais bem definido e seca. Tende a se usar levedura que favorece o desenvolvimento de ésteres (particularmente de maçã, pera e marmelo) ao invés de condimentos no equilíbrio e tem mais caráter de lúpulo tardio.
+Muitas vezes confundida com a Belgian Tripel, mas geralmente é mais clara, corpo mais leve, com final mais bem definido e seca. Tende a se usar levedura que favorece o desenvolvimento de ésteres (particularmente de maçã, pera e marmelo) ao invés de condimentos no equilíbrio e tem mais caráter de lúpulo com adição tardia.
 
 ### Estatísticas
 
@@ -55,4 +54,4 @@ Belgian Golden Strong Ale (2015)
 
 ### Atributos de Estilo
 
-amargo, cor-clara, alta-fermentação, estilo-tradicional, força-alcoólica-muito-alta, europa-ocidental
+bitter, pale-color, top-fermented, traditional-style, very-high-strength, western-europe

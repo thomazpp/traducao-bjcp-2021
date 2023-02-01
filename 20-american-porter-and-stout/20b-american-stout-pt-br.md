@@ -2,31 +2,31 @@
 
 ### Impressão geral
 
-Uma stout escura bastante forte, altamente torrada, amarga e lupulada. O corpo e os sabores escuros típicos das stouts com um caráter mais agressivo do lúpulo americano e amargor.
+Uma *stout* escura bastante forte, altamente torrada, amarga e lupulada. O corpo e os sabores escuros típicos das *stouts* com um caráter mais agressivo e amargo do lúpulo americano.
 
 ### Aparência
 
-Geralmente uma cor preta intensa, embora algumas possam parecer marrom muito escuro. Colarinho volumoso e persistente de cor castanho claro a marrom claro. Geralmente opaco.
+Geralmente uma cor preta intensa, embora algumas possam parecer marrom muito escuro. Colarinho volumoso e persistente, com cor de castanho claro a marrom claro. Geralmente opaca.
 
 ### Aroma
 
-Aroma torrado moderado a forte, muitas vezes com qualidade de café torrado ou chocolate amargo. Aromas queimados ou de carvão são aceitáveis ​​em níveis baixos. Aroma de lúpulo muito baixo a médio, muitas vezes com um caráter cítrico ou resinoso. Ésteres médios opcionais. Álcool leve opcional. Não deve parecer agressiva, acre ou ácida.
+Aroma torrado de moderado a forte, muitas vezes com qualidade de café torrado ou chocolate amargo. Aromas queimados ou de carvão são aceitáveis em níveis baixos. Aroma de lúpulo de muito baixo a médio, muitas vezes com um caráter cítrico ou resinoso. Ésteres médios são opcionais. Álcool leve é opcional. Não deve parecer agressiva, acre ou ácida.
 
 ### Sabor
 
-Sabores torrados moderados a muito altos, muitas vezes com gosto de café, chocolate amargo ou meio amargo ou grãos de café torrados. Pode ter gosto de borra de café levemente queimada, mas esse caráter não deve ser proeminente. Dulçor de malte baixo a médio, muitas vezes com sabores ricos de chocolate ou caramelo. Amargor médio a alto. Sabor de lúpulo baixo a alto, geralmente cítrico ou resinoso. Final médio a seco, ocasionalmente com uma qualidade levemente queimada. Ésteres baixos opcionais. Leve sabor de álcool, macio, opcional.
+Sabores torrados de moderados a muito altos, muitas vezes com gosto de café, chocolate amargo ou meio amargo ou grãos de café torrados. Pode ter gosto de borra de café levemente queimada, mas esse caráter não deve ser proeminente. Dulçor de malte de baixo a médio, muitas vezes com sabores ricos de chocolate ou caramelo. Amargor de médio a alto. Sabor de lúpulo de baixo a alto, geralmente cítrico ou resinoso. Final de médio a seco, ocasionalmente com uma qualidade levemente queimada. Ésteres baixos são opcionais. Leve sabor de álcool, macio, é opcional.
 
 ### Sensação na Boca
 
-Corpo médio a cheio. Pode ser um pouco cremoso. Pode ter um pouco de adstringência derivada da torra, mas esse caráter não deve ser excessivo. Carbonatação média alta a alta. Aquecimento alcoólico leve a moderadamente forte, mas macio e não excessivamente quente.
+Corpo de médio a alto. Pode ser um pouco cremosa. Pode ter um pouco de adstringência derivada da torra, mas esse caráter não deve ser excessivo. Carbonatação de média alta a alta. Aquecimento alcoólico de leve a moderadamente forte, mas macio e não excessivamente quente.
 
 ### Comentários
 
-As cervejarias expressam individualidade variando o perfil do malte torrado, o dulçor e o sabor do malte e a quantidade de lúpulos de finalização utilizados. Geralmente tem sabores, lupulado e de maltes torrados, mais ousados ​​do que outras stouts tradicionais (exceto Imperial Stouts). Cada vez mais difícil de encontrar.
+As cervejarias expressam individualidade variando o perfil do malte torrado, o dulçor e o sabor do malte e a quantidade de lúpulos de finalização utilizados. Geralmente tem sabores, lupulado e de maltes torrados, mais ousados do que outras *stouts* tradicionais (exceto Imperial Stouts). Cada vez mais difícil de ser encontrada.
 
 ### História
 
-Uma cerveja artesanal moderna e um estilo caseiro, que aplicaram um regime de lúpulo americano mais agressivo a uma cerveja forte tradicional, English Stout ou Irish Stout. As versões caseiras já foram conhecidas como West Coast Stout, uma nomenclatura comum para uma cerveja mais altamente lupulada.
+Uma cerveja artesanal moderna e um estilo caseiro, que aplicaram um regime de lúpulo americano mais agressivo a uma cerveja forte tradicional, English Stout ou Irish Stout. As versões caseiras já foram conhecidas como West Coast Stout, uma nomenclatura comum para uma cerveja altamente lupulada.
 
 ### Ingredientes
 
@@ -54,4 +54,4 @@ American Stout (2015)
 
 ### Atributos de estilo
 
-amargo, estilo artesanal, cor escura, forte, lupulado, norte-americano, torrado, família forte, alta fermentação
+bitter, craft-style, dark-color, high-strength, hoppy, north-america, roasty, stout-family, top-fermented

@@ -2,18 +2,19 @@
 
 ### Impressão Geral
 
-Uma versão ácida e funky de um estilo base de cerveja.
+Uma versão ácida e *funky* de um estilo base de cerveja.
 
 ### Aparência
-Varia com o estilo base. Limpidez pode variar; turbidez baixa não necessariamente é uma falha. Retenção de espuma pode ser pobre.
+
+Varia com o estilo base. Limpidez pode variar; turbidez baixa não é necessariamente uma falha. Retenção de espuma pode ser ruim.
 
 ### Aroma
 
-Varia com o estilo base. A contribuição de micróbios não-saccharomyces deve ser perceptível a forte e frequentemente contribui com uma nota selvagem, ácida e funky. Os melhores exemplares apresentam uma amplitude de aromáticos ao invés de uma característica única e dominante. O aroma deve ser convidativo, não agressivo e desagradável.
+Varia com o estilo base. A contribuição de micróbios que são *saccharomyces* deve ser perceptível a forte e frequentemente contribui com uma nota selvagem, ácida e *funky*. Os melhores exemplares apresentam uma amplitude de aromáticos ao invés de uma característica única e dominante. O aroma deve ser convidativo, não agressivo e desagradável.
 
 ### Sabor
 
-Varia com o estilo base. Procure um equilíbrio agradável entre a cerveja base e o caráter da fermentação. Uma variedade de resultados é possível, desde acidez e funky bastante altos até uma cerveja sutil, agradável e harmoniosa. Os melhores exemplos são prazerosos de beber com os ésteres e fenóis complementando o malte ou lúpulo. O caráter selvagem pode ser proeminente, mas não precisa ser dominante em um estilo com um perfil intenso de malte ou lúpulo. A acidez deve ser firme, mas agradável, variando de limpa a complexa, mas não deve ser agressiva ou com caráter de vinagre; ácido acético proeminente, ou ofensivo é uma falha. O amargor tende a ser baixo, especialmente conforme a acidez aumenta.
+Varia com o estilo base. Procure um equilíbrio agradável entre a cerveja base e o caráter da fermentação. Uma variedade de resultados é possível, desde acidez e *funky* bastante altos até uma cerveja sutil, agradável e harmoniosa. Os melhores exemplos são prazerosos de beber com os ésteres e fenóis complementando o malte ou lúpulo. O caráter selvagem pode ser proeminente, mas não precisa ser dominante em um estilo com um perfil intenso de malte ou lúpulo. A acidez deve ser firme, mas agradável, variando de limpa a complexa, mas não deve ser agressiva ou com caráter de vinagre; ácido acético proeminente ou ofensivo é uma falha. O amargor tende a ser baixo, especialmente conforme a acidez aumenta.
 
 ### Sensação na Boca
 
@@ -29,11 +30,11 @@ Interpretações modernas artesanais ou experimentações inspiradas em Belgian 
 
 ### Ingredientes
 
-Virtualmente qualquer estilo de cerveja. Frequentemente fermentada por uma combinação de lactobacillus, pediococcus, saccharomyces e brettanomyces. Pode também ser uma mistura de estilos. Madeiras ou envelhecimento em barricas é bastante comum, mas não obrigatório; caso presente não deve ser um sabor primário ou dominante.
+Virtualmente qualquer estilo de cerveja. Frequentemente fermentada por uma combinação de *lactobacillus*, *pediococcus*, *saccharomyces* e *brettanomyces*. Pode também ser uma mistura de estilos. Madeiras ou envelhecimento em barricas é bastante comum, mas não obrigatório; caso presente não deve ser um sabor primário ou dominante.
 
 ### Comparação de Estilos
 
-Uma versão ácida e funky de um estilo base de cerveja, mas não necessariamente é tão ácida ou funky quanto alguns exemplos europeus de cervejas ácidas.
+Uma versão ácida e *funky* de um estilo base de cerveja, mas não necessariamente é tão ácida ou *funky* quanto alguns exemplos europeus de cervejas ácidas.
 
 ### Instruções para inscrição
 
@@ -49,5 +50,4 @@ Boulevard Love Child, Jester King Le Petit Prince, Jolly Pumpkin Oro de Calabaza
 
 ### Atributos do Estilo
 
-estilo-artesanal, america-do-norte, ácida, specialty-beer, fermentação-selvagem
-
+craft-style, north-america, sour, specialty-beer, wild-fermentation
