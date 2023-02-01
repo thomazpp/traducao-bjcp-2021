@@ -2,7 +2,7 @@
 
 ### Impressão Geral
 
-Uma atraente combinação de fruta, açúcar e cerveja, mas ainda sim reconhecível como cerveja. O caráter de fruta e açúcar deve estar tanto evidente quanto em equilíbrio com a cerveja, mas não tanto que sugira um produto artificial.
+Uma atraente combinação de fruta, açúcar e cerveja, mas ainda assim reconhecível como cerveja. O caráter de fruta e açúcar deve estar tanto evidente quanto em equilíbrio com a cerveja, mas não tanto que sugira um produto artificial.
 
 ### Aparência
 
@@ -10,11 +10,11 @@ A mesma do Fruit Beer.
 
 ### Aroma
 
-O mesmo do Fruit Beer, com exceção que alguns fermentáveis adicionados (ex., mel, melaço) podem adicionar um componente de aroma. Qualquer componente adicional que estiver presente deve estar em balanço com os componentes da fruta e da cerveja, e ser uma combinação agradável.
+O mesmo do Fruit Beer, com exceção que alguns fermentáveis adicionados (por exemplo, mel, melaço) podem adicionar um componente de aroma. Qualquer componente adicional que estiver presente deve estar em balanço com os componentes da fruta e da cerveja e ser uma combinação agradável.
 
 ### Sabor
 
-O mesmo do Fruit Beer, com exceção que alguns fermentáveis adicionados (ex., mel, melaço) podem adicionar um componente de sabor. Qualquer componente de sabor adicional que estiver presente deve estar em balanço com os componentes da fruta e da cerveja, e ser uma combinação agradável. Açúcares adicionados não devem ter um sabor de não fermentado/cru. Alguns açúcares adicionados terão elementos não fermentáveis que podem prover um final mais doce e cheio; açúcares totalmente fermentáveis podem deixar o final mais ralo.
+O mesmo do Fruit Beer, com exceção que alguns fermentáveis adicionados (por exemplo, mel, melaço) podem adicionar um componente de sabor. Qualquer componente de sabor adicional que estiver presente deve estar em balanço com os componentes da fruta e da cerveja, e ser uma combinação agradável. Açúcares adicionados não devem ter um sabor cru e não fermentado. Alguns açúcares adicionados terão elementos não fermentáveis que podem prover um final mais cheio e doce; açúcares totalmente fermentáveis podem deixar o final mais ralo.
 
 ### Sensação na Boca
 
@@ -22,7 +22,7 @@ A mesma do Fruit Beer, ainda que dependendo do tipo de açúcar adicionado, pode
 
 ### Comentários
 
-Se os fermentáveis ou processos não adicionarem um caráter distinguível para a cerveja, inscreva como outro (não-Specialty) estilo de Fruit Beer e omita a descrição dos ingredientes extras ou processos.
+Se os fermentáveis ou processos não adicionarem um caráter distinguível para a cerveja, inscreva como outro estilo de Fruit Beer (não Specialty Fruit Beer) e omita a descrição dos ingredientes extras ou processos.
 
 ### Instruções para inscrição
 
@@ -43,4 +43,3 @@ Specialty Fruit Beer (2015)
 ### Atributos do estilo
 
 fruit, specialty-beer
-
