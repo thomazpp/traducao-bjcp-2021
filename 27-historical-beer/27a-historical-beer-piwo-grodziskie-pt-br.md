@@ -2,11 +2,11 @@
 
 ### Impressão Geral
 
-Uma cerveja de trigo histórica da região central europeia com densidade baixa, amarga e defumada por carvalho com um perfil de fermentação limpo e sem acidez. Altamente carbonatada, seca, crisp e refrescante.
+Uma cerveja de trigo histórica da região central europeia com densidade baixa, amarga e defumada por carvalho, com um perfil de fermentação limpo e sem acidez. Altamente carbonatada, seca, com final bem definido e refrescante.
 
 ### Aparência
 
-Cor de amarelo palha a dourado com excelente limpidez. Um colarinho alto, largo, bem coeso com excelente retenção é característico. Turbidez alta é uma falha.
+Cor de amarelo palha a dourado, com excelente limpidez. Um colarinho alto, largo, bem coeso, com excelente retenção é característico. Turbidez alta é uma falha.
 
 ### Aroma
 
@@ -14,20 +14,20 @@ Defumado por madeira de carvalho de baixo a moderado é o componente de aroma ma
 
 ### Sabor
 
-Sabor defumado por carvalho de moderadamente-baixo a médio em primeiro plano e se mantém até o final; o defumado pode ser mais forte no sabor do que no aroma. O caráter de defumado é delicado e não deve ser acre e pode levar a impressão de dulçor. Amargor de moderado a forte é evidente
-e e permanece até o final. O equilíbrio geral é para o lúpulo. Sabor de lúpulo condimentado, de ervas ou floral baixo mas perceptível. Caráter de grãos de trigo de intensidade baixa como uma nota de fundo. Esteres leves como frutas de pomar (maça vermelha ou pera) pode estar presente. Final seco e crisp. Sem acidez.
+Sabor defumado por carvalho de moderadamente baixo a médio em primeiro plano e se mantém até o final; o defumado pode ser mais forte no sabor do que no aroma. O caráter de defumado é delicado e não deve ser acre e pode levar a impressão de dulçor. Amargor de moderado a forte é evidente
+e permanece até o final. O equilíbrio geral é para o lúpulo. Sabor de lúpulo condimentado, de ervas ou floral baixo, mas perceptível. Caráter de grãos de trigo de intensidade baixa como uma nota de fundo. Esteres leves como frutas de pomar (maçã vermelha ou pera) pode estar presente. Final seco e bem definido. Sem acidez.
 
 ### Sensação na Boca
 
-Corpo leve, com um final crisp e seco. Carbonatação é bem alta e pode adicionar uma leve picância carbônica ou uma sensação de formigamento. Sem aquecimento alcoólico.
+Corpo leve, com um final bem definido e seco. Carbonatação é bem alta e pode adicionar uma leve picância carbônica ou uma sensação de formigamento. Sem aquecimento alcoólico.
 
 ### Comentários
 
-Pronunciada em inglês “pivo grow-JEES-kee-uh” (significa: Cerveja de Grodzisk). Conhecida como Grätzer (pronunciado “GRATE-sir”) em países de lingua alemã e em alguma literatura de cerveja. Tradicionalmente feita por uma brassagem por rampas, uma longa fervura (~2 horas) e múltiplas cepas de levedura ale. A cerveja nunca é filtrada mas é usado Isinglass para clarificar a cerveja antes da refermentação na garrada. Servida tradicionalmente em copos cônicos altos para acomodar a vigorosa espuma gerada.
+Pronunciada em inglês 'pivo grow-JEES-kee-uh' (significa: Cerveja de Grodzisk). Conhecida como *Grätzer* (pronunciado 'GRATE-sir') em países de língua alemã e em alguma literatura de cerveja. Tradicionalmente feita por uma brassagem por rampas, uma longa fervura (~2 horas) e múltiplas cepas de levedura ale. A cerveja nunca é filtrada, mas é usado Isinglass para clarificar a cerveja antes da refermentação na garrada. Servida tradicionalmente em copos cônicos altos para acomodar a vigorosa espuma gerada.
 
 ### História
 
-Desenvolvida como um estilo único séculos atrás na cidade polonesa de Grodzizk (conhecida como Grätz quando governada pela Prussia e Alemanha). Sua fama e popularidade se estendeu rapidamente para outras partes do mundo no fim do século 19 e inicio do século 20. A produção comercial regular diminui depois da Segunda Guerra Mundial e acabou nos anos 90. Essa descrição de estilo descreve a versão tradicional durante o seu período de maior popularidade.
+Desenvolvida séculos atrás como um estilo único na cidade polonesa de Grodzizk (conhecida como Grätz quando governada pela Prússia e Alemanha). Sua fama e popularidade se estendeu rapidamente para outras partes do mundo no fim do século 19 e início do século 20. A produção comercial regular diminui depois da Segunda Guerra Mundial e acabou nos anos 90. Essa descrição de estilo descreve a versão tradicional durante o seu período de maior popularidade.
 
 ### Ingredientes
 
