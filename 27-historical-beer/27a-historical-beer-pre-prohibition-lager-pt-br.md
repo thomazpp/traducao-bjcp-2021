@@ -6,19 +6,19 @@ Uma american lager clara com adjuntos, amarga e lupulada, muitas vezes com um fo
 
 ### Aparência
 
-Amarela a dourado profundo. Espuma branca substancial e duradoura. Claridade brilhante.
+Cor de amarelo a dourado profundo. Espuma branca substancial e duradoura. Limpidez brilhante.
 
 ### Aroma
 
-Malte baixo a médio como grãos. Baixo a moderado dulçor como milho opcional. Rústico aroma de lúpulo floral, herbal ou condimentado de médio a moderadamente alto, sem caráter de variedades modernas cítricas ou frutadas. Perfil de fermentação limpo. Pode apresentar algum caráter de levedura semelhante à American Lager moderna. Baixo DMS aceitável.
+Malte de baixo a médio como de grãos. Dulçor como milho, de baixo a moderado, é opcional. Rústico aroma de lúpulo floral, herbal ou condimentado de médio a moderadamente alto, sem caráter de variedades modernas cítricas ou frutadas. Perfil limpo de fermentação. Pode apresentar algum caráter de levedura semelhante à American Lager moderna. Baixo DMS é aceitável.
 
 ### Sabor
 
-Malte médio a médio-alto com sabor como grãos. Opcionais notas arredondadas como milho e impressão de dulçor. Substancial amargor do lúpulo resiste ao malte e perdura através do final seco, macio e bem definido. Médio a alto sabor de lúpulo rústico floral, herbal ou condimentado. Amargor médio a alto, limpo e não agressivo. Sem retrogosto áspero. Perfil de fermentação geralmente neutro, mas algum caráter de levedura semelhante à American Lager é permitido.
+Malte de médio a médio alto com sabor como de grãos. Opcionais notas arredondadas como milho e impressão de dulçor. Substancial amargor do lúpulo resiste ao malte e perdura através do final seco, macio e bem definido. De médio a alto sabor de lúpulo rústico floral, herbal ou condimentado. Amargor de médio a alto, limpo e não agressivo. Sem retrogosto áspero. Perfil de fermentação geralmente neutro, mas algum caráter de levedura semelhante à American Lager é permitido.
 
 ### Sensação na Boca
 
-Corpo médio a médio-alto com uma sensação de boca moderadamente rica e cremosa. Suave e com uma maturação longa a frio bem feita. Carbonatação média a alta.
+Corpo de médio a médio alto com uma sensação de boca moderadamente rica e cremosa. Suave e com uma maturação longa a frio bem feita. Carbonatação de média a alta.
 
 ### Comentários
 
@@ -55,4 +55,3 @@ Historical Beer: Pre-Prohibition Lager (2015)
 ### Style Attributes
 
 bitter, bottom-fermented, historical-style, hoppy, lagered, north-america, pale-color, pilsner-family, standard-strength
-
