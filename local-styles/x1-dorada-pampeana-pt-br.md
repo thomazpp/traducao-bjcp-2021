@@ -4,7 +4,7 @@
 
 ### Impressão Geral
 
-Fácil de beber, orientada ao malte.
+Fácil de beber, orientada para o malte.
 
 ### Aroma
 
@@ -12,15 +12,14 @@ Aroma doce maltado de leve a moderado. Aroma frutado de baixo a moderado é acei
 
 ### Aparência
 
-Cor de amarelo clara a dourada profundo. De limpa a brilhante. Colarinho de baixo a médio com boa retenção.
+Cor de amarelo claro a dourado profundo. De limpa a brilhante. Colarinho de baixo a médio com boa retenção.
 
 ### Sabor
-
 Dulçor maltado suave inicial. Sabores de caramelo são tipicamente ausentes. Sabor de lúpulo de leve a moderado (geralmente Cascade), mas não deve ser agressivo. Amargor de lúpulo de baixo a moderado, o equilíbrio normalmente é em direção do malte. Final médio-seco a algo doce. Sem diacetil.
 
 ### Sensação na Boca
 
-Corpo de médio-leve a médio. Carbonatação de médio a alta. Macia, sem amargor áspero ou adstringência.
+Corpo de médio leve a médio. Carbonatação de média a alta. Macia, sem amargor áspero ou adstringência.
 
 ### Comentários
 
@@ -28,13 +27,13 @@ Corpo de médio-leve a médio. Carbonatação de médio a alta. Macia, sem amarg
 
 ### História
 
-No inicio os cervejeiros caseiros argentinos eram muito limitados: não existiam extratos, eles só podiam usar malte pils, lúpulos casca e levedura liofilizada, geralmente Nottingham, Windsor ou Safale. Com esses ingredientes, os cervejeiros argentinos desenvolveram uma versão específica de Blond Ale chamada Dorada Pampeana.
+No início os cervejeiros caseiros argentinos eram muito limitados: não existiam extratos, eles só podiam usar malte pils, lúpulos Cascade e levedura seca, geralmente Nottingham, Windsor ou Safale. Com esses ingredientes, os cervejeiros argentinos desenvolveram uma versão específica de Blond Ale chamada Dorada Pampeana.
 
 ### Ingredientes
 
 Geralmente só malte pale ou pils, embora possa incluir proporções baixas de maltes caramelizados. Comumente lúpulos Cascade. Levedura americana, inglesa ou *Kölsch* limpa, geralmente acondicionada a frio.
 
-### Estatisticas
+### Estatísticas
 
 OG: 1.042 – 1.054
 FG: 1.009 – 1.013
