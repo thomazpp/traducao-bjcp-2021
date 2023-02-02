@@ -30,11 +30,11 @@ Inicialmente fabricada em Birrificio Montegioco e Birrificio Barley em 2006-2007
 
 Malte pils na maioria dos casos ou malte base pale com alguns maltes especiais (se houver). O teor de uva pode representar até 40% do grist. A uva ou o mosto de uvas, às vezes fervidos por longo tempo antes da utilização, podem ser utilizados em diferentes fases: durante a fervura ou mais frequentemente durante a fermentação primária/secundária. A levedura pode apresentar um caráter neutro (mais comum) ou um perfil frutado/condimentado (cepas inglesas e belgas). A levedura de vinho também pode ser usada em conjunto com outras leveduras. As variedades de lúpulos continentais, principalmente alemãs ou inglesas, são utilizadas em baixas quantidades para não caracterizar excessivamente a cerveja.
 
-## Comparação de Estilos 
+## Comparação de Estilos
 
 Semelhante à Fruit Beer, mas evoluiu como um estilo autônomo devido à abundância de variedades de uvas na Itália.
 
-## Características Vitais:
+## Estatísticas
 
 OG: 1.045 – 1.100
 FG: 1.005 – 1.015
@@ -45,7 +45,7 @@ SRM: 4 – 25 ABV: 4.5 – 12%
 
 Montegioco Open Mind, Birrificio Barley BB5-10, Birrificio del Forte Il Tralcio, Viess Beer al mosto di gewurtztraminer, CRAK IGA Cabernet, Birrificio Apuano Ninkasi, Luppolajo Mons Rubus
 
-## Style Attributes 
+## Style Attributes
 
 Specialty-beer, Fruit
 
