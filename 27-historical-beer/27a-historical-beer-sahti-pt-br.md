@@ -10,7 +10,7 @@ Cor de amarelo a marrom escuro; a maioria é de âmbar médio a âmbar escuro. G
 
 ### Aroma
 
-Impressão de mosto de malte, doce. Maltado como grãos, caramelo e centeio em segundo plano. Leve aroma de álcool. Éster alto como banana com fenóis  de moderado a moderadamente alto como cravo. Pode ter um de leve a moderado caráter amadeirado de zimbro. Não é azeda. Sem lúpulo.
+Impressão de malte doce, como mosto. Maltado como grãos, caramelo e centeio em segundo plano. Leve aroma de álcool. Éster alto como banana com fenóis de moderado a moderadamente alto como cravo. Pode ter um de leve a moderado caráter amadeirado de zimbro. Não é azeda. Sem lúpulo.
 
 ### Sabor
 
@@ -18,7 +18,7 @@ Bastante doce e muitas vezes com sabor de malte cru como mosto, como cereais com
 
 ### Sensação na Boca
 
-Espessa, viscosa e pesada com proteínas (sem fervura significa sem hot break). De quase sem carbonatação a moderadamente alta, similar a Cask Ales inglesas. Aquecimento pelo teor alcoólico e sem envelhecimento, porém muitas vezes mascarado pelo dulçor.
+Espessa, viscosa e pesada com proteínas (sem fervura significa sem hot break). De quase sem carbonatação a moderadamente alta, similar a Cask Ales inglesas. Aquecimento pelo teor alcoólico e pelo frescor, porém muitas vezes mascarado pelo dulçor.
 
 ### Comentários
 
@@ -54,4 +54,4 @@ Historical Beer: Sahti (2015)
 
 ### Atributos do Estilo
 
-high-strength, amber-color, top-fermented, centraleurope, historical-style, spice
+amber-color, central-europe, high-strength, historical-style, spice, top-fermented
