@@ -2,39 +2,39 @@
 
 *Estilo sugerido para inscrição: Categoria 18 (Pale American Beer)*
 
-**Impressão Geral:** 
+### Impressão Geral
 
 Fácil de beber, orientada para o malte.
 
-**Aroma:** 
+### Aroma
 
 Aroma doce maltado de leve a moderado. Aroma frutado de baixo a moderado é aceitável. Pode ter um aroma de lúpulo de baixo a médio. Sem diacetil.
 
-**Aparência:** 
+### Aparência
 
 Cor de amarelo claro a dourado profundo. De limpa a brilhante. Colarinho de baixo a médio com boa retenção.
 
-**Sabor:** 
-
+### Sabor
 Dulçor maltado suave inicial. Sabores de caramelo são tipicamente ausentes. Sabor de lúpulo de leve a moderado (geralmente Cascade), mas não deve ser agressivo. Amargor de lúpulo de baixo a moderado, o equilíbrio normalmente é em direção do malte. Final médio-seco a algo doce. Sem diacetil.
 
-**Sensação na Boca:** 
+### Sensação na Boca
 
 Corpo de médio leve a médio. Carbonatação de média a alta. Macia, sem amargor áspero ou adstringência.
 
-**Comentários:** 
+### Comentários
 
 É difícil alcançar o equilíbrio.
 
-**História:** 
+### História
 
 No início os cervejeiros caseiros argentinos eram muito limitados: não existiam extratos, eles só podiam usar malte pils, lúpulos Cascade e levedura seca, geralmente Nottingham, Windsor ou Safale. Com esses ingredientes, os cervejeiros argentinos desenvolveram uma versão específica de Blond Ale chamada Dorada Pampeana.
 
-**Ingredientes:** 
+### Ingredientes
 
 Geralmente só malte pale ou pils, embora possa incluir proporções baixas de maltes caramelizados. Comumente lúpulos Cascade. Levedura americana, inglesa ou *Kölsch* limpa, geralmente acondicionada a frio.
 
-**Estatísticas:**
+### Estatísticas
+
 OG: 1.042 – 1.054
 FG: 1.009 – 1.013
 IBU: 15 – 22

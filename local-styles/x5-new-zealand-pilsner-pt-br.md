@@ -2,7 +2,7 @@
 
 Posicionamento de estilo sugerido: Categoria 12 (Pale Commonwealth Beer)
 
-## Impressão Geral 
+## Impressão Geral
 
 Uma cerveja clara, seca, de cor dourada, de fermentação limpa, apresentando os característicos de lúpulos tropicais, cítricos, frutados e gramíneos do tipo neozelandês. Corpo médio, sensação na boca macia, com paladar e final suaves, a base de malte neutra, como pão, fornece o suporte para esta cerveja com muita drinkability, refrescante e com lúpulo em destaque.
 
@@ -10,7 +10,7 @@ Uma cerveja clara, seca, de cor dourada, de fermentação limpa, apresentando os
 
 Aroma de lúpulo médio a alto, refletindo as variedades modernas de lúpulo do Novo Mundo, frequentemente apresentando o caráter de frutas tropicais, frutas cítricas (limão, toranja branca), groselha, melão, com um leve toque de pimenta verde ou aspecto gramíneo. Malte médio-baixo a médio para suporte, com qualidade neutra como pão ou biscoito. DMS muito baixo aceitável, mas não obrigatório. Caráter de levedura neutro e limpo, opcionalmente com uma qualidade sulfurosa muito leve. O caráter de lúpulo deve ser mais proeminente no equilíbrio, mas algum caráter de malte deve ser evidente.
 
-## Aparência 
+## Aparência
 
 De cor palha a dourado profundo, mas a maioria dos exemplares são amarelo-ouro. Geralmente bastante límpida a cristalina; turbidez é uma falha. Espuma branca cremosa e duradoura.
 
@@ -18,7 +18,7 @@ De cor palha a dourado profundo, mas a maioria dos exemplares são amarelo-ouro.
 
 Amargor de lúpulo médio a alto, claramente amarga, não áspera, mais proeminente no equilíbrio e duradouro no retrogosto. Sabor de lúpulo médio a alto com características semelhantes ao aroma (tropical, cítrico, groselha, melão, gramíneo). Sabor médio a médio-baixo de malte, dulçor de grãos, pão ou biscoito. Perfil de fermentação limpo (os ésteres de fermentação são uma falha). Seco a meio-seco com um final limpo, suave, amargo, mas não áspero no retrogosto. O malte pode sugerir uma impressão de dulçor, mas a cerveja não deve ser literalmente doce. O final pode ser seco, mas não bem definido ou cortante. O equilíbrio deve ser sempre em direção ao amargor, mas o sabor do malte deve ser perceptível.
 
-## Sensação de Boca 
+## Sensação de Boca
 
 Corpo médio a médio-baixo. Carbonatação média a média-alta. Suavidade é a impressão mais proeminente. Nunca áspera nem adstringente.
 
@@ -44,7 +44,7 @@ OG: 1.044 – 1.056
 FG: 1.009 – 1.014
 IBU: 25 – 45
 SRM: 2 – 6
-ABV: 4.5 – 5.8%.
+ABV: 4.5 – 5.8%
 
 ## Exemplos comerciais
 

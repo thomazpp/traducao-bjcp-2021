@@ -10,7 +10,7 @@ Baseado na cerveja declarada.
 
 ### Comentários
 
-Destinada a ser um local "pega-tudo" para cervejas especificas que são baseadas em exemplares comerciais únicos que não se encaixam nos estilos existentes. Versões anteriores do Guia de estilos incluíam um estilo chamado Belgian Specialty Ale; esse estilo se enquadra no mesmo propósito, permitindo cervejas não belgas com objetivo similar.
+Destinada a ser um local "pega-tudo" para cervejas específicas que são baseadas em exemplares comerciais únicos e que não se encaixam nos estilos existentes. Versões anteriores do Guia de estilos incluíam um estilo chamado Belgian Specialty Ale; esse estilo se enquadra no mesmo propósito, permitindo cervejas não belgas com objetivo similar.
 
 ### Instruções para inscrição
 
