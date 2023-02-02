@@ -12,7 +12,7 @@ Varia de acordo com o estilo base e ingredientes especiais. Cervejas de cor mais
 
 Varia de acordo com o estilo base. O caráter de SHVs deve ser notável no aroma; entretanto, alguns SHVs (por exemplo, gengibre, canela, alecrim) têm aromas mais fortes e mais distintos do que outros (por exemplo, a maioria dos vegetais) deve-se permitir uma faixa de caráter e intensidade de SHVs de sutil a agressivo. Aroma de lúpulo pode ser mais baixo do que o esperado para o estilo base, para mostrar melhor o caráter de especiarias, ervas e vegetais. As especiarias, ervas e vegetais devem adicionar uma complexidade extra, mas não proeminente a ponto de desequilibrar o produto final.
 
-### Flavor
+### Sabor
 
 Varia de acordo com o estilo base. Como no aroma, um distinto sabor de SHV deve ser notável e pode variar de intensidade de sutil a agressiva. Alguns SHVs são inerentemente amargos e podem resultar numa cerveja mais amarga do que o estilo base declarado. Amargor, sabores de lúpulo e malte, teor alcoólico e subprodutos de fermentação, como ésteres, devem ser apropriados para o estilo base, porém harmoniosos e equilibrados com os distintos sabores de SHVs presentes.
 
