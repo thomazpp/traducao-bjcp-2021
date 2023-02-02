@@ -2,11 +2,11 @@
 
 ### Impressão Geral
 
-Uma cerveja forte belga, muito clara, altamente atenuada, que é mais frutado e lupulado do que condimentado. Complexa e delicada, o final é seco, corpo de leve e a alta carbonatação acentua o caráter do lúpulo e da levedura. Carbonatação espumante e efervescente, formando um colarinho firme branco.
+Uma cerveja forte belga, muito clara, altamente atenuada, que é mais frutada e lupulada do que condimentada. Complexa e delicada, o final é seco, corpo baixo e a alta carbonatação acentuam o caráter do lúpulo e da levedura. Carbonatação espumante e efervescente, formando um colarinho firme branco.
 
 ### Aparência
 
-Cor de amarelo claro a dourado. Boa limpidez. Efervescente. Colarinho branco, maciça, de longa duração, firme, resultando no característico 'rendado belga' (*Belgian lace*) na borda do copo na medida em que desaparece.
+Cor de amarelo claro a dourado. Boa limpidez. Efervescente. Colarinho branco, maciço, de longa duração, firme, resultando no característico 'rendado belga' (*Belgian lace*) na borda do copo na medida em que desaparece.
 
 ### Aroma
 
@@ -14,11 +14,11 @@ Um complexo buquê de ésteres frutados, lúpulos herbais e elevado álcool apim
 
 ### Sabor
 
-Perfil semelhante ao do aroma (são aplicados alguns descritores e intensidades) para ésteres, lúpulos, fenóis e álcool. Os ésteres como pera, álcool apimentado, lúpulos herbais e sabores suaves de malte perduram na boca por longo tempo, durante o final seco e até retrogosto. O amargor é de médio a alto, acentuado pelo final seco e pela alta carbonatação, que permanece no retrogosto.
+Perfil semelhante ao do aroma (são aplicados alguns descritores e intensidades) para ésteres, lúpulos, fenóis e álcool. Os ésteres como pera, álcool apimentado, lúpulos herbais e sabores suaves de malte perduram na boca por um longo tempo até o retrogosto, tendo um final seco. O amargor é de médio a alto, acentuado pelo final seco e pela alta carbonatação, que permanece no retrogosto.
 
 ### Sensação na Boca
 
-Muito altamente carbonatada. Efervescente. Corpo de leve a médio, porém mais leve do que a densidade pode sugerir. A carbonatação acentua a percepção de leveza. O aquecimento alcoólico é suave, mas perceptível, sem que seja quente ou que remeta a solvente.
+Carbonatação muito alta. Efervescente. Corpo de leve a médio, porém mais leve do que a densidade pode sugerir. A carbonatação acentua a percepção de leveza. O aquecimento alcoólico é suave, mas perceptível, sem que seja quente ou que remeta a solvente.
 
 ### Comentários
 
@@ -48,7 +48,7 @@ ABV: 7.5% - 10.5%
 
 Brigand, Delirium Tremens, Duvel, Judas, Lucifer, Russian River Damnation.
 
-### Versão Anterior
+### Última revisão
 
 Belgian Golden Strong Ale (2015)
 
