@@ -2,7 +2,7 @@
 
 ### Impressão Geral
 
-Uma cerveja aprimorada ou com destaque para o caráter dos grãos adicionados. O caráter especiífico depende muito dos grãos usados.
+Uma cerveja aprimorada ou com destaque para o caráter dos grãos adicionados. O caráter específico depende muito dos grãos usados.
 
 ### Aparência
 
