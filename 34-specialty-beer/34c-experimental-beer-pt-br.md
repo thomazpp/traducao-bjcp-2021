@@ -10,7 +10,7 @@ Varia.
 
 ### Comentários
 
-O estilo não pode representar uma cerveja comercial reconhecida (caso contrário ela deveria ser uma Commercial Specialty Beer) e não pode se encaixar em nenhum outro estilo de cerveja especial (incluindo aqueles dentro dessa categoria).
+O estilo não pode representar uma cerveja comercial reconhecida (caso contrário ela deveria ser uma Commercial Specialty Beer) e não pode se encaixar em nenhum outro estilo de Cerveja Tipo Especializada (incluindo aqueles dentro dessa categoria).
 
 ### Instruções para inscrição
 
@@ -22,7 +22,7 @@ OG, FG, IBUs, SRM e ABV vão variar dependendo da cerveja declarada.
 
 ### Exemplos Comerciais
 
-None
+Nenhum
 
 ### Última Revisão
 
