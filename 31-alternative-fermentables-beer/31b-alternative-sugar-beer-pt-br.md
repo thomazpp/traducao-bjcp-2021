@@ -2,27 +2,27 @@
 
 ### Impressão Geral
 
-Uma saborosa integração de açúcar e cerveja, mas ainda sim reconhecível como cerveja. O caráter de açúcar deve estar tanto evidente quanto em equilíbrio com a cerveja, mas não tanto que sugira um produto artificial.
+Uma saborosa integração de açúcar e cerveja, mas ainda assim reconhecível como cerveja. O caráter de açúcar deve estar tanto evidente quanto em equilíbrio com a cerveja, mas não tanto que sugira um produto artificial.
 
 ### Aparência
 
-A mesma do estilo base de cerveja, embora alguns açucares possam trazer cores adicionais, geralmente mais escuras.
+Igual à cerveja base, embora alguns açúcares possam trazer cores adicionais, geralmente mais escuras.
 
 ### Aroma
 
-O mesmo do estilo base de cerveja, exceto que alguns fermentáveis adicionais (ex. mel, melado) podem adicionar um aroma que deve ser uma combinação agradável e equilibrada com a cerveja.
+Igual à cerveja base, exceto que alguns fermentáveis adicionais (por exemplo, mel, melado) podem adicionar um aroma que deve ser uma combinação agradável e equilibrada com a cerveja.
 
 ### Sabor
 
-O mesmo do estilo base de cerveja, exceto que alguns fermentáveis adicionais (ex. mel, melado) podem adicionar sabor que deve ser uma combinação agradável e equilibrada com a cerveja. Açucares adicionados não devem ser um sabor não fermentado. Alguns açucares não fermentáveis provêm um final mais cheio enquanto açucares totalmente fermentáveis podem secar o final.
+Igual à cerveja base, exceto que alguns fermentáveis adicionais (por exemplo, mel, melado) podem adicionar sabor que deve ser uma combinação agradável e equilibrada com a cerveja. Açúcares adicionados não devem ter um sabor cru e não fermentado. Alguns açúcares não fermentáveis tornam o final mais cheio (doce), enquanto açúcares totalmente fermentáveis podem secá-lo.
 
 ### Sensação na Boca
 
-A mesma do estilo base de cerveja, ainda que dependendo do tipo de açúcar adicionado, possa aumentar ou diminuir o corpo.
+Igual à cerveja base, ainda que dependendo do tipo de açúcar adicionado, possa aumentar ou diminuir o corpo.
 
 ### Comentários
 
-O açúcar adicional deve estar aparente em algum lugar no perfil sensorial. Se o açúcar não prover um caráter distinto perceptível à cerveja, inscreva ela como o estilo base. Uma cerveja com base em mel não deve ter tanto mel que a leve a ser percebida mais como um hidromel com cerveja (um braggot) do que com uma cerveja com mel. Esse estilo nao deve ser usado para estilos onde o açúcar alternativo é fundamental para a definição do estilo ou onde pequenas quantidades de açúcar com sabor neutro é usado simplesmente para aumentar a densidade, aumentar a atenuação ou diminuir o sabor ou corpo; essas cervejas devem ser inscritas normalmente como o estilo base.
+O açúcar adicional deve estar aparente em algum lugar no perfil sensorial. Se os açúcares não conferem um caráter distinguível à cerveja, inscreva a amostra como o estilo base. Uma cerveja com base em mel não deve ter tanto mel que a leve a ser percebida mais como um hidromel com cerveja (um *braggot*) do que uma cerveja com mel. Esse estilo não deve ser usado para estilos onde o açúcar alternativo é fundamental para a definição do estilo ou onde pequenas quantidades de açúcar com sabor neutro é usado simplesmente para aumentar a densidade, aumentar a atenuação ou diminuir o sabor ou corpo; essas cervejas devem ser inscritas normalmente como o estilo base.
 
 ### Instruções para inscrição
 
