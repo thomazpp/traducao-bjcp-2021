@@ -1,5 +1,7 @@
 ## 33B. Specialty Wood-Aged Beer
 
+Este estilo é destinado às cervejas envelhecidas em madeira com a adição do perfil e caráter alcoólico proveniente do uso prévio do barril. Cervejas envelhecidas em barris de Bourbon ou com características de outras bebidas alcoólicas devem ser categorizadas neste estilo.
+
 ### Impressão Geral
 
 Uma elevação do estilo de cerveja base com características provenientes do envelhecimento em contato com a madeira, incluindo madeira que esteve previamente em contato com produtos alcoólicos. Os melhores exemplos serão suaves, saborosos, bem equilibrados e bem envelhecidos.
@@ -10,19 +12,19 @@ Varia com o estilo base. Frequentemente mais escura do que o estilo de cerveja b
 
 ### Aroma
 
-Varia com o estilo base. Um aroma amadeirado de baixo a moderado geralmente está presente; algumas variedades de madeira podem ter um caráter mais forte ou distinto. Se a madeira estiver tostada ou chamuscada, pode haver de baixo a moderado caráter de baunilha, caramelo, *toffee*, pão torrado ou cacau. Os aromas associados ao álcool (por exemplo, bebidas destiladas, vinho) previamente armazenados na madeira devem ser perceptíveis, mas equilibrados.
+Varia com o estilo base. Um aroma amadeirado de baixo a moderado geralmente está presente; algumas variedades de madeira podem ter um caráter mais forte ou distinto. Se a madeira estiver tostada ou chamuscada, pode haver de baixo a moderado caráter de baunilha, caramelo, toffee, pão torrado ou cacau. Os aromas associados ao álcool (por exemplo, bebidas destiladas, vinho) previamente armazenados na madeira devem ser perceptíveis, mas equilibrados.
 
 ### Sabor
 
 Varia com o estilo base. A madeira geralmente contribui com um sabor amadeirado e, possivelmente, com um caráter distinto da variedade da madeira. A madeira torrada ou chamuscada pode adicionar baunilha, caramelo, caramelo, pão torrado, nozes torradas, café, chocolate ou cacau, dependendo da variedade de madeira e do nível de torrada ou carvão. Sabores derivados de madeira e sabores de álcool adicionado devem ser equilibrados, mutuamente sustentados e perceptíveis, sem ser excessivo ao estilo de cerveja base ou um ao outro.
 
-### Sabor de Boca
+### Sensação de Boca
 
 Varia com o estilo base. Os taninos da madeira podem aumentar a percepção de corpo, além de potencializar a secura do final; alguma adstringência dos taninos da madeira é permitida. Geralmente apresenta aquecimento alcoólico adicional, mas não deve ser quente ou áspero. As características azedas ou ácidas devem ser de baixas a inexistentes, mas nunca perturbadoras.
 
 ### Comentários
 
-O sucesso neste estilo depende do quanto o caráter amadeirado e alcoólico suporta e melhora a cerveja base, bem como se estão bem integrados com o perfil geral de sabor. O caráter de envelhecido é permitido, mas oxidação excessiva ou acidez é uma falha. Cervejas *wild* especiais envelhecidas em madeira devem ser inseridas na 28C Wild Specialty Beer.
+O sucesso neste estilo depende do quanto o caráter amadeirado e alcoólico suporta e melhora a cerveja base, bem como se estão bem integrados com o perfil geral de sabor. O caráter de envelhecido é permitido, mas oxidação excessiva ou acidez é uma falha. Cervejas wild especiais envelhecidas em madeira devem ser inseridas na 28C Wild Specialty Beer.
 
 ### História
 
@@ -38,20 +40,16 @@ O participante deve especificar o caráter alcoólico adicionado, com informaç�
 
 ### Estatísticas
 
-IBU: varia com o estilo base
-SRM: varia com o estilo de base, muitas vezes mais escuro do que o estilo de base inalterado
-OG: varia com o estilo base, normalmente acima da média
-FG: varia com o estilo base
-ABV: varia com o estilo base, normalmente acima da média
+IBU: varia com o estilo base SRM: varia com o estilo de base, muitas vezes mais escuro do que o estilo de base inalterado OG: varia com o estilo base, normalmente acima da média FG: varia com o estilo base ABV: varia com o estilo base, normalmente acima da média
 
 ### Exemplos Comerciais
 
 AleSmith Barrel-Aged Old Numbskull, Founders Kentucky Breakfast Stout, Firestone Walker Parabola, Goose Island Bourbon County Stout, Great Divide Barrel Aged Yeti, The Lost Abbey Angel’s Share Ale.
 
-### Versão Anterior
+### Última Revisão
 
 Specialty Wood-Aged Beer (2015)
 
-### Atributos do Estilo
+#### Atributos do Estilo
 
 specialty-beer, wood

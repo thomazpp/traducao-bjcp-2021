@@ -2,7 +2,7 @@
 
 ### Impressão Geral
 
-Uma cerveja belga forte, clara, um pouco condimentada, com um agradável sabor de malte arredondado, de amargor firme e final seco. Bastante aromática, com condimentado, frutado e combinando notas de álcool que dá suporte a um caráter maltado limpo para produzir uma cerveja surpreendentemente agradável de ser bebida, apesar do alto teor alcoólico.
+Uma cerveja belga forte, clara, um pouco condimentada, com um agradável sabor de malte arredondado, de amargor assertivo e final seco. Bastante aromática, com condimentado, frutado e combinando notas de álcool, que me conjunto com um caráter maltado limpo, produzem uma cerveja surpreendentemente agradável de ser bebida, apesar do alto teor alcoólico.
 
 ### Aparência
 
@@ -10,13 +10,13 @@ A cor varia de um amarelo profundo a âmbar claro. Boa limpidez. Efervescente. E
 
 ### Aroma
 
-Complexo buquê de moderado a significativo condimentado, de ésteres frutados moderados, baixa percepção alcoólica, assim como em relação aos lúpulos e leve malte. Generoso condimentado, apimentado, às vezes fenóis semelhante a cravo. Muitas vezes os ésteres remetem a frutas cítricas, como laranjas ou limões, mas às vezes pode ter leve caráter de banana madura. Um perceptível mas baixo perfume de lúpulo condimentado ou floral é opcional. Álcoois são suaves, condimentados e em intensidade baixa. O caráter maltado é leve, suave, um pouco adocicado de grão ou que remeta a algo como mel.
+Complexo buquê moderado a significativo de condimentado, ésteres frutados moderados, baixa percepção alcoólica, baixo lúpulo e baixo malte. Generoso condimentado, apimentado, às vezes fenóis semelhantes à cravo. Muitas vezes os ésteres remetem a frutas cítricas, como laranjas ou limões, mas às vezes pode ter leve caráter de banana madura. Um perceptível, mas baixo perfume de lúpulo condimentado ou floral é opcional. Álcoois são suaves, condimentados e em intensidade baixa. O caráter maltado é leve, suave, um pouco adocicado de grão ou que remeta a algo como mel.
 
 ### Sabor
 
 Perfil similar ao do aroma (se aplicam os mesmos descritores) para malte, ésteres, fenóis, álcool e lúpulos. Ésteres são de baixo a moderado, fenóis de baixo a moderado, lúpulos de baixo a moderado; álcool é baixo, tudo combinado e em harmonia. O amargor é de médio a alto, acentuado por um final seco. No retrogosto, o amargor é moderado com um caráter substancial condimentado e frutado oriundo da levedura. Não deve ser doce.
 
-### Sabor de Boca
+### Sensação de Boca
 
 O corpo é de médio baixo a médio, porém mais leve do que a densidade possa sugerir. Altamente carbonatada. O teor alcoólico é enganoso e pode ter uma pequena, mas não clara sensação de aquecimento. Efervescente. Não deve ser pesada.
 
@@ -38,20 +38,16 @@ Pode ser semelhante a uma Belgian Golden Strong Ale, mas um pouco mais escura e 
 
 ### Estatísticas
 
-IBU: 20 - 40
-SRM: 4.5 - 7
-OG: 1.075 - 1.085
-FG: 1.008 - 1.014
-ABV: 7.5% - 9.5%
+IBU: 20 - 40 SRM: 4.5 - 7 OG: 1.075 - 1.085 FG: 1.008 - 1.014 ABV: 7.5% - 9.5%
 
 ### Examples Comerciais
 
 Chimay Tripel, La Rulles Tripel, La Trappe Tripel, St. Bernardus Tripel, Val-Dieu Triple, Westmalle Tripel.
 
-### Versão Anterio
+### Última Revisão
 
 Belgian Tripel (2015)
 
-### Atributos do Estilo
+#### Atributos do Estilo
 
 bitter, high-strength, pale-color, top-fermented, traditional-style, western-europe

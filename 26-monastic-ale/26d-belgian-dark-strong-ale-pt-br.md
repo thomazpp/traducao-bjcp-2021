@@ -16,9 +16,9 @@ Uma mistura complexa e bastante intensa de rico maltado e frutado profundo, acen
 
 Maltado rico e complexo, mas sem ser pesado no final. O sabor possui caráter similar ao do aroma (os mesmos comentários sobre malte, éster, fenol, álcool e lúpulo são aplicados aqui). Na boca, o maltado rico é moderado, o que pode passar uma impressão adocicada se o amargor for baixo. Normalmente é de moderadamente seco a seco no final, embora possa ser até moderadamente doce. Amargor de médio baixo a moderado; álcool fornece um pouco do equilíbrio para o malte. Geralmente, o equilíbrio é para um rico maltado, mas pode conter bastante amargor. A complexa variedade de sabores que devem se misturar de forma macia e harmoniosa e muitas vezes se beneficiam com a idade. O final não deve ser pesado ou similar a xarope.
 
-### Sabor de Boca
+### Sensação de Boca
 
-Alta carbonatação, mas sem ser agudo. Suave, mas perceptível aquecimento alcoólico. O corpo fica na faixa de médio baixo a médio cheio e cremoso. A maioria é de corpo médio.
+Alta carbonatação, mas sem ser agudo. Suave, mas perceptível aquecimento alcoólico. O corpo fica na faixa de médio baixo a médio alto e cremoso. A maioria é de corpo médio.
 
 ### Comentários
 
@@ -34,24 +34,20 @@ Levedura belga que produz subprodutos condimentados e frutados. Uma complexa var
 
 ### Comparação de Estilos
 
-Como uma grande Belgian Dubbel, com um corpo mais cheio e maior riqueza maltada. Não é como Belgian Tripel mais amarga ou mais lupulada, mas com força alcoólica semelhante.
+Como uma grande Belgian Dubbel, com um corpo mais cheio e maior riqueza maltada. Não é mais amarga ou lupulada como uma Belgian Tripel, mas com força alcoólica semelhante.
 
 ### Estatísticas
 
-IBU: 20 - 35
-SRM: 12 - 22
-OG: 1.075 - 1.110
-FG: 1.010 - 1.024
-ABV: 8% - 12%
+IBU: 20 - 35 SRM: 12 - 22 OG: 1.075 - 1.110 FG: 1.010 - 1.024 ABV: 8% - 12%
 
 ### Exemplos Comerciais
 
 Achel Extra Bruin, Boulevard The Sixth Glass, Chimay Blue, Rochefort 10, St. Bernardus Abt 12, Westvleteren 12.
 
-### Versão Anterior
+### Última Revisão
 
 Belgian Dark Strong Ale (2015)
 
-### Atributos do Estilo
+#### Atributos do Estilo
 
 amber-color, malty, top-fermented, traditional-style, very-high-strength, western-europe

@@ -26,12 +26,11 @@ A maioria dos exemplos comerciais estão na faixa de 6,5 a 7,0% de ABV. Por caus
 
 ### História
 
-Enquanto as cervejas fortes e escuras eram produzidas há tempos, a Dubbel moderna possui traços de uma cerveja forte ou de uma double marrom produzida pela Westmalle em 1922, quando a cervejaria foi restabelecida após a I Guerra Mundial. Outros exemplos datam de período posterior à II Guerra Mundial.
-
+Enquanto as cervejas fortes e escuras eram produzidas há tempos, a Dubbel moderna possui traços de uma cerveja forte ou de uma double brown produzida pela Westmalle em 1922, quando a cervejaria foi restabelecida após a I Guerra Mundial. Outros exemplos datam de período posterior à II Guerra Mundial.
 
 ### Ingredientes
 
-Levedura belga com característica condimentada e esterificada. Impressão de uma complexa variedade de grãos, embora muitas versões são bem simples, onde é usado calda de açúcar caramelizado ou açúcares não refinados e a levedura responsável por grande parte da complexidade. Lúpulos continentais. Especiarias não são típicas, mas se presentes, devem ser sutis.
+Levedura belga com característica condimentada e esterificada. Impressão de uma complexa variedade de grãos, embora muitas versões sejam bem simples, onde é usado calda de açúcar caramelizado ou açúcares não refinados e a levedura responsável por grande parte da complexidade. Lúpulos continentais. Especiarias não são típicas, mas se presentes, devem ser sutis.
 
 ### Comparação de Estilos
 
@@ -39,20 +38,16 @@ Talvez semelhante a uma Dunkles Bock, mas com caráter de levedura e açúcar be
 
 ### Estatísticas
 
-IBU: 15 - 25
-SRM: 10 - 17
-OG: 1.062 - 1.075
-FG: 1.008 - 1.018
-ABV: 6% - 7.6%
+IBU: 15 - 25 SRM: 10 - 17 OG: 1.062 - 1.075 FG: 1.008 - 1.018 ABV: 6% - 7.6%
 
 ### Exemplos Comerciais
 
 Chimay Red, Corsendonk Bruin, La Trappe Dubbel, Rochefort 6, St. Bernardus Pater 6, Westmalle Dubbel.
 
-### Versão Anterior
+### Revisão Anterior
 
 Belgian Dubbel (2015)
 
-### Atributos do Estilo
+#### Atributos do Estilo
 
 amber-color, high-strength, malty, top-fermented, traditional-style, western-europe

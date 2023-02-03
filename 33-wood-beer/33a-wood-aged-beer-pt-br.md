@@ -1,5 +1,7 @@
 ## 33A. Wood-Aged Beer
 
+Este estilo é destinado às cervejas envelhecidas em madeira sem a adição do caráter alcoólico proveniente do uso prévio do barril. Cervejas envelhecidas em barris de Bourbon ou com características de outras bebidas alcoólicas devem ser categorizadas no estilo 33B Spectialty Wood-Aged Beer.
+
 ### Impressão Geral
 
 Um aprimoramento agradável do estilo da cerveja base com as características do envelhecimento em contato com a madeira. Os melhores exemplos serão suaves, saborosos, bem equilibrados e bem envelhecidos.
@@ -10,7 +12,7 @@ Varia com o estilo base. Frequentemente mais escura do que o estilo de cerveja b
 
 ### Aroma
 
-Varia com o estilo base. Um aroma amadeirado de baixo a moderado geralmente está presente; algumas variedades podem ter um caráter mais forte ou distinto. A madeira fresca pode ocasionalmente transmitir cheiro de madeira crua e recém-cortada, embora esse caráter nunca deva ser muito forte. Se a madeira estiver tostada ou chamuscada, pode haver de baixo a moderado caráter de baunilha, caramelo, *toffee*, pão torrado ou cacau.
+Varia com o estilo base. Um aroma amadeirado de baixo a moderado geralmente está presente; algumas variedades podem ter um caráter mais forte ou distinto. A madeira fresca pode ocasionalmente transmitir cheiro de madeira crua e recém-cortada, embora esse caráter nunca deva ser muito forte. Se a madeira estiver tostada ou chamuscada, pode haver de baixo a moderado caráter de baunilha, caramelo, toffee, pão torrado ou cacau.
 
 ### Sabor
 
@@ -38,17 +40,13 @@ O participante deverá especificar o tipo de madeira utilizada e o nível de tos
 
 ### Estatísticas
 
-IBU: varia com o estilo base
-SRM: varia com o estilo base, muitas vezes mais escuro do que o estilo base inalterado
-OG: varia com o estilo base, normalmente acima da média
-FG: varia com o estilo base
-ABV: varia com o estilo base, normalmente acima da média
+IBU: varia com o estilo base SRM: varia com o estilo base, muitas vezes mais escuro do que o estilo base inalterado OG: varia com o estilo base, normalmente acima da média FG: varia com o estilo base ABV: varia com o estilo base, normalmente acima da média
 
 ### Exemplos Comerciais
 
 Bush Prestige, Cigar City Spanish Cedar Jai Alai, Firestone Walker Double Barrel Ale, Midnight Sun Arctic Devil, Petrus Aged Pale, Samuel Smith Yorkshire Stingo.
 
-### Revisão Anterior
+### Última Revisão
 
 Wood-Aged Beer (2015)
 
