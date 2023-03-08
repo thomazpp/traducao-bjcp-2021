@@ -23,7 +23,7 @@ Geralmente é leve e bem definida, embora o corpo pode ser médio. Sensação na
 
 ### Comentários
 
-Muitos exemplares comerciais possuem OG variando de 1.050-1.053 e o amargor raramente supera os 20 IBUs.
+Muitos exemplares comerciais possuem OG variando de 1.050-1.053 e o amargor raramente supera os 20 IBU.
 
 ### História
 

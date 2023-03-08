@@ -30,7 +30,7 @@ O participante deverá especificar o tipo de grão alternativo usado. O particip
 
 ### Estatísticas
 
-OG, FG, IBUs, SRM e ABV vão variar de acordo com a cerveja base.
+OG, FG, IBU, SRM e ABV vão variar de acordo com a cerveja base.
 
 ### Exemplos Comerciais
 

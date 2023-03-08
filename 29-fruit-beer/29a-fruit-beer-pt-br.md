@@ -30,7 +30,7 @@ O participante deve especificar o(s) tipo(s) de fruta(s) utilizado(s). O partici
 
 ### Estatísticas
 
-OG, FG, IBUs, SRM e ABV vão variar dependendo do estilo base, mas a fruta irá muitas vezes impactar na coloração.
+OG, FG, IBU, SRM e ABV vão variar dependendo do estilo base, mas a fruta irá muitas vezes impactar na coloração.
 
 ### Exemplos comerciais
 
