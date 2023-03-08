@@ -2,19 +2,19 @@
 
 ### Impresssão Geral
 
-Uma lager âmbar maltada, suave e fácil de beber, com um saboroso caráter que remete a caramelo ou tostado. Geralmente bem atenuada, frequentemente com um caráter de adjunto e amargor contido.
+Uma lager âmbar maltada, suave e fácil de beber, com um saboroso caráter que remete a caramelo ou tostado. Geralmente bem atenuada, geralmente com um caráter de adjunto e amargor contido.
 
 ### Aparência
 
-Cor de âmbar dourado a cobre avermelhado. Limpidez brilhante. Espuma de branca a quase branca, que pode não perdurar.
+Cor de âmbar dourado a cobre avermelhado. Limpidez brilhante. Espuma de branca a quase branca, que pode ser de baixa persistência.
 
 ### Aroma
 
-Aroma de malte de baixo a moderado aroma como de grãos, frequentemente com notas de caramelo ou tostado de intensidade de muito baixa a moderada. Ocasionalmente nozes ou biscoito, mas nunca torrado. Aroma de lúpulo floral ou condimentado em níveis baixos e discretos. Perfil de fermentação limpo.
+Aroma de malte lembrando cereais de baixo a moderado, frequentemente com notas de caramelo ou tostado de intensidade de muito baixa a moderada. Ocasionalmente nozes ou biscoito, mas nunca torrado. Aroma de lúpulo floral ou condimentado em níveis baixos e discretos. Perfil de fermentação limpo.
 
 ### Sabor
 
-Sabor de malte de baixo a moderado, frequentemente como caramelo ou pão tostado. De baixo a médio-baixo adocicado como milho é opcional. De baixo a moderado amargor, dando a cerveja um equilíbrio maltado e bastante uniforme. Sabor de lúpulo de baixo a moderado, com características floral, herbal ou condimentado. Perfil de fermentação limpo. O final é seco moderado com retrogosto moderadamente maltado. A cerveja pode parecer levemente doce quando o nível de amargor for baixo.
+Sabor de malte de baixo a moderado, frequentemente como caramelo ou pão tostado. Adocicado lembrando milho de baixo a médio-baixo é opcional. Amargor de baixo a moderado, dando à cerveja um equilíbrio maltado e bastante uniforme. Sabor de lúpulo de baixo a moderado, com característica floral, herbal ou condimentado. Perfil de fermentação limpo. O final é seco moderado com retrogosto moderadamente maltado. A cerveja pode parecer levemente doce quando o nível de amargor for baixo.
 
 ### Sensação na Boca
 
@@ -26,7 +26,7 @@ Um amplo espectro de cervejas âmbar de mercado de massa que se desenvolveram in
 
 ### História
 
-Varia de acordo com o país, mas geralmente representa uma adaptação da International Pale Lager do mercado de massa ou uma evolução de estilos indígenas em produtos mais genéricos.
+Varia de acordo com o país, mas geralmente representa uma adaptação da International Pale Lager do mercado de massa ou uma evolução de estilos locais em produtos mais genéricos.
 
 ### Ingredientes
 
@@ -34,7 +34,7 @@ Malte base de duas ou seis fileiras. Maltes de cor, como Victory, âmbar ou torr
 
 ### Comparação de estilos
 
-Sabor de malte menos desenvolvido do que uma Vienna Lager, frequentemente com sabor de adjunto. Sabor e amargor menos intensos que uma Altbier.
+Sabor de malte menos desenvolvido do que uma Vienna Lager, geralmente com sabor de adjunto. Sabor e amargor menos intensos que uma Altbier.
 
 ### Características vitais
 
