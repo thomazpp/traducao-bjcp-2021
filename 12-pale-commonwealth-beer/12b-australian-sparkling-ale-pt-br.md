@@ -34,7 +34,7 @@ Malte pale australiano de 2 fileiras, levemente torrado, variedades pilsen podem
 
 ### Comparação de estilos
 
-Superficialmente semelhante às English Pale Ales, embora muito mais carbonatadas, com menos caramelo, menos lúpulos tardios e apresentando a assinatura da levedura e variedade de lúpulo. Mais amargor do que os IBUs podem sugerir devido à alta atenuação, baixa gravidade final e lúpulo um tanto áspero.
+Superficialmente semelhante às English Pale Ales, embora muito mais carbonatadas, com menos caramelo, menos lúpulos tardios e apresentando a assinatura da levedura e variedade de lúpulo. Mais amargor do que os IBU podem sugerir devido à alta atenuação, baixa gravidade final e lúpulo um tanto áspero.
 
 ### Estatísticas
 

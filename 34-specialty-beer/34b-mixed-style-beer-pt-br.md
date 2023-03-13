@@ -18,7 +18,7 @@ O participante deve especificar o Estilo ou Estilos Base que estão sendo usados
 
 ### Estatísticas
 
-OG, FG, IBUs, SRM e ABV vão variar dependendo da cerveja declarada.
+OG, FG, IBU, SRM e ABV vão variar dependendo da cerveja declarada.
 
 ### Exemplos Comerciais
 

@@ -38,7 +38,7 @@ O participante deve especificar o tipo de especiarias, açúcares, frutas ou fer
 
 ### Estatísticas
 
-OG, FG, IBUs, SRM e ABV vão variar dependendo do estilo base. Teor alcoólico é geralmente maior do que 6% e a maioria dos exemplos são de cor um pouco mais escura.
+OG, FG, IBU, SRM e ABV vão variar dependendo do estilo base. Teor alcoólico é geralmente maior do que 6% e a maioria dos exemplos são de cor um pouco mais escura.
 
 ### Exemplos comerciais
 

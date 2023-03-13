@@ -34,7 +34,7 @@ O participante deve especificar o tipo de especiarias, ervas ou vegetais utiliza
 
 ### Estatísticas
 
-OG, FG, IBUs, SRM e ABV vão variar dependendo do estilo base, teor alcoólico é geralmente acima de 5% e a maioria dos exemplos tem a cor âmbar acobreada.
+OG, FG, IBU, SRM e ABV vão variar dependendo do estilo base, teor alcoólico é geralmente acima de 5% e a maioria dos exemplos tem a cor âmbar acobreada.
 
 ### Exemplos comerciais
 

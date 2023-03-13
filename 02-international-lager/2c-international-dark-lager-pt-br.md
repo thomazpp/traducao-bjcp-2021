@@ -2,19 +2,19 @@
 
 ### Impressão Geral
 
-Uma versão mais escura, mais rica e um pouco mais doce da International Pale Lager, com um pouco mais de corpo e sabor, porém igualmente contida no amargor. O baixo amargor deixa o malte como elemento principal de sabor, ao passo que os baixos níveis de lúpulo contribuem muito pouco para o equilíbrio.
+Uma versão mais escura, mais rica e um pouco mais doce da International Pale Lager, com um pouco mais de corpo e sabor, porém igualmente contida no amargor. O baixo amargor deixa o malte como elemento principal de sabor, e os baixos níveis de lúpulo contribuem muito pouco para o equilíbrio.
 
 ### Aparência
 
-De âmbar profundo a marrom muito escuro, com limpidez brilhante e reflexos rubi. Espuma de cor bege a castanho claro que pode não ter longa duração.
+De âmbar profundo a marrom muito escuro, com limpidez brilhante e reflexos rubi. Espuma cor bege a castanho claro que pode ser de baixa persistência.
 
 ### Aroma
 
-Aroma fraco de malte. Aroma médio-baixo de malte caramelo ou torrado é opcional. Leve aroma de lúpulo floral, herbal ou condimentado é opcional. Perfil de fermentação limpo.
+Aroma fraco de malte. Aroma de malte caramelo ou torrado médio-baixo é opcional. Aroma de lúpulo floral, herbal ou condimentado leve é opcional. Perfil de fermentação limpo.
 
 ### Sabor
 
-Baixo a médio dulçor de malte. Médio-baixo sabor de malte caramelo ou torrado é opcional, possivelmente com notas de café, de melaço, de açúcar mascavo ou de cacau. Baixo sabor de lúpulo floral, herbal ou condimentado é opcional. Amargor de baixo a médio. Pode apresentar um caráter frutado muito leve. Final moderadamente bem definido. O equilíbrio é tipicamente maltado. Sabores moderadamente fortes de malte torrado ou queimado são inapropriados.
+Dulçor de malte baixo a médio. Sabor de malte caramelo ou torrado médio-baixo é opcional, possivelmente com notas de café, melaço, açúcar mascavo ou cacau. Sabor de lúpulo floral, herbal ou condimentado baixo é opcional. Amargor de baixo a médio. Pode apresentar um caráter frutado muito leve. Final moderadamente bem definido. O equilíbrio é tipicamente maltado. Sabores moderadamente fortes de malte torrado ou queimado são inapropriados.
 
 ### Sensação na Boca
 
@@ -22,11 +22,11 @@ Corpo de baixo a médio-baixo. Suave, com leve cremosidade. Carbonatação de m�
 
 ### Comentários
 
-Uma ampla variedade de lagers internacionais que é mais escura do que clara e não assertivamente amarga ou torrada.
+Uma ampla variedade de lagers internacionais que são mais escuras do que clara/pale e não assertivamente amarga ou torrada.
 
 ### História
 
-Versões mais escuras das International Pale Lagers, frequentemente criadas pelas mesmas grandes cervejarias industriais e destinadas a atrair um público amplo. Frequentemente uma adaptação com mais cor ou dulçor da lager industrial clara deste padrão ou uma versão mais acessível (e econômica) das lagers escuras mais tradicionais.
+Versões mais escuras das International Pale Lagers, geralmente criadas pelas mesmas grandes cervejarias industriais e destinadas a atrair um público amplo. Muitas vezes uma adaptação da lager industrial clara deste padrão com mais cor ou dulçor ou uma versão mais acessível (e econômica) das lagers escuras mais tradicionais.
 
 ### Ingredientes
 

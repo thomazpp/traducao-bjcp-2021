@@ -30,7 +30,7 @@ O participante deve especificar o tipo de especiarias, ervas ou vegetais utiliza
 
 ### Estatísticas
 
-OG, FG, IBUs, SRM e ABV vão variar dependendo do estilo base.
+OG, FG, IBU, SRM e ABV vão variar dependendo do estilo base.
 
 ### Exemplos Comerciais
 
