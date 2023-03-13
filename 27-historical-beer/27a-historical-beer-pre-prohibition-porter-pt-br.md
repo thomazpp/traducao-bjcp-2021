@@ -40,9 +40,9 @@ Mais suave e com menos amargor de lúpulo do que uma American Porter (moderna). 
 
 IBU: 20 - 30
 SRM: 20 - 30
-OG: 1.046 - 1.060
-FG: 1.010 - 1.016
-ABV: 4.5% - 6%
+OG: 1,046 - 1,060
+FG: 1,010 - 1,016
+ABV: 4,5% - 6%
 
 ### Exemplos Comerciais
 

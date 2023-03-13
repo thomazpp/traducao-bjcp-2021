@@ -23,7 +23,7 @@ Geralmente é leve e bem definida, embora o corpo pode ser médio. Sensação na
 
 ### Comentários
 
-Muitos exemplares comerciais possuem OG variando de 1.050-1.053 e o amargor raramente supera os 20 IBU.
+Muitos exemplares comerciais possuem OG variando de 1,050-1,053 e o amargor raramente supera os 20 IBU.
 
 ### História
 
@@ -41,9 +41,9 @@ Semelhante ao estilo Standard American Lager, mas com maior caráter. Corpo mais
 
 IBU: 8 - 20
 SRM: 2 - 5
-OG: 1.042 - 1.055
-FG: 1.006 - 1.012
-ABV: 4.2% - 5.6%
+OG: 1,042 - 1,055
+FG: 1,006 - 1,012
+ABV: 4,2% - 5,6%
 
 ### Exemplos Comerciais
 

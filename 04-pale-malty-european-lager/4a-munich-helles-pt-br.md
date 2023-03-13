@@ -40,9 +40,9 @@ Com equilíbrio e amargor similar a Munich Dunkel, mas com uma natureza menos ma
 
 IBU: 16 - 22
 SRM: 3 - 5
-OG: 1.044 - 1.048
-FG: 1.006 - 1.012
-ABV: 4.7% - 5.4%
+OG: 1,044 - 1,048
+FG: 1,006 - 1,012
+ABV: 4,7% - 5,4%
 
 ### Exemplos Comerciais
 

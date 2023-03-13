@@ -30,7 +30,7 @@ The entrant must specify the type of alternative grain used. Entrant must specif
 
 ### Vital Statistics
 
-OG, FG, IBUs, SRM and ABV will vary depending on the underlying base beer.
+OG, FG, IBU, SRM and ABV will vary depending on the underlying base beer.
 
 ### Commercial Examples
 

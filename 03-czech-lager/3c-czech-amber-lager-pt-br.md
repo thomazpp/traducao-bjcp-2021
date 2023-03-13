@@ -22,7 +22,7 @@ Corpo médio a médio-alto. Suave e arredondada, frequentemente com uma cremosid
 
 ### Comentários
 
-O nome tcheco deste estilo é polotmavé pivo, que se traduz como cerveja meio escura. Este estilo é a combinação dos estilos tchecos polotmavý ležák (11–12.9 °P) e polotmavé speciální pivo (13–14.9 °P). Algumas versões podem ser uma mistura de cervejas claras e escuras.
+O nome tcheco deste estilo é polotmavé pivo, que se traduz como cerveja meio escura. Este estilo é a combinação dos estilos tchecos polotmavý ležák (11–12,9 °P) e polotmavé speciální pivo (13–14,9 °P). Algumas versões podem ser uma mistura de cervejas claras e escuras.
 
 ### História
 
@@ -40,9 +40,9 @@ Este estilo pode ser semelhante a uma Vienna Lager, mas com mais forte caráter 
 
 IBU: 20 - 35
 SRM: 10 - 16
-OG: 1.044 - 1.060
-FG: 1.013 - 1.017
-ABV: 4.4% - 5.8%
+OG: 1,044 - 1,060
+FG: 1,013 - 1,017
+ABV: 4,4% - 5,8%
 
 ### Exemplos comerciais
 

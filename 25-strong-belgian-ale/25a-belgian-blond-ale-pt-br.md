@@ -40,9 +40,9 @@ Semelhante a força alcoólica e o equilíbrio de Belgian Dubbel, como de colora
 
 IBU: 15 - 30
 SRM: 4 - 6
-OG: 1.062 - 1.075
-FG: 1.008 - 1.018
-ABV: 6% - 7.5%
+OG: 1,062 - 1,075
+FG: 1,008 - 1,018
+ABV: 6% - 7,5%
 
 ### Exemplos Comerciais
 

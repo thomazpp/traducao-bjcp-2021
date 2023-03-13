@@ -40,9 +40,9 @@ Na mesma família histórica geral de cerveja de trigo da Europa Central com bai
 
 IBU: 5 - 12
 SRM: 3 - 6
-OG: 1.032 - 1.040
-FG: 1.004 - 1.008
-ABV: 3.5% - 4.7%
+OG: 1,032 - 1,040
+FG: 1,004 - 1,008
+ABV: 3,5% - 4,7%
 
 ### Exemplos Comerciais
 

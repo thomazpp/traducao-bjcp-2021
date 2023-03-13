@@ -42,7 +42,7 @@ O participante deve especificar a força alcoólica (table, standart ou super) e
 
 ### Estatísticas
 
-IBU: 20 - 35 SRM: 5 – 14 (clara) 15 – 22 (escura) OG: 1.048 – 1.065 (standard) FG: 1.002 – 1.008 (standard) ABV: 3.5 – 5.0% (table) 5.0 – 7.0% (standard) 7.0 – 9.5% (super)
+IBU: 20 - 35 SRM: 5 – 14 (clara) 15 – 22 (escura) OG: 1,048 – 1,065 (standard) FG: 1,002 – 1,008 (standard) ABV: 3,5 – 5,0% (table) 5,0 – 7,0% (standard) 7,0 – 9,5% (super)
 
 ### Examples Comerciais
 

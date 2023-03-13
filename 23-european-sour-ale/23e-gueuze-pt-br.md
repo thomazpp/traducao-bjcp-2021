@@ -40,8 +40,8 @@ Mais complexa e carbonatada que uma Lambic. A acidez não é necessariamente mai
 
 IBU: 0 - 10
 SRM: 5 - 6
-OG: 1.040 - 1.054
-FG: 1.000 - 1.006
+OG: 1,040 - 1,054
+FG: 1,000 - 1,006
 ABV: 5% - 8%
 
 ### Exemplos Comerciais

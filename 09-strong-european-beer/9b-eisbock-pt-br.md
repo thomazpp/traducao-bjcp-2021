@@ -40,8 +40,8 @@ As Eisbocks não são simplesmente Doppelbocks mais fortes; o nome refere-se ao 
 
 IBU: 25 - 35
 SRM: 17 - 30
-OG: 1.078 - 1.120
-FG: 1.020 - 1.035
+OG: 1,078 - 1,120
+FG: 1,020 - 1,035
 ABV: 9% - 14%
 
 ### Exemplos Comerciais

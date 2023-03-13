@@ -44,9 +44,9 @@ O participante deve especificar se a amostra é uma versão clara (SRM entre 6-9
 
 IBU: 15 - 30
 SRM: 6 - 25
-OG: 1.064 - 1.090
-FG: 1.015 - 1.022
-ABV: 6.5% - 9%
+OG: 1,064 - 1,090
+FG: 1,015 - 1,022
+ABV: 6,5% - 9%
 
 ### Exemplos Comerciais
 

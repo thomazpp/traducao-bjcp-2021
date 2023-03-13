@@ -40,9 +40,9 @@ Como uma Cream Ale de cor mais escura, enfatizando o milho, mas com um leve car√
 
 IBU: 15 - 30
 SRM: 11 - 20
-OG: 1.044 - 1.055
-FG: 1.010 - 1.018
-ABV: 4% - 5.5%
+OG: 1,044 - 1,055
+FG: 1,010 - 1,018
+ABV: 4% - 5,5%
 
 ### Exemplos Comerciais
 

@@ -40,9 +40,9 @@ Muitas vezes tem uma acidez mais simples e menos complexidade do que um Gueuze, 
 
 IBU: 0 - 10
 SRM: 3 - 6
-OG: 1.040 - 1.054
-FG: 1.001 - 1.010
-ABV: 5% - 6.5%
+OG: 1,040 - 1,054
+FG: 1,001 - 1,010
+ABV: 5% - 6,5%
 
 ### Exemplos Comerciais
 

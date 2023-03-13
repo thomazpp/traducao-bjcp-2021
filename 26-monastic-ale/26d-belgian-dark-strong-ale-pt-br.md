@@ -38,7 +38,7 @@ Como uma grande Belgian Dubbel, com um corpo mais cheio e maior riqueza maltada.
 
 ### Estatísticas
 
-IBU: 20 - 35 SRM: 12 - 22 OG: 1.075 - 1.110 FG: 1.010 - 1.024 ABV: 8% - 12%
+IBU: 20 - 35 SRM: 12 - 22 OG: 1,075 - 1,110 FG: 1,010 - 1,024 ABV: 8% - 12%
 
 ### Exemplos Comerciais
 

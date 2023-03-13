@@ -40,9 +40,9 @@ Não é tão intensa em malte ou potente como uma Dunkles Bock. Sem os sabores m
 
 IBU: 18 - 28
 SRM: 17 - 28
-OG: 1.048 - 1.056
-FG: 1.010 - 1.016
-ABV: 4.5% - 5.6%
+OG: 1,048 - 1,056
+FG: 1,010 - 1,016
+ABV: 4,5% - 5,6%
 
 ### Exemplos Comerciais
 

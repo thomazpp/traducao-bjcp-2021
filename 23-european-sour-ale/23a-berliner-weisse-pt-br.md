@@ -40,9 +40,9 @@ Comparada à Lambic, possui uma acidez lática limpa com Bretta entre contida a 
 
 IBU: 3 - 8
 SRM: 2 - 3
-OG: 1.028 - 1.032
-FG: 1.003 - 1.006
-ABV: 2.8% - 3.8%
+OG: 1,028 - 1,032
+FG: 1,003 - 1,006
+ABV: 2,8% - 3,8%
 
 ### Exemplos Comerciais
 

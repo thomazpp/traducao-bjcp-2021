@@ -40,8 +40,8 @@ Menos lúpulos de finalização e mais corpo que uma German Pils. Mais amarga e 
 
 IBU: 20 - 30
 SRM: 4 - 6
-OG: 1.050 - 1.058
-FG: 1.008 - 1.015
+OG: 1,050 - 1,058
+FG: 1,008 - 1,015
 ABV: 5% - 6%
 
 ### Exemplos Comerciais

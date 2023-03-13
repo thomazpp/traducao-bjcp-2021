@@ -18,7 +18,7 @@ The entrant must specify the name of the commercial beer, specifications (vital 
 
 ### Vital Statistics
 
-OG, FG, IBUs, SRM and ABV will vary depending on the declared beer.
+OG, FG, IBU, SRM and ABV will vary depending on the declared beer.
 
 ### Commercial Examples
 

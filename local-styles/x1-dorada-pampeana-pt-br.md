@@ -35,8 +35,8 @@ Geralmente só malte pale ou pils, embora possa incluir proporções baixas de m
 
 ### Estatísticas
 
-OG: 1.042 – 1.054
-FG: 1.009 – 1.013
+OG: 1,042 – 1,054
+FG: 1,009 – 1,013
 IBU: 15 – 22
 SRM: 3 – 5
-ABV: 4.3% – 5.5%
+ABV: 4,3% – 5,5%

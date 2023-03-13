@@ -40,9 +40,9 @@ Mais amarga e maltada que a International Amber Lagers. Um tanto similar a Calif
 
 IBU: 25 - 50
 SRM: 9 - 17
-OG: 1.044 - 1.052
-FG: 1.008 - 1.014
-ABV: 4.3% - 5.5%
+OG: 1,044 - 1,052
+FG: 1,008 - 1,014
+ABV: 4,3% - 5,5%
 
 ### Exemplos Comerciais
 

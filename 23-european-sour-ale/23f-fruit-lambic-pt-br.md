@@ -45,8 +45,8 @@ O tipo de fruta utilizada deve ser especificado. O cervejeiro deve declarar um n
 
 IBU: 0 - 10
 SRM: 3 – 7 (varia c/ a fruta)
-OG: 1.040 - 1.060
-FG: 1.000 - 1.010
+OG: 1,040 - 1,060
+FG: 1,000 - 1,010
 ABV: 5% - 7%
 
 ### Exemplos Comerciais

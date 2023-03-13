@@ -40,9 +40,9 @@ Pode parecer uma versão menos torrada de uma Sweet Stout (e de menor densidade,
 
 IBU: 15 - 20
 SRM: 22 - 35
-OG: 1.033 - 1.038
-FG: 1.012 - 1.015
-ABV: 2.8% - 3.6%
+OG: 1,033 - 1,038
+FG: 1,012 - 1,015
+ABV: 2,8% - 3,6%
 
 ### Exemplos Comerciais
 

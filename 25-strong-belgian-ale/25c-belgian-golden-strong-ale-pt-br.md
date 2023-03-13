@@ -40,9 +40,9 @@ Muitas vezes confundida com a Belgian Tripel, mas geralmente é mais clara, corp
 
 IBU: 22 - 35
 SRM: 3 - 6
-OG: 1.070 - 1.095
-FG: 1.005 - 1.016
-ABV: 7.5% - 10.5%
+OG: 1,070 - 1,095
+FG: 1,005 - 1,016
+ABV: 7,5% - 10,5%
 
 ### Exemplos Comerciais
 

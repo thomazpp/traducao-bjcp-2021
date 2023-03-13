@@ -46,7 +46,7 @@ ABV: 7,5% - 10%
 
 ### Exemplos Comerciais
 
-Columbus Brewing Bohdi, Fat Heads Hop Juju, Port Brewing Hop 15, Russian River Pliny the Elder, Stone Ruination Double IPA 2.0, Wicked Weed Freak of Nature.
+Columbus Brewing Bohdi, Fat Heads Hop Juju, Port Brewing Hop 15, Russian River Pliny the Elder, Stone Ruination Double IPA 2,0, Wicked Weed Freak of Nature.
 
 ### Última Revisão
 

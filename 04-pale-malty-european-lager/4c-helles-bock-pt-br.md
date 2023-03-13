@@ -40,9 +40,9 @@ Pode ser pensada tanto como uma versão mais clara de uma Dunkles Bock ou como u
 
 IBU: 23 - 35
 SRM: 6 - 9
-OG: 1.064 - 1.072
-FG: 1.011 - 1.018
-ABV: 6.3% - 7.4%
+OG: 1,064 - 1,072
+FG: 1,011 - 1,018
+ABV: 6,3% - 7,4%
 
 ### Exemplos Comerciais
 

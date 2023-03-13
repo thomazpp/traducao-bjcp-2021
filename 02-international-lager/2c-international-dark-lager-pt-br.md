@@ -40,9 +40,9 @@ Menos sabor e riqueza que a Munich Dunkel, Schwarzbier, ou outras lagers escuras
 
 IBU: 8 - 20
 SRM: 14 - 30
-OG: 1.044 - 1.056
-FG: 1.008 - 1.012
-ABV: 4.2% - 6%
+OG: 1,044 - 1,056
+FG: 1,008 - 1,012
+ABV: 4,2% - 6%
 
 ### Exemplos comerciais
 

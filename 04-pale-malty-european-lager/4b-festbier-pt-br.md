@@ -40,9 +40,9 @@ Menos intensa e menos ricamente tostada que uma Märzen. Mais forte que uma Muni
 
 IBU: 18 - 25
 SRM: 4 - 6
-OG: 1.054 - 1.057
-FG: 1.010 - 1.012
-ABV: 5.8% - 6.3%
+OG: 1,054 - 1,057
+FG: 1,010 - 1,012
+ABV: 5,8% - 6,3%
 
 ### Exemplos Comerciais
 

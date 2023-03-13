@@ -40,8 +40,8 @@ Semelhanças com Weizenbocks, porém mais doce e espessa, com caráter de centei
 
 IBU: 0 - 15
 SRM: 4 - 22
-OG: 1.076 - 1.120
-FG: 1.016 - 1.038
+OG: 1,076 - 1,120
+FG: 1,016 - 1,038
 ABV: 7% - 11%
 
 ### Exemplos Comerciais

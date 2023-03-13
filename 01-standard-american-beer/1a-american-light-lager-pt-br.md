@@ -40,9 +40,9 @@ Uma versão com menor corpo, menos álcool e menos calorias do que uma American 
 
 IBU: 8 - 12
 SRM: 2 - 3
-OG: 1.028 - 1.040
-FG: 0.998 - 1.008
-ABV: 2.8% - 4.2%
+OG: 1,028 - 1,040
+FG: 0,998 - 1,008
+ABV: 2,8% - 4,2%
 
 ### Exemplos Comerciais
 

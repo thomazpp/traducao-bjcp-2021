@@ -40,9 +40,9 @@ Uma variante mais distinta de uma Dunkles Weissbier usando centeio malteado no l
 
 IBU: 10 - 20
 SRM: 14 - 19
-OG: 1.046 - 1.056
-FG: 1.010 - 1.014
-ABV: 4.5% - 6%
+OG: 1,046 - 1,056
+FG: 1,010 - 1,014
+ABV: 4,5% - 6%
 
 ### Exemplos Comerciais
 

@@ -39,10 +39,10 @@ Como uma German Pils ou Munich Helles com teor alcoólico mais baixo, corpo mais
 ### Estatísticas
 
 IBU: 15 - 28
-SRM: 1.5 - 4
-OG: 1.026 - 1.034
-FG: 1.006 - 1.010
-ABV: 2.4% - 3.6%
+SRM: 1,5 - 4
+OG: 1,026 - 1,034
+FG: 1,006 - 1,010
+ABV: 2,4% - 3,6%
 
 ### Exemplos Comerciais
 

@@ -36,10 +36,10 @@ Semelhante à Fruit Beer, mas evoluiu como um estilo autônomo devido à abundâ
 
 ## Estatísticas
 
-OG: 1.045 – 1.100
-FG: 1.005 – 1.015
+OG: 1,045 – 1,100
+FG: 1,005 – 1,015
 IBU: 6 – 30
-SRM: 4 – 25 ABV: 4.5 – 12%
+SRM: 4 – 25 ABV: 4,5 – 12%
 
 ## Exemplos Comerciais
 

@@ -38,7 +38,7 @@ Pode ser semelhante a uma Belgian Golden Strong Ale, mas um pouco mais escura e 
 
 ### Estatísticas
 
-IBU: 20 - 40 SRM: 4.5 - 7 OG: 1.075 - 1.085 FG: 1.008 - 1.014 ABV: 7.5% - 9.5%
+IBU: 20 - 40 SRM: 4,5 - 7 OG: 1,075 - 1,085 FG: 1,008 - 1,014 ABV: 7,5% - 9,5%
 
 ### Examples Comerciais
 

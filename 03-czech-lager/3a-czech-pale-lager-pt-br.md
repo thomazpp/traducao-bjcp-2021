@@ -40,9 +40,9 @@ Uma versão para o dia-a-dia, com corpo mais leve, menos intensa e refrescante d
 
 IBU: 20 - 35
 SRM: 3 - 6
-OG: 1.028 - 1.044
-FG: 1.008 - 1.014
-ABV: 3% - 4.1%
+OG: 1,028 - 1,044
+FG: 1,008 - 1,014
+ABV: 3% - 4,1%
 
 ### Exemplos comerciais
 

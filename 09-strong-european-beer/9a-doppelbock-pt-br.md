@@ -44,8 +44,8 @@ O participante deve especificar se a amostra é clara ou escura.
 
 IBU: 16 - 26
 SRM: 6 - 25
-OG: 1.072 - 1.112
-FG: 1.016 - 1.024
+OG: 1,072 - 1,112
+FG: 1,016 - 1,024
 ABV: 7% - 10%
 
 ### Exemplos Comerciais

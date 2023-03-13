@@ -40,8 +40,8 @@ Um cruzamento entre uma American IPA ou Double IPA com uma Belgian Golden Strong
 
 IBU: 50 - 100
 SRM: 5 - 8
-OG: 1.058 - 1.080
-FG: 1.008 - 1.016
+OG: 1,058 - 1,080
+FG: 1,008 - 1,016
 ABV: 6,2% - 9,5%
 
 ### Exemplos Comerciais

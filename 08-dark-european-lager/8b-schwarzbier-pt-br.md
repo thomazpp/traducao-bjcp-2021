@@ -40,9 +40,9 @@ Em comparação com uma Munich Dunkel, geralmente tem a cor mais escura, é mais
 
 IBU: 20 - 35
 SRM: 19 - 30
-OG: 1.046 - 1.052
-FG: 1.010 - 1.016
-ABV: 4.4% - 5.4%
+OG: 1,046 - 1,052
+FG: 1,010 - 1,016
+ABV: 4,4% - 5,4%
 
 ### Exemplos Comerciais
 

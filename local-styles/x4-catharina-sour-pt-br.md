@@ -40,11 +40,11 @@ Como uma Berliner Weisse mais forte, mas com fruta fresca e sem Brett. Menos ác
 
 ### Estatisticas
 
-OG: 1.039 – 1.048
-FG: 1.004 – 1.012
+OG: 1,039 – 1,048
+FG: 1,004 – 1,012
 IBU: 2 – 8
 SRM: 2 – 6
-ABV: 4.0 – 5.5%
+ABV: 4,0 – 5,5%
 
 ### Exemplos Comerciais
 

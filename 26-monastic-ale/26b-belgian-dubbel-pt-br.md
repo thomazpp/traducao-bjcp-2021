@@ -38,7 +38,7 @@ Talvez semelhante a uma Dunkles Bock, mas com caráter de levedura e açúcar be
 
 ### Estatísticas
 
-IBU: 15 - 25 SRM: 10 - 17 OG: 1.062 - 1.075 FG: 1.008 - 1.018 ABV: 6% - 7.6%
+IBU: 15 - 25 SRM: 10 - 17 OG: 1,062 - 1,075 FG: 1,008 - 1,018 ABV: 6% - 7,6%
 
 ### Exemplos Comerciais
 

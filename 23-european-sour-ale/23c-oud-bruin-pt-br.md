@@ -40,8 +40,8 @@ Um caráter mais intenso de malte, com mais caramelo, toffee, sabores de chocola
 
 IBU: 20 - 25
 SRM: 17 - 22
-OG: 1.040 - 1.074
-FG: 1.008 - 1.012
+OG: 1,040 - 1,074
+FG: 1,008 - 1,012
 ABV: 4% - 8%
 
 ### Exemplos Comerciais

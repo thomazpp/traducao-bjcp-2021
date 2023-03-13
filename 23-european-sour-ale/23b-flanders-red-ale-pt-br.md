@@ -41,9 +41,9 @@ Menos rica em sabores maltados que uma Oud Bruin, geralmente mais voltada para u
 
 IBU: 10 - 25
 SRM: 10 - 17
-OG: 1.048 - 1.057
-FG: 1.002 - 1.012
-ABV: 4.6% - 6.5%
+OG: 1,048 - 1,057
+FG: 1,002 - 1,012
+ABV: 4,6% - 6,5%
 
 ### Exemplos Comerciais
 

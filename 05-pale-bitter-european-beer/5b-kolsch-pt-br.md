@@ -39,10 +39,10 @@ Pode ser confundida com uma Cream Ale ou com uma German Pils um tanto sutil.
 ### Características vitais
 
 IBU: 18 - 30
-SRM: 3.5 - 5
-OG: 1.044 - 1.050
-FG: 1.007 - 1.011
-ABV: 4.4% - 5.2%
+SRM: 3,5 - 5
+OG: 1,044 - 1,050
+FG: 1,007 - 1,011
+ABV: 4,4% - 5,2%
 
 ### Exemplos comerciais
 

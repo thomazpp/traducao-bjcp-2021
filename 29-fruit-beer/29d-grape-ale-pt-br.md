@@ -44,9 +44,9 @@ O participante deve especificar o tipo de uva utilizada. O participante pode for
 
 IBU: 10 - 30
 SRM: 4 - 8
-OG: 1.059 - 1.075
-FG: 1.004 - 1.013
-ABV: 6% - 8.5%
+OG: 1,059 - 1,075
+FG: 1,004 - 1,013
+ABV: 6% - 8,5%
 
 ### Exemplos Comerciais
 

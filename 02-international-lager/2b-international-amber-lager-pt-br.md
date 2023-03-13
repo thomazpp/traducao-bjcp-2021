@@ -40,9 +40,9 @@ Sabor de malte menos desenvolvido do que uma Vienna Lager, geralmente com sabor 
 
 IBU: 8 - 25
 SRM: 6 - 14
-OG: 1.042 - 1.055
-FG: 1.008 - 1.014
-ABV: 4.5% - 6%
+OG: 1,042 - 1,055
+FG: 1,008 - 1,014
+ABV: 4,5% - 6%
 
 ### Exemplos comerciais
 

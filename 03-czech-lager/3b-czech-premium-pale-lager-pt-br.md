@@ -22,7 +22,7 @@ Corpo médio. Carbonatação baixa a moderada.
 
 ### Comentários
 
-Generally a group of pivo Plzenského typu, or Pilsner-type beers. This style is a combination of the Czech styles svetlý ležák (11–12.9 °P) and svetlé speciální pivo (13–14.9 °P). In the Czech Republic, only Pilsner Urquell and Gambrinus are called Pilsner, despite how widely adopted this name is worldwide. Outside the Czech Republic, Czech Pilsner or Bohemian Pilsner are sometimes used to differentiate the beer from other Pilsner-type beers. Kvasnicové (“yeast beer”) versions are popular in the Czech Republic, and may be either kräusened with yeasted wort or given a fresh dose of pure yeast after fermentation. These beers are sometimes cloudy, with subtle yeastiness and enhanced hop character. Modern examples vary in their malt to hop balance and many are not as hop-forward as Pilsner Urquell.
+Generally a group of pivo Plzenského typu, or Pilsner-type beers. This style is a combination of the Czech styles svetlý ležák (11–12,9 °P) and svetlé speciální pivo (13–14,9 °P). In the Czech Republic, only Pilsner Urquell and Gambrinus are called Pilsner, despite how widely adopted this name is worldwide. Outside the Czech Republic, Czech Pilsner or Bohemian Pilsner are sometimes used to differentiate the beer from other Pilsner-type beers. Kvasnicové (“yeast beer”) versions are popular in the Czech Republic, and may be either kräusened with yeasted wort or given a fresh dose of pure yeast after fermentation. These beers are sometimes cloudy, with subtle yeastiness and enhanced hop character. Modern examples vary in their malt to hop balance and many are not as hop-forward as Pilsner Urquell.
 
 Geralmente um grupo de cervejas pivo Plzenského typu, ou do tipo Pilsner. Este estilo é uma combinação dos estilos tchecos svetlý ležák (11–12,9 °P) e svetlé speciální pivo (13–14,9 °P). Na República Tcheca somente a Pilsner Urquell e a Gambrinus são chamadas de Pilsner, apesar da enorme adoção deste nome em todo o mundo. Fora da República Tcheca, Czech Pilsner ou Bohemian Pilsner são às vezes utilizadas para diferenciar as cervejas de outras do tipo Pilsner. As versões Kvasnicové (“cerveja com levedura”) são populares na República Tcheca e podem receber kräusening com mosto inoculado, ou uma dose fresca de levedura pura após a fermentação. Estas cervejas, às vezes, são turvas, com caráter sutil de levedura e um caráter de lúpulo realçado. Os exemplares modernos variam no seu equilíbrio entre malte e lúpulo e muitos não possuem o caráter de lúpulo como a Pilsner Urquell.
 
@@ -43,10 +43,10 @@ Mais cor, riqueza de malte e corpo do que uma German Pils, com um final mais che
 ### Estatísticas
 
 IBU: 30 - 45
-SRM: 3.5 - 6
-OG: 1.044 - 1.060
-FG: 1.013 - 1.017
-ABV: 4.2% - 5.8%
+SRM: 3,5 - 6
+OG: 1,044 - 1,060
+FG: 1,013 - 1,017
+ABV: 4,2% - 5,8%
 
 ### Exemplos comerciais
 

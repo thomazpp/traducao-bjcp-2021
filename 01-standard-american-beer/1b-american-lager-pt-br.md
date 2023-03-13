@@ -40,10 +40,10 @@ Uma versão mais forte, com mais sabor e corpo do que uma American Light Lager. 
 ### Estatísticas
 
 IBU: 8 - 18
-SRM: 2 - 3.5
-OG: 1.040 - 1.050
-FG: 1.004 - 1.010
-ABV: 4.2% - 5.3%
+SRM: 2 - 3,5
+OG: 1,040 - 1,050
+FG: 1,004 - 1,010
+ABV: 4,2% - 5,3%
 
 ### Exemplos Comerciais
 

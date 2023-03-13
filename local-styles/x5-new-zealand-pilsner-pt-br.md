@@ -40,11 +40,11 @@ Comparada com uma German Pils não é tão bem definida e seca no final, com uma
 
 ## Características vitais
 
-OG: 1.044 – 1.056
-FG: 1.009 – 1.014
+OG: 1,044 – 1,056
+FG: 1,009 – 1,014
 IBU: 25 – 45
 SRM: 2 – 6
-ABV: 4.5 – 5.8%
+ABV: 4,5 – 5,8%
 
 ## Exemplos comerciais
 

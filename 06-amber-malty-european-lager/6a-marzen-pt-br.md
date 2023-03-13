@@ -40,9 +40,9 @@ Não tão forte e rica como uma Dunkles Bock. Mais profundidade e riqueza de mal
 
 IBU: 18 - 24
 SRM: 8 - 17
-OG: 1.054 - 1.060
-FG: 1.010 - 1.014
-ABV: 5.6% - 6.3%
+OG: 1,054 - 1,060
+FG: 1,010 - 1,014
+ABV: 5,6% - 6,3%
 
 ### Exemplos Comerciais
 

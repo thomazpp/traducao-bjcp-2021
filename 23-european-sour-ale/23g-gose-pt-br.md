@@ -40,9 +40,9 @@ A acidez percebida não é tão intensa com uma Berliner Weisse ou Gueuze. Uso c
 
 IBU: 5 - 12
 SRM: 3 - 4
-OG: 1.036 - 1.056
-FG: 1.006 - 1.010
-ABV: 4.2% - 4.8%
+OG: 1,036 - 1,056
+FG: 1,006 - 1,010
+ABV: 4,2% - 4,8%
 
 ### Exemplos Comerciais
 

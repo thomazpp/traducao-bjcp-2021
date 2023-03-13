@@ -40,9 +40,9 @@ Mais escura, com um sabor maltado mais rico e menos amargor aparente do que uma 
 
 IBU: 20 - 27
 SRM: 14 - 22
-OG: 1.064 - 1.072
-FG: 1.013 - 1.019
-ABV: 6.3% - 7.2%
+OG: 1,064 - 1,072
+FG: 1,013 - 1,019
+ABV: 6,3% - 7,2%
 
 ### Exemplos comerciais
 

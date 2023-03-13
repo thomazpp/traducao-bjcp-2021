@@ -40,9 +40,9 @@ Combina o corpo, o maltado, a riqueza e a suavidade de uma Doppelbock, o caráte
 
 IBU: 20 - 40
 SRM: 17 - 30
-OG: 1.060 - 1.090
-FG: 1.016 - 1.024
-ABV: 6.5% - 9.5%
+OG: 1,060 - 1,090
+FG: 1,016 - 1,024
+ABV: 6,5% - 9,5%
 
 ### Exemplos Comerciais
 

@@ -40,9 +40,9 @@ Exemplos de densidade mais baixa podem parecer muito com uma Berliner Weisse sem
 
 IBU: 3 - 8
 SRM: 2 - 3
-OG: 1.048 - 1.065
-FG: 1.006 - 1.013
-ABV: 4.5% - 7%
+OG: 1,048 - 1,065
+FG: 1,006 - 1,013
+ABV: 4,5% - 7%
 
 ### Exemplos comerciais
 

@@ -44,9 +44,9 @@ O participante pode especificar se a levedura deve ser agitada antes de servir.
 
 IBU: 8 - 15
 SRM: 2 - 6
-OG: 1.044 - 1.053
-FG: 1.008 - 1.014
-ABV: 4.3% - 5.6%
+OG: 1,044 - 1,053
+FG: 1,008 - 1,014
+ABV: 4,3% - 5,6%
 
 ### Exemplos Comerciais
 

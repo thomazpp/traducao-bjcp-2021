@@ -41,9 +41,9 @@ Similar em força a uma Berliner Weisse, mas nunca deve ser ácida e é muito ma
 
 IBU: 20 - 35
 SRM: 3 - 6
-OG: 1.028 - 1.032
-FG: 1.006 - 1.012
-ABV: 2.5% - 3.3%
+OG: 1,028 - 1,032
+FG: 1,006 - 1,012
+ABV: 2,5% - 3,3%
 
 ### Exemplos Comerciais
 

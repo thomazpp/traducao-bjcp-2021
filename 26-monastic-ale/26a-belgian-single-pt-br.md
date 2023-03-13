@@ -38,7 +38,7 @@ Como uma interpretação belga de alta fermentação da German Pils - clara, lup
 
 ### Estatísticas
 
-IBU: 25 - 45 SRM: 3 - 5 OG: 1.044 - 1.054 FG: 1.004 - 1.010 ABV: 4.8% - 6%
+IBU: 25 - 45 SRM: 3 - 5 OG: 1,044 - 1,054 FG: 1,004 - 1,010 ABV: 4,8% - 6%
 
 ### Exemplos Comerciais
 

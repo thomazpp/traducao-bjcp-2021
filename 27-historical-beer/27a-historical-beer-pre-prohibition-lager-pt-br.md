@@ -40,9 +40,9 @@ Equilíbrio e amargor similares às modernas Czech Premium Pale Lagers, mas exib
 
 IBU: 25 - 40
 SRM: 3 - 6
-OG: 1.044 - 1.060
-FG: 1.010 - 1.015
-ABV: 4.5% - 6%
+OG: 1,044 - 1,060
+FG: 1,010 - 1,015
+ABV: 4,5% - 6%
 
 ### Exemplos Comerciais
 

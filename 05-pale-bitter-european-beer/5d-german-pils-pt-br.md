@@ -40,9 +40,9 @@ Mais leve em corpo e cor, mais seca, com final mais bem definido, mais atenuada,
 
 IBU: 22 - 40
 SRM: 2 - 4
-OG: 1.044 - 1.050
-FG: 1.008 - 1.013
-ABV: 4.4% - 5.2%
+OG: 1,044 - 1,050
+FG: 1,008 - 1,013
+ABV: 4,4% - 5,2%
 
 ### Exemplos comerciais
 

@@ -40,9 +40,9 @@ Como uma Märzen, mas com um aroma e sabor equilibrados, doce e defumada, e de c
 
 IBU: 20 - 30
 SRM: 12 - 22
-OG: 1.050 - 1.057
-FG: 1.012 - 1.016
-ABV: 4.8% - 6%
+OG: 1,050 - 1,057
+FG: 1,012 - 1,016
+ABV: 4,8% - 6%
 
 ### Exemplos Comerciais
 

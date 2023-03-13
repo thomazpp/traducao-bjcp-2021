@@ -41,9 +41,9 @@ Caráter de lúpulo maior e menor perfil de levedura do que uma Weissbier. Não 
 
 IBU: 15 - 30
 SRM: 3 - 6
-OG: 1.040 - 1.055
-FG: 1.008 - 1.013
-ABV: 4% - 5.5%
+OG: 1,040 - 1,055
+FG: 1,008 - 1,013
+ABV: 4% - 5,5%
 
 ### Exemplos Comerciais
 

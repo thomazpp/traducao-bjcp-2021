@@ -40,9 +40,9 @@ Sabor de malte similar a uma Märzen, mas com intensidade e corpo mais leve, com
 
 IBU: 18 - 30
 SRM: 9 - 15
-OG: 1.048 - 1.055
-FG: 1.010 - 1.014
-ABV: 4.7% - 5.5%
+OG: 1,048 - 1,055
+FG: 1,010 - 1,014
+ABV: 4,7% - 5,5%
 
 ### Exemplos Comerciais
 
