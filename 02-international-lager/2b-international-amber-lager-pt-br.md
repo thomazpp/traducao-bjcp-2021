@@ -2,7 +2,7 @@
 
 ### Impresssão Geral
 
-CERVEJA Uma lager âmbar maltada, suave e fácil de beber, com um saboroso caráter que remete a caramelo ou tostado. Geralmente bem atenuada, geralmente com um caráter de adjunto e amargor contido.
+Uma lager âmbar maltada, suave e fácil de beber, com um saboroso caráter que remete a caramelo ou tostado. Geralmente bem atenuada, geralmente com um caráter de adjunto e amargor contido.
 
 ### Aparência
 
