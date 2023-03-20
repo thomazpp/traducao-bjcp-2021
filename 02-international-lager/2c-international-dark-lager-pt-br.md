@@ -6,7 +6,7 @@ Uma versão mais escura, mais rica e um pouco mais doce da International Pale La
 
 ### Aparência
 
-Cor de âmbar profundo a marrom muito escuro, com limpidez brilhante e reflexos rubi. Espuma cor bege a castanho claro que pode ser de baixa persistência.
+Cor de âmbar profundo a marrom muito escuro, com limpidez brilhante e reflexos rubi. Espuma com cor de bege a castanho claro que pode ser de baixa persistência.
 
 ### Aroma
 
