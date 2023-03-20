@@ -2,7 +2,7 @@
 
 ### Impresssão Geral
 
-Uma lager âmbar maltada, suave e fácil de beber, com um saboroso caráter que remete a caramelo ou tostado. Geralmente bem atenuada, geralmente com um caráter de adjunto e amargor contido.
+Uma lager âmbar maltada suave e fácil de beber, com um saboroso caráter que remete a caramelo ou tostado. Geralmente bem atenuada e com caráter de adjunto e amargor contido.
 
 ### Aparência
 
@@ -14,7 +14,7 @@ Aroma de malte lembrando cereais de baixo a moderado, frequentemente com notas d
 
 ### Sabor
 
-Sabor de malte de baixo a moderado, frequentemente como caramelo ou pão tostado. Adocicado lembrando milho de baixo a médio-baixo é opcional. Amargor de baixo a moderado, dando à cerveja um equilíbrio maltado e bastante uniforme. Sabor de lúpulo de baixo a moderado, com característica floral, herbal ou condimentado. Perfil de fermentação limpo. O final é seco moderado com retrogosto moderadamente maltado. A cerveja pode parecer levemente doce quando o nível de amargor for baixo.
+Sabor de malte de baixo a moderado, frequentemente como caramelo ou pão tostado. Adocicado lembrando milho de baixo a médio-baixo é opcional. Amargor de baixo a moderado, dando à cerveja um equilíbrio maltado e uniforme. Sabor de lúpulo de baixo a moderado, com característica floral, herbal e/ou condimentado. Perfil de fermentação limpo. O final é moderadamente seco com retrogosto moderadamente maltado. A cerveja pode parecer levemente doce quando o nível de amargor for baixo.
 
 ### Sensação na Boca
 
@@ -22,7 +22,7 @@ Corpo de leve a médio. Carbonatação de média a alta. Suave. Alguns exemplare
 
 ### Comentários
 
-Um amplo espectro de cervejas âmbar de mercado de massa que se desenvolveram independentemente em vários países ou descrevendo cervejas âmbar bastante genéricas com mais relevância histórica, mas que eventualmente se transformaram em um produto indistinguível nos tempos modernos.
+Um amplo espectro de cervejas âmbar do mercado de massa que se desenvolveram independentemente em vários países ou descrevendo cervejas âmbar bastante genéricas com mais relevância histórica, mas que eventualmente se transformaram em um produto indistinguível nos tempos modernos.
 
 ### História
 
@@ -30,11 +30,11 @@ Varia de acordo com o país, mas geralmente representa uma adaptação da Intern
 
 ### Ingredientes
 
-Malte base de duas ou seis fileiras. Maltes de cor, como Victory, âmbar ou torrado. Pode ser puro malte ou utilizar adjuntos. Permite o uso de açúcares ou corantes. Malte caramelo. Lúpulo europeu ou americano.
+Malte base de duas ou seis fileiras. Maltes de cor, como Victory, âmbar e/ou torrado. Pode ser puro malte ou utilizar adjuntos. Permite o uso de açúcares e/ou corantes. Malte caramelo. Lúpulo europeu ou americano.
 
 ### Comparação de estilos
 
-Sabor de malte menos desenvolvido do que uma Vienna Lager, geralmente com sabor de adjunto. Sabor e amargor menos intensos que uma Altbier.
+Sabor de malte menos desenvolvido do que uma Vienna Lager, geralmente com sabor de adjunto. Sabor e amargor menos intensos do que uma Altbier.
 
 ### Características vitais
 
