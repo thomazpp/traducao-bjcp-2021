@@ -10,7 +10,7 @@ Cor de âmbar dourado a cobre avermelhado. Limpidez brilhante. Espuma de branca 
 
 ### Aroma
 
-Aroma de malte lembrando cereais de baixo a moderado, frequentemente com notas de caramelo ou tostado de intensidade de muito baixa a moderada. Ocasionalmente nozes ou biscoito, mas nunca torrado. Aroma de lúpulo floral ou condimentado em níveis baixos e discretos. Perfil de fermentação limpo.
+Aroma de malte lembrando cereais de baixo a moderado, frequentemente com notas de caramelo e/ou tostado de intensidade de muito baixa a moderada. Ocasionalmente nozes ou biscoito, mas nunca torrado. Aroma de lúpulo floral ou condimentado em níveis baixos e discretos. Perfil de fermentação limpo.
 
 ### Sabor
 
