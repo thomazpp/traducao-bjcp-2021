@@ -14,11 +14,11 @@ Aroma de malte que remete a cereais ou levemente doce, como milho de baixo a mé
 
 ### Sabor
 
-Sabor de malte e cereais de baixo a moderado, amargor de médio-baixo a médio, com final crisp bem definido, seca e bem atenuada. O caráter de cereais pode ser um tanto neutro ou demonstrar uma leve qualidade de biscoito água-e-sal ou pão. Caráter moderado de milho ou dulçor de malte são opcionais. Sabor de lúpulo floral, condimentado ou herbal médio também é opcional. O equilíbrio pode variar de levemente maltado a levemente amargo, mas normalmente é mais próximo de ser equilibrado. Retrogosto neutro com malte leve e, às vezes, sabores de lúpulo.
+Sabor de malte e cereais de baixo a moderado, amargor de médio-baixo a médio, com final crisp bem definido, seca e bem atenuada. O caráter de cereais pode ser um tanto neutro ou demonstrar uma leve qualidade de biscoito água-e-sal ou pão. Caráter moderado de milho ou dulçor de malte são opcionais. Sabor de lúpulo floral, condimentado e/ou herbal médio também é opcional. O equilíbrio pode variar de levemente maltado a levemente amargo, mas normalmente é mais próximo de ser equilibrado. Retrogosto neutro com malte leve e, às vezes, sabor de lúpulo.
 
 ### Sensação na Boca
 
-Corpo de leve a médio. Carbonatação de média-alta a altamente carbonatada. Pode apresentar uma leve picância de gás carbônico língua.
+Corpo de leve a médio. Carbonatação de média-alta a alta. Pode apresentar uma leve picância de gás carbônico língua.
 
 ### Comentários
 

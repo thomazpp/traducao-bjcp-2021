@@ -2,27 +2,27 @@
 
 ### Impressão Geral
 
-Uma lager tcheca âmbar, maltada, com um caráter de lúpulo que pode variar de baixo a bastante significante. Os sabores de malte também podem variar, levando a diferentes interpretações e equilíbrios, variando de mais secos, como pão e leve biscoito a mais doces e algo como caramelo.
+Uma lager tcheca âmbar, maltada, com caráter de lúpulo que pode variar de baixo a muito significativo. Os sabores de malte também podem variar, levando a diferentes interpretações e equilíbrios, variando de mais secos, como pão e leve biscoito a mais doces e algo como caramelo.
 
 ### Aparência
 
-Cor âmbar profundo a cobre. Claridade limpa a brilhante. Colarinho de alta formação, quase branco e persistente.
+Cor de âmbar profundo a cobre. Claridade de limpa a brilhante. Colarinho de alta formação, quase branco e persistente.
 
 ### Aroma
 
-Rico aroma de malte de intensidade moderada que pode ser como pão e dominantes produtos de Maillard ou leve dulçor como caramelo. Caráter de lúpulo condimentado, floral ou herbal pode ser de moderado a nenhum. Caráter limpo de lager, embora baixos ésteres frutados (frutas de caroço ou bagas) podem estar presentes. Diacetil baixo é opcional.
+Rico aroma de malte de intensidade moderada que pode ser como pão e com intensos produtos de Maillard e/ou leve dulçor como caramelo. Caráter de lúpulo condimentado, floral e/ou herbal pode ser de nenhum a moderado. Caráter limpo de lager, embora baixos ésteres frutados (drupas ou bagas/berries) podem estar presentes. Diacetil baixo é opcional.
 
 ### Sabor
 
-O sabor de malte complexo é dominante (médio a médio-alto), embora sua natureza possa variar de seco e dominantes produtos de Maillard a caramelo e quase doce. Alguns exemplares tem o caráter doce de malte a biscoito cracker. Baixo a moderado sabor condimentado de lúpulo. Amargor de lúpulo proeminente, mas limpo, que proporciona um final equilibrado. Ésteres sutis como ameixa e baga são opcionais. Baixo diacetil opcional. Sem sabores de malte torrado. O final pode variar de seco e lupulado a relativamente doce.
+O sabor complexo de maltes é dominante (de médio a médio-alto), embora sua natureza possa variar de seco e com intensos produtos de Maillard a caramelo e quase doce. Alguns exemplares tem o caráter doce de malte a biscoito graham-cracker. Sabor condimentado de lúpulo de baixo a moderado. Amargor de lúpulo proeminente, mas limpo, que proporciona um final equilibrado. Ésteres sutis como ameixa e baga/berries são opcionais. Baixo diacetil opcional. Sem sabores de malte torrado. O final pode variar de seco e lupulado a relativamente doce.
 
 ### Sensação na Boca
 
-Corpo médio a médio-alto. Suave e arredondada, frequentemente com uma cremosidade delicada. Carbonatação baixa a moderada.
+Corpo de médio a médio-alto. Suave e arredondada, frequentemente com uma cremosidade delicada. Carbonatação de baixa a moderada.
 
 ### Comentários
 
-O nome tcheco deste estilo é polotmavé pivo, que se traduz como cerveja meio escura. Este estilo é a combinação dos estilos tchecos polotmavý ležák (11–12,9 °P) e polotmavé speciální pivo (13–14,9 °P). Algumas versões podem ser uma mistura de cervejas claras e escuras.
+O nome tcheco deste estilo é polotmavé pivo, que traduz como cerveja meio escura. Este estilo é a combinação dos estilos tchecos polotmavý ležák (11–12,9 °P) e polotmavé speciální pivo (13–14,9 °P). Algumas versões podem ser uma mistura de cervejas claras e escuras.
 
 ### História
 

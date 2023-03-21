@@ -2,7 +2,7 @@
 
 ### Impressão Geral
 
-Uma lager tcheca de corpo mais leve, rica, refrescante, lupulada e amarga com os sabores familiares a, mais forte, Czech Premium Pale Lager (tipo Pilsner) mas em um formato com menor teor alcoólico, corpo mais leve e levemente menos intensa.
+Uma lager tcheca de corpo mais leve, rica, refrescante, lupulada e amarga com os sabores familiares da mais forte Czech Premium Pale Lager (tipo Pilsner), mas em um formato com menor teor alcoólico, corpo mais leve e levemente menos intensa.
 
 ### Aparência
 
@@ -10,11 +10,11 @@ Cor de amarelo claro a dourado profundo. De brilhante a muito límpida com um co
 
 ### Aroma
 
-Malte rico como pão de leve a moderado combinado com um buquê de lúpulo condimentado ou herbal de intensidade de leve a moderado; o equilíbrio entre malte e lúpulos pode variar. Leve toque de caramelo é aceitável. Diacetil leve (mas nunca intrusivo) e leve ésteres frutados são opcionais. Sem enxofre.
+Malte rico como pão de leve a moderado combinado com um buquê de lúpulo condimentado e/ou herbal de intensidade de leve a moderado. O equilíbrio entre malte e lúpulo pode variar. Leve toque de caramelo é aceitável. Diacetil leve (mas nunca intrusivo) e leve ésteres frutados são opcionais. Sem enxofre.
 
 ### Sabor
 
-Sabor de malte rico como pão de médio-baixo a médio com um final lupulado e arredondado. Sabor de lúpulo condimentado ou herbal de baixo a médio-alto. Amargor é proeminente mas nunca é áspero. Saborosa e refrescante. Diacetil ou ésteres frutados são aceitáveis em níveis baixos mas não precisam estar presentes nem devem dominar.
+Sabor de malte rico como pão de médio-baixo a médio com um final lupulado e arredondado. Sabor de lúpulo condimentado e/ou herbal de baixo a médio-alto. Amargor é proeminente mas nunca é áspero. Saborosa e refrescante. Diacetil ou ésteres frutados são aceitáveis em níveis baixos, mas não precisam estar presentes nem devem dominar.
 
 ### Sensação na Boca
 
@@ -26,15 +26,15 @@ O nome tcheco desse estilo é svetlé výcepní pivo.
 
 ### História
 
-Josef Groll inicialmente fabricou dois tipos de cerveja clara em 1842-3, a výcepní e a ležák, com a cerveja menor tendo o dobro da produção; Evan Rail especula que essas cervejas tinham provavelmente 10 ºP e 12 ºP, mas que a výcepní poderia ser mais fraca. Esse é o tipo de cerveja mais consumido na República Tcheca na atualidade.
+Josef Groll inicialmente fabricou dois tipos de cerveja clara em 1842-3, a výcepní e a ležák, com a cerveja menor tendo o dobro da produção; Evan Rail especula que essas cervejas tinham provavelmente 10 °P e 12 °P, mas que a výcepní poderia ser mais fraca. Esse é o tipo de cerveja mais consumido na República Tcheca na atualidade.
 
 ### Ingredientes
 
-Água mole com baixo teor de sulfato e carbonato. Lúpulos tradicionais tchecos. Malte Pilsner tcheco. Levedura lager tcheca. Água com baixo teor de íons provê um perfil de lúpulo distinto, macio e arredondado, mesmo com altas cargas de lúpulo.
+Água mole com baixo teor de sulfato e carbonato. Lúpulos tradicionais tchecos. Malte Pilsner tcheco. Levedura lager tcheca. Água com baixo teor de íons proporciona um perfil de lúpulo distintamente macio e arredondado, mesmo com altas cargas de lúpulo.
 
 ### Comparação de estilo
 
-Uma versão para o dia-a-dia, com corpo mais leve, menos intensa e refrescante de uma Czech Premium Pale Lager.
+Uma versão de uma Czech Premium Pale Lager para o dia a dia, com corpo mais leve, menos intensa e refrescante.
 
 ### Estatísticas
 
