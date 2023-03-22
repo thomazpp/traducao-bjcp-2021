@@ -1,3 +1,3 @@
 # 5. Pale Bitter European Beer
 
-Essa categoria descreve cervejas de origem alemã que são claras e são de equilibradas a amargas, com um caráter lupulado de moderado a moderadamente forte provenientes de lúpulos tradicionais alemães. Elas são geralmente de baixa fermentação ou são maturadas a frio por um longo período de tempo e são bem atenuadas, assim como a grande maioria das cervejas alemãs.
+Essa categoria descreve cervejas de origem alemã que são claras e são de equilibradas a amargas, com  intensidade de lúpulo de moderado a moderadamente forte proveniente de lúpulos tradicionais alemães. Elas geralmente são de baixa fermentação ou maturadas a frio por um longo período de tempo (lagered) para fornecer um perfil macio e são bem atenuadas, assim como a grande maioria das cervejas alemãs.

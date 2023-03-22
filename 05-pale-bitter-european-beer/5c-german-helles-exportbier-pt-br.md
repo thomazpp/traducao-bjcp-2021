@@ -2,7 +2,7 @@
 
 ### Impressão Geral
 
-Uma lager alemã dourada, que equilibra um perfil de malte suave e um caráter amargo lupulado, em uma cerveja de força e corpo levemente acima da média.
+Uma lager alemã dourada, que equilibra perfil de malte suave e caráter amargo e lupulado em uma cerveja de teor alcoólico e corpo levemente acima da média.
 
 ### Aparência
 
@@ -10,31 +10,31 @@ De amarelo médio a dourado profundo. Límpida. Colarinho branco persistente.
 
 ### Aroma
 
-Aroma de lúpulo floral, condimentado ou herbáceo de médio-baixo a médio. Aroma de malte de grãos-doce moderado, possivelmente com notas leves de tostado, pão ou massa de pão. Perfil de fermentação limpo. Lúpulo e malte são percebíveis e, geralmente, em equilíbrio.
+Aroma de lúpulo floral, condimentado e/ou herbal de médio-baixo a médio. Aroma de malte lembrando adocicado de cereais de intensidade moderada, possivelmente com notas leves de tostado, pão ou massa de pão. Perfil de fermentação limpo. Lúpulo e malte são perceptíveis e, geralmente, em equilíbrio.
 
 ### Sabor
 
-Malte e lúpulos moderados e equilibrados com amargor dando suporte. Sabores de malte e lúpulo similar ao aroma (com os mesmos descritores e intensidades). Amargor perceptível de média intensidade, cheia na boca, com um final médio-seco. Perfil limpo de fermentação. Retrogosto com malte e lúpulos, geralmente, em equilíbrio. Caráter mineral tipicamente é percebido, mais como um arredondamento, aumento de percepção de sabor e uma secura nítida no final, do que um sabor mineral evidente. Sulfato de fundo é opcional.
+Malte e lúpulo em intensidade moderada e equilibrados, amargor dando suporte. Sabores de malte e lúpulo similar ao aroma (com os mesmos descritores e intensidades). Amargor perceptível de média intensidade, cheia na boca, com final médio-seco. Perfil limpo de fermentação. Retrogosto com malte e lúpulos geralmente em equilíbrio. Caráter mineral é normalmente percebido mais como um arredondamento, aumento de percepção de sabor e uma secura nítida no final, do que como sabor mineral evidente. Sulfato de fundo é opcional.
 
 ### Sensação na Boca
 
-Corpo de médio e médio-cheio. Carbonatação média. Macia e suave na boca. Aquecimento alcoólico muito leve pode ser notado em versões mais fortes.
+Corpo de médio a médio-cheio. Carbonatação média. Macia e suave na boca. Aquecimento alcoólico muito leve pode ser percebido em versões mais fortes.
 
 ### Comentários
 
-Também conhecida como Dortmunder Export, Dortmunder, Export ou simplesmente Dort. Chamada de Export dentro da Alemanha e em outros lugares, frequentemente, de Dormunder, a palavra Export é também um descritor da potencia da cerveja, segundo a tradição cervejeira alemã e também pode ser aplicada a outros estilos. Divide diferenças entre uma German Pils e uma Munich Helles em vários aspectos: cor, equilibro entre lúpulo e malte, final e amargor.
+Também conhecida como Dortmunder Export, Dortmunder, Export ou simplesmente Dort. Chamada de Export dentro da Alemanha e em outros lugares, frequentemente, de Dormunder. A palavra Export é também um descritor da potencia da cerveja, segundo a tradição cervejeira alemã e também pode ser aplicada a outros estilos. Fica entre uma German Pils e uma Munich Helles em vários aspectos: cor, equilibro entre lúpulo e malte, final e amargor.
 
 ### História
 
-Desenvolvida em Dortmund, na região industrial de Ruhr, em meados de 1870, como resposta as cervejas claras tipo Pilsner. Se tornou muito popular depois da Segunda Guerra Mundial, mas perdeu popularidade em meados de 1970. Outras cervejas para exportação se desenvolveram independentemente e refletiam versões levemente mais fortes de cervejas existentes.
+Desenvolvida em Dortmund, na região industrial de Ruhr, em meados de 1870, como resposta as cervejas claras tipo Pilsner. Tornou-se muito popular depois da Segunda Guerra Mundial, mas perdeu popularidade em meados de 1970. Outras cervejas para exportação se desenvolveram independentemente e refletiam versões levemente mais fortes de cervejas existentes.
 
 ### Ingredientes
 
-Água mineral com altos níveis de sulfatos, carbonatos e cloretos. Lúpulos tradicionais alemães ou tchecos. Malte Pilsner. Levedura lager alemã.
+Água mineralizada com altos níveis de sulfatos, carbonatos e cloretos. Lúpulos tradicionais alemães ou tchecos. Malte Pilsner. Levedura lager alemã.
 
 ### Comparação de Estilo
 
-Menos lúpulos de finalização e mais corpo que uma German Pils. Mais amarga e saca que uma Munich Helles. Mais forte, seca e menos lupulada que uma Czech Premium Pale Lager.
+Menos lúpulos de finalização e mais corpo do que uma German Pils. Mais amarga e seca do que uma Munich Helles. Mais forte, seca e menos lupulada do que uma Czech Premium Pale Lager.
 
 ### Estatísticas
 

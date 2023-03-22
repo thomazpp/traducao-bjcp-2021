@@ -2,31 +2,31 @@
 
 ### Impressão Geral
 
-Uma lager alemã de cor dourada com um sabor maltado suave e com um final macio e seco. A sutil presença de lúpulo condimentado, floral ou de ervas e amargor contido ajuda a manter o equilibro maltado mas não doce, o que ajuda a fazer dessa cerveja uma bebida refrescante para o dia-a-dia
+Uma lager alemã de cor dourada com sabor maltado suave e com um final macio e seco. A sutil presença de lúpulo condimentado, floral e/ou herbal e amargor contido ajuda a manter o equilibro maltado, mas não doce, o que ajuda a fazer dessa cerveja uma bebida refrescante para o dia a dia
 
 ### Aparência
 
-De amarelo claro a dourado claro. Límpida. Colarinho branco, cremoso e persistente.
+Cor de amarelo claro a dourado claro. Límpida. Colarinho branco, cremoso e persistente.
 
 ### Aroma
 
-Aroma de malte como grãos-doce. Aroma de lúpulo condimentado, floral ou de ervas de baixo a moderadamente baixo. Agradável perfil de fermentação limpo com o malte dominando no equilíbrio. Os exemplares mais frescos vão ter mais aroma de maltado-doce.
+Aroma de malte como cereais adocicado. Aroma de lúpulo condimentado, floral e/ou de herbal de baixo a moderadamente baixo. Agradável perfil de fermentação limpa com o malte dominando no equilíbrio. Os exemplares mais frescos vão ter mais aroma de adocicado de malte.
 
 ### Sabor
 
-Início moderadamente maltado com uma sugestão de dulçor, sabor de malte moderado como grãos-doce com uma impressão macia e arredondada na boca, apoiada pelo amargor de baixo a médio-baixo. Final macio e seco, não é crisp e mordaz. Sabor de lúpulo condimentado, floral ou de ervas de baixo a moderadamente baixo. O malte domina o lúpulo na boca, final e no retrogosto, mas o lúpulo deve ser notável. Sem dulçor residual, somente a impressão de malte com amargor contido. Perfil de fermentação limpo.
+Início moderadamente maltado com uma sugestão de dulçor, sabor de malte de cereais adocicado moderado com uma impressão macia e arredondada na boca, apoiada pelo amargor de baixo a médio-baixo. Final macio e seco, não é crisp e cortante. Sabor de lúpulo condimentado, floral e/ou de herbal de baixo a moderadamente baixo. O malte domina o lúpulo na boca, no final e no retrogosto, porém o lúpulo deve ser perceptível. Sem dulçor residual, somente a impressão maltada com amargor contido. Perfil de fermentação limpo.
 
 ### Sensação na Boca
 
-Corpo médio. Carbonatação média. Caráter suave e com uma maturação a frio bem feita.
+Corpo médio. Carbonatação média. Perfíl suave de maturação a frio bem feita (lagering).
 
 ### Comentários
 
-Exemplares muito frescos podem ter um caráter de malte e lúpulo mais proeminente que desaparece com o tempo, como é frequentemente notado nas cervejas exportadas. A Helles em Munique tende a ser uma versão mais leve do que as de fora da cidade. Pode ser chamada de Helles Lagerbier.
+Exemplares muito frescos podem ter um característica de malte e lúpulo mais proeminente que desaparece com o tempo, como é frequentemente notado nas cervejas exportadas. A Helles em Munique tende a ser uma versão mais leve do que as de fora da cidade. Pode ser chamada de Helles Lagerbier.
 
 ### História
 
-Criada em Munique em 1894 para competir com cervejas clara tipo Pilsner, frequentemente sendo creditada pela primeira vez a Spaten. Mais popular no sul da Alemanha.
+Criada em Munique em 1894 para competir com cervejas clara do tipo Pilsner, geralmente sendo creditada pela primeira vez a Spaten. Mais popular no sul da Alemanha.
 
 ### Ingredientes
 
@@ -34,7 +34,7 @@ Malte Pilsner da Europa continental. Lúpulos tradicionais alemães. Levedura la
 
 ### Comparação de Estilo
 
-Com equilíbrio e amargor similar a Munich Dunkel, mas com uma natureza menos maltada-doce e de cor clara ao invés de ser escura e rica. Mais corpo e presença de malte que uma German Pils, mas menos crisp e com menos caráter de lúpulo. Perfil de malte similar a uma German Helles Exportbier mas com menos lúpulo no equilíbrio e levemente menos alcoólica. Menos corpo e álcool que uma Festbier
+Com equilíbrio e amargor similar a Munich Dunkel, mas com uma natureza menos adocicada de malte e de cor clara ao invés de ser escura e rica. Maior corpo e presença de malte do que uma German Pils, mas menos crisp e com menos caráter de lúpulo. Perfil de malte similar a de uma German Helles Exportbier, porém com menos lúpulo no equilíbrio e levemente menos alcoólica. Menos corpo e álcool do que uma Festbier
 
 ### Estatísticas
 
