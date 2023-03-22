@@ -2,19 +2,19 @@
 
 ### Impressão Geral
 
-Uma lager Alemã clara, altamente atenuada, de corpo mais leve e com menos teor alcoólico e calorias que outras cervejas de força padrão. Moderadamente amarga com sabores perceptíveis de malte e lúpulo e, ainda sim, é uma cerveja interessante de beber.
+Uma lager alemã clara, altamente atenuada, de corpo mais leve e com menos teor alcoólico e calorias que outras cervejas de teor alcoólico padrão. Moderadamente amarga com sabores perceptíveis de malte e lúpulo e, ainda sim, é uma cerveja interessante de beber.
 
 ### Aparência
 
-Cor de palha claro a amarelo profundo. Limpidez brilhante. Colarinho branco moderado com persistência de média a média baixa.
+Cor de palha claro a amarelo profundo. Limpidez brilhante. Colarinho branco moderado com persistência de média-baixa a média.
 
 ### Aroma
 
-Aroma de lúpulo de baixo a médio com caráter condimentado, de ervas ou fl;oral. Aroma de malte de baixo a médio-baixo como grão doce ou um pouco como crackers. Perfil de fermentação limpo.
+Aroma de lúpulo de baixo a médio com caráter condimentado, de herbal e/ou foral. Aroma de malte de baixo a médio-baixo lembrado adocicado de cereais ou um pouco como crackers. Perfil de fermentação limpo.
 
 ### Sabor
 
-Sabor de malte inicial de baixo a médio como grão doce. Amargor de lúpulo médio. Sabor de lúpulo de baixo a médio com característica condimentada, de erva ou floral. Caráter de fermentação limpo, com uma maturação a frio bem feita. Final seco com um retrogosto levemente maltado e lupulado.
+Sabor de malte inicial de baixo a médio, adocicado de cereais. Amargor de lúpulo médio. Sabor de lúpulo de baixo a médio com característica condimentada, herbal e/ou floral. Caráter de fermentação limpo, com maturação a frio bem feita. Final seco com um retrogosto levemente maltado e lupulado.
 
 ### Sensação na Boca
 
@@ -22,15 +22,15 @@ Corpo de leve a muito leve. Carbonatação de média a alta. Suave, bem atenuada
 
 ### Comentários
 
-Anunciada primariamente como uma cerveja orientada para dietas com baixo teor de carboidratos, álcool e calorias. Pronuncia-se “LAIXT-bier.” Também ser conhecida como Diat Pils ou Helles, esse estilo está na classe de densidade *schankbier*. Outras variações de cervejas de classe *Leicht* (leve) podem ser feitas como Weissbier, Kölsch e Altbier; essas cervejas se enquadram melhor em 34B Mixed-Style Beer.
+Comercializada primariamente como uma cerveja para dietas, com teor de carboidratos, álcool e calorias mais baixos. Pronuncia-se “LAIXT-beer.” Pode ser conhecida também como Diat Pils ou Helles, esse estilo está na classe de densidade _schankbier_. Outras variações de cervejas da classe _Leicht_ (leve) podem ser feitas com Weissbier, Kölsch e Altbier; essas cervejas se enquadram melhor em 34B Mixed-Style Beer.
 
 ### História
 
-Existiram versões tradicionais, como bebidas para trabalhadores braçais em fábricas ou nos campos, mas as versões modernas são baseadas em produtos populares americanos da mesma classe e direcionados para consumidores preocupados com saúde ou bem estar. Cada vez mais sendo substituída no mercado atual por cervejas não-alcoólicas e *radlers*.
+Existiam versões tradicionais que eram bebidas para trabalhadores braçais em fábricas ou nos campos, mas as versões modernas são baseadas em produtos populares norte americanos da mesma classe e direcionados para consumidores fitness preocupados com saúde ou bem estar. Vem cada vez mais sendo substituída no mercado atual por cervejas não-alcoólicas e _radlers_.
 
 ### Ingredientes
 
-Malte Pils continental. Levedura lager Alemã. Lúpulos tradicionais alemães.
+Malte Pils continental. Levedura lager alemã. Lúpulos tradicionais alemães.
 
 ### Comparação de Estilo
 
