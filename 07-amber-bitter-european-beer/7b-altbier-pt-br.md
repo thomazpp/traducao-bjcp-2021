@@ -1,20 +1,21 @@
 ## 7B. Altbier
+Uma cerveja de Düsseldorf, de alta fermentação e acondicionada a frio que tem um paladar mais limpo e suave do que é típico na maioria das ales. “Alt” refere-se ao estilo “antigo” de fabricação de cerveja (usando levedura de alta fermentação) que era comum antes da lager de baixa fermentação se tornar popular.
 
 ### Impressão Geral
 
-Uma cerveja amarga, de cor moderada, bem atenuada e com uma riqueza de malte equilibrando o forte amargor. Caráter leve e condimentado de lúpulo complementa o malte. Uma cerveja seca, com um corpo firme e suave na boca.
+Uma cerveja amarga, de cor moderada, bem atenuada e com uma riqueza de malte equilibrando o forte amargor. Caráter leve e condimentado de lúpulo complementa o malte. Uma cerveja seca, com corpo firme e suave na boca.
 
 ### Aparência
 
-A cor varia de âmbar a cobre profundo, parando um pouco antes do marrom; laranja bronzeado é a mais comum. Limpidez brilhante. Colarinho espesso, quase branco, cremoso e duradouro.
+A cor varia de âmbar a cobre profundo, parando um pouco antes do marrom; bronze alaranjado é mais comum. Limpidez brilhante. Colarinho espesso, quase branco, cremoso e duradouro.
 
 ### Aroma
 
-Maltada e rica com características lembrando grãos tipo pão assado ou amendoado e tostado como casca de pão. Não deve ter notas torradas escuras ou de chocolate. A intensidade do malte é de moderada a moderadamente alta. Lúpulos de moderado a baixo complementam, mas não dominam o malte e muitas vezes têm um caráter condimentado, apimentado ou floral. Caráter de fermentação é muito limpo. Ésteres de baixo a médio-baixo são opcionais.
+Maltado e rico com característica de cereais lembrando pão assado e/ou de nozes e tostado como casca de pão. Não deve ter notas torradas mais escuras ou de chocolate. A intensidade do malte é de moderada a moderadamente alta. Lúpulo de moderado a baixo complementa, mas não domina o malte e muitas vezes têm um caráter condimentado, apimentado e/ou floral. Caráter de fermentação é muito limpo. Ésteres de baixo a médio-baixo são opcionais.
 
 ### Sabor
 
-Perfil de malte similar ao aroma com um amargor de lúpulo assertivo, de médio a alto, equilibrando os sabores maltados ricos. O final da cerveja é de médio-seco a seco com um retrogosto como grãos, amargo e maltado rico. O final é duradouro, as vezes com uma impressão amendoada ou agridoce. O nível de amargor aparente as vezes é mascarado pelo caráter de malte se a cerveja não for muito seca, mas o amargor tende a crescer junto com a riqueza de malte para manter o equilíbrio. Sem torrado. Sem aspereza. Perfil limpo de fermentação. Ésteres frutados de baixa intensidade, especialmente frutas escuras, pode estar presente. Sabor de lúpulo condimentado, apimentado ou floral de médio a baixo. Leve caráter mineral é opcional.
+Perfil de malte similar ao aroma, com amargor de lúpulo assertivo de médio a alto, equilibrando os sabores maltados ricos. O final da cerveja é de médio-seco a seco com retrogosto como cereais, amargo e maltado rico. O final é duradouro, as vezes com uma impressão amendoada ou agridoce. O nível de amargor aparente as vezes é mascarado pelo caráter de malte se a cerveja não for muito seca, mas o amargor tende a crescer junto com a riqueza de malte para manter o equilíbrio. Sem torrado. Sem aspereza. Perfil limpo de fermentação. Ésteres frutados leves, especialmente frutas escuras, podem estar presente. Lúpulo condimentado, apimentado e/ou floral de baixa a média intensidade. Leve caráter mineral é opcional.
 
 ### Sensação na Boca
 
@@ -30,11 +31,11 @@ Desenvolvida em Düsseldorf no final do século XIX para usar técnicas de produ
 
 ### Ingredientes
 
-Os grãos variam, mas geralmente consistem de maltes base alemães (geralmente Pils, às vezes Munich) com pequenas quantidades de maltes Crystal, chocolate ou black. Pode ter trigo, inclusive trigo torrado. Lúpulo Spalt é tradicional mas outros lúpulos tradicionais alemães ou tchecos podem ser usados. Levedura ale limpa com alta atenuação. Fermentada a temperaturas de ale, em seu limite inferior, e depois acondicionada a frio.
+O perfil dos maltes varia, mas geralmente consiste de maltes base alemães (geralmente Pils, às vezes Munich) com pequenas quantidades de maltes crystal, chocolate e/ou black. Pode ter trigo, inclusive trigo torrado. Lúpulo Spalt é tradicional, mas outros lúpulos tradicionais alemães ou tchecos podem ser usados. Levedura ale limpa com alta atenuação. Fermentada a temperaturas de ale em seu limite inferior e depois acondicionada a frio.
 
 ### Comparação de Estilo
 
-Mais amarga e maltada que a International Amber Lagers. Um tanto similar a California Common tanto em técnica de produção quanto em sabor e cor final, no entanto não em ingredientes. Menos álcool, menos riqueza maltada e mais amarga que uma Dunkles Bock. Mais seca, mais rica e mais amarga que uma Vienna Lager.
+Mais amarga e maltada do que a International Amber Lagers. Um tanto similar a California Common tanto em técnica de produção quanto em sabor e cor final, no entanto não em ingredientes. Menor teor alcoólico, menor riqueza maltada e mais amargor que uma Dunkles Bock. Mais seca, mais rica e mais amarga do que uma Vienna Lager.
 
 ### Estatísticas
 
