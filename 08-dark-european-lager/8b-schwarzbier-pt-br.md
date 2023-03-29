@@ -2,27 +2,27 @@
 
 ### Impressão Geral
 
-Uma lager alemã escura que equilibra sabores de malte torrados, mas, ainda assim, suave, com um amargor de lúpulo moderado. O corpo mais leve, secura e a ausência de aspereza, de queimado ou de um retrogosto pesado ajudam a fazer essa cerveja ser bem fácil de beber.
+Uma lager alemã escura que equilibra sabores de malte torrados, mas ainda assim suave, com amargor de lúpulo moderado. O corpo mais leve, a secura e a ausência de retrogosto áspero, queimado ou pesado ajudam a fazer essa cerveja ser bem fácil de beber.
 
 ### Aparência
 
-De cor marrom médio a muito escuro, muitas vezes com reflexos de rubi profundo a granada (vermelhor escuro), ainda sim, praticamente nunca é verdadeiramente preta. Muito límpida. Colarinho largo, persistente e de cor castanho claro.
+De cor marrom médio a muito escuro, muitas vezes com reflexos de rubi profundo a granada, ainda sim, praticamente nunca é completamente preta. Muito límpida. Colarinho alto, persistente e de cor castanho claro.
 
 ### Aroma
 
-Aroma de malte de baixo a moderado, com baixo dulçor maltado e muitas vezes notas de malte torrado aparentes. O malte pode ser limpo e neutro ou moderadamente rico e notas de pão e pode ter um toque de caramelo escuro. O cartáter de torrado pode ser um pouco como chocolate amargo ou como café, mas não deve nunca ser queimado. Aroma de lúpulo condimentado, floral ou como ervas moderadamente baixo é opcional. Caráter limpo de levedura lager.
+Aroma de malte de baixo a moderado, com baixo dulçor maltado e muitas vezes notas de malte torrado aparentes. O malte pode ser limpo e neutro ou moderadamente rico e com notas de pão, e pode ter um toque de caramelo escuro. O cartáter de torrado pode ser um pouco como chocolate amargo ou como café, mas não deve nunca ser queimado. Aroma de lúpulo condimentado, floral e/ou herbal moderadamente baixo é opcional. Caráter limpo de levedura lager.
 
 ### Sabor
 
-Sabor de malte de leve a moderado, podendo ter de um caráter neutro e limpo até moderado com uma qualidade maltada tipo de pão. Sabores de malte torrado de leve a moderado podem dar um sabor de chocolate amargo que nunca tem sabor queimado. Amargor de médio baixo a médio. Sabor de lúpulo de leve a moderado condimentado, floral ou de ervas. Caráter limpo de lager. Final seco. Algum dulçor residual é aceitável, mas não é tradicional. Em segundo plano, sutil retrogosto amargo de lúpulo com um torrado complementar de fundo.
+Sabor de malte de leve a moderado, podendo apresentar caráter de neutro e limpo até moderado com uma qualidade maltada lembrando pão. Sabor de malte torrado de leve a moderado pode trazer sabor de chocolate amargo que nunca tem sabor queimado. Amargor de médio baixo a médio. Sabor de lúpulo de leve a moderado com caráter condimentado, floral e/ou herbal. Perfil limpo de lager. Final seco. Algum dulçor residual é aceitável, mas não é tradicional. Em segundo plano, sutil retrogosto de amargor de lúpulo com torrado complementar de fundo.
 
 ### Sensação na Boca
 
-Corpo de médio-leve a médio. Carbonatação de moderata a moderadamente alta. Suave. Sem aspereza ou adstringência, mesmo com o uso de maltes torrados escuros.
+Corpo de médio-leve a médio. Carbonatação de moderada a moderadamente alta. Suave. Sem aspereza ou adstringência, mesmo com o uso de maltes torrados escuros.
 
 ### Comentários
 
-Em Alemão, significa literalmente cerveja preta. Embora às vezes chamada de uma "Pils preta", a cerveja raramente é tão escura como preto ou tão inclinada para o lúpulo e amarga como uma Pils. Torrado muito forte e sabores como os de uma Porter são uma falha.
+Em Alemão, significa literalmente cerveja preta. Embora às vezes seja chamada de "Pils preta", a cerveja raramente é tão escura como preto ou tão inclinada para o lúpulo e amarga como uma Pils. Sabores torrados intensos como os de uma Porter são uma falha.
 
 ### História
 
@@ -34,7 +34,7 @@ Malte munique alemão e malte Pilsner para a base, com maltes torrados escuros s
 
 ### Comparação de Estilo
 
-Em comparação com uma Munich Dunkel, geralmente tem a cor mais escura, é mais seca, corpo mais leve e com uma perceptível (mas não alta) nota de malte torrado para equilibrar o malte base. Não deve ser como uma American Porter feita com levedura lager. Mais seca, menos maltada e com menos caráter de lúpulo que uma Czech Dark Lager.
+Em comparação com uma Munich Dunkel, geralmente tem a cor mais escura, é mais seca, apresenta corpo mais leve e perceptível (mas não alta) nota de malte torrado para equilibrar o malte base. Não deve ter o sabor de uma American Porter feita com levedura lager. Mais seca, menos maltada e com menos caráter de lúpulo que uma Czech Dark Lager.
 
 ### Estatísticas
 
