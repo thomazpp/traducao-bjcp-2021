@@ -2,23 +2,22 @@
 
 ### Impressão Geral
 
-Uma lager alemã escura, forte, encorpada, rica e maltada, frequentemente com uma qualidade viscosa e sabores fortes. Mesmo que os sabores sejam concentrados, o álcool deve ser suave com leve aquecimento, sem provocar sensação de aquecimento excessivo.
-
+Uma lager alemã escura, forte, encorpada, rica e maltada, frequentemente com uma qualidade viscosa e sabores intensos. Mesmo que os sabores sejam concentrados, o álcool deve ser suave com leve aquecimento, não quente.
 ### Aparência
 
 Coloração de cobre profundo a marrom escuro, muitas vezes com atraentes reflexos rubi. Boa limpidez. A retenção da espuma pode ser de moderada a baixa. Colarinho de cor quase branca a marfim profundo. Lágrimas pronunciadas nas laterais do copo são frequentemente evidentes.
 
 ### Aroma
 
-Dominado por um malte intenso e rico e pela presença marcante de álcool. O malte pode ter caráter de pão, tostado, com algum caramelo ou notas de chocolate, frequentemente com notas de frutas escuras como ameixas ou uvas. Sem aroma de lúpulo. O aroma de álcool não deve ser áspero ou solvente. Perfil de fermentação limpo.
+Dominado por malte intenso e rico e pela presença marcante de álcool. O malte pode ter caráter de pão, tostado, com algum caramelo ou leves notas de chocolate, frequentemente com notas de frutas escuras como ameixas ou uvas. Sem aroma de lúpulo. O aroma de álcool não deve ser áspero ou solvente. Perfil de fermentação limpo.
 
 ### Sabor
 
-Malte rico e doce equilibrado por uma presença significativa de álcool. O malte pode ter produtos de Maillard, qualidades tostadas, um pouco de caramelo e, ocasionalmente, um leve sabor de chocolate. Pode ter uma quantidade considerável de esteres de frutas escuras derivados do malte. O amargor do lúpulo compensa o dulçor do malte o suficiente para evitar um caráter enjoativo. Sem sabor de lúpulo. O álcool ajuda a equilibrar a forte presença do malte. O final deve ser rico em malte com certa secura do álcool. Não deve possuir caráter de xarope, viscosidade ou dulçor enjoativo. Perfil de fermentação limpo.
+Malte rico e doce, equilibrado por uma presença significativa de álcool. O malte pode ter produtos de Maillard, qualidades tostadas, um pouco de caramelo e, ocasionalmente, um leve sabor de chocolate. Pode apresentar uma quantidade considerável de esteres de frutas escuras derivados do malte. O amargor do lúpulo compensa o dulçor do malte o suficiente para evitar um caráter enjoativo. Sem sabor de lúpulo. O álcool ajuda a equilibrar a forte presença do malte. O final deve ser rico em malte com certa secura do álcool. Não deve possuir caráter de xarope, viscosidade ou dulçor enjoativo. Perfil de fermentação limpo.
 
 ### Sensação na Boca
 
-Corpo de cheio a muito cheio. Baixa carbonatação. Aquecimento alcoólico significativo sem ser acentuado. Muito macia e sedosa, sem aspereza de álcool, amargor, álcool superior ou outros sabores concentrados.
+Corpo de cheio a muito cheio. Baixa carbonatação. Aquecimento alcoólico significativo sem queimar. Muito macia e sedosa, sem aspereza de álcool, amargor, álcool superior ou outros sabores concentrados.
 
 ### Comentários
 
@@ -34,7 +33,7 @@ Os mesmos utilizados na Doppelbock. Produzida pelo congelamento de uma cerveja t
 
 ### Comparação de Estilos
 
-As Eisbocks não são simplesmente Doppelbocks mais fortes; o nome refere-se ao processo de congelamento e concentração da cerveja, não sendo uma declaração relativa ao álcool; algumas Doppelbocks são mais fortes que algumas Eisbocks. Não é tão espessa, rica ou doce quanto uma Wheatwine.
+As Eisbocks não são simplesmente Doppelbocks mais fortes; o nome se refere ao processo de congelamento e concentração da cerveja, não sendo uma declaração relativa ao álcool; algumas Doppelbocks são mais fortes que algumas Eisbocks. Não é tão espessa, rica ou doce quanto uma Wheatwine.
 
 ### Características Vitais
 
