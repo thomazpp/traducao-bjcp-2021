@@ -2,7 +2,7 @@
 
 ### Impressão geral
 
-Uma cerveja amarga britânica de força de média a moderadamente forte. O equilíbrio pode variar entre bastante uniforme entre malte e lúpulo a um pouco amargo. A facilidade em beber é um componente crítico do estilo. Um estilo bastante amplo que permite uma interpretação considerável pelo cervejeiro.
+Uma cerveja britânica amarga de força de média a moderadamente forte. O equilíbrio pode variar e possuir igualdade na intensidade do malte e lúpulo ou ser um pouco amargo. A facilidade em beber é um componente crítico do estilo. Um estilo bastante amplo que permite uma interpretação considerável pelo cervejeiro.
 
 ### Aparência
 
@@ -10,11 +10,11 @@ Cor de âmbar claro a cobre profundo. Limpidez de boa a brilhante. Colarinho de 
 
 ### Aroma
 
-Aroma de lúpulo de moderadamente baixo a moderadamente alto, tipicamente com um caráter floral, terroso, resinoso ou frutado. Aroma de malte de médio a médio-alto, opcionalmente com um componente de caramelo de baixo a moderado. Ésteres frutados de médio-baixo a médio-alto. Geralmente sem diacetil, embora níveis muito baixos sejam permitidos.
+Aroma de lúpulo de moderadamente baixo a moderadamente alto, normalmente com caráter floral, terroso, resinoso ou frutado. Aroma de malte de médio a médio-alto, opcionalmente com um componente de caramelo de baixo a moderado. Ésteres frutados de médio-baixo a médio-alto. Geralmente sem diacetil, embora níveis muito baixos sejam permitidos.
 
 ### Sabor
 
-Amargor de médio a médio-alto com suporte evidente do malte. O perfil de malte é tipicamente de pão, biscoito, nozes ou levemente tostado e, opcionalmente, tem um sabor de caramelo ou toffee de moderadamente baixo a moderado. Sabor de lúpulo de moderado a moderadamente alto, tipicamente com caráter floral, terroso, resinoso ou frutado. O amargor e o sabor do lúpulo devem ser perceptíveis, mas não devem dominar totalmente os sabores do malte. Ésteres frutados de moderadamente baixos a altos. Opcionalmente pode ter baixas quantidades de álcool. Final de meio seco a seco. Geralmente sem diacetil, embora níveis muito baixos sejam permitidos.
+Amargor de médio a médio-alto com sabor do malte evidente e em caráter de suporte. O perfil de malte é tipicamente de pão, biscoito, nozes ou leve tosta, opcionalmente, tem um sabor de caramelo ou toffee de moderadamente baixo a moderado. Sabor de lúpulo de moderado a moderadamente alto, tipicamente com caráter floral, terroso, resinoso ou frutado. O amargor e o sabor do lúpulo devem ser perceptíveis, mas não devem dominar totalmente os sabores do malte. Ésteres frutados de moderadamente baixos a altos. Opcionalmente pode ter baixas quantidades de álcool. Final de meio seco a seco. Geralmente sem diacetil, embora níveis muito baixos sejam permitidos.
 
 ### Sensação na Boca
 
@@ -26,15 +26,15 @@ Na Inglaterra hoje, “ESB” é uma marca registrada da Fullers, e ninguém pen
 
 ### História
 
-Veja os comentários na introdução da categoria. Strong bitters podem ser vistas como uma versão de maior gravidade das best bitters (embora não necessariamente “mais premium”, já que as best bitters são tradicionalmente o melhor produto das cervejeiras). As British pale ales são geralmente consideradas uma cerveja premium, pálida e amarga com teor alcoólico tipo exportação que se aproxima grosseiramente das strong bitters, embora reformulada para o engarrafamento (incluindo maiores níveis de carbonatação). Enquanto a pale ale britânica moderna é considerada uma bitter engarrafada, historicamente os estilos eram diferentes.
+Veja os comentários na introdução da categoria. Strong bitters podem ser vistas como uma versão de maior densidade das best bitters (embora não necessariamente “mais premium”, já que as best bitters são tradicionalmente o melhor produto das cervejeiras). As British pale ales são geralmente consideradas uma cerveja premium, pálida e amarga com teor alcoólico tipo exportação que se aproxima grosseiramente das strong bitters, embora reformulada para o engarrafamento (incluindo maiores níveis de carbonatação). Enquanto a pale ale britânica moderna é considerada uma bitter engarrafada, historicamente os estilos eram diferentes.
 
 ### Ingredientes
 
-Maltes pale ale, amber ou crystal, pode ser usado um toque de malte black para ajuste de cor. Pode usar adjuntos como açúcar, milho ou trigo. Lúpulos de finalização ingleses são os mais tradicionais, mas qualquer lúpulo é um jogo justo; se forem usados ​​lúpulos americanos, é necessário um leve toque. Levedura britânica com caráter presente. As versões de Burton usam água com níveis de sulfato de médio a alto, o que pode aumentar a percepção de secura e adicionar um aroma e sabor mineral ou sulfuroso.
+Maltes pale ale, amber ou crystal, pode ser usado um toque de malte black para ajuste de cor. Pode usar adjuntos como açúcar, milho ou trigo. Lúpulos de finalização ingleses são os mais tradicionais, mas qualquer lúpulo é aceitável; se forem usados ​​lúpulos americanos, é necessário um leve toque. Levedura britânica com caráter presente. As versões de Burton usam água com níveis de sulfato de médio a alto, o que pode aumentar a percepção de secura e adicionar um aroma e sabor mineral ou sulfuroso.
 
 ### Comparação de estilos
 
-Sabores de malte e lúpulo mais evidentes do que special ou best bitter, assim como mais álcool. Versões mais fortes podem se sobrepor um pouco com as British Strong Ales, embora as Strong Bitters tendam a ser mais claras e mais amargas. Mais sabor de malte (principalmente caramelo) e ésteres do que uma American Pale Ale, com caráter de lúpulo de finalização diferente.
+Sabores de malte e lúpulo mais evidentes do que special ou best bitter, assim como mais álcool. Versões mais fortes podem se sobrepor um pouco com as British Strong Ales, embora as Strong Bitters costumem ser mais claras e mais amargas. Mais sabor de malte (principalmente caramelo) e ésteres do que uma American Pale Ale, com caráter de lúpulo de finalização diferente.
 
 ### Estatísticas
 
