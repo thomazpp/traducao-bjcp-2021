@@ -2,27 +2,27 @@
 
 ### Impressão geral
 
-Uma cerveja session saborosa, mas ainda refrescante. Alguns exemplos podem ser mais equilibrados para malte, mas isso não deve substituir a impressão geral de amargor. A facilidade em beber é um componente crítico do estilo.
+Uma cerveja *"session"* saborosa e refrescante. Alguns exemplos podem ser mais voltados para o malte, mas isso não deve substituir a impressão de amargor. A facilidade em beber é um componente crítico do estilo.
 
 ### Aparência
 
-Cor de âmbar claro a cobre médio. Limpidez de boa a brilhante. Colarinho de branco a quase branco de baixo a moderado. Pode ter muito pouco colarinho devido à baixa carbonatação.
+Cor de âmbar claro a cobre médio. Limpidez de boa a brilhante. Colarinho de branco a quase branco de intensidade baixa a moderada. Pode ter muito pouco colarinho devido à baixa carbonatação.
 
 ### Aroma
 
-Aroma de malte de baixo a moderado, muitas vezes (mas nem sempre) com uma qualidade de caramelo baixa a média-baixa. A complexidade de malte em forma de pão, biscoito ou levemente tostado é comum. Frutado de leve a moderado. O aroma de lúpulo pode variar de moderado a nenhum, tipicamente com um caráter floral, terroso, resinoso ou frutado. Geralmente sem diacetil, embora níveis muito baixos sejam permitidos.
+Aroma de malte de baixo a moderado, frequentemente (mas não sempre) com um caráter de caramelo de intensidade baixa a média-baixa. Complexidade de malte com perfil de pão, biscoito ou leve tosta é comum. Frutado de leve a moderado. O aroma de lúpulo pode variar de nenhum a moderado, normalmente com um caráter floral, terroso, resinoso ou frutado. Geralmente sem diacetil, embora níveis muito baixos sejam permitidos.
 
 ### Sabor
 
-Amargor de médio a moderadamente alto. Ésteres frutados de moderadamente baixos a moderadamente altos. Sabor de lúpulo de baixo a moderado, tipicamente com caráter terroso, resinoso, frutado ou floral. Maltosidade de baixa a média com final seco. O perfil de malte é tipicamente de pão, biscoito ou levemente tostado. Sabores de caramelo ou toffee de baixo a moderado são opcionais. O equilíbrio é muitas vezes decididamente amargo, embora o amargor não deva dominar completamente o sabor do malte, ésteres e lúpulo. Geralmente sem diacetil, embora níveis muito baixos sejam permitidos.
+Amargor de médio a moderadamente alto. Ésteres frutados de moderadamente baixos a moderadamente altos. Sabor de lúpulo de baixo a moderado, normalmente com caráter terroso, resinoso, frutado ou floral. Caráter de malte de intensidade baixa a média com final seco. O perfil de malte é tipicamente de pão, biscoito ou levemente tostado. Sabores de caramelo ou toffee de baixo a moderado são opcionais. O equilíbrio é frequentemente voltado para um amargor notável, embora este não deva se sobrepor completamente ao sabor do malte, ésteres e lúpulo. Geralmente sem diacetil, embora níveis muito baixos sejam permitidos.
 
 ### Sensação na Boca
 
-Corpo de médio-leve a médio. Carbonatação baixa, embora exemplos engarrafados possam ter carbonatação moderada.
+Corpo de médio-leve a médio. Carbonatação baixa, embora exemplos engarrafados possam apresentar carbonatação moderada.
 
 ### Comentários
 
-Sabor de malte mais evidente do que em uma ordinary bitter; esta é uma session ale mais forte.
+Sabor de malte mais evidente do que em uma ordinary bitter; esta é uma *session ale* mais forte.
 
 ### História
 
@@ -30,11 +30,11 @@ Veja os comentários na introdução da categoria.
 
 ### Ingredientes
 
-Maltes pale ale, amber ou crystal. A maioria contém açúcar. Pode usar um toque de caramelo ou malte escuro para ajuste de cor. Pode usar milho ou trigo. Lúpulos de finalização ingleses são os mais tradicionais, mas qualquer lúpulo é um jogo justo; se forem usados ​​lúpulos americanos, é necessário um leve toque. Levedura britânica com caráter presente.
+Maltes pale ale, amber ou crystal. A maioria contém açúcar. Pode usar um toque de caramelo ou malte escuro para ajuste de cor. Pode usar milho ou trigo. Lúpulos ingleses de adição tardia são os mais tradicionais, mas qualquer variedade de lúpulo pode ser utilizada; Caso sejam utilizados lúpulos americanos, é necessário moderação. Levedura inglesa com caráter presente.
 
 ### Comparação de estilos
 
-Mais álcool do que uma ordinary bitter, e muitas vezes usando ingredientes de qualidade mais alta. Menos álcool do que uma strong bitter. Mais caráter e cor de caramelo ou malte base do que uma British Golden Ale. A ênfase está na adição de lúpulo de amargor, em oposição ao agressivo lúpulo de adição tardia visto nas ales americanas.
+Mais álcool do que uma ordinary bitter, muitas vezes utilizando ingredientes de maior qualidade. Menos álcool do que uma strong bitter. Mais caráter de malte caramelo ou malte base e cor do que uma British Golden Ale. A ênfase está na adição de lúpulo de amargor, ao contrário das adições agressivas advindas dos lúpulos de adição tardia visto nas ales americanas.
 
 ### Estatísticas
 
